@@ -1,0 +1,305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="742D498005B1BBFB9361DA572D57357289B45935EC07F3516A0551A47BFA29F3B019FEBE1C599D00FCD1B3902B5FBE37C08AA034D028BD650D82998BD9402DA6" Timestamp="1D4EBECA543A3BB" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="JavaScript Library" Name="http://www.ni.com/JavaScriptLibrary" OldestCompatibleVersion="6.4.0.49152" Version="6.4.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="6.2.0.49154" Version="6.2.0.49154" />
+		<ApplicationVersionInfo Build="6.4.0.49504" Name="LabVIEW NXG" Version="3.1.0" />
+	</SourceModelFeatureSet>
+	<JavaScriptLibrary Id="2db45a1566b3484399b247934b3ff79e" xmlns="http://www.ni.com/JavaScriptLibrary">
+		<Icon Id="474dee8c07ae4cbfb99f54730bd3e6e9" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Height="[float]40" Id="42b30561ee4d4fa2948e598e8d9fa631" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="8f75f8dca3d44d85a7c62b0227d39006" Left="[float]0" TemplateName="[string]Banner" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+					<Path Data="[PathGeometry]M 0,11 L 0,2 C 0,0.899999976 0.899999976,0 2,0 L 2,11 L 0,11 Z" Fill="[SMSolidColorBrush]#ff93b7e3" Height="[float]11" HorizontalAlignment="[HorizontalAlignment]Left" Id="616d7c1493034e55b0456e939a59d7b2" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]2" />
+					<Rectangle Fill="[SMSolidColorBrush]#ff93b7e3" Height="[float]11" Id="be8cd948ca764848b966722ad101f317" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]4,2,4,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]NaN" />
+					<Path Data="[PathGeometry]M 2,11 L 2,2 C 2,0.899999976 1.10000002,0 0,0 L 0,11 L 2,11 Z" Fill="[SMSolidColorBrush]#ff93b7e3" Height="[float]11" HorizontalAlignment="[HorizontalAlignment]Right" Id="f10521106e684f0cb70942ae1b9067cb" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]2" />
+				</IconTemplate>
+				<Text Id="73828d7c0f5a4d6186257b621a14009a" Left="[float]4" Text="[string]Cust. Ctrl" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]3" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]32">
+					<FontSetting FontFamily="Verdana" FontSize="5" Id="3e75d08156804283a44df15d7b605207" />
+				</Text>
+			</IconPanel>
+		</Icon>
+		<DependenciesTextBox Id="2cfa4b6f112b4c4d916ab0ad8e741359" ScriptAndLinkDependencies="&quot;&amp;lt;link href=&amp;quot;CustomInputControl.css&amp;quot; rel=&amp;quot;stylesheet&amp;quot;&amp;gt;\r\n&amp;lt;script src=&amp;quot;CustomInputControl.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;&quot;" />
+	</JavaScriptLibrary>
+	<EnvoyManagerFile Id="62953fd8dd274e99acaa77580a87c250" xmlns="http://www.ni.com/PlatformFramework">
+		<ProjectSettings Id="973cc87ab374c62939f4b8a630dd646" ModelDefinitionType="ProjectSettings" Name="ZProjectSettings" />
+		<NameScopingEnvoy AutomaticallyResolveUp="True" Id="3c16820a98b644438babf6f6361cabdf" Name="CustomInputControl.jsli" NameTracksFileName="True">
+			<EmbeddedDefinitionReference Id="8a9b7e317515442991490606d8660c14" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="CreateAndListenForChange">
+				<JavaScriptLibraryEntryPoint Id="18c38f22781a42fbae87ae3f1bee6673" Symbol="customInputControl.createAndListenForChange" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="41d12c397074490794c6ed6b9f041f39" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="31a65aa398dd42e6b50124e6b30acd4f" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="fd4d2e23d028446481e44d068f2b8315" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="b8de3bdc40b64e6ab352647844ea668e" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="53c4888f185140cc82b6ea8691667705" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="8b76394d5692438b898301a733a514de" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]CreateAndListenForChange" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="29769356500a40f18b1c4d3166e1a4d7" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="70af506027d94dd28f69a5ef7a0a7179" ListViewHeight="115" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal />
+						<ConnectorPaneTerminal Hotspot="0 15" ListViewHotspot="0 80" Parameter="4ffe382d07b24558986225fd5ec71bb4" />
+						<ConnectorPaneTerminal Hotspot="0 25" ListViewHotspot="0 95" Parameter="5187c185435b4b4a838a9d56402b0cb3" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="a9da7bf92e8f46e99503079aaab9c17d" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" ListViewHotspot="150 65" Parameter="76070403b4d34308961bdd95c7c6ba39" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="7a87d41e20e94e9199acd38431f2cbab" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="a9da7bf92e8f46e99503079aaab9c17d" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="7a87d41e20e94e9199acd38431f2cbab" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="3333546552574c8e84d8b90c486c1499" IsReturnParameter="True" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="2804d60a067c435984d9451c0ce305e1" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="76070403b4d34308961bdd95c7c6ba39" Name="refnum" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="47e1f0a30b714372b310415494d8317e" Name="selector">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="78d8eca69b7140389d369ebb0f4fc9e1" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="4ffe382d07b24558986225fd5ec71bb4" Name="selector" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="514cf0b0aa884ca48f3fb414527d5570" Name="attributesJSON">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="6dea9e64f914494a6dc5af93090c041" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="5187c185435b4b4a838a9d56402b0cb3" Name="attributesJSON" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+			<EmbeddedDefinitionReference Id="49b20bf48158417fbf72292560326e1c" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="WaitForChange">
+				<JavaScriptLibraryEntryPoint Id="83bda435729c4fafb2d1d1ee2296b9b1" Symbol="customInputControl.waitForChange" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="2ee8f1e82b8f4634b3cf40c35c06ee63" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="b058148b5177446f9e5ca43b41f857aa" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="ca6d3d308d2e4bfaa40cf66ec86e49e2" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="33357079c4e14c5ca216509794f49ab2" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="9eb6ab44707547e28938a6df3f1a1ee5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="a1ef4336c50f4ba38ed68607d8e775e7" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]WaitForChange" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="7cb4037629fe41809a6ddb276ec68ed9" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="afaf26c6abf449f69901a90d4a1b888a" ListViewHeight="100" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal />
+						<ConnectorPaneTerminal Hotspot="0 15" ListViewHotspot="0 80" Parameter="d339a364c5174029a14edd62f5d561dc" />
+						<ConnectorPaneTerminal Hotspot="0 25" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="4ccd5b188bbb4389ae1f33164b8cdc4c" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" ListViewHotspot="150 65" Parameter="7f75707b6e3148928bc56e613d183317" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="961710c5514445b0937d5cd682a08dce" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="4ccd5b188bbb4389ae1f33164b8cdc4c" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="961710c5514445b0937d5cd682a08dce" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="145c0a4cba5743d4945ba3b76e86b34a" IsReturnParameter="True" Name="value">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="e2678e2f9c9f4491b4d8f112286f9a7c" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="7f75707b6e3148928bc56e613d183317" Name="value" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="c2fea80de0474a0089e5a1b1fb22f09f" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="6db09c8b5f55483ea114fc8a33d1858f" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="d339a364c5174029a14edd62f5d561dc" Name="refnum" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+			<EmbeddedDefinitionReference Id="d6eba23e049491991642afa1d5afb79" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="StopListeningForChange">
+				<JavaScriptLibraryEntryPoint Id="eb967d00d20847659d25b69ca47ddbda" Symbol="customInputControl.stopListeningForChange" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="1d5f74c2a0344d91a2559e46eefcbd31" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="a1e5b1ff00d3493394a0f1c3dfe9b62a" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="582f642ddab34f4c9dca1b2303a2571a" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="6f91826cb378446ea98745a533277865" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="acaf802f8e05419893bcbf4376ceb237" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="fa0f581617748e99c29024e28848aaa" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]StopListeningForChange" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="c635c7ab005d4f409ad5202c4f39c993" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="13c4d76ab1a547e7929a2812404a0c63" ListViewHeight="85" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal ListViewHotspot="0 65" Parameter="eac197b7c7d04a9d804b2279f15f578b" />
+						<ConnectorPaneTerminal Hotspot="0 15" />
+						<ConnectorPaneTerminal Hotspot="0 25" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="b45fba50c3a94840ba77528e3bcdb78c" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="70b8bf2a3f7f4f6ea7d6cc830ddc77b9" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="b45fba50c3a94840ba77528e3bcdb78c" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="70b8bf2a3f7f4f6ea7d6cc830ddc77b9" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="b08251b405814217b05feddebac1f3fc" IsReturnParameter="True" Name="return">
+						<JavaScriptType ActualDataType="@21c620993e584ae5a1daef7dcab6bb8f" Id="a1ed7740f0e34079a232aae3a31200f1" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="1fffa834b2f4e6b96b79ab25a1c0d24" Name="return out" Visible="False" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="ef415435063049179b7628766a682ee8" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="1b6eaef8ecd4711a6f9a61efb93c52f" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="eac197b7c7d04a9d804b2279f15f578b" Name="refnum" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+			<EmbeddedDefinitionReference Id="2ca197dd3dae4899b8b5cc8f0099d352" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="GetProperty">
+				<JavaScriptLibraryEntryPoint Id="1538772602404f8aad69762d066e336e" Symbol="customInputControl.getProperty" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="f8f54c4b9be849639485d39b458c9093" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="ce5086697e344bdc84947be5e4a0c1d2" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="96b616c16f06475988b265aeeb1970f9" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="b5a8f6f659714b1785a39153af4f7924" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="327f465520254bc08d6bc86a764b284d" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="74650487f5d74e5385e84088f9959bec" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]GetProperty" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="34cfcd042ada456ebaef81d30b82af41" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="66c492113e0a41b48880f4dbb652735c" ListViewHeight="115" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal />
+						<ConnectorPaneTerminal Hotspot="0 15" ListViewHotspot="0 65" Parameter="961ed57204224defb640ffda9c5483af" />
+						<ConnectorPaneTerminal Hotspot="0 25" ListViewHotspot="0 95" Parameter="65b3dce4254d4081b3e26fbe08c4021a" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="83af985247ff495e8d2a4ca919dd50b4" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" ListViewHotspot="150 80" Parameter="e01b7ffc38124bad918af4071de22f16" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="fcf5a1beebf1485aa1f930380d6fe805" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="83af985247ff495e8d2a4ca919dd50b4" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="fcf5a1beebf1485aa1f930380d6fe805" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="da224f8f25cf4ebaada02b92dd08a513" IsReturnParameter="True" Name="value">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="bc66e78223aa49ed9159ed214d8cf57a" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="e01b7ffc38124bad918af4071de22f16" Name="value" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="3a59373b71544470a94f1e0ae32ffdbe" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="2262427c0f804f86a31b7058d77453f2" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="961ed57204224defb640ffda9c5483af" Name="refnum" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="55a443d958a64db48ab0dcd494d98fe8" Name="name">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="46d9792a6041421f9ea9fca83bc7d1e4" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="65b3dce4254d4081b3e26fbe08c4021a" Name="name" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+			<EmbeddedDefinitionReference Id="7cd0d6b27d014894941cbe226680c04c" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="SetProperty">
+				<JavaScriptLibraryEntryPoint Id="8389a00662aa4279af32fb47c444d8fa" Symbol="customInputControl.setProperty" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="e817dc0c2c924a0fa1c5c7808983bf2d" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="78abee9985b84844adb820027c07cdc7" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="432ee68e58874226a94a5a520bc77f69" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="bfd189dc4172495bb0a3da20ca97cae6" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="7221cd87f47b4190a0980956b5896e1a" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="75c809686fbf41f9b0088b10183a6482" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]SetProperty" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="eb11abe98be4797b4d7100531fa92ae" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="d0d6ba35ad1a41eb805ef68502d19886" ListViewHeight="115" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal ListViewHotspot="0 65" Parameter="e96baad81750492b9de3e5c439a0217d" />
+						<ConnectorPaneTerminal Hotspot="0 15" ListViewHotspot="0 80" Parameter="ff0c0d7e659e497cba4aa1d439be2cd6" />
+						<ConnectorPaneTerminal Hotspot="0 25" ListViewHotspot="0 95" Parameter="b37c4f4ecd934b5a916264c885b1358e" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="fba0bdb659084e1ca4d25f1800249cd4" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="2e34664e7ae048e7b6b1b073ef67b4d6" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="fba0bdb659084e1ca4d25f1800249cd4" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="2e34664e7ae048e7b6b1b073ef67b4d6" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="bf51b0b8b30045ad90596cd134c250a3" IsReturnParameter="True" Name="return">
+						<JavaScriptType ActualDataType="@21c620993e584ae5a1daef7dcab6bb8f" Id="f0d366a802a54e2e92d63a67e0d4f93d" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="d6937c3deb0a4d5fb061afd6a96b107d" Name="return out" Visible="False" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="aeb493ba4c8742ed829bae568fb84cc7" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="2a467c5a31494b1cbe740fe606e4509c" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="e96baad81750492b9de3e5c439a0217d" Name="refnum" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="662c8338119b419989eceb1ba200b8bb" Name="name">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="a3c8e78356c44b44b4308fb5af153b58" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="ff0c0d7e659e497cba4aa1d439be2cd6" Name="name" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="67370786480c4bb1981384ee98136bd4" Name="value">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="834d1129d1e44655bbb03f8a60c5d247" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="b37c4f4ecd934b5a916264c885b1358e" Name="value" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+			<EmbeddedDefinitionReference Id="b566679ec3d54a29b7728e301d6f3d7d" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="Create">
+				<JavaScriptLibraryEntryPoint Id="d114c205ab034c2cbc9a83d594dee575" Symbol="customInputControl.createCustomControl" xmlns="http://www.ni.com/JavaScriptLibrary">
+					<Icon Id="32a676a3841947ea88faf49e9571004a" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+						<IconPanel Height="[float]40" Id="271eaddeb96142b18ce8b35663fa4af2" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="b563d23eee5491ca467728debd74e4d" Left="[float]0" TemplateName="[string]Custom2" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="a5a3a9fb25e74314988756922c35f681" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="349f1c4bbe7a4ea1913ab460f9e5dab3" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Height="[float]24" HorizontalAlignment="[HorizontalAlignment]Left" Id="bc9d8c008f4245c596a7b1b9449b6f4b" Left="[float]3" SizeMode="[TextModelSizeMode]Fixed" Text="[string]Create" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]13" VerticalAlignment="[VerticalAlignment]Top" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]33">
+									<FontSetting FontFamily="Verdana" FontSize="5" Id="33cd77a972f4479ab2c9e7a1c238aee5" />
+								</FileNameText>
+							</IconTemplate>
+						</IconPanel>
+					</Icon>
+					<ConnectorPane Height="40" Id="d131eb4c2b6f406bb58649e0932295c1" ListViewHeight="115" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+						<ConnectorPaneTerminal />
+						<ConnectorPaneTerminal Hotspot="0 15" ListViewHotspot="0 80" Parameter="15119feb9c76481d9ede3b0af6a70b7d" />
+						<ConnectorPaneTerminal Hotspot="0 25" ListViewHotspot="0 95" Parameter="3ecc49ee7bd14e8280865f6810d6bc8a" />
+						<ConnectorPaneTerminal Hotspot="0 35" ListViewHotspot="0 35" Parameter="c6cf399ccfde4dd8a73a18ccc492d368" />
+						<ConnectorPaneTerminal Hotspot="15 0" />
+						<ConnectorPaneTerminal Hotspot="25 0" />
+						<ConnectorPaneTerminal Hotspot="40 5" ListViewHotspot="150 65" Parameter="28c9edb7d97f4e71b913cfdd21033724" />
+						<ConnectorPaneTerminal Hotspot="40 15" />
+						<ConnectorPaneTerminal Hotspot="40 25" />
+						<ConnectorPaneTerminal Hotspot="40 35" ListViewHotspot="150 50" Parameter="6265c27b0a9549ca95ca4bfe4788c750" />
+						<ConnectorPaneTerminal Hotspot="15 40" />
+						<ConnectorPaneTerminal Hotspot="25 40" />
+					</ConnectorPane>
+					<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="c6cf399ccfde4dd8a73a18ccc492d368" IsError="True" Name="error in" />
+					<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="6265c27b0a9549ca95ca4bfe4788c750" IsError="True" Name="error out" />
+					<JavaScriptLibraryParameter Id="3e48aa6051f444309afd26c823806038" IsReturnParameter="True" Name="refnum">
+						<JavaScriptType ActualDataType="@b7699673314944d19f579990ca003f09" Id="340a93c01cea43e7a45f87dfae699f58" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Output" Id="28c9edb7d97f4e71b913cfdd21033724" Name="refnum" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="a9eeccabf9bb4499bd01f08679d445a6" Name="selector">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="b67b80cad688419f8d587a2c5851c67f" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="15119feb9c76481d9ede3b0af6a70b7d" Name="selector" />
+					</JavaScriptLibraryParameter>
+					<JavaScriptLibraryParameter Id="6d238ba25b3746c4a620ffc787d3937e" Name="attributesJSON">
+						<JavaScriptType ActualDataType="@189e197a8020424fadfe3970a43be3fa" Id="6631e6705d1e4cd48e1b1b570bd2afc7" />
+						<JavaScriptLibraryDiagramParameter CallDirection="Input" Id="3ecc49ee7bd14e8280865f6810d6bc8a" Name="attributesJSON" />
+					</JavaScriptLibraryParameter>
+				</JavaScriptLibraryEntryPoint>
+			</EmbeddedDefinitionReference>
+		</NameScopingEnvoy>
+	</EnvoyManagerFile>
+	<DataTypeReferenceTable xmlns="http://www.ni.com/PlatformFramework">
+		<p.TypeReference TypeId="b7699673314944d19f579990ca003f09">
+			<Attributed AttributedType="Int32">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.JavaScriptType" Value="[string]" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="189e197a8020424fadfe3970a43be3fa">
+			<Attributed AttributedType="String">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.JavaScriptType" Value="[string]" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="21c620993e584ae5a1daef7dcab6bb8f">
+			<Attributed AttributedType="Void">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.JavaScriptType" Value="[string]" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+	</DataTypeReferenceTable>
+</SourceFile>
