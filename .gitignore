@@ -1,7 +1,7 @@
 # Project files
 *.lvlps
 *.aliases
-Builds/*
-.cache/*
+NXG WebApp/GCentral Indexer POC/Builds/*
+NXG WebApp/GCentral Indexer POC/.cache/*
 *.lvcompile
 *.lvindexcache
