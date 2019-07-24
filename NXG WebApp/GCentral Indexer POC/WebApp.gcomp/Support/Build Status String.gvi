@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="CF4B446F4C38FAEC2DCA3E446CEBE0713EE8903508161FD71FFBE6249FFC976CE063F5D2222FEF689AFA23C0431AE22EBB9B85C31E2D4150BEA0954CE0656577" Timestamp="1D5418DB2BB7649" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="E18301D6F49EF85A1F1BD1AD52EB05C7C278D12E2736A478707F106F6E674E8346902F804123CDBCFF096ABD9E134E526BC407C49DCCF8C0CC6EA3FF0960475F" Timestamp="1D54225A158D422" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
@@ -99,11 +99,11 @@
 			<Increment Bounds="610 475 30 30" Id="7fdc1cd7274344ef92fe77e3e95117aa" />
 			<Wire Id="2913de6a3c1941f8a2461babbdad5204" Joints="N(4c346f61947c42e2bf59469c5b59ca5b:o)|(595,490) h(9) B(1) N(7fdc1cd7274344ef92fe77e3e95117aa:x)|(610,490) B(1) v(60) N(af5032a76aeb481593e53eb30f7edfb6:c0t0v)|(610,550)" xmlns="http://www.ni.com/PlatformFramework" />
 			<FormatIntoString Bounds="845 455 40 60" Id="8cd06766b3c64ae293c338596be2ca9a" Terminals="formatString=66c7feb68fae4351848789893ecf9b21, outString=7c4e3ee2e9e24ac3bd8365eefa28056e, c0t0v=40c73859e3b747b1a7f74aa9e29b1230, c1t0v=824bfb2a5b834805a59d2b7a443ee633, c2t0v=c535605a2d6848289b4940d0855ac67d" VerticalChunkCount="3" />
-			<Literal Bounds="690 380 160 42" DataType="String" Id="8e25feaf4b1c4ec3acf98f090cb2f885" Label="7a6a468d60d493a823fd1bbc9926b88" xmlns="http://www.ni.com/MocCommon">
-				<p.Data>"Showing items %d to %d\n\nTotal: %d"</p.Data>
+			<Literal Bounds="625 380 225 15" DataType="String" Id="8e25feaf4b1c4ec3acf98f090cb2f885" Label="7a6a468d60d493a823fd1bbc9926b88" xmlns="http://www.ni.com/MocCommon">
+				<p.Data>Showing items %d to %d - Total: %d</p.Data>
 				<StringBehavior TextDisplayMode="Default" />
 			</Literal>
-			<NodeLabel AttachedTo="8e25feaf4b1c4ec3acf98f090cb2f885" Bounds="690 362 30 15" Id="7a6a468d60d493a823fd1bbc9926b88" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
+			<NodeLabel AttachedTo="8e25feaf4b1c4ec3acf98f090cb2f885" Bounds="625 362 30 15" Id="7a6a468d60d493a823fd1bbc9926b88" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>format string</p.Text>
 			</NodeLabel>
 			<Wire Id="66c7feb68fae4351848789893ecf9b21" Joints="N(8e25feaf4b1c4ec3acf98f090cb2f885:Out)|(850,385) h(20) N(8cd06766b3c64ae293c338596be2ca9a:formatString)|(870,455)" xmlns="http://www.ni.com/PlatformFramework" />
