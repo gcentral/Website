@@ -33,6 +33,7 @@
 	<Item Name="Load Repos from file.vi" Type="VI" URL="../Load Repos from file.vi"/>
 	<Item Name="Log HTTP Request.vi" Type="VI" URL="../Log HTTP Request.vi"/>
 	<Item Name="Nb Items Per Page--constant.vi" Type="VI" URL="../Nb Items Per Page--constant.vi"/>
+	<Item Name="Package Details URL--constant.vi" Type="VI" URL="../Package Details URL--constant.vi"/>
 	<Item Name="Perform Search Packages.vi" Type="VI" URL="../Perform Search Packages.vi"/>
 	<Item Name="Save Repos to File.vi" Type="VI" URL="../Save Repos to File.vi"/>
 	<Item Name="Search Strings.vi" Type="VI" URL="../Search Strings.vi"/>
