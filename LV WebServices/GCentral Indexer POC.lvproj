@@ -97,6 +97,10 @@
 						<Property Name="ws.useStandardURL" Type="Bool">false</Property>
 					</Item>
 				</Item>
+				<Item Name="Version.vi" Type="VI" URL="../HTTP Methods/Version.vi">
+					<Property Name="ws.method" Type="Int">1</Property>
+					<Property Name="ws.type" Type="Int">1</Property>
+				</Item>
 			</Item>
 		</Item>
 		<Item Name="Packages.lvlib" Type="Library" URL="../Libraries/Packages/Packages.lvlib"/>
