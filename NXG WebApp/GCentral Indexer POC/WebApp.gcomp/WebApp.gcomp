@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="F9DCF097B61820F48A1C1C429F5685D11F5EABDB1649AC0B2E908C58A4E89A39F79A6E0AA67ABB9B1C8B6878FD1B05B684D42F6FF52F0FBC4758091601687F64" Timestamp="1D5422B374ADCBB" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="C2E1A64C9D789BED295BBFBF6E380ADCBDC2CAE69CDC3CFAB7F251B4A372509CB1BB0A1585AFA3A7C0F076B78A6BA06F7B7995CAE316E1DD67DFCF5F4FFB83AF" Timestamp="1D556A0EDD67DB4" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
@@ -23,6 +23,7 @@
 			<ComponentItemProperties AssociatedEnvoyId="66e04d311c0d452f924ab33439d78b9a" Id="a77c6120110340e8b5709476acf78f92" TopLevel="True" />
 			<ComponentItemProperties AssociatedEnvoyId="20ae37646fc4d85ac1b079a5d0b3018" Id="af0ba425a49e463c9bb64dc6ab1f2a81" TopLevel="True" />
 			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="6e4cb55edc5e49e4bacfb3b0cf3f434f" Id="28d9018d39c64a23a9a9784f6095a40a" />
+			<ComponentItemProperties AlwaysInclude="True" AssociatedEnvoyId="76a39578fe45472bb56e1a5faac7cb67" Id="8be00a3ad97b4d128ac88d46bd03fab7" />
 		</ComponentConfiguration>
 	</ComponentDefinition>
 	<EnvoyManagerFile Id="6" xmlns="http://www.ni.com/PlatformFramework">
@@ -44,6 +45,7 @@
 				<NameScopingEnvoy AutomaticallyResolveUp="True" Id="b55da9c841e54e7b80eb8f72337fca01" Name="images">
 					<FileReference Bindings=".png" Id="ec603c4118354f2283198f0d8a33ad2d" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="logo.png" StoragePath="images\logo.png" />
 					<FileReference Bindings=".ico" Id="6e4cb55edc5e49e4bacfb3b0cf3f434f" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="favicon.ico" StoragePath="images\favicon.ico" />
+					<FileReference Bindings=".png" Id="76a39578fe45472bb56e1a5faac7cb67" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="PrototypedByStudioBods.png" StoragePath="images\PrototypedByStudioBods.png" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="66e04d311c0d452f924ab33439d78b9a" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="PackageDetails.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="PackageDetails.gviweb" />
 				<SourceFileReference Id="20ae37646fc4d85ac1b079a5d0b3018" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="index.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="index.gviweb" />
