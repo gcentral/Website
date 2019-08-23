@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="01BAF625DF75CF10B1E29AFCDCA1A5903A12E3C6C4784AB15EAEBE8F99E52806AC180DF5060135EFCDF7FD829B9935FBA34A10FA0B4E68F8E4C615D0F90865B5" Timestamp="1D541814435C3C7" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PanelCommon" OldestCompatibleVersion="6.1.0.0" Version="6.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
+		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
+	</SourceModelFeatureSet>
+	<TypeDefinition DataType="@b0dc6fd02650417fa9d34e5ecf88f441" Id="e1166a108c554562ba952a7015743efc" xmlns="http://www.ni.com/MocCommon">
+		<Icon Id="9573675af11247c9968e6caa53d0b95a" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Height="[float]40" Id="93d9fa3f0e33447da60db14bfffeebb5" Left="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate Height="[float]40" Id="5fb0ee202bdf4f4d8d9a533dfddad20e" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
+			</IconPanel>
+		</Icon>
+		<DataItem DataType="@b0dc6fd02650417fa9d34e5ecf88f441" Id="9191716036994f51ac8a4385378d827f" Name="List Details">
+			<p.DefaultValue>0_0_0_0_0_</p.DefaultValue>
+		</DataItem>
+	</TypeDefinition>
+	<EnvoyManagerFile Id="ee329ddbad7c414e97c9ecb1d7dd33f5" xmlns="http://www.ni.com/PlatformFramework">
+		<EnvoyManagerRootEnvoy Id="4a1617bde39f41a2b96e0a3301da76a1" ModelDefinitionType="EnvoyManagerRootEnvoy" Name="RootEnvoy" />
+		<NameScopingEnvoy AutomaticallyResolveUp="True" Id="56c4ffa3f7b44f0ebca2eb64916915a7" Name="List Details--cluster.gtype" NameTracksFileName="True">
+			<EmbeddedDefinitionReference Bindings="{http://www.ni.com/PlatformFramework}NeverLazy" Id="24a75b0600a642ac89dd9a61a9e401d0" ModelDefinitionType="NationalInstruments.PanelCommon.SourceModel.ControlDefinition" Name="ControlDefinition">
+				<ControlDefinition DefaultDirection="Control" Id="e32405d07b984bac822c084dad4713df" xmlns="http://www.ni.com/MocCommon">
+					<Cluster AutoArrange="[AutoArrange]ArrangeVertically" BaseName="[string]Cluster" BorderThickness="[SMThickness]1,1,1,1" ClusterType="[Type]@b0dc6fd02650417fa9d34e5ecf88f441" Height="[float]268" Id="aeebd95846a14ec18211b70e0c59535d" Label="[UIModel]50ae88e3a31a4d5e8910517888f0f41a" Left="[float]286" TabIndex="[int]0" Top="[float]325" Value="{DataItemBinding Id=9191716036994f51ac8a4385378d827f}" Width="[float]90" xmlns="http://www.ni.com/PanelCommon">
+						<NumericText BaseName="[string]Numeric" Height="[float]24" Id="77aff6dc2f2c4b8e8070b56fea2562d4" Interval="[int]1" Label="[UIModel]6b6d11bd096c43dba943c15f62eb60c9" Left="[float]4" TabIndex="[int]0" Top="[float]24" Value="{ClusterBinding FieldName=TotalPackages}" ValueFormatter="[string]LV:0" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+						<Label Height="[float]16" Id="6b6d11bd096c43dba943c15f62eb60c9" LabelOwner="[UIModel]77aff6dc2f2c4b8e8070b56fea2562d4" Left="[float]4" Text="[string]TotalPackages" Top="[float]4" Width="[float]74" />
+						<NumericText BaseName="[string]Numeric" Height="[float]24" Id="4b398358132b475fb5e6cfa4168b0baf" Interval="[int]1" Label="[UIModel]7a154715ac0d4731a91a4706f8bb3281" Left="[float]4" TabIndex="[int]1" Top="[float]76" Value="{ClusterBinding FieldName=TotalPages}" ValueFormatter="[string]LV:0" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+						<Label Height="[float]16" Id="7a154715ac0d4731a91a4706f8bb3281" LabelOwner="[UIModel]4b398358132b475fb5e6cfa4168b0baf" Left="[float]4" Text="[string]TotalPages" Top="[float]56" Width="[float]56" />
+						<NumericText BaseName="[string]Numeric" Height="[float]24" Id="f606daaa05224100b2d08fe721d7f856" Interval="[int]1" Label="[UIModel]dd00855d21a6417da45613590af17cc3" Left="[float]4" TabIndex="[int]2" Top="[float]128" Value="{ClusterBinding FieldName=PagesBefore}" ValueFormatter="[string]LV:0" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+						<Label Height="[float]16" Id="dd00855d21a6417da45613590af17cc3" LabelOwner="[UIModel]f606daaa05224100b2d08fe721d7f856" Left="[float]4" Text="[string]PagesBefore" Top="[float]108" Width="[float]65" />
+						<NumericText BaseName="[string]Numeric" Height="[float]24" Id="42aeb05563184e59ac83191696d0b66f" Interval="[int]1" Label="[UIModel]20f05ea1c9b44b7f8ca5a8d00372eb0c" Left="[float]4" TabIndex="[int]3" Top="[float]180" Value="{ClusterBinding FieldName=PagesAfter}" ValueFormatter="[string]LV:0" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+						<Label Height="[float]16" Id="20f05ea1c9b44b7f8ca5a8d00372eb0c" LabelOwner="[UIModel]42aeb05563184e59ac83191696d0b66f" Left="[float]4" Text="[string]PagesAfter" Top="[float]160" Width="[float]57" />
+						<NumericText BaseName="[string]Numeric" Height="[float]24" Id="aab0e37329b84c73b7a5492a3f154cc9" Interval="[int]1" Label="[UIModel]393f2a77dd9147ca9803b818be044c36" Left="[float]4" TabIndex="[int]4" Top="[float]232" Value="{ClusterBinding FieldName=ItemsPerPage}" ValueFormatter="[string]LV:0" ValueType="[Type]Int32" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+						<Label Height="[float]16" Id="393f2a77dd9147ca9803b818be044c36" LabelOwner="[UIModel]aab0e37329b84c73b7a5492a3f154cc9" Left="[float]4" Text="[string]ItemsPerPage" Top="[float]212" Width="[float]72" />
+					</Cluster>
+					<Label Height="[float]16" Id="50ae88e3a31a4d5e8910517888f0f41a" LabelOwner="[UIModel]aeebd95846a14ec18211b70e0c59535d" Left="[float]286" Text="[string]List Details" Top="[float]305" Width="[float]57" xmlns="http://www.ni.com/PanelCommon" />
+				</ControlDefinition>
+			</EmbeddedDefinitionReference>
+		</NameScopingEnvoy>
+	</EnvoyManagerFile>
+	<DataTypeReferenceTable xmlns="http://www.ni.com/PlatformFramework">
+		<p.TypeReference TypeId="b0dc6fd02650417fa9d34e5ecf88f441">
+			<Composite Id="1" Name="" Cluster="" GenericTypeDefinition="Void" BaseType="Void">
+				<Members>
+					<Field FieldAccessPolicy="ReadWrite" Name="TotalPackages" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="TotalPages" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PagesBefore" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="PagesAfter" DataType="Int32" />
+					<Field FieldAccessPolicy="ReadWrite" Name="ItemsPerPage" DataType="Int32" />
+				</Members>
+			</Composite>
+		</p.TypeReference>
+	</DataTypeReferenceTable>
+</SourceFile>

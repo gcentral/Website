@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="859A514D9C7F2A285DD3295FEF153C9067905AA7804B491466F740BEFA2E2AD561487AC06616B15B738BDEB0C70189B9A500D2AF880DFF1FA4C39CCF0BC30C24" Timestamp="1D54173C5E9E230" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
+		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
+	</SourceModelFeatureSet>
+	<ComponentDefinition DefaultConfigurationName="Configuration1" Id="39f1557321a54f6485673aa0f8d920c9" RootNamespaceId="70b9a60285d1465393268da41608709d" xmlns="http://www.ni.com/GComponent.xsd">
+		<Icon Id="e936e158d8a948caab91843e080348cd" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Height="[float]40" Id="6b4e7b8750e04226a43a9fdc8f6884b2" Left="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate Height="[float]40" Id="7a7728ead1ba4dbfb68ebbfb9babc2f5" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
+			</IconPanel>
+		</Icon>
+		<CompilerSymbolTable Id="a98c1e519dc9425498417289a24ccbbc" xmlns="http://www.ni.com/PlatformFramework" />
+		<ComponentConfiguration Id="48360439f07a4916825dfc6206d8dc5b" Name="Configuration1">
+			<CompilerSymbolTable Id="4f9c6b5ee77a41d7b5e778351c9a2aa4" xmlns="http://www.ni.com/PlatformFramework" />
+			<ComponentItemProperties AssociatedEnvoyId="365a75b8c234166b188e53ef13b1153" Exported="True" Id="4ff89646d0894c1290baeeb55c8aa9d0" />
+			<ComponentItemProperties AssociatedEnvoyId="f00018260e3a4b01b9ef200a8cff82db" Exported="True" Id="cb81913459704f028e638c8254d1a4f7" />
+			<ComponentItemProperties AssociatedEnvoyId="1d8aae2d56c742cd83de2c3b1e7d086e" Exported="True" Id="14554dc702e244bf9ab90d9a36e1cdea" />
+		</ComponentConfiguration>
+	</ComponentDefinition>
+	<EnvoyManagerFile Id="53dac3370cc549e98bb8802b3662430d" xmlns="http://www.ni.com/PlatformFramework">
+		<EnvoyManagerRootEnvoy Id="4ecd3d73d0414a25a2a5c681b66b8551" ModelDefinitionType="EnvoyManagerRootEnvoy" Name="RootEnvoy" />
+		<EmbeddedDefinitionReference Id="f386d22810584ed6adbf36e35e018816" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionEnvoyHierarchyRoot" Name="Global namespace">
+			<ComponentDefinitionEnvoyHierarchyRoot xmlns="http://www.ni.com/GComponent.xsd" />
+			<NameScopingEnvoy AutomaticallyResolveUp="True" Id="70b9a60285d1465393268da41608709d" Name="Objects">
+				<SourceFileReference Bindings="EnvoyManager" Id="365a75b8c234166b188e53ef13b1153" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package--cluster.gtype" StoragePath="Package--cluster.gtype\Package--cluster.gtype" />
+				<SourceFileReference Bindings="EnvoyManager" Id="f00018260e3a4b01b9ef200a8cff82db" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Version Number--cluster.gtype" StoragePath="Version Number--cluster.gtype\Version Number--cluster.gtype" />
+				<SourceFileReference Bindings="EnvoyManager" Id="1d8aae2d56c742cd83de2c3b1e7d086e" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package Version.gtype" StoragePath="Package Version.gtype\Package Version.gtype" />
+			</NameScopingEnvoy>
+		</EmbeddedDefinitionReference>
+		<NameScopingEnvoy Id="5bd5e346c67747d98c4634a88fa6494a" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionContentReferenceRoot" Name="Objects.gcomp" NameTracksFileName="True">
+			<ComponentDefinitionContentReferenceRoot xmlns="http://www.ni.com/GComponent.xsd" />
+			<ContentReference ContentIdentifier="48360439f07a4916825dfc6206d8dc5b" Id="630d69f870504e72a7860ef365b8d914" Name="Configuration1" OverridingModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentConfiguration" />
+		</NameScopingEnvoy>
+	</EnvoyManagerFile>
+</SourceFile>

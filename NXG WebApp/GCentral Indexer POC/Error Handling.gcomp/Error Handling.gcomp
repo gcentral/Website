@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="2D72EAA1E07103DC138097BE396074DDC45F6C775AF54AAB84B0F517D48897AC1CD382489C2AB395A978AD3795B05EB4B5B495D0232AA8649995D34D0475C90A" Timestamp="1D4EBEBCE795EF7" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="6.1.0.1" Version="6.2.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="6.2.0.49154" Version="6.2.0.49154" />
+		<ApplicationVersionInfo Build="6.4.0.49504" Name="LabVIEW NXG" Version="3.1.0" />
+	</SourceModelFeatureSet>
+	<ComponentDefinition DefaultConfigurationName="Configuration1" Id="eda06fc2558a4dcb9696e13df66aa9fa" RootNamespaceId="ac7c67e6a7184619863ee776fa7b3665" xmlns="http://www.ni.com/GComponent.xsd">
+		<Icon Id="10eda82d991a4435a8ad9e58968e48a7" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Height="[float]40" Id="64da16d6993045f79398d7982998fb4a" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="5d66a60925b34211b36e8a0a98616bc3" Left="[float]0" TemplateName="[string]Banner" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+					<Path Data="[PathGeometry]M 0,11 L 0,2 C 0,0.899999976 0.899999976,0 2,0 L 2,11 L 0,11 Z" Fill="[SMSolidColorBrush]#ff9e0911" Height="[float]11" HorizontalAlignment="[HorizontalAlignment]Left" Id="632a03f9fee44ee381aceef3e34f1bb0" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]2" />
+					<Rectangle Fill="[SMSolidColorBrush]#ff9e0911" Height="[float]11" Id="bc21948d769a44b19c82b54b8e7d1249" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]4,2,4,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]NaN" />
+					<Path Data="[PathGeometry]M 2,11 L 2,2 C 2,0.899999976 1.10000002,0 0,0 L 0,11 L 2,11 Z" Fill="[SMSolidColorBrush]#ff9e0911" Height="[float]11" HorizontalAlignment="[HorizontalAlignment]Right" Id="ae711aacb60f4019ae36039a90dd1f50" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]2" />
+				</IconTemplate>
+				<Text Height="[float]13" Id="2b2e96c71472461c9c22b7d8e9824586" Left="[float]6" Text="[string]Error" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]27">
+					<FontSetting FontFamily="Verdana" FontSize="8" Id="61603d171384be1bce582bbf467779d" />
+				</Text>
+			</IconPanel>
+		</Icon>
+		<CompilerSymbolTable Id="c1ea39cf8ea34cc58fe59b4b49aa2b73" xmlns="http://www.ni.com/PlatformFramework" />
+		<ComponentConfiguration Id="c61d9f5871e04b40ab1c85c4a417a384" Name="Configuration1">
+			<CompilerSymbolTable Id="eb088aafeb8440f6ac2df8c201819722" xmlns="http://www.ni.com/PlatformFramework" />
+			<ComponentItemProperties AssociatedEnvoyId="7d21a1a252d74eba8705b3e172533f63" Exported="True" Id="4a68c9b69ee04b948f1b7fbd5f883127" />
+			<ComponentItemProperties AssociatedEnvoyId="edc8ffce854c4ed3a3674eef401253bf" Exported="True" Id="52f8ea3c4be84909b33552815b10e127" />
+		</ComponentConfiguration>
+	</ComponentDefinition>
+	<EnvoyManagerFile Id="74b8e8bd23e14f8eab4722ddc059c028" xmlns="http://www.ni.com/PlatformFramework">
+		<ProjectSettings Id="42f3a4f05c174554a23ab176ff481380" ModelDefinitionType="ProjectSettings" Name="ZProjectSettings" />
+		<EmbeddedDefinitionReference Id="168aa8066caf44ec93f77079ab6a13cc" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionEnvoyHierarchyRoot" Name="Global namespace">
+			<ComponentDefinitionEnvoyHierarchyRoot xmlns="http://www.ni.com/GComponent.xsd" />
+			<NameScopingEnvoy AutomaticallyResolveUp="True" Id="ac7c67e6a7184619863ee776fa7b3665" Name="Error Handling">
+				<SourceFileReference Id="7d21a1a252d74eba8705b3e172533f63" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Error Handler.gvi" StoragePath="Error Handler.gvi" />
+				<SourceFileReference Id="edc8ffce854c4ed3a3674eef401253bf" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Error Details.gvi" StoragePath="Get Error Details.gvi" />
+			</NameScopingEnvoy>
+		</EmbeddedDefinitionReference>
+		<NameScopingEnvoy Id="5fd4b2e58f8443a499a2501d98aa262d" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionContentReferenceRoot" Name="Error Handling.gcomp" NameTracksFileName="True">
+			<ComponentDefinitionContentReferenceRoot xmlns="http://www.ni.com/GComponent.xsd" />
+			<ContentReference ContentIdentifier="c61d9f5871e04b40ab1c85c4a417a384" Id="f71a93cbc26041d083fdd63ae136021c" Name="Configuration1" OverridingModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentConfiguration" />
+		</NameScopingEnvoy>
+	</EnvoyManagerFile>
+</SourceFile>
