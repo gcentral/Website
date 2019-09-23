@@ -19,6 +19,7 @@
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
 			<Property Name="ws.guid" Type="Str">{7F078A41-C0DF-4A69-87E7-9A92C3D0903C}</Property>
 			<Property Name="ws.modifyLibraryFile" Type="Bool">true</Property>
+			<Property Name="ws.public_folder_name" Type="Str"></Property>
 			<Property Name="ws.remoteDebugging" Type="Bool">false</Property>
 			<Property Name="ws.removeLibraryItems" Type="Bool">true</Property>
 			<Property Name="ws.removePolyVIs" Type="Bool">true</Property>
