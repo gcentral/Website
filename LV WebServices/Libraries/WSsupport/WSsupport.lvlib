@@ -40,5 +40,6 @@
 	<Item Name="Session Timeout--constant.vi" Type="VI" URL="../Session Timeout--constant.vi"/>
 	<Item Name="Set Content Type JSON.vi" Type="VI" URL="../Set Content Type JSON.vi"/>
 	<Item Name="Sort Packages.vi" Type="VI" URL="../Sort Packages.vi"/>
+	<Item Name="WebServices Base URL--constant.vi" Type="VI" URL="../WebServices Base URL--constant.vi"/>
 	<Item Name="WebServices path--constant.vi" Type="VI" URL="../WebServices path--constant.vi"/>
 </Library>

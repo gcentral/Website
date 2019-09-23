@@ -19,7 +19,7 @@
 			<Property Name="ws.disconnectTypeDefs" Type="Bool">false</Property>
 			<Property Name="ws.guid" Type="Str">{7F078A41-C0DF-4A69-87E7-9A92C3D0903C}</Property>
 			<Property Name="ws.modifyLibraryFile" Type="Bool">true</Property>
-			<Property Name="ws.public_folder_name" Type="Str"></Property>
+			<Property Name="ws.public_folder_name" Type="Str">Public</Property>
 			<Property Name="ws.remoteDebugging" Type="Bool">false</Property>
 			<Property Name="ws.removeLibraryItems" Type="Bool">true</Property>
 			<Property Name="ws.removePolyVIs" Type="Bool">true</Property>
@@ -30,6 +30,9 @@
 			<Property Name="ws.version.fix" Type="Int">0</Property>
 			<Property Name="ws.version.major" Type="Int">0</Property>
 			<Property Name="ws.version.minor" Type="Int">0</Property>
+			<Item Name="Public Content" Type="Folder" URL="../Public">
+				<Property Name="NI.DISK" Type="Bool">true</Property>
+			</Item>
 			<Item Name="Startup VIs" Type="Startup VIs Container">
 				<Item Name="WS_Main.vi" Type="VI" URL="../WS_Main.vi">
 					<Property Name="ws.type" Type="Int">2</Property>
