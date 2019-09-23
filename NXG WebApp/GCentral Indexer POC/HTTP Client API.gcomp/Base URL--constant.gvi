@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="ACB7BEB1CFF3D8CD5B5BA51ADE463F08D5C1DCEF5961E883172ED8952FB964C11B12258C928274659014864E62BCFAA8EF4F0458A9C3564EBA113A252FEAB869" Timestamp="1D5726102468C76" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="AE3209AD57637F951485E699653438050D2F3F3FCF8A3013B204344FBCAE209095EA9BEB1DA7A97CE62E32CFB232D0C4C971F9CA43BE76C6E862DC9DA7ABBF07" Timestamp="1D572683422A8D7" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
@@ -40,8 +40,8 @@
 			<StringControl AcceptsReturn="[bool]True" BaseName="[string]String" Height="[float]24" HorizontalScrollBarVisibility="[ScrollBarVisibility]Hidden" Id="6d2416f3611247aea7725838564d11ca" IsReadOnly="[bool]True" Left="[float]0" Name="[string]Base URL" TabIndex="[int]0" Text="{DataItemBinding Id=e5ce7b5b628a4933be82e3b40de177a2}" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Auto" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 		</FrontPanelUnplacedItems>
 		<BlockDiagram Id="c13083114db742e3a59b9f3ef9798289">
-			<Literal Bounds="95 165 235 15" DataType="String" Id="810f936152ad44bf861e5ef4693b54be" xmlns="http://www.ni.com/MocCommon">
-				<p.Data>http://niweek:8001/GCentral_Indexer/</p.Data>
+			<Literal Bounds="40 165 290 15" DataType="String" Id="810f936152ad44bf861e5ef4693b54be" xmlns="http://www.ni.com/MocCommon">
+				<p.Data>https://demo.studiobods.com/GCentral_Indexer/</p.Data>
 				<StringBehavior TextDisplayMode="Default" />
 			</Literal>
 			<DataAccessor Bounds="360 165 40 15" DataItem="e5ce7b5b628a4933be82e3b40de177a2" Id="23fc77a7e3644ee793cad96be3df15f1" Label="b746ed734b39409d854df8ab38b63e3e" xmlns="http://www.ni.com/MocCommon">
@@ -53,9 +53,6 @@
 			<Wire Id="fec70cb5165e4715a603eb537b8ece28" Joints="N(810f936152ad44bf861e5ef4693b54be:Out)|(330,170) N(23fc77a7e3644ee793cad96be3df15f1:Value)|(363,170)" xmlns="http://www.ni.com/PlatformFramework" />
 			<Comment Bounds="50 70 670 28" Id="99bbde40b7dc4ff389e4312d746dc1f0" xmlns="http://www.ni.com/MocCommon">
 				<p.Text>"This is the URL where your LabVIEW Web Services are hosted.\r\nMake sure the host and port are configured accordingly to the configuration of your LabVIEW Application Web Server."</p.Text>
-			</Comment>
-			<Comment Bounds="240 275 290 15" Id="a0b17cd6258d4d51bfe68dad748e807d" xmlns="http://www.ni.com/MocCommon">
-				<p.Text>https://demo.studiobods.com/GCentral_Indexer/</p.Text>
 			</Comment>
 		</BlockDiagram>
 		<NativeFrontPanel Height="[float]1600" Id="a04a7bc36ec24e6eb40a21779d37e868" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" Width="[float]2000">
