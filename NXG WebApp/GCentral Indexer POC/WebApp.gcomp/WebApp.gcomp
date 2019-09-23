@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="F9C5EE8CE9E6ED3B7086994565F917EE154ECFDEC612D7F7BF512D8E48271613CF12990A2D391FF302131C8D4238F76B4E4B459C11D8BD04B3F760E77FDBF680" Timestamp="1D5724BCA3A3ECB" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="07413D3F41CA53B29912AE8D77D49A59751D42E846898613AD5FE252B0E20E4E2ECEB1F3137E2C0E690240A952CDAB0BFE9E9A292157BC084C4D11F2396FFCBA" Timestamp="1D57267D36EE44D" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
@@ -7,7 +7,7 @@
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
 		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition AutoIncrementOnBuild="True" Company="STUDIO BODs INC." DefaultConfigurationName="Configuration1" Description="Proof of Concept for GCentral packages indexer website" Id="1" Product="GCentral Indexer POC" RootNamespaceId="14" UserVersion="0.0.0.2" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition AutoIncrementOnBuild="True" Company="STUDIO BODs INC." DefaultConfigurationName="Configuration1" Description="Proof of Concept for GCentral packages indexer website" Id="1" Product="GCentral Indexer POC" RootNamespaceId="14" UserVersion="0.0.0.10" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
@@ -36,9 +36,9 @@
 					<SourceFileReference Bindings="ContentKind_{http://www.ni.com/SystemDesigner/Vi}Process.Vi,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory" Id="77efc0a15a5b4cd7b4f6e4bb9bf02bc1" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Deserialize JSON Timestamp.gvi" StoragePath="Support\Deserialize JSON Timestamp.gvi" />
 					<SourceFileReference Id="e178a68928474f7dbe14c71d7833b649" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="JSON Timestamp to Display.gvi" StoragePath="Support\JSON Timestamp to Display.gvi" />
 					<SourceFileReference Id="d3b54e13060a4850979cae2fa2e732c2" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Format Packages for Tree Display.gvi" StoragePath="Support\Format Packages for Tree Display.gvi" />
-					<SourceFileReference Bindings="EnvoyManager" Id="c8f2eba1ae6647c6835b4d81757e9503" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="List Packages Settings--cluster.gtype" StoragePath="Support\List Packages Settings--cluster.gtype\List Packages Settings--cluster.gtype" />
 					<SourceFileReference Id="1f920fee6f0c459e876d1536b588fdb9" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Build Status String.gvi" StoragePath="Support\Build Status String.gvi" />
 					<SourceFileReference Id="ef1336ec5f1047499c9eafd52f427b56" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Join Strings.gvi" StoragePath="Support\Join Strings.gvi" />
+					<SourceFileReference Id="81bef77f85e546499636086e478e837f" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Remove Duplicates from Array of strings.gvi" StoragePath="Support\Remove Duplicates from Array of strings.gvi" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="391fd3ca2a9648b99771eb40c3ed2e36" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Packages.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Packages.gviweb" />
 				<FileReference Bindings=".css" Id="4fe133eb621044f1be067e561769e971" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="style.css" StoragePath="style.css" />
