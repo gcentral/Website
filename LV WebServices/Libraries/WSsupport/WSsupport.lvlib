@@ -12,11 +12,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="TypeDefs" Type="Folder">
+		<Item Name="Search Filters.ctl" Type="VI" URL="../Search Filters.ctl"/>
 		<Item Name="TestResult JSON--cluster.ctl" Type="VI" URL="../TestResult JSON--cluster.ctl"/>
 		<Item Name="TestStation JSON--cluster.ctl" Type="VI" URL="../TestStation JSON--cluster.ctl"/>
 		<Item Name="UserAccount JSON--cluster.ctl" Type="VI" URL="../UserAccount JSON--cluster.ctl"/>
 	</Item>
 	<Item Name="Add CORS Headers.vi" Type="VI" URL="../Add CORS Headers.vi"/>
+	<Item Name="All Filter string--constant.vi" Type="VI" URL="../All Filter string--constant.vi"/>
 	<Item Name="Check Authentication.vi" Type="VI" URL="../Check Authentication.vi"/>
 	<Item Name="Check if Session Exists.vi" Type="VI" URL="../Check if Session Exists.vi"/>
 	<Item Name="Create HTTP Session.vi" Type="VI" URL="../Create HTTP Session.vi"/>

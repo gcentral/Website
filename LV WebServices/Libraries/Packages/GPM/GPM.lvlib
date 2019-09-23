@@ -16,5 +16,7 @@
 		<Item Name="GPM DB Connection String--constant.vi" Type="VI" URL="../GPM DB Connection String--constant.vi"/>
 		<Item Name="GPM Repo URL--constant.vi" Type="VI" URL="../GPM Repo URL--constant.vi"/>
 	</Item>
+	<Item Name="Fetch GPM Repo.vi" Type="VI" URL="../Fetch GPM Repo.vi"/>
 	<Item Name="Fetch Repo Details.vi" Type="VI" URL="../Fetch Repo Details.vi"/>
+	<Item Name="Update GPM Repo if needed.vi" Type="VI" URL="../Update GPM Repo if needed.vi"/>
 </Library>
