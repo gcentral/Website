@@ -17,13 +17,9 @@
 	<Item Name="Private" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Find Package By Name.vi" Type="VI" URL="../Find Package By Name.vi"/>
-		<Item Name="Version Number to Text.vi" Type="VI" URL="../Version Number to Text.vi"/>
-		<Item Name="Version Number Type--enum.ctl" Type="VI" URL="../Version Number Type--enum.ctl"/>
-		<Item Name="Version Text to Number.vi" Type="VI" URL="../Version Text to Number.vi"/>
 	</Item>
 	<Item Name="TypeDefs" Type="Folder">
 		<Item Name="Package--cluster.ctl" Type="VI" URL="../Package--cluster.ctl"/>
-		<Item Name="Version Number--cluster.ctl" Type="VI" URL="../Version Number--cluster.ctl"/>
 	</Item>
 	<Item Name="GPM.lvlib" Type="Library" URL="../GPM/GPM.lvlib"/>
 	<Item Name="VIPM.lvlib" Type="Library" URL="../VIPM/VIPM.lvlib"/>
