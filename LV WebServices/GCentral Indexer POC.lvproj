@@ -115,6 +115,21 @@
 						<Property Name="ws.useHeaders" Type="Bool">true</Property>
 						<Property Name="ws.useStandardURL" Type="Bool">false</Property>
 					</Item>
+					<Item Name="Get All Package Versions.vi" Type="VI" URL="../HTTP Methods/Get All Package Versions.vi">
+						<Property Name="ws.buffered" Type="Bool">true</Property>
+						<Property Name="ws.includeNameInURL" Type="Bool">true</Property>
+						<Property Name="ws.keepInMemory" Type="Bool">true</Property>
+						<Property Name="ws.loadAtStartup" Type="Bool">true</Property>
+						<Property Name="ws.method" Type="Int">1</Property>
+						<Property Name="ws.outputFormat" Type="Int">2</Property>
+						<Property Name="ws.outputType" Type="Int">1</Property>
+						<Property Name="ws.permissions" Type="Str"></Property>
+						<Property Name="ws.requireAPIKey" Type="Bool">false</Property>
+						<Property Name="ws.type" Type="Int">1</Property>
+						<Property Name="ws.uri" Type="Str">Versions</Property>
+						<Property Name="ws.useHeaders" Type="Bool">true</Property>
+						<Property Name="ws.useStandardURL" Type="Bool">false</Property>
+					</Item>
 				</Item>
 				<Item Name="Version.vi" Type="VI" URL="../HTTP Methods/Version.vi">
 					<Property Name="ws.buffered" Type="Bool">true</Property>
