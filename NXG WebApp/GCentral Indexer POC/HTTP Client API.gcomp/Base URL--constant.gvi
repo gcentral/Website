@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="AE3209AD57637F951485E699653438050D2F3F3FCF8A3013B204344FBCAE209095EA9BEB1DA7A97CE62E32CFB232D0C4C971F9CA43BE76C6E862DC9DA7ABBF07" Timestamp="1D572683422A8D7" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="CAFCBDA75F2ED0CDFCACBF527649CD6B168291B707EE8B27EB56B5FB925294F991BBFAEA5893619362A185C4C4241B4647F10B03C690B5C57C2EE6EA3F38927B" Timestamp="1D572EBBAE3C528" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
@@ -53,6 +53,12 @@
 			<Wire Id="fec70cb5165e4715a603eb537b8ece28" Joints="N(810f936152ad44bf861e5ef4693b54be:Out)|(330,170) N(23fc77a7e3644ee793cad96be3df15f1:Value)|(363,170)" xmlns="http://www.ni.com/PlatformFramework" />
 			<Comment Bounds="50 70 670 28" Id="99bbde40b7dc4ff389e4312d746dc1f0" xmlns="http://www.ni.com/MocCommon">
 				<p.Text>"This is the URL where your LabVIEW Web Services are hosted.\r\nMake sure the host and port are configured accordingly to the configuration of your LabVIEW Application Web Server."</p.Text>
+			</Comment>
+			<Comment Bounds="145 245 290 15" Id="e7fa514ade741c58e131ff39308dcc7" xmlns="http://www.ni.com/MocCommon">
+				<p.Text>https://demo.studiobods.com/GCentral_Indexer/</p.Text>
+			</Comment>
+			<Comment Bounds="195 280 235 15" Id="7345094296f24db2847451b3161b0fae" xmlns="http://www.ni.com/MocCommon">
+				<p.Text>http://niweek:8001/GCentral_Indexer/</p.Text>
 			</Comment>
 		</BlockDiagram>
 		<NativeFrontPanel Height="[float]1600" Id="a04a7bc36ec24e6eb40a21779d37e868" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" Width="[float]2000">
