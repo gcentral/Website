@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="BB34FA4FEAD95C9331777735C7380CA6A834893AB5929FCE71E1FF1D5F07975ADA4141AFBD2CD8C7DE5C06AA85248871F8E68EADB7BC497E8D2B4470B0116D3A" Timestamp="1D572F9A8ADA853" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="68CD70A78D69A6BC56144F943CCD2753D508C257F20772B2681D6115ADEA863FEB9D1ED961449D0EA4439AE15E385057587BC739A39C5E8153692807193BD28D" Timestamp="1D57302379130A8" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
@@ -54,8 +54,8 @@
 			<Comment Bounds="50 70 670 28" Id="99bbde40b7dc4ff389e4312d746dc1f0" xmlns="http://www.ni.com/MocCommon">
 				<p.Text>"This is the URL where your LabVIEW Web Services are hosted.\r\nMake sure the host and port are configured accordingly to the configuration of your LabVIEW Application Web Server."</p.Text>
 			</Comment>
-			<Comment Bounds="145 245 290 15" Id="e7fa514ade741c58e131ff39308dcc7" xmlns="http://www.ni.com/MocCommon">
-				<p.Text>https://demo.studiobods.com/GCentral_Indexer/</p.Text>
+			<Comment Bounds="145 245 125 15" Id="e7fa514ade741c58e131ff39308dcc7" xmlns="http://www.ni.com/MocCommon">
+				<p.Text>/GCentral_Indexer/</p.Text>
 			</Comment>
 			<Literal Bounds="145 295 235 15" DataType="String" Id="eac33d64a4274bbcb476237e0b3b8011" Label="eb9d198f92044683a241802fe45a8b1f" xmlns="http://www.ni.com/MocCommon">
 				<p.Data>http://niweek:8001/GCentral_Indexer/</p.Data>
