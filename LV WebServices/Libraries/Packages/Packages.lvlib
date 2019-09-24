@@ -21,6 +21,7 @@
 	<Item Name="TypeDefs" Type="Folder">
 		<Item Name="Package--cluster.ctl" Type="VI" URL="../Package--cluster.ctl"/>
 	</Item>
+	<Item Name="Generate Packages List.vi" Type="VI" URL="../Generate Packages List.vi"/>
 	<Item Name="GPM.lvlib" Type="Library" URL="../GPM/GPM.lvlib"/>
 	<Item Name="VIPM.lvlib" Type="Library" URL="../VIPM/VIPM.lvlib"/>
 </Library>
