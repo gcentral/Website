@@ -29,7 +29,6 @@
 	<Item Name="Format Log Message on Single Line.vi" Type="VI" URL="../Format Log Message on Single Line.vi"/>
 	<Item Name="GCentral Public Directory--constant.vi" Type="VI" URL="../GCentral Public Directory--constant.vi"/>
 	<Item Name="GCentral Temporary Directory--constant.vi" Type="VI" URL="../GCentral Temporary Directory--constant.vi"/>
-	<Item Name="GCentral Website Root URL--constant.vi" Type="VI" URL="../GCentral Website Root URL--constant.vi"/>
 	<Item Name="Get HTTP Session Attributes.vi" Type="VI" URL="../Get HTTP Session Attributes.vi"/>
 	<Item Name="GV_Repos.vi" Type="VI" URL="../GV_Repos.vi"/>
 	<Item Name="Handle HTTP Error Reply.vi" Type="VI" URL="../Handle HTTP Error Reply.vi"/>
