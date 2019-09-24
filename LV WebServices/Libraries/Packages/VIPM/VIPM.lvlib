@@ -19,4 +19,5 @@
 	<Item Name="Fetch Repo Details.vi" Type="VI" URL="../Fetch Repo Details.vi"/>
 	<Item Name="Fetch VIPM Repo.vi" Type="VI" URL="../Fetch VIPM Repo.vi"/>
 	<Item Name="Update VIPM Repo if needed.vi" Type="VI" URL="../Update VIPM Repo if needed.vi"/>
+	<Item Name="VIPM Repositories--constant.vi" Type="VI" URL="../VIPM Repositories--constant.vi"/>
 </Library>
