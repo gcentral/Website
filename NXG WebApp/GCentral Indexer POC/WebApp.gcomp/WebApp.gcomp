@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="4CC352D960C60788C4785F05E8A730E642B7D9306F06813C777A1E4EF4327D96D291F77AE64D537D2BB091F2A21D2B569AF88456BC95654B3F61D04D069F15C1" Timestamp="1D572EC0A4A8691" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="98EB537869CA57B24E15B81C544A4BED3D6FEB8C89F3EFA417892CDABC32F06F536E8CAF7242861F7EBA3696334544374BD840C5DEDB38CDFAAEE33C8A5C6FE3" Timestamp="1D572EC25756B39" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
@@ -7,7 +7,7 @@
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
 		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
 	</SourceModelFeatureSet>
-	<ComponentDefinition AutoIncrementOnBuild="True" Company="STUDIO BODs INC." DefaultConfigurationName="Configuration1" Description="Proof of Concept for GCentral packages indexer website" Id="1" Product="GCentral Indexer POC" RootNamespaceId="14" UserVersion="0.0.0.21" xmlns="http://www.ni.com/GComponent.xsd">
+	<ComponentDefinition AutoIncrementOnBuild="True" Company="STUDIO BODs INC." DefaultConfigurationName="Configuration1" Description="Proof of Concept for GCentral packages indexer website" Id="1" Product="GCentral Indexer POC" RootNamespaceId="14" UserVersion="0.0.0.22" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="3" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="4" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
