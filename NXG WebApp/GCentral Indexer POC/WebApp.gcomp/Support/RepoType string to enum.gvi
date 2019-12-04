@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceFile Checksum="626335FC6479307B36DF3183F2783D9717958A95C0F462E8D0EC6691A8AFBEEB7715570B9D68C96A3B5C7DBCF775012BD4F5DB49D5D9C9A32EB7BA1359F29A39" Timestamp="1D5AACCE966042F" xmlns="http://www.ni.com/PlatformFramework">
+	<SourceModelFeatureSet>
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Common language components" Name="http://www.ni.com/MocCommon" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PanelCommon" OldestCompatibleVersion="6.1.0.0" Version="6.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
+	</SourceModelFeatureSet>
+	<VirtualInstrument Id="abf037d9b4454f7e941d5d7405534659" xmlns="http://www.ni.com/LabVIEW.VI">
+		<Icon Id="fc7b16f90fbc4d31a2107be9f7143a0e" ListViewIconCrop="0 0 40 10" xmlns="http://www.ni.com/PlatformFramework">
+			<IconPanel Id="dc138b7a83bd4058a5f70f72c2cc523a" Left="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+				<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Id="467bd648eeb64da297362c2fe9c1c489" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
+					<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="f9685673a4144fcbd278508bc50152c" IsHitTestVisible="[bool]False" Left="[float]0" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+					<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="41c1d8caaae846c29f987ac2dc140963" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+					<FileNameText Attached="[bool]True" Height="[float]11" Id="be92aa0c3ed94582b020866bfa6c4c99" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]RepoType string to enum" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden">
+						<FontSetting FontFamily="Segoe UI" FontSize="6" Id="ee029cc4005f4522bf4d6aa5aa50d5e1" />
+					</FileNameText>
+				</IconTemplate>
+			</IconPanel>
+		</Icon>
+		<ConnectorPane Height="10" Id="9f7a95566a7343cab4ab219a289fb2aa" ListViewHeight="70" ListViewWidth="150" Width="40" xmlns="http://www.ni.com/PlatformFramework">
+			<ConnectorPaneTerminal ListViewHotspot="0 35" Parameter="47b204159d304edc9e712ff9baf733d7" />
+			<ConnectorPaneTerminal Hotspot="15 0" />
+			<ConnectorPaneTerminal Hotspot="25 0" />
+			<ConnectorPaneTerminal Hotspot="40 5" ListViewHotspot="150 50" Parameter="b8b41badc2ec45819fe93275ccf40dcd" />
+			<ConnectorPaneTerminal Hotspot="15 10" />
+			<ConnectorPaneTerminal Hotspot="25 10" />
+		</ConnectorPane>
+		<DiagramUnplacedItems Id="1ae873d011b64220a2a3eda8163c9e57" xmlns="http://www.ni.com/MocCommon" />
+		<FrontPanelUnplacedItems Id="d3ba7fbcf0fd4aae8d8416eb2049f98e" Left="[float]0" PanelSizeMode="Fixed" Top="[float]0">
+			<StringControl AcceptsReturn="[bool]True" BaseName="[string]String" Height="[float]24" HorizontalScrollBarVisibility="[ScrollBarVisibility]Hidden" Id="eb46a277234345b39d7bea5197e7ee52" IsReadOnly="[bool]False" Left="[float]0" Name="[string]RepoType string" TabIndex="[int]0" Text="{DataItemBinding Id=47b204159d304edc9e712ff9baf733d7}" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Auto" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
+			<EnumSelector AllowUndefinedValueEntry="[bool]False" BaseName="[string]RepoType" Height="[float]24" Id="3416294bef134ed7b4dd112c3b250078" InteractionMode="[SelectorInteractionModes]ReadOnly" IsTypeAheadEnabled="[bool]True" Left="[float]270" Name="[string]RepoType" TabIndex="[int]1" Top="[float]330" Value="{DataItemBinding Id=b8b41badc2ec45819fe93275ccf40dcd}" ValueType="[Type]UInt16" VisualMode="[SelectorVisualMode]RingStyle" Width="[float]72" p4:ControlDefinitionChecksum="wPMZqb4XR+KVcfdoXxCAWA/uEkwEyCRslRE+7Po/sZY=" xmlns:p4="http://www.ni.com/PanelCommon" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
+				<p4:p.TypeDefinitionTargets>
+					<p4:TypeDefinitionTarget TargetName="WebApp::Support::RepoType--enum.gtype::ControlDefinition" />
+				</p4:p.TypeDefinitionTargets>
+				<EnumSelectorInfo DisplayValue="[string]VIPM" DisplayValueOverride="[string]" Id="26" IsEnabled="[bool]True" Value="[ushort]0" ValueType="[Type]UInt16" />
+				<EnumSelectorInfo DisplayValue="[string]NIPM" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]1" ValueType="[Type]UInt16" />
+				<EnumSelectorInfo DisplayValue="[string]GPM" DisplayValueOverride="[string]" IsEnabled="[bool]True" Value="[ushort]2" ValueType="[Type]UInt16" />
+			</EnumSelector>
+		</FrontPanelUnplacedItems>
+		<BlockDiagram Id="66b1e18fbeac46cc85fd8f53afcb4afe">
+			<DataAccessor Bounds="125 390 40 15" DataItem="47b204159d304edc9e712ff9baf733d7" Id="31f4b4fe7dc944cca4d070c397e258e9" Label="b6909ec1d360419da22b08798a46cbee" xmlns="http://www.ni.com/MocCommon">
+				<Terminal DataType="String" Direction="Output" Hotspot="40 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
+			</DataAccessor>
+			<NodeLabel AttachedTo="31f4b4fe7dc944cca4d070c397e258e9" Bounds="31 390 89 14" Id="b6909ec1d360419da22b08798a46cbee" xmlns="http://www.ni.com/PlatformFramework">
+				<p.Text>RepoType string</p.Text>
+			</NodeLabel>
+			<ScanFromString Bounds="220 390 40 50" Id="c480cfc9d0b44bacb3915093de234f31" Terminals="inputString=44042131aaf14f40983d1173d1c83297, c0t0v=1a25fad065e946eb9dc7d9667b709d2f, c0t1v=cd974c1755954761b7ff0937dc808367" />
+			<Wire Id="44042131aaf14f40983d1173d1c83297" Joints="N(31f4b4fe7dc944cca4d070c397e258e9:Value)|(165,395) N(c480cfc9d0b44bacb3915093de234f31:inputString)|(220,395)" xmlns="http://www.ni.com/PlatformFramework" />
+			<Literal Bounds="135 430 65 15" DataType="@4cb4b64acf51432e83a40d49b4849a2d" Id="e066be1d44ec45edbae0c8ef28ad3980" Label="6c7a8e54097f4edbb34b8ff9d1d7ed1e" p4:ControlDefinitionChecksum="wPMZqb4XR+KVcfdoXxCAWA/uEkwEyCRslRE+7Po/sZY=" xmlns:p4="http://www.ni.com/PanelCommon" xmlns="http://www.ni.com/MocCommon">
+				<p.Data>0</p.Data>
+				<p4:p.TypeDefinitionTargets>
+					<p4:TypeDefinitionTarget TargetName="WebApp::Support::RepoType--enum.gtype" />
+					<p4:TypeDefinitionTarget TargetName="WebApp::Support::RepoType--enum.gtype::ControlDefinition" />
+				</p4:p.TypeDefinitionTargets>
+				<EnumBehavior />
+			</Literal>
+			<NodeLabel AttachedTo="e066be1d44ec45edbae0c8ef28ad3980" Bounds="135 413 95 14" Id="6c7a8e54097f4edbb34b8ff9d1d7ed1e" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
+				<p.Text>RepoType--enum</p.Text>
+			</NodeLabel>
+			<Wire Id="1a25fad065e946eb9dc7d9667b709d2f" Joints="N(e066be1d44ec45edbae0c8ef28ad3980:Out)|(200,435) N(c480cfc9d0b44bacb3915093de234f31:c0t0v)|(220,435)" xmlns="http://www.ni.com/PlatformFramework" />
+			<DataAccessor Bounds="290 430 40 15" DataItem="b8b41badc2ec45819fe93275ccf40dcd" Id="80471209dbc84e95adc0452b37dae7ef" Label="b3d74e3bb89c4e0aa3ff3123991811a0" xmlns="http://www.ni.com/MocCommon">
+				<Terminal DataType="@4cb4b64acf51432e83a40d49b4849a2d" Direction="Input" Hotspot="3 5" Id="Value" xmlns="http://www.ni.com/PlatformFramework" />
+			</DataAccessor>
+			<NodeLabel AttachedTo="80471209dbc84e95adc0452b37dae7ef" Bounds="335 430 54 14" Id="b3d74e3bb89c4e0aa3ff3123991811a0" xmlns="http://www.ni.com/PlatformFramework">
+				<p.Text>RepoType</p.Text>
+			</NodeLabel>
+			<Wire Id="cd974c1755954761b7ff0937dc808367" Joints="N(c480cfc9d0b44bacb3915093de234f31:c0t1v)|(260,435) N(80471209dbc84e95adc0452b37dae7ef:Value)|(293,435)" xmlns="http://www.ni.com/PlatformFramework" />
+		</BlockDiagram>
+		<NativeFrontPanel Height="[float]1600" HtmlPanel="[bool]False" Id="271c6aaeda604a2a9565bebcb3566b49" Left="[float]0" PanelSizeMode="Fixed" Top="[float]0" Width="[float]2000">
+			<PanelExecutionWindow Id="b583ce0b2beb47af82e578e232d36cbc" />
+		</NativeFrontPanel>
+		<DataItem AdaptToDiagramType="True" CallDirection="Input" CallIndex="0" CallUsage="Required" DataType="String" Id="47b204159d304edc9e712ff9baf733d7" Name="RepoType string" xmlns="http://www.ni.com/MocCommon">
+			<p.DefaultValue>""</p.DefaultValue>
+		</DataItem>
+		<DataItem CallDirection="Output" CallIndex="0" DataType="@4cb4b64acf51432e83a40d49b4849a2d" Id="b8b41badc2ec45819fe93275ccf40dcd" Name="RepoType" xmlns="http://www.ni.com/MocCommon">
+			<p.DefaultValue>0</p.DefaultValue>
+			<p.TypeDefinitionTargets xmlns="http://www.ni.com/PanelCommon">
+				<TypeDefinitionTarget TargetName="WebApp::Support::RepoType--enum.gtype" />
+			</p.TypeDefinitionTargets>
+		</DataItem>
+	</VirtualInstrument>
+	<DataTypeReferenceTable xmlns="http://www.ni.com/PlatformFramework">
+		<p.TypeReference TypeId="4cb4b64acf51432e83a40d49b4849a2d">
+			<Attributed AttributedType="@9a76a93db94e4064865014bf70b02bf7">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.NamespaceName" Value="[QualifiedName]WebApp::Support" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="9a76a93db94e4064865014bf70b02bf7">
+			<Typedef TypedefName="RepoType--enum.gtype" UnderlyingType="@3ce265eac4df40b0be3398af3eb2cd56" />
+		</p.TypeReference>
+		<p.TypeReference TypeId="3ce265eac4df40b0be3398af3eb2cd56">
+			<Enumeration>
+				<Members>
+					<EnumerationMember Value="0" Name="VIPM" />
+					<EnumerationMember Value="1" Name="NIPM" />
+					<EnumerationMember Value="2" Name="GPM" />
+				</Members>
+				<DataType>UInt16</DataType>
+			</Enumeration>
+		</p.TypeReference>
+	</DataTypeReferenceTable>
+</SourceFile>

@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="47FFE2B90EDF15DE1C3F3003E01675870FE3A78478175EB10DE6DC83EB44024F9A1F1AA884743FAE5D9070EA36DD7D1B0215234D417EAF266EC7B1A5AE8813C1" Timestamp="1D5724B6DFF33C5" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="2A8F6A6A448F6CF7CDD94B5EB122078B1B56AAEAE5D944B18833787DB475C19121CEE4BA4ADCA9641DB8625836C162EAB632557CD35DA04BD100779E3D9A7141" Timestamp="1D5AACC90C954EE" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
-		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
 	</SourceModelFeatureSet>
 	<ComponentDefinition DefaultConfigurationName="Configuration1" Id="39f1557321a54f6485673aa0f8d920c9" RootNamespaceId="70b9a60285d1465393268da41608709d" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="e936e158d8a948caab91843e080348cd" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
@@ -24,7 +24,7 @@
 			<ComponentDefinitionEnvoyHierarchyRoot xmlns="http://www.ni.com/GComponent.xsd" />
 			<NameScopingEnvoy AutomaticallyResolveUp="True" Id="70b9a60285d1465393268da41608709d" Name="Objects">
 				<SourceFileReference Bindings="EnvoyManager" Id="365a75b8c234166b188e53ef13b1153" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package--cluster.gtype" StoragePath="Package--cluster.gtype\Package--cluster.gtype" />
-				<SourceFileReference Bindings="EnvoyManager" Id="1d8aae2d56c742cd83de2c3b1e7d086e" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package Version.gtype" StoragePath="Package Version.gtype\Package Version.gtype" />
+				<SourceFileReference Bindings="EnvoyManager" Id="1d8aae2d56c742cd83de2c3b1e7d086e" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package Version--cluster.gtype" StoragePath="Package Version--cluster.gtype\Package Version--cluster.gtype" />
 			</NameScopingEnvoy>
 		</EmbeddedDefinitionReference>
 		<NameScopingEnvoy Id="5bd5e346c67747d98c4634a88fa6494a" ModelDefinitionType="{http://www.ni.com/GComponent.xsd}ComponentDefinitionContentReferenceRoot" Name="Objects.gcomp" NameTracksFileName="True">

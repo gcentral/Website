@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="0B1A5A4DBB9DC35EE7C403D3182A2B0631D1A38D8466D558B5AC7327D7A39388908C7EED84BB2576C6EDBE87DD2DC5F5FB867CA5299741A41ED5AAE3C618A119" Timestamp="1D573025FC931A5" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="F553DC440235CA1289C6D964B23B86D6C2DB11B2691CC2689766E3062F3F1D68562AA9D546E83D388EA0889FC8DFF9C4D7E52697CF48BB5B132DED91C9404BED" Timestamp="1D5AACCECB8F160" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
-		<ApplicationVersionInfo Build="7.0.0.50005" Name="LabVIEW NXG Preview" Version="4.0.0" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.1.0.49153" Version="7.1.0.49153" />
+		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="SystemDesigner" Name="http://www.ni.com/SystemDesigner/EnvoyManagement" OldestCompatibleVersion="5.0.0.0" Version="5.0.0.49152" />
+		<ApplicationVersionInfo Build="7.1.0.50148" Name="LabVIEW NXG" Version="4.0.0" />
 	</SourceModelFeatureSet>
 	<ComponentDefinition AutoIncrementOnBuild="True" Company="STUDIO BODs INC." DefaultConfigurationName="Configuration1" Description="Proof of Concept for GCentral packages indexer website" Id="1" Product="GCentral Indexer POC" RootNamespaceId="14" UserVersion="0.0.0.35" xmlns="http://www.ni.com/GComponent.xsd">
 		<Icon Id="2" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
@@ -39,6 +39,8 @@
 					<SourceFileReference Id="1f920fee6f0c459e876d1536b588fdb9" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Build Status String.gvi" StoragePath="Support\Build Status String.gvi" />
 					<SourceFileReference Id="ef1336ec5f1047499c9eafd52f427b56" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Join Strings.gvi" StoragePath="Support\Join Strings.gvi" />
 					<SourceFileReference Id="81bef77f85e546499636086e478e837f" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Remove Duplicates from Array of strings.gvi" StoragePath="Support\Remove Duplicates from Array of strings.gvi" />
+					<SourceFileReference Bindings="EnvoyManager" Id="2aa99515daff47fc82084d3057bfac09" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="RepoType--enum.gtype" StoragePath="Support\RepoType--enum.gtype\RepoType--enum.gtype" />
+					<SourceFileReference Id="86563fc7753141a68bad38bde49c9b61" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="RepoType string to enum.gvi" StoragePath="Support\RepoType string to enum.gvi" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="391fd3ca2a9648b99771eb40c3ed2e36" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Packages.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Packages.gviweb" />
 				<FileReference Bindings=".css" Id="4fe133eb621044f1be067e561769e971" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="style.css" StoragePath="style.css" />
