@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="F553DC440235CA1289C6D964B23B86D6C2DB11B2691CC2689766E3062F3F1D68562AA9D546E83D388EA0889FC8DFF9C4D7E52697CF48BB5B132DED91C9404BED" Timestamp="1D5AACCECB8F160" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="0AEEC3F0C9FAB5824050DB8C0BA4A579156E17D59CE9478A1E141A8C2A49B58A7E70AC86599FB615E24FE197AA48B7C1CF5E0509F75E1BB9FBD79D6D15F76688" Timestamp="1D5AAD02115A5ED" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
@@ -41,6 +41,8 @@
 					<SourceFileReference Id="81bef77f85e546499636086e478e837f" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Remove Duplicates from Array of strings.gvi" StoragePath="Support\Remove Duplicates from Array of strings.gvi" />
 					<SourceFileReference Bindings="EnvoyManager" Id="2aa99515daff47fc82084d3057bfac09" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="RepoType--enum.gtype" StoragePath="Support\RepoType--enum.gtype\RepoType--enum.gtype" />
 					<SourceFileReference Id="86563fc7753141a68bad38bde49c9b61" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="RepoType string to enum.gvi" StoragePath="Support\RepoType string to enum.gvi" />
+					<SourceFileReference Id="5567a9523a264ff0b8753d54f2c26db1" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="GPM Install Instructions URL--constant.gvi" StoragePath="Support\GPM Install Instructions URL--constant.gvi" />
+					<SourceFileReference Id="46b1b5f87125470ba7b2798896b1bc89" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Generate GPM Install Command.gvi" StoragePath="Support\Generate GPM Install Command.gvi" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="391fd3ca2a9648b99771eb40c3ed2e36" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Packages.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Packages.gviweb" />
 				<FileReference Bindings=".css" Id="4fe133eb621044f1be067e561769e971" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="style.css" StoragePath="style.css" />

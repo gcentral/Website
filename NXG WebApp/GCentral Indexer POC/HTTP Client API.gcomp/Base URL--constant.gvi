@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="75241A9F2BCD310023F5882E3777A5FB53D621D2F62624671D08B7B1628D829B8324A890E2CC7E7EA4D9BDA9E91B0FAB16883780CD5AE18AE5EEC73E290E09C9" Timestamp="1D5AAC8363798D7" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="446D228479AD2B3BA17C3F74168AF7EF10B76CED934D3DF728F7709BD87AFE4DF8A277DBA92E1B16677B6ACD5FF1009176EE09C45059CBE101A7C481E5071CC0" Timestamp="1D5AACFB17BB318" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
@@ -40,8 +40,8 @@
 			<StringControl AcceptsReturn="[bool]True" BaseName="[string]String" Height="[float]24" HorizontalScrollBarVisibility="[ScrollBarVisibility]Hidden" Id="6d2416f3611247aea7725838564d11ca" IsReadOnly="[bool]True" Left="[float]0" Name="[string]Base URL" TabIndex="[int]0" Text="{DataItemBinding Id=e5ce7b5b628a4933be82e3b40de177a2}" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Auto" Width="[float]72" xmlns="http://www.ni.com/Controls.LabVIEW.Design" />
 		</FrontPanelUnplacedItems>
 		<BlockDiagram Id="c13083114db742e3a59b9f3ef9798289">
-			<Literal Bounds="40 165 290 15" DataType="String" Id="810f936152ad44bf861e5ef4693b54be" xmlns="http://www.ni.com/MocCommon">
-				<p.Data>https://demo.studiobods.com/GCentral_Indexer/</p.Data>
+			<Literal Bounds="95 165 235 15" DataType="String" Id="810f936152ad44bf861e5ef4693b54be" xmlns="http://www.ni.com/MocCommon">
+				<p.Data>http://niweek:8001/GCentral_Indexer/</p.Data>
 				<StringBehavior TextDisplayMode="Default" />
 			</Literal>
 			<DataAccessor Bounds="360 165 40 15" DataItem="e5ce7b5b628a4933be82e3b40de177a2" Id="23fc77a7e3644ee793cad96be3df15f1" Label="b746ed734b39409d854df8ab38b63e3e" xmlns="http://www.ni.com/MocCommon">
@@ -64,6 +64,9 @@
 			<NodeLabel AttachedTo="eac33d64a4274bbcb476237e0b3b8011" Bounds="145 278 36 14" Id="eb9d198f92044683a241802fe45a8b1f" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>Debug</p.Text>
 			</NodeLabel>
+			<Comment Bounds="150 215 290 15" Id="c6fc37325cba47d0b1b3ae00d2efda13" xmlns="http://www.ni.com/MocCommon">
+				<p.Text>https://demo.studiobods.com/GCentral_Indexer/</p.Text>
+			</Comment>
 		</BlockDiagram>
 		<NativeFrontPanel AllowMaximize="[bool]False" EnforceMaximumSize="[bool]True" Height="[float]1600" Id="a04a7bc36ec24e6eb40a21779d37e868" Left="[float]0" MaxHeight="[float]1600" MaxWidth="[float]2000" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" Width="[float]2000" WindowTitleOption="[WindowTitleOption]None">
 			<PanelExecutionWindow Id="8971e3fdfc584ed8a9862033655c53f2" />
