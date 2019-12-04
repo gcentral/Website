@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="7C8E880619163A3C5672AE9AF35CDB6A9B09BE17BA1F0318F72EFC721EA30593F0FA23C8CC2034A4222868338DC8C76C432D9379F479CAD7A47C49FF28385831" Timestamp="1D5AAD0823DDDE6" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="3E0DEDE0FF362E980171FF391D9D707E1820237D24E04F7B7E1FD25969AAAF5745B8E8D1E4DE606DC7BA7C43910A3AA3B5EDB250AC5462C4665097D8E9AA4B23" Timestamp="1D5AAD38F81F4F2" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
@@ -293,14 +293,30 @@
 						</MethodCall>
 						<Wire Id="595c608aa211473fb1f69acebf74a68d" Joints="N(c0130c225d548d887f3dc9a2a5eae49:R3)|(130,280) N(e2b779c635784e32ac1d20316c5bc091:L3)|(206,280)" xmlns="http://www.ni.com/PlatformFramework" />
 						<Wire Id="e69a3c1e932542f1b84e5b02b6d4ff65" Joints="N(c0130c225d548d887f3dc9a2a5eae49:R0)|(130,250) h(6) v(-75) N(3eed825d1e89487388f61be5905dd2d2:c0t0v)|(326,175)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="af543ea627b9457f9c082f93ab1fbee3" Joints="N(135:125)|(4,280) N(d5ef64739ac645c49b21a244358e4f42:error in)|(36,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="545b988f52b747d493ab1e128d97a7d6" Joints="N(d5ef64739ac645c49b21a244358e4f42:error out)|(76,280) N(c0130c225d548d887f3dc9a2a5eae49:L3)|(90,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="4747c12bef514a4ea64158f4d6759b9e" Joints="N(dc7fbd7e9f5c4130977ae9fd2d28b9c6:R3)|(366,280) N(f86f1f325ea04cc8bcf7d1d1ae8b0ca7:error in)|(425,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="55cbc5733b854e6b85ac0d88edd69d95" Joints="N(f86f1f325ea04cc8bcf7d1d1ae8b0ca7:error out)|(465,280) N(136:125)|(482,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<SetBusy Bounds="36 245 40 40" Id="d5ef64739ac645c49b21a244358e4f42" Terminals="reference in=89baa8d400b341229a74e90d96771c7f, reference out=43b7bfc7c2c04d7296f2a591aef7cdf8, error in=af543ea627b9457f9c082f93ab1fbee3, error out=545b988f52b747d493ab1e128d97a7d6" />
-						<UnsetBusy Bounds="425 245 40 40" Id="f86f1f325ea04cc8bcf7d1d1ae8b0ca7" Terminals="reference in=43b7bfc7c2c04d7296f2a591aef7cdf8, reference out, error in=4747c12bef514a4ea64158f4d6759b9e, error out=55cbc5733b854e6b85ac0d88edd69d95" />
-						<Wire Id="89baa8d400b341229a74e90d96771c7f" Joints="N(5e1bb986c8ac4aedb3a2f839024982dd:125)|(4,150) h(26) v(100) N(d5ef64739ac645c49b21a244358e4f42:reference in)|(36,250)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="43b7bfc7c2c04d7296f2a591aef7cdf8" Joints="N(d5ef64739ac645c49b21a244358e4f42:reference out)|(76,250) h(6) v(50) h(337) v(-50) N(f86f1f325ea04cc8bcf7d1d1ae8b0ca7:reference in)|(425,250)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="af543ea627b9457f9c082f93ab1fbee3" Joints="N(135:125)|(4,280) N(37dba4b532f145db8cd6a78c0dc736b1:L3)|(36,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="545b988f52b747d493ab1e128d97a7d6" Joints="N(37dba4b532f145db8cd6a78c0dc736b1:R3)|(76,280) N(c0130c225d548d887f3dc9a2a5eae49:L3)|(90,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="4747c12bef514a4ea64158f4d6759b9e" Joints="N(dc7fbd7e9f5c4130977ae9fd2d28b9c6:R3)|(366,280) N(694691560a4f4847920bb92b70d8f132:L3)|(425,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="55cbc5733b854e6b85ac0d88edd69d95" Joints="N(694691560a4f4847920bb92b70d8f132:R3)|(465,280) N(136:125)|(482,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<MethodCall Bounds="36 245 40 40" Id="37dba4b532f145db8cd6a78c0dc736b1" ResolveFailedHint="SetBusy" Signature="@d302c78274d245ceb60f7cc4f8ef218e" Target="BusyStateAPI::BusyStateAPI.jsli::SetBusy" xmlns="http://www.ni.com/MocCommon">
+							<p.MethodDeclaration>
+								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
+									<Parameter Id="L3" Desc="error in" />
+									<Parameter Id="R3" Desc="error out" />
+								</MethodDeclaration>
+							</p.MethodDeclaration>
+							<Terminal DataType="Error" Direction="Input" Hotspot="0 35" Id="L3" xmlns="http://www.ni.com/PlatformFramework" />
+							<Terminal DataType="Error" Direction="Output" Hotspot="40 35" Id="R3" xmlns="http://www.ni.com/PlatformFramework" />
+						</MethodCall>
+						<MethodCall Bounds="425 245 40 40" Id="694691560a4f4847920bb92b70d8f132" ResolveFailedHint="UnsetBusy" Signature="@1fb27cb019d2490b8fd91d1fdb699d0e" Target="BusyStateAPI::BusyStateAPI.jsli::UnsetBusy" xmlns="http://www.ni.com/MocCommon">
+							<p.MethodDeclaration>
+								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
+									<Parameter Id="L3" Desc="error in" />
+									<Parameter Id="R3" Desc="error out" />
+								</MethodDeclaration>
+							</p.MethodDeclaration>
+							<Terminal DataType="Error" Direction="Input" Hotspot="0 35" Id="L3" xmlns="http://www.ni.com/PlatformFramework" />
+							<Terminal DataType="Error" Direction="Output" Hotspot="40 35" Id="R3" xmlns="http://www.ni.com/PlatformFramework" />
+						</MethodCall>
 					</CaseStructure.Case>
 					<CaseStructure.Case Bounds="5 5 486 325" Id="f030ff2ac869495983dc0da7d550d450" Pattern="&quot;Packages&quot;">
 						<Wire Id="ddac24eacf0a4c52975153ac053ee360" Joints="N(137:f030ff2ac869495983dc0da7d550d450)|(4,80) N(138:f030ff2ac869495983dc0da7d550d450)|(482,80)" xmlns="http://www.ni.com/PlatformFramework" />
@@ -523,7 +539,6 @@
 					<CaseStructure.Tunnel Bounds="487 310 13 10" DefaultIfUnwired="True" Docking="Right" Id="139" Terminals="106=120, 125, f030ff2ac869495983dc0da7d550d450, 129, 130, 131=221, 132" />
 					<CaseStructure.Tunnel Bounds="-4 270 13 10" Docking="Left" Id="140" Terminals="106=114, 125, f030ff2ac869495983dc0da7d550d450, 129=809f77801335412a9948d37957f2885e, 130, 131, 132" />
 					<CaseStructure.Tunnel Bounds="-4 195 13 10" Docking="Left" Id="141" Terminals="106=118, 125, f030ff2ac869495983dc0da7d550d450, 129, 130, 131=218, 132" />
-					<CaseStructure.Tunnel Bounds="-4 150 13 10" Docking="Left" Id="5e1bb986c8ac4aedb3a2f839024982dd" Terminals="106=8bee2be44d81451786031676538f011a, 125=89baa8d400b341229a74e90d96771c7f, f030ff2ac869495983dc0da7d550d450, 129, 130, 131, 132" />
 				</CaseStructure>
 				<NodeLabel AttachedTo="106" Bounds="124 23 84 14" Id="107" IsReadOnly="True" xmlns="http://www.ni.com/PlatformFramework">
 					<p.Text>Message Cases</p.Text>
@@ -584,14 +599,12 @@
 				<Wire Id="306" Joints="N(305:R3)|(695,325) N(103:i0)|(706,325)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="486" Joints="N(292:R3)|(80,325) N(135:106)|(120,325)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="524" Joints="N(292:R1)|(80,305) N(133:106)|(120,305)" xmlns="http://www.ni.com/PlatformFramework" />
-				<Wire Id="8bee2be44d81451786031676538f011a" Joints="N(f1836b3f0f4d496b9c9be2f26ff04679:i0)|(4,195) N(5e1bb986c8ac4aedb3a2f839024982dd:106)|(120,195)" xmlns="http://www.ni.com/PlatformFramework" />
 				<RightShiftRegister Bounds="711 125 13 10" Docking="Right" Id="98" Terminals="96, 97=121" />
 				<LeftShiftRegister Bounds="-4 125 13 10" Docking="Left" Id="99" RightRegister="98" Terminals="o0=4f3d71a6803243d8b4f458dbb507040c, i0=122" />
 				<LoopTunnel Bounds="-4 295 13 10" Docking="Left" Id="100" Terminals="o0=256, i0=113" />
 				<LoopTunnel Bounds="-4 240 13 10" Docking="Left" Id="101" Terminals="o0=260, i0=118" />
 				<LoopTunnel Bounds="-4 325 13 10" Docking="Left" Id="102" Terminals="o0=484, i0=117" />
 				<LoopTunnel Bounds="711 325 13 10" Docking="Right" Id="103" Terminals="o0=257, i0=306" />
-				<LoopTunnel Bounds="-4 195 13 10" Docking="Left" Id="f1836b3f0f4d496b9c9be2f26ff04679" Terminals="o0=eb142b4bf714bfbb1fe0af0515e12f0, i0=8bee2be44d81451786031676538f011a" />
 			</WhileLoop>
 			<MergeErrors Bounds="985 555 30 20" Id="243" Terminals="error out=254, c0t0v=488, c1t0v=257" />
 			<PropertyNode Bounds="155 535 50 35" HasErrorTerminals="False" Id="244" InstanceDataType="@c928c81887454962b92594161c490bf8" Mode="InstanceProperties" Template="List" xmlns="http://www.ni.com/MocCommon">
@@ -670,8 +683,6 @@
 				<Terminal DataType="String" Direction="Output" Hotspot="40 5" Id="R0" xmlns="http://www.ni.com/PlatformFramework" />
 			</MethodCall>
 			<Wire Id="d54e97c4c6a44d0e9a29cec38f00af00" Joints="N(9adec372a5334b2baa7c1bc1627530ff:R0)|(100,380) N(d5cb3a7f61b24288b9d0afe9f4a0c352:c0t0v)|(122,380)" xmlns="http://www.ni.com/PlatformFramework" />
-			<ControlReference Bounds="60 435 60 20" Id="a95885e3ca514ea0b372018d12c6dd9c" SourceControl="15" />
-			<Wire Id="eb142b4bf714bfbb1fe0af0515e12f0" Joints="N(a95885e3ca514ea0b372018d12c6dd9c:control reference)|(120,440) N(f1836b3f0f4d496b9c9be2f26ff04679:o0)|(231,440)" xmlns="http://www.ni.com/PlatformFramework" />
 		</BlockDiagram>
 		<HtmlFrontPanel Background="[SMSolidColorBrush]#ffffffff" Height="[float]768" Id="15" LayoutSystem="[LayoutSystem]Flexible" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Fixed" Top="[float]0" UpdatedRootPage="[string]&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&quot;en&quot;&gt;&#xA;&#xA;    &lt;head&gt;&#xA;        &lt;meta charset=&quot;utf-8&quot;&gt;&#xA;        &lt;!---Read only section. Source panel edits to these document properties will not be persisted--&gt;&#xA;        &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#xA;        &lt;title&gt;GCentral&lt;/title&gt;&#xA;        &lt;!---End read only section. Additional scripts or document properties can be added outside this section--&gt;&#xA;        &lt;style ni-autogenerated-style-id=&quot;&quot;&gt;&#xA;            /* Edits to the content of this style tag will not be persisted. To add additional styles, add a new style tag before or after this one */&#xA;        &lt;/style&gt;&#xA;&#xA;        &lt;link href=&quot;style.css&quot; rel=&quot;stylesheet&quot;&gt;&#xA;&#xA;    &lt;/head&gt;&#xA;&#xA;    &lt;body&gt;&#xA;        &lt;div id=&quot;ni-outdated-browser-message&quot; style=&quot;display:none&quot;&gt;This browser is reporting compatibility with older browser technologies that may perform poorly if it all.&lt;/div&gt;&#xA;        &lt;div id=&quot;ni-failed-to-load-vireo-source&quot; style=&quot;display:none&quot;&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-title&quot;&gt;&#xA;                Unable to load resource file&#xA;            &lt;/div&gt;&#xA;            &lt;div id=&quot;ni-failed-to-load-vireo-message-body&quot;&gt;&#xA;                Verify all WebVI files are available and served using an HTTP server or use a browser that can load files directly from the file system. See &lt;a href=&quot;http://digital.ni.com/express.nsf/bycode/HOSTWEBAPP&quot;&gt;Hosting a Web Application on a Server&lt;/a&gt;                for more information.&#xA;            &lt;/div&gt;&#xA;        &lt;/div&gt;&#xA;        &lt;div class=&quot;ni-front-panel-wrapper&quot; vi-ref=&quot;&quot; ni-control-id=&quot;FrontPanelWrapper&quot;&gt;&#xA;            &lt;ni-front-panel control-resize-mode='fixed' layout='flexible' ni-control-id='24'&gt;&#xA;&#xA;                &#xA;                &#xA;                &#xA;            &lt;/ni-front-panel&gt;&#xA;        &lt;/div&gt;&#xA;    &lt;/body&gt;&#xA;&#xA;&lt;/html&gt;" Width="[float]1024" xmlns="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI">
 			<HtmlFlexibleLayoutGroup Height="[float]253" Id="f59d96414df142a4890c05d2aaa74bcc" Left="[float]30" Top="[float]30" Width="[float]964" xmlns="http://www.ni.com/Controls.LabVIEW.Design">
@@ -834,6 +845,24 @@
 		<p.TypeReference TypeId="66978e23fa3540ceaa2c2ea64b157993">
 			<Attributed AttributedType="@a1c2728d70ca49aa918f6668bb2ea547">
 				<AttributeValues>
+					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
+					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="d302c78274d245ceb60f7cc4f8ef218e">
+			<Attributed AttributedType="@2726fc01fd7d41349643b99608b69ebb">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.Compiler.ParameterCallIndex" Value="[ParameterCallIndexFields]0|0" />
+					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
+					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
+				</AttributeValues>
+			</Attributed>
+		</p.TypeReference>
+		<p.TypeReference TypeId="1fb27cb019d2490b8fd91d1fdb699d0e">
+			<Attributed AttributedType="@268063143cf840eca378408cd37f5b43">
+				<AttributeValues>
+					<AttributeValue Name="NationalInstruments.Compiler.ParameterCallIndex" Value="[ParameterCallIndexFields]0|0" />
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
@@ -1103,6 +1132,38 @@
 					<Attributed AttributedType="@26520808c6c94ad18061855b3225535d">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]Version" />
+						</AttributeValues>
+					</Attributed>
+					<Attributed AttributedType="@cc8ea5b27f7a4d67ba907155d0d85780">
+						<AttributeValues>
+							<AttributeValue Name="NI.UserDefinedName" Value="[string]error out" />
+						</AttributeValues>
+					</Attributed>
+				</Parameters>
+			</Function>
+		</p.TypeReference>
+		<p.TypeReference TypeId="2726fc01fd7d41349643b99608b69ebb">
+			<Function Id="1" IsStatic="True" IsConstructor="False" Name="SetBusy" ReturnType="Void" GenericTypeDefinition="Void">
+				<Parameters>
+					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
+						<AttributeValues>
+							<AttributeValue Name="NI.UserDefinedName" Value="[string]error in" />
+						</AttributeValues>
+					</Attributed>
+					<Attributed AttributedType="@cc8ea5b27f7a4d67ba907155d0d85780">
+						<AttributeValues>
+							<AttributeValue Name="NI.UserDefinedName" Value="[string]error out" />
+						</AttributeValues>
+					</Attributed>
+				</Parameters>
+			</Function>
+		</p.TypeReference>
+		<p.TypeReference TypeId="268063143cf840eca378408cd37f5b43">
+			<Function Id="1" IsStatic="True" IsConstructor="False" Name="UnsetBusy" ReturnType="Void" GenericTypeDefinition="Void">
+				<Parameters>
+					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
+						<AttributeValues>
+							<AttributeValue Name="NI.UserDefinedName" Value="[string]error in" />
 						</AttributeValues>
 					</Attributed>
 					<Attributed AttributedType="@cc8ea5b27f7a4d67ba907155d0d85780">
@@ -1594,6 +1655,44 @@
 									<FontSetting FontFamily="Verdana" FontSize="6" />
 								</Text>
 							</IconTemplate>
+						</IconPanel>
+					</Icon>
+				</MergeItem>
+			</MergeScript>
+		</p.IconModel>
+		<p.IconModel Target="BusyStateAPI::BusyStateAPI.jsli::SetBusy">
+			<MergeScript>
+				<MergeItem Path="." IsPrimary="True">
+					<Icon ListViewIconCrop="0 0 40 40">
+						<IconPanel Height="[float]40" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Attached="[bool]True" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]SetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden">
+									<FontSetting FontFamily="Verdana" FontSize="6" />
+								</FileNameText>
+							</IconTemplate>
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyStateAPI.gcomp" Top="[float]0" Width="[float]40" />
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][JSLI]&lt;BusyStateAPI.jsli&gt;" Top="[float]0" Width="[float]40" />
+						</IconPanel>
+					</Icon>
+				</MergeItem>
+			</MergeScript>
+		</p.IconModel>
+		<p.IconModel Target="BusyStateAPI::BusyStateAPI.jsli::UnsetBusy">
+			<MergeScript>
+				<MergeItem Path="." IsPrimary="True">
+					<Icon ListViewIconCrop="0 0 40 40">
+						<IconPanel Height="[float]40" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Attached="[bool]True" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]UnsetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden">
+									<FontSetting FontFamily="Verdana" FontSize="6" />
+								</FileNameText>
+							</IconTemplate>
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyStateAPI.gcomp" Top="[float]0" Width="[float]40" />
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][JSLI]&lt;BusyStateAPI.jsli&gt;" Top="[float]0" Width="[float]40" />
 						</IconPanel>
 					</Icon>
 				</MergeItem>
