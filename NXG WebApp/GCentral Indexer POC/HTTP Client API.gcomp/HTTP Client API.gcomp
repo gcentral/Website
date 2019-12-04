@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="AB8F1531DC924AC977716C4B602057F0B97F95F5E15EBD4CC6EDDF0026E26D90D435F209AC350995FDB18209BF284BBD3C2B16154C6D26AEC34B6DFB07C2C5BE" Timestamp="1D5419492EC3028" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="B54BADD55FC8D48A33179BA3527132D9FAA4B46A1C25262FDFDFFAD182CB0CAEED3C44E9CFA390372BABE4A3E48084873A7331BB6901593EA78A4FC4BAA43CC8" Timestamp="1D572E217444A14" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.0.0.50005" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="7.0.0.49152" Version="7.0.0.49152" />
@@ -42,6 +42,10 @@
 			<ComponentItemProperties AssociatedEnvoyId="9788aec5caa84ca5a4175909f18aee06" Exported="True" Id="1808d7b9851f4e1986cda19547c936d7" />
 			<ComponentItemProperties AssociatedEnvoyId="5165c0ade9eb45db9ffaf4f27ffb1307" Exported="True" Id="40685f18cdc2456fa5f1bd041ecbcf84" />
 			<ComponentItemProperties AssociatedEnvoyId="9c49c31c82ba4f28befe7323ae070603" Exported="True" Id="ea4ef04d80b14b978604474af872a724" />
+			<ComponentItemProperties AssociatedEnvoyId="2309ab95cd6d4dd6a48bb452deb114af" Exported="True" Id="58e1c028159a416f9c213b6d1dfbb99f" />
+			<ComponentItemProperties AssociatedEnvoyId="53854c637a664104acf0674e0a562277" Exported="True" Id="79fd9509baff44c3bc8baa401c0046dc" />
+			<ComponentItemProperties AssociatedEnvoyId="ca8f3e453e5c453a83e0aca0818c75f9" Exported="True" Id="4443f1f8a8904bd3b6f2230be5ce680a" />
+			<ComponentItemProperties AssociatedEnvoyId="772b1c9c82e24ae0b26c60f572d4cbed" Exported="True" Id="fd761c440ddb42d3b35ca3ec91333cc8" />
 		</ComponentConfiguration>
 	</ComponentDefinition>
 	<EnvoyManagerFile Id="6" xmlns="http://www.ni.com/PlatformFramework">
@@ -73,6 +77,10 @@
 					<SourceFileReference Bindings="EnvoyManager" Id="9788aec5caa84ca5a4175909f18aee06" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="List Details--cluster.gtype" StoragePath="Packages\List Details--cluster.gtype\List Details--cluster.gtype" />
 					<SourceFileReference Id="5165c0ade9eb45db9ffaf4f27ffb1307" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Set Package.gvi" StoragePath="Packages\Set Package.gvi" />
 					<SourceFileReference Id="9c49c31c82ba4f28befe7323ae070603" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Package Details.gvi" StoragePath="Packages\Get Package Details.gvi" />
+					<SourceFileReference Id="2309ab95cd6d4dd6a48bb452deb114af" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Package Filters.gvi" StoragePath="Packages\Get Package Filters.gvi" />
+					<SourceFileReference Bindings="EnvoyManager" Id="53854c637a664104acf0674e0a562277" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="Package Filters.gtype" StoragePath="Packages\Package Filters.gtype\Package Filters.gtype" />
+					<SourceFileReference Bindings="EnvoyManager" Id="ca8f3e453e5c453a83e0aca0818c75f9" ModelDefinitionType="NationalInstruments.MocCommon.Modeling.TypeDefinition" Name="List Packages Settings--cluster.gtype" StoragePath="Packages\List Packages Settings--cluster.gtype\List Packages Settings--cluster.gtype" />
+					<SourceFileReference Id="772b1c9c82e24ae0b26c60f572d4cbed" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get All Package Versions.gvi" StoragePath="Packages\Get All Package Versions.gvi" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="42966b7ad78546bd9703abe10357dda8" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Website Version.gvi" StoragePath="Website Version.gvi" />
 			</NameScopingEnvoy>

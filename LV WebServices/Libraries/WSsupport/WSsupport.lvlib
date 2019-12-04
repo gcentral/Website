@@ -12,11 +12,13 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="TypeDefs" Type="Folder">
+		<Item Name="Search Filters.ctl" Type="VI" URL="../Search Filters.ctl"/>
 		<Item Name="TestResult JSON--cluster.ctl" Type="VI" URL="../TestResult JSON--cluster.ctl"/>
 		<Item Name="TestStation JSON--cluster.ctl" Type="VI" URL="../TestStation JSON--cluster.ctl"/>
 		<Item Name="UserAccount JSON--cluster.ctl" Type="VI" URL="../UserAccount JSON--cluster.ctl"/>
 	</Item>
 	<Item Name="Add CORS Headers.vi" Type="VI" URL="../Add CORS Headers.vi"/>
+	<Item Name="All Filter string--constant.vi" Type="VI" URL="../All Filter string--constant.vi"/>
 	<Item Name="Check Authentication.vi" Type="VI" URL="../Check Authentication.vi"/>
 	<Item Name="Check if Session Exists.vi" Type="VI" URL="../Check if Session Exists.vi"/>
 	<Item Name="Create HTTP Session.vi" Type="VI" URL="../Create HTTP Session.vi"/>
@@ -33,12 +35,13 @@
 	<Item Name="Load Repos from file.vi" Type="VI" URL="../Load Repos from file.vi"/>
 	<Item Name="Log HTTP Request.vi" Type="VI" URL="../Log HTTP Request.vi"/>
 	<Item Name="Nb Items Per Page--constant.vi" Type="VI" URL="../Nb Items Per Page--constant.vi"/>
-	<Item Name="Package Details URL--constant.vi" Type="VI" URL="../Package Details URL--constant.vi"/>
+	<Item Name="Packages List Path--constant.vi" Type="VI" URL="../Packages List Path--constant.vi"/>
 	<Item Name="Perform Search Packages.vi" Type="VI" URL="../Perform Search Packages.vi"/>
 	<Item Name="Save Repos to File.vi" Type="VI" URL="../Save Repos to File.vi"/>
 	<Item Name="Search Strings.vi" Type="VI" URL="../Search Strings.vi"/>
 	<Item Name="Session Timeout--constant.vi" Type="VI" URL="../Session Timeout--constant.vi"/>
 	<Item Name="Set Content Type JSON.vi" Type="VI" URL="../Set Content Type JSON.vi"/>
 	<Item Name="Sort Packages.vi" Type="VI" URL="../Sort Packages.vi"/>
+	<Item Name="WebServices Base URL--constant.vi" Type="VI" URL="../WebServices Base URL--constant.vi"/>
 	<Item Name="WebServices path--constant.vi" Type="VI" URL="../WebServices path--constant.vi"/>
 </Library>
