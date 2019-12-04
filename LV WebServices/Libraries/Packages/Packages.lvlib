@@ -14,10 +14,6 @@
 		<Item Name="Repo.lvclass" Type="LVClass" URL="../Repo_class/Repo.lvclass"/>
 		<Item Name="VIPM Package.lvclass" Type="LVClass" URL="../VIPM Package_class/VIPM Package.lvclass"/>
 	</Item>
-	<Item Name="Private" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Item Name="Find Package By Name.vi" Type="VI" URL="../Find Package By Name.vi"/>
-	</Item>
 	<Item Name="TypeDefs" Type="Folder">
 		<Item Name="Package--cluster.ctl" Type="VI" URL="../Package--cluster.ctl"/>
 	</Item>

@@ -13,23 +13,15 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="TypeDefs" Type="Folder">
 		<Item Name="Search Filters.ctl" Type="VI" URL="../Search Filters.ctl"/>
-		<Item Name="TestResult JSON--cluster.ctl" Type="VI" URL="../TestResult JSON--cluster.ctl"/>
-		<Item Name="TestStation JSON--cluster.ctl" Type="VI" URL="../TestStation JSON--cluster.ctl"/>
-		<Item Name="UserAccount JSON--cluster.ctl" Type="VI" URL="../UserAccount JSON--cluster.ctl"/>
 	</Item>
 	<Item Name="Add CORS Headers.vi" Type="VI" URL="../Add CORS Headers.vi"/>
 	<Item Name="All Filter string--constant.vi" Type="VI" URL="../All Filter string--constant.vi"/>
-	<Item Name="Check Authentication.vi" Type="VI" URL="../Check Authentication.vi"/>
-	<Item Name="Check if Session Exists.vi" Type="VI" URL="../Check if Session Exists.vi"/>
-	<Item Name="Create HTTP Session.vi" Type="VI" URL="../Create HTTP Session.vi"/>
 	<Item Name="FGV ErrorLog.vi" Type="VI" URL="../FGV ErrorLog.vi"/>
 	<Item Name="FGV EventLog.vi" Type="VI" URL="../FGV EventLog.vi"/>
 	<Item Name="FGV HTTPLog.vi" Type="VI" URL="../FGV HTTPLog.vi"/>
-	<Item Name="Find Expression in Array of Strings.vi" Type="VI" URL="../Find Expression in Array of Strings.vi"/>
 	<Item Name="Format Log Message on Single Line.vi" Type="VI" URL="../Format Log Message on Single Line.vi"/>
 	<Item Name="GCentral Public Directory--constant.vi" Type="VI" URL="../GCentral Public Directory--constant.vi"/>
 	<Item Name="GCentral Temporary Directory--constant.vi" Type="VI" URL="../GCentral Temporary Directory--constant.vi"/>
-	<Item Name="Get HTTP Session Attributes.vi" Type="VI" URL="../Get HTTP Session Attributes.vi"/>
 	<Item Name="GV_Repos.vi" Type="VI" URL="../GV_Repos.vi"/>
 	<Item Name="Handle HTTP Error Reply.vi" Type="VI" URL="../Handle HTTP Error Reply.vi"/>
 	<Item Name="Load Repos from file.vi" Type="VI" URL="../Load Repos from file.vi"/>
@@ -39,7 +31,6 @@
 	<Item Name="Perform Search Packages.vi" Type="VI" URL="../Perform Search Packages.vi"/>
 	<Item Name="Save Repos to File.vi" Type="VI" URL="../Save Repos to File.vi"/>
 	<Item Name="Search Strings.vi" Type="VI" URL="../Search Strings.vi"/>
-	<Item Name="Session Timeout--constant.vi" Type="VI" URL="../Session Timeout--constant.vi"/>
 	<Item Name="Set Content Type JSON.vi" Type="VI" URL="../Set Content Type JSON.vi"/>
 	<Item Name="Sort Packages.vi" Type="VI" URL="../Sort Packages.vi"/>
 	<Item Name="WebServices Base URL--constant.vi" Type="VI" URL="../WebServices Base URL--constant.vi"/>
