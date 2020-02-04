@@ -1,29 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="D008E43EE32F711DF5DC2B35EF14929C371B935E2AB93982DF83D5B2E5307B4909973A485B51DE2F9FFD3FC5BF2E1B5B5B462AFC64BF94BF63FA246B92E68DB2" Timestamp="1D4E0D46A9B7E31" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="318F7D121DAA536332FDA0BE5F65EA20218E539F0CB41294146708B7FD897E547CAFA402200B7AF475CC52F87B9020FF6BAE37D42CEF97EA00A36F688E912F3C" Timestamp="1D4FFD6C49EACE0" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
-		<ParsableNamespace AssemblyFileVersion="6.3.0.49624" FeatureSetName="JavaScript Library" Name="http://www.ni.com/JavaScriptLibrary" Version="6.0.0.49152" />
-		<ParsableNamespace AssemblyFileVersion="6.3.0.49624" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="6.2.0.49154" Version="6.2.0.49154" />
-		<ApplicationVersionInfo Build="6.3.0.49624" Name="LabVIEW NXG" Version="3.1.0" />
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="JavaScript Library" Name="http://www.ni.com/JavaScriptLibrary" OldestCompatibleVersion="6.4.0.49152" Version="6.4.0.49152" />
+		<ParsableNamespace AssemblyFileVersion="6.4.0.49504" FeatureSetName="Editor" Name="http://www.ni.com/PlatformFramework" OldestCompatibleVersion="6.2.0.49154" Version="6.2.0.49154" />
+		<ApplicationVersionInfo Build="6.4.0.49504" Name="LabVIEW NXG" Version="3.1.0" />
 	</SourceModelFeatureSet>
-	<JavaScriptLibrary Id="41cecc793f340e3ae43e085863889e4" ScriptAndLinkDependencies="&quot;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;BusyStateAPI.css&amp;quot;&amp;gt;\r\n&amp;lt;script defer src=&amp;quot;BusyStateAPI.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;\r\n&quot;" xmlns="http://www.ni.com/JavaScriptLibrary">
+	<JavaScriptLibrary Id="41cecc793f340e3ae43e085863889e4" xmlns="http://www.ni.com/JavaScriptLibrary">
 		<Icon Id="3bca34f8800d45df9f9e8a448e602665" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 			<IconPanel Height="[float]40" Id="2b198d10cc0f4914b210c6c271cd9992" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
 				<IconTemplate Height="[float]40" Id="af9ecdf37da148c4a3723685174ec812" Left="[float]0" TemplateName="[string]Blank" Top="[float]0" Width="[float]40" />
 			</IconPanel>
 		</Icon>
+		<DependenciesTextBox Id="28830e1a06d64f038dd32bba9a7bc166" ScriptAndLinkDependencies="&quot;&amp;lt;link rel=&amp;quot;stylesheet&amp;quot; href=&amp;quot;BusyState.css&amp;quot;&amp;gt;\r\n&amp;lt;script defer src=&amp;quot;BusyState.js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;\r\n&quot;" />
 	</JavaScriptLibrary>
 	<EnvoyManagerFile Id="83766077efe045758811c5a27425a854" xmlns="http://www.ni.com/PlatformFramework">
 		<ProjectSettings Id="f5c8e6ec31ba4fd7987677f7a3872a2d" ModelDefinitionType="ProjectSettings" Name="ZProjectSettings" />
-		<NameScopingEnvoy AutomaticallyResolveUp="True" Id="4e976765cfc647439144f6f43893aab7" Name="BusyStateAPI.jsli" NameTracksFileName="True">
+		<NameScopingEnvoy AutomaticallyResolveUp="True" Id="4e976765cfc647439144f6f43893aab7" Name="BusyState.jsli" NameTracksFileName="True">
 			<EmbeddedDefinitionReference Id="7d88a25f31e4483793a039fe2b2b375a" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="SetBusy">
-				<JavaScriptLibraryEntryPoint Id="673f3d2a5b8b4910bdbac6a2a99518b3" Symbol="busyStateAPI.setBusy" xmlns="http://www.ni.com/JavaScriptLibrary">
+				<JavaScriptLibraryEntryPoint Id="673f3d2a5b8b4910bdbac6a2a99518b3" Symbol="busyState.setBusy" xmlns="http://www.ni.com/JavaScriptLibrary">
 					<Icon Id="856d3ff57434a56b565a6d900e516c9" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 						<IconPanel Height="[float]40" Id="1edd8a6ca94749e29b635504bbc87a97" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
-							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Id="eca6160b3bd94b52ae38dd508c300371" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
-								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="b7ab7f7e44a84c1e9a3ff9ee79d2a0d8" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
-								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="dd40da7349bb4b2cb3b6f4414732d551" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
-								<FileNameText Attached="[bool]True" Height="[float]36" Id="afc4f87f219e40fcaa10a867b2d6a153" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]SetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]36">
-									<FontSetting FontFamily="Verdana" FontSize="6" Id="9d1405e9fe714f8695d7805ad42eecfd" />
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="b19de89f04ab4062af5af40342043287" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="59c065a75bdd40b78da395017a6cc22a" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="e4865944eb6d42239054c04c996e640f" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Attached="[bool]True" Height="[float]36" Id="e6cc7ce888634d208909a2cfb23a0574" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]SetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]36">
+									<FontSetting FontFamily="Verdana" FontSize="6" Id="9c3fc1f3eb08407991b27639b028326b" />
 								</FileNameText>
 							</IconTemplate>
 						</IconPanel>
@@ -51,14 +52,14 @@
 				</JavaScriptLibraryEntryPoint>
 			</EmbeddedDefinitionReference>
 			<EmbeddedDefinitionReference Id="68ed1fcf09ce4c7fb0903d3ee4c6f938" ModelDefinitionType="{http://www.ni.com/JavaScriptLibrary}JavaScriptLibraryEntryPoint" Name="UnsetBusy">
-				<JavaScriptLibraryEntryPoint Id="9f44c95615d6442eb602271edcbae3de" Symbol="busyStateAPI.unsetBusy" xmlns="http://www.ni.com/JavaScriptLibrary">
+				<JavaScriptLibraryEntryPoint Id="9f44c95615d6442eb602271edcbae3de" Symbol="busyState.unsetBusy" xmlns="http://www.ni.com/JavaScriptLibrary">
 					<Icon Id="6a13258ea97f477e8a0b3ba103ffb559" ListViewIconCrop="0 0 40 40" xmlns="http://www.ni.com/PlatformFramework">
 						<IconPanel Height="[float]40" Id="40e58e6231b14b1884d14ed5efdf84ee" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
-							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Id="18403ff364114004857b6a43e86b1066" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
-								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="6b4aa9e37b3a4ef1bffba5f35b61109e" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
-								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="8c7e0ca0e86646389e741087c4a3baf0" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
-								<FileNameText Attached="[bool]True" Height="[float]36" Id="8011be3c3ac346c6bfcf3dec6a31ebf4" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]UnsetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]36">
-									<FontSetting FontFamily="Verdana" FontSize="6" Id="6ab6a9018d5a4a9099e3d9098d4f06c5" />
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Id="22dab40197634b4bae8d00e3ec8bffdb" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
+								<Rectangle Fill="[SMSolidColorBrush]#ff727272" Id="3e03d71f622f4f429a46991633546c94" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" Id="2dcbded580324dfb8506a22d7e793273" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
+								<FileNameText Attached="[bool]True" Height="[float]36" Id="62afbc58afde4d94a7c6d5243b6d39eb" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]UnsetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden" Width="[float]36">
+									<FontSetting FontFamily="Verdana" FontSize="6" Id="30c73f45aa794c098b0f9662cf173abb" />
 								</FileNameText>
 							</IconTemplate>
 						</IconPanel>

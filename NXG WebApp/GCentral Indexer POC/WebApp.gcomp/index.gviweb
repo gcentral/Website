@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="3E0DEDE0FF362E980171FF391D9D707E1820237D24E04F7B7E1FD25969AAAF5745B8E8D1E4DE606DC7BA7C43910A3AA3B5EDB250AC5462C4665097D8E9AA4B23" Timestamp="1D5AADCF6A4590D" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="7C296C68CA778AEA55C147DE17F7C2FFF8D3B3BB6E9EDA5E52800573C8084D03FBE198D32D449B31A930C54D398FA887C633C0260687398A4DE2B3CABB027492" Timestamp="1D5DB67B57A495A" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Controls" Name="http://www.ni.com/Controls.LabVIEW.Design" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="LabVIEW Virtual Instrument" Name="http://www.ni.com/LabVIEW.VI" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
@@ -181,7 +181,7 @@
 				<Wire Id="31" Joints="N(35:24)|(567,115) N(18:17)|(651,115)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="32" Joints="N(19:i0)|(4,115) N(34:24)|(29,115)" xmlns="http://www.ni.com/PlatformFramework" />
 				<Wire Id="33" Joints="N(20:i0)|(4,135) N(41:24)|(29,135)" xmlns="http://www.ni.com/PlatformFramework" />
-				<MethodCall Bounds="600 130 40 40" Id="309" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Error Handler - Event Handling Loop.gviweb&quot;" Signature="@2f077b38e93049f58a767295b00fc128" Target="QMH support::Error Handler - Event Handling Loop.gviweb" xmlns="http://www.ni.com/MocCommon">
+				<MethodCall Bounds="600 130 40 40" Id="309" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Error Handler - Event Handling Loop.gviweb&quot;" Signature="@b945a736388e4de2940143b760104574" Target="QMH support::Error Handler - Event Handling Loop.gviweb" xmlns="http://www.ni.com/MocCommon">
 					<p.MethodDeclaration>
 						<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 							<Parameter Id="L0" Desc="message queue in" />
@@ -293,11 +293,11 @@
 						</MethodCall>
 						<Wire Id="595c608aa211473fb1f69acebf74a68d" Joints="N(c0130c225d548d887f3dc9a2a5eae49:R3)|(130,280) N(e2b779c635784e32ac1d20316c5bc091:L3)|(206,280)" xmlns="http://www.ni.com/PlatformFramework" />
 						<Wire Id="e69a3c1e932542f1b84e5b02b6d4ff65" Joints="N(c0130c225d548d887f3dc9a2a5eae49:R0)|(130,250) h(6) v(-75) N(3eed825d1e89487388f61be5905dd2d2:c0t0v)|(326,175)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="af543ea627b9457f9c082f93ab1fbee3" Joints="N(135:125)|(4,280) N(37dba4b532f145db8cd6a78c0dc736b1:L3)|(36,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="545b988f52b747d493ab1e128d97a7d6" Joints="N(37dba4b532f145db8cd6a78c0dc736b1:R3)|(76,280) N(c0130c225d548d887f3dc9a2a5eae49:L3)|(90,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="4747c12bef514a4ea64158f4d6759b9e" Joints="N(dc7fbd7e9f5c4130977ae9fd2d28b9c6:R3)|(366,280) N(694691560a4f4847920bb92b70d8f132:L3)|(425,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<Wire Id="55cbc5733b854e6b85ac0d88edd69d95" Joints="N(694691560a4f4847920bb92b70d8f132:R3)|(465,280) N(136:125)|(482,280)" xmlns="http://www.ni.com/PlatformFramework" />
-						<MethodCall Bounds="36 245 40 40" Id="37dba4b532f145db8cd6a78c0dc736b1" ResolveFailedHint="SetBusy" Signature="@d302c78274d245ceb60f7cc4f8ef218e" Target="BusyStateAPI::BusyStateAPI.jsli::SetBusy" xmlns="http://www.ni.com/MocCommon">
+						<Wire Id="af543ea627b9457f9c082f93ab1fbee3" Joints="N(135:125)|(4,280) N(a5b1a91ab5bf47139f7801a642faa6be:L3)|(36,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="545b988f52b747d493ab1e128d97a7d6" Joints="N(a5b1a91ab5bf47139f7801a642faa6be:R3)|(76,280) N(c0130c225d548d887f3dc9a2a5eae49:L3)|(90,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="4747c12bef514a4ea64158f4d6759b9e" Joints="N(dc7fbd7e9f5c4130977ae9fd2d28b9c6:R3)|(366,280) N(1e8e02b89af3420d87de9f1f9ef1ccfa:L3)|(425,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<Wire Id="55cbc5733b854e6b85ac0d88edd69d95" Joints="N(1e8e02b89af3420d87de9f1f9ef1ccfa:R3)|(465,280) N(136:125)|(482,280)" xmlns="http://www.ni.com/PlatformFramework" />
+						<MethodCall Bounds="36 245 40 40" Id="a5b1a91ab5bf47139f7801a642faa6be" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\BusyState.gcomp\\Set Busy.gviweb&quot;" Signature="@f21715d0c211423283018c143941183e" Target="BusyStateAPI::Set Busy.gviweb" xmlns="http://www.ni.com/MocCommon">
 							<p.MethodDeclaration>
 								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 									<Parameter Id="L3" Desc="error in" />
@@ -307,7 +307,7 @@
 							<Terminal DataType="Error" Direction="Input" Hotspot="0 35" Id="L3" xmlns="http://www.ni.com/PlatformFramework" />
 							<Terminal DataType="Error" Direction="Output" Hotspot="40 35" Id="R3" xmlns="http://www.ni.com/PlatformFramework" />
 						</MethodCall>
-						<MethodCall Bounds="425 245 40 40" Id="694691560a4f4847920bb92b70d8f132" ResolveFailedHint="UnsetBusy" Signature="@1fb27cb019d2490b8fd91d1fdb699d0e" Target="BusyStateAPI::BusyStateAPI.jsli::UnsetBusy" xmlns="http://www.ni.com/MocCommon">
+						<MethodCall Bounds="425 245 40 40" Id="1e8e02b89af3420d87de9f1f9ef1ccfa" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\BusyState.gcomp\\Unset Busy.gviweb&quot;" Signature="@1f140c08e56348658074ca15f048b879" Target="BusyStateAPI::Unset Busy.gviweb" xmlns="http://www.ni.com/MocCommon">
 							<p.MethodDeclaration>
 								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 									<Parameter Id="L3" Desc="error in" />
@@ -400,7 +400,7 @@
 								</Comment>
 							</CaseStructure.Case>
 							<CaseStructure.Case Bounds="5 5 175 135" Id="285df28142094a999cc3cf54c70514e6" Pattern="0, Default">
-								<MethodCall Bounds="60 85 40 40" Id="b4af2cb9ff4f493b829632b658474a72" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\Error Handling.gcomp\\Error Handler.gvi&quot;" Signature="@6409622344c24120afb8c8417b97af15" Target="Error Handling::Error Handler.gvi" xmlns="http://www.ni.com/MocCommon">
+								<MethodCall Bounds="60 85 40 40" Id="b4af2cb9ff4f493b829632b658474a72" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\Error Handling.gcomp\\Error Handler.gvi&quot;" Signature="@b9e0b44a7f4f4bffab4c7997d72fd14e" Target="Error Handling::Error Handler.gvi" xmlns="http://www.ni.com/MocCommon">
 									<p.MethodDeclaration>
 										<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 											<Parameter Id="L3" Desc="error in" />
@@ -508,7 +508,7 @@
 						<Wire Id="230" Joints="N(229:Out)|(216,165) h(10) N(228:formatString)|(226,225)" xmlns="http://www.ni.com/PlatformFramework" />
 						<Wire Id="231" Joints="N(133:132)|(17,260) N(228:c0t0v)|(201,260)" xmlns="http://www.ni.com/PlatformFramework" />
 						<Wire Id="232" Joints="N(137:132)|(4,80) N(138:132)|(482,80)" xmlns="http://www.ni.com/PlatformFramework" />
-						<MethodCall Bounds="261 205 40 40" Id="233" ResolveFailedHint="Build Error Cluster.gvi, Package: (LabVIEW NXG G Standard Library Files, Version: 4.0.0)" Signature="@96de6a230b8b4296bad0a7f9d34bd074" Target="NI::G Core::Error::Build Error Cluster.gvi" xmlns="http://www.ni.com/MocCommon">
+						<MethodCall Bounds="261 205 40 40" Id="233" ResolveFailedHint="Build Error Cluster.gvi, Package: (LabVIEW NXG G Standard Library Files, Version: 4.0.0)" Signature="@32ebbc0a2f784932a6859f172a3b2bc3" Target="NI::G Core::Error::Build Error Cluster.gvi" xmlns="http://www.ni.com/MocCommon">
 							<p.MethodDeclaration>
 								<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 									<Parameter Id="L1" Desc="code" />
@@ -562,7 +562,7 @@
 					<p.Point>65 125</p.Point>
 					<p.Text>Data</p.Text>
 				</WireComment>
-				<MethodCall Bounds="40 290 40 40" Id="292" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Message Queue\\Dequeue Message.gviweb&quot;" Signature="@e8d66ba4b27b425da0051caf2834c25a" Target="QMH support::Message Queue::Dequeue Message.gviweb" xmlns="http://www.ni.com/MocCommon">
+				<MethodCall Bounds="40 290 40 40" Id="292" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Message Queue\\Dequeue Message.gviweb&quot;" Signature="@00bdefa120ae4fdc9cd43335979e9871" Target="QMH support::Message Queue::Dequeue Message.gviweb" xmlns="http://www.ni.com/MocCommon">
 					<p.MethodDeclaration>
 						<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 							<Parameter Id="L0" Desc="message queue in" />
@@ -580,7 +580,7 @@
 					<Terminal DataType="String" Direction="Output" Hotspot="40 25" Id="R2" xmlns="http://www.ni.com/PlatformFramework" />
 					<Terminal DataType="Error" Direction="Output" Hotspot="40 35" Id="R3" xmlns="http://www.ni.com/PlatformFramework" />
 				</MethodCall>
-				<MethodCall Bounds="655 290 40 40" Id="305" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Error Handler - Message Handling Loop.gviweb&quot;" Signature="@9eefb8790b07412a84c9f78cddc3af89" Target="QMH support::Error Handler - Message Handling Loop.gviweb" xmlns="http://www.ni.com/MocCommon">
+				<MethodCall Bounds="655 290 40 40" Id="305" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Error Handler - Message Handling Loop.gviweb&quot;" Signature="@b0bf9b43715c469a82312bedbb12b8d9" Target="QMH support::Error Handler - Message Handling Loop.gviweb" xmlns="http://www.ni.com/MocCommon">
 					<p.MethodDeclaration>
 						<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 							<Parameter Id="L0" Desc="message queue in" />
@@ -655,7 +655,7 @@
 			<NodeLabel AttachedTo="266" Bounds="110 345 92 18" Id="275" Visible="False" xmlns="http://www.ni.com/PlatformFramework">
 				<p.Text>Data Cluster</p.Text>
 			</NodeLabel>
-			<MethodCall Bounds="110 535 40 40" Id="288" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Message Queue\\Create All Message Queues.gviweb&quot;" Signature="@29717d4157e74eae8c7381ceb64c4228" Target="QMH support::Message Queue::Create All Message Queues.gviweb" xmlns="http://www.ni.com/MocCommon">
+			<MethodCall Bounds="110 535 40 40" Id="288" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\QMH support.gcomp\\Message Queue\\Create All Message Queues.gviweb&quot;" Signature="@3c65c98edf5c4e9993eb89980867c126" Target="QMH support::Message Queue::Create All Message Queues.gviweb" xmlns="http://www.ni.com/MocCommon">
 				<p.MethodDeclaration>
 					<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 						<Parameter Id="L3" Desc="error in" />
@@ -674,7 +674,7 @@
 			<PropertyNode Bounds="122 365 89 35" HasErrorTerminals="False" Id="d5cb3a7f61b24288b9d0afe9f4a0c352" InstanceDataType="@0d573a63531a45d7900084e66490edaf" Mode="InstanceProperties" xmlns="http://www.ni.com/MocCommon">
 				<PropertyItemTerminal Action="Write" DataType="String" Hotspot="0 15" Id="c0t0v" Path="BaseURL" PathElementMemberKinds="Field" Usage="Required" />
 			</PropertyNode>
-			<MethodCall Bounds="60 375 40 40" Id="9adec372a5334b2baa7c1bc1627530ff" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\HTTP Client API.gcomp\\Base URL--constant.gvi&quot;" Signature="@40f4132d24b04814ab70bf71a68d1d2b" Target="HTTP Client API::Base URL--constant.gvi" xmlns="http://www.ni.com/MocCommon">
+			<MethodCall Bounds="60 375 40 40" Id="9adec372a5334b2baa7c1bc1627530ff" ResolveFailedHint="&quot;C:\\GIT Repos\\github-gcentral-website\\NXG WebApp\\GCentral Indexer POC\\HTTP Client API.gcomp\\Base URL--constant.gvi&quot;" Signature="@ff0635f83ec248918eaa24b89cf5b5b1" Target="HTTP Client API::Base URL--constant.gvi" xmlns="http://www.ni.com/MocCommon">
 				<p.MethodDeclaration>
 					<MethodDeclaration xmlns="http://www.ni.com/PlatformFramework">
 						<Parameter Id="R0" Desc="Base URL" />
@@ -796,8 +796,8 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="2f077b38e93049f58a767295b00fc128">
-			<Attributed AttributedType="@3126a1b6e3cc48648755159bb08918e7">
+		<p.TypeReference TypeId="b945a736388e4de2940143b760104574">
+			<Attributed AttributedType="@3507fcfc612f4126a435d6c85fac0e03">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
@@ -850,19 +850,17 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="d302c78274d245ceb60f7cc4f8ef218e">
-			<Attributed AttributedType="@2726fc01fd7d41349643b99608b69ebb">
+		<p.TypeReference TypeId="f21715d0c211423283018c143941183e">
+			<Attributed AttributedType="@f28f94c36040419fac2b7206546628b4">
 				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.Compiler.ParameterCallIndex" Value="[ParameterCallIndexFields]0|0" />
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="1fb27cb019d2490b8fd91d1fdb699d0e">
-			<Attributed AttributedType="@268063143cf840eca378408cd37f5b43">
+		<p.TypeReference TypeId="1f140c08e56348658074ca15f048b879">
+			<Attributed AttributedType="@15a6202abd234a4b8a16e8e55c21fbf9">
 				<AttributeValues>
-					<AttributeValue Name="NationalInstruments.Compiler.ParameterCallIndex" Value="[ParameterCallIndexFields]0|0" />
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
@@ -885,32 +883,32 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="6409622344c24120afb8c8417b97af15">
-			<Attributed AttributedType="@2c58292c24ff48ed9a9e9e969f85fc6d">
+		<p.TypeReference TypeId="b9e0b44a7f4f4bffab4c7997d72fd14e">
+			<Attributed AttributedType="@80c8c34a5830457e8b0495f46907b8cc">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="96de6a230b8b4296bad0a7f9d34bd074">
-			<Attributed AttributedType="@1def5c6610064a11b17b90a405f95390">
+		<p.TypeReference TypeId="32ebbc0a2f784932a6859f172a3b2bc3">
+			<Attributed AttributedType="@0a599548ab0d43fb92f11a67755c1dba">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="e8d66ba4b27b425da0051caf2834c25a">
-			<Attributed AttributedType="@8b8d08abf77c469fa34f1fb9504029c5">
+		<p.TypeReference TypeId="00bdefa120ae4fdc9cd43335979e9871">
+			<Attributed AttributedType="@d75f2c7950c14f9299117953b4e71220">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="9eefb8790b07412a84c9f78cddc3af89">
-			<Attributed AttributedType="@2b0b9a99cd5a4584a2430af02bbec07b">
+		<p.TypeReference TypeId="b0bf9b43715c469a82312bedbb12b8d9">
+			<Attributed AttributedType="@6dc6d20e60d745d18786657c4ea23205">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
@@ -931,16 +929,16 @@
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="29717d4157e74eae8c7381ceb64c4228">
-			<Attributed AttributedType="@528828d441804db2b062e13107415d33">
+		<p.TypeReference TypeId="3c65c98edf5c4e9993eb89980867c126">
+			<Attributed AttributedType="@fd5ebc53bfbe43af9eb22c25bf39e49d">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
 				</AttributeValues>
 			</Attributed>
 		</p.TypeReference>
-		<p.TypeReference TypeId="40f4132d24b04814ab70bf71a68d1d2b">
-			<Attributed AttributedType="@a12f4943f1284a30845112d1d6a5b1de">
+		<p.TypeReference TypeId="ff0635f83ec248918eaa24b89cf5b5b1">
+			<Attributed AttributedType="@962989f2c22249998301f6705513b734">
 				<AttributeValues>
 					<AttributeValue Name="NI.ConnectorPaneHeight" Value="[int]40" />
 					<AttributeValue Name="NI.ConnectorPaneWidth" Value="[int]40" />
@@ -979,7 +977,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]message" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@7cb71016fa5c4cc7afb1de28138c69ec">
+					<Attributed AttributedType="@8143f2e09fc14393ad9b7ae29c9e31f8">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]message data" />
 						</AttributeValues>
@@ -1009,7 +1007,7 @@
 				</ClosedGenericParameters>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="3126a1b6e3cc48648755159bb08918e7">
+		<p.TypeReference TypeId="3507fcfc612f4126a435d6c85fac0e03">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Error Handler - Event Handling Loop.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@28657df4b8af410593172318cc44c911">
@@ -1017,7 +1015,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]message queue in" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@3150e767d0c44bcaa2af6c8c423aa2a3">
+					<Attributed AttributedType="@e745b6bb69754c77ab85a78828853bc5">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]ignore errors (runtime)" />
 						</AttributeValues>
@@ -1043,7 +1041,7 @@
 		<p.TypeReference TypeId="3a019b4e7c4048428dc140aa11722b31">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Open Connection.gvi" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
-					<Attributed AttributedType="@ad87d2beb4154d868994e62bd40512d9">
+					<Attributed AttributedType="@87ff24bc6a2740a2a092e37c44982a5a">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]Root URL" />
 						</AttributeValues>
@@ -1142,8 +1140,8 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="2726fc01fd7d41349643b99608b69ebb">
-			<Function Id="1" IsStatic="True" IsConstructor="False" Name="SetBusy" ReturnType="Void" GenericTypeDefinition="Void">
+		<p.TypeReference TypeId="f28f94c36040419fac2b7206546628b4">
+			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Set Busy.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
 						<AttributeValues>
@@ -1158,8 +1156,8 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="268063143cf840eca378408cd37f5b43">
-			<Function Id="1" IsStatic="True" IsConstructor="False" Name="UnsetBusy" ReturnType="Void" GenericTypeDefinition="Void">
+		<p.TypeReference TypeId="15a6202abd234a4b8a16e8e55c21fbf9">
+			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Unset Busy.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
 						<AttributeValues>
@@ -1177,7 +1175,7 @@
 		<p.TypeReference TypeId="ed28cc1db8574ddbacf14795b84aeb80">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Redirect" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
-					<Attributed AttributedType="@ad87d2beb4154d868994e62bd40512d9">
+					<Attributed AttributedType="@87ff24bc6a2740a2a092e37c44982a5a">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]URL" />
 						</AttributeValues>
@@ -1208,7 +1206,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]error in" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@bc8e94e8ad284ccba915795e9bf4a3da">
+					<Attributed AttributedType="@6cc4f8cb06154c5599c70d7743ec5a02">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]code" />
 						</AttributeValues>
@@ -1216,7 +1214,7 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="2c58292c24ff48ed9a9e9e969f85fc6d">
+		<p.TypeReference TypeId="80c8c34a5830457e8b0495f46907b8cc">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Error Handler.gvi" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
@@ -1232,35 +1230,35 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="1def5c6610064a11b17b90a405f95390">
+		<p.TypeReference TypeId="0a599548ab0d43fb92f11a67755c1dba">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Build Error Cluster.gvi" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
-					<Attributed AttributedType="@420a51e490f34e5db4b8704db9b44981">
+					<Attributed AttributedType="@37e69d64329d470eb1a67e0e58cb7757">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]error in" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@995e1e370a174c9597f0b72b47da9f8b">
+					<Attributed AttributedType="@9342d9983e1c4ee2a115f1fee2e3cb0d">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]code" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@bc87834d4ef04848b0b7a148c548e643">
+					<Attributed AttributedType="@07f0982f77d140a080e688a8abad2617">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]description" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@428e4540f0d84759bf0ec760faf621aa">
+					<Attributed AttributedType="@281594ca50a649f7b19d49d1775efd8b">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]include call chain" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@a0a58268886245c0ab8c555689572723">
+					<Attributed AttributedType="@799fb94d3ce444cab65e81231191ebaf">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]make warning" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@a982809b4eaf45c8a5265f10072ad2b3">
+					<Attributed AttributedType="@20ebc358c31140218beecc34b1c860e1">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]error out" />
 						</AttributeValues>
@@ -1268,7 +1266,7 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="8b8d08abf77c469fa34f1fb9504029c5">
+		<p.TypeReference TypeId="d75f2c7950c14f9299117953b4e71220">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Dequeue Message.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@28657df4b8af410593172318cc44c911">
@@ -1304,7 +1302,7 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="2b0b9a99cd5a4584a2430af02bbec07b">
+		<p.TypeReference TypeId="6dc6d20e60d745d18786657c4ea23205">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Error Handler - Message Handling Loop.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@28657df4b8af410593172318cc44c911">
@@ -1312,7 +1310,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]message queue in" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@3150e767d0c44bcaa2af6c8c423aa2a3">
+					<Attributed AttributedType="@e745b6bb69754c77ab85a78828853bc5">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]ignore errors (runtime)" />
 						</AttributeValues>
@@ -1342,7 +1340,7 @@
 				</Parameters>
 			</Event>
 		</p.TypeReference>
-		<p.TypeReference TypeId="528828d441804db2b062e13107415d33">
+		<p.TypeReference TypeId="fd5ebc53bfbe43af9eb22c25bf39e49d">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Create All Message Queues.gviweb" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@08f5358e943649cb9c737e581508df2b">
@@ -1350,7 +1348,7 @@
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]error in" />
 						</AttributeValues>
 					</Attributed>
-					<Attributed AttributedType="@4536ecebec6444f884887914fb60635b">
+					<Attributed AttributedType="@5e3fb3df0e4d4c8bb5e2589d0c81e67e">
 						<AttributeValues>
 							<AttributeValue Name="NI.UserDefinedName" Value="[string]message queues" />
 						</AttributeValues>
@@ -1363,7 +1361,7 @@
 				</Parameters>
 			</Function>
 		</p.TypeReference>
-		<p.TypeReference TypeId="a12f4943f1284a30845112d1d6a5b1de">
+		<p.TypeReference TypeId="962989f2c22249998301f6705513b734">
 			<Function Id="1" IsStatic="True" IsConstructor="False" Name="Base URL--constant.gvi" ReturnType="Void" GenericTypeDefinition="Void">
 				<Parameters>
 					<Attributed AttributedType="@26520808c6c94ad18061855b3225535d">
@@ -1393,7 +1391,7 @@
 		<p.TypeReference TypeId="3b5b3e1fb17342b196ed7367427b1778">
 			<Parameter InputParameterPassingRule="Required" OutputParameterPassingRule="NotAllowed" Name="L1" DataType="String" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="7cb71016fa5c4cc7afb1de28138c69ec">
+		<p.TypeReference TypeId="8143f2e09fc14393ad9b7ae29c9e31f8">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="L2" DataType="String" />
 		</p.TypeReference>
 		<p.TypeReference TypeId="08f5358e943649cb9c737e581508df2b">
@@ -1420,10 +1418,10 @@
 				</Members>
 			</Composite>
 		</p.TypeReference>
-		<p.TypeReference TypeId="3150e767d0c44bcaa2af6c8c423aa2a3">
+		<p.TypeReference TypeId="e745b6bb69754c77ab85a78828853bc5">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="L1" DataType="Int32[]" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="ad87d2beb4154d868994e62bd40512d9">
+		<p.TypeReference TypeId="87ff24bc6a2740a2a092e37c44982a5a">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="L0" DataType="String" />
 		</p.TypeReference>
 		<p.TypeReference TypeId="d2bc5392fe45455bbc947d8d34fab001">
@@ -1455,31 +1453,31 @@
 		<p.TypeReference TypeId="71a72b3f7f1d41e5984112340fff5ba6">
 			<Parameter InputParameterPassingRule="Required" OutputParameterPassingRule="NotAllowed" Name="L0" DataType="Error" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="bc8e94e8ad284ccba915795e9bf4a3da">
+		<p.TypeReference TypeId="6cc4f8cb06154c5599c70d7743ec5a02">
 			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R0" DataType="Int32" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="420a51e490f34e5db4b8704db9b44981">
+		<p.TypeReference TypeId="37e69d64329d470eb1a67e0e58cb7757">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="L0" DataType="Error" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="995e1e370a174c9597f0b72b47da9f8b">
+		<p.TypeReference TypeId="9342d9983e1c4ee2a115f1fee2e3cb0d">
 			<Parameter InputParameterPassingRule="Required" OutputParameterPassingRule="NotAllowed" Name="L1" DataType="Int32" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="bc87834d4ef04848b0b7a148c548e643">
+		<p.TypeReference TypeId="07f0982f77d140a080e688a8abad2617">
 			<Parameter InputParameterPassingRule="Optional" OutputParameterPassingRule="NotAllowed" Name="L2" DataType="String" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="428e4540f0d84759bf0ec760faf621aa">
+		<p.TypeReference TypeId="281594ca50a649f7b19d49d1775efd8b">
 			<Parameter InputParameterPassingRule="Recommended" OutputParameterPassingRule="NotAllowed" Name="T0" DataType="Boolean" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="a0a58268886245c0ab8c555689572723">
+		<p.TypeReference TypeId="799fb94d3ce444cab65e81231191ebaf">
 			<Parameter InputParameterPassingRule="Optional" OutputParameterPassingRule="NotAllowed" Name="T1" DataType="Boolean" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="a982809b4eaf45c8a5265f10072ad2b3">
+		<p.TypeReference TypeId="20ebc358c31140218beecc34b1c860e1">
 			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R0" DataType="Error" />
 		</p.TypeReference>
 		<p.TypeReference TypeId="e52ffe8f922c4d5bb269e2fdd3e9d7a8">
 			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R2" DataType="String" />
 		</p.TypeReference>
-		<p.TypeReference TypeId="4536ecebec6444f884887914fb60635b">
+		<p.TypeReference TypeId="5e3fb3df0e4d4c8bb5e2589d0c81e67e">
 			<Parameter InputParameterPassingRule="NotAllowed" OutputParameterPassingRule="Recommended" Name="R0" DataType="@c928c81887454962b92594161c490bf8" />
 		</p.TypeReference>
 		<p.TypeReference TypeId="e0e6c5b47a2f468685456ef5a72b010f">
@@ -1660,39 +1658,37 @@
 				</MergeItem>
 			</MergeScript>
 		</p.IconModel>
-		<p.IconModel Target="BusyStateAPI::BusyStateAPI.jsli::SetBusy">
+		<p.IconModel Target="BusyStateAPI::Set Busy.gviweb">
 			<MergeScript>
 				<MergeItem Path="." IsPrimary="True">
 					<Icon ListViewIconCrop="0 0 40 40">
 						<IconPanel Height="[float]40" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
-							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Left="[float]0" TemplateName="[string]Block" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
 								<Rectangle Fill="[SMSolidColorBrush]#ff727272" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
-								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
-								<FileNameText Attached="[bool]True" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]SetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden">
-									<FontSetting FontFamily="Verdana" FontSize="6" />
-								</FileNameText>
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#ffffffff" Top="[float]0" />
+								<Path Data="[PathGeometry]M 18,18 L 0,18 L 0,2 C 0,0.896000028 0.896000028,0 2,0 L 18,0 L 18,18 Z" Fill="[SMSolidColorBrush]#b2000000" Height="[float]18" HorizontalAlignment="[HorizontalAlignment]Left" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]18" />
 							</IconTemplate>
-							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyStateAPI.gcomp" Top="[float]0" Width="[float]40" />
-							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][JSLI]&lt;BusyStateAPI.jsli&gt;" Top="[float]0" Width="[float]40" />
+							<Path Data="[PathGeometry]M 4.875,10.5625 L 8.125,10.5625 L 6.5,8.125 L 4.875,10.5625 Z M 5.6875,7.3125 L 5.6875,5.6875 L 3.25,1.625 L 9.75,1.625 L 7.3125,5.6875 L 7.3125,7.3125 L 9.75,11.375 L 3.25,11.375 L 5.6875,7.3125 Z M 0,0 L 4.0625,5.6875 L 4.0625,7.3125 L 0,13 L 13,13 L 8.9375,7.3125 L 8.9375,5.6875 L 13,0 L 0,0 Z" EditMode="[ShapeEditMode]FixedPath" Fill="[SMSolidColorBrush]#ffe5e5e5" Height="[float]13" Left="[float]5" MinHeight="[float]1" MinWidth="[float]1" Stroke="[SMSolidColorBrush]#00ffffff" Top="[float]4" Width="[float]13" />
+							<Path Data="[PathGeometry]M 10.4969997,5.45499992 L 14.75,3.24300003 L 12.5319996,7.48999977 L 17.9839993,8.93299961 L 12.5299997,10.3699999 L 14.7419996,14.6239996 L 10.4919996,12.4060001 L 9.05099964,17.8579998 L 7.61399984,12.4029999 L 3.3599999,14.6190004 L 5.57800007,10.368 L 0,8.92500019 L 5.57800007,7.48799992 L 3.36599994,3.2349999 L 7.61600018,5.45300007 L 9.06000042,0 L 10.4969997,5.45499992 Z" EditMode="[ShapeEditMode]FixedPath" Fill="[SMSolidColorBrush]#b2000000" Height="[float]17.858" Left="[float]20" MinHeight="[float]1" MinWidth="[float]1" Stroke="[SMSolidColorBrush]#00ffffff" Top="[float]18" Width="[float]17.984" />
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyState.gcomp" Top="[float]0" Width="[float]40" />
 						</IconPanel>
 					</Icon>
 				</MergeItem>
 			</MergeScript>
 		</p.IconModel>
-		<p.IconModel Target="BusyStateAPI::BusyStateAPI.jsli::UnsetBusy">
+		<p.IconModel Target="BusyStateAPI::Unset Busy.gviweb">
 			<MergeScript>
 				<MergeItem Path="." IsPrimary="True">
 					<Icon ListViewIconCrop="0 0 40 40">
 						<IconPanel Height="[float]40" Left="[float]0" MinHeight="[float]0" MinWidth="[float]0" PanelSizeMode="Resize" Top="[float]0" Width="[float]40">
-							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" Left="[float]0" TemplateName="[string]Gray" Top="[float]0" Width="[float]40">
+							<IconTemplate ClipMargin="[SMThickness]3,3,3,3" Height="[float]40" HorizontalAlignment="[HorizontalAlignment]Stretch" Left="[float]0" TemplateName="[string]Block" Top="[float]0" VerticalAlignment="[VerticalAlignment]Stretch" Width="[float]40">
 								<Rectangle Fill="[SMSolidColorBrush]#ff727272" IsHitTestVisible="[bool]False" Left="[float]0" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]4" RadiusY="[float]4" Top="[float]0" />
-								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#fff2f2f2" Top="[float]0" />
-								<FileNameText Attached="[bool]True" Left="[float]0" Margin="[SMThickness]2,2,2,2" SizeMode="[TextModelSizeMode]AutoFont" Text="[string]UnsetBusy" TextAlignment="[TextAlignment]Center" TextWrapping="[TextWrapping]Wrap" Top="[float]0" VerticalScrollBarVisibility="[ScrollBarVisibility]Hidden">
-									<FontSetting FontFamily="Verdana" FontSize="6" />
-								</FileNameText>
+								<Rectangle Fill="[SMSolidColorBrush]#ffe5e5e5" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]1,1,1,1" MinHeight="[float]1" MinWidth="[float]1" RadiusX="[float]2.5" RadiusY="[float]2.5" Stroke="[SMSolidColorBrush]#ffffffff" Top="[float]0" />
+								<Path Data="[PathGeometry]M 18,18 L 0,18 L 0,2 C 0,0.896000028 0.896000028,0 2,0 L 18,0 L 18,18 Z" Fill="[SMSolidColorBrush]#b2000000" Height="[float]18" HorizontalAlignment="[HorizontalAlignment]Left" IsHitTestVisible="[bool]False" Left="[float]0" Margin="[SMThickness]2,2,2,2" MinHeight="[float]1" MinWidth="[float]1" Top="[float]0" VerticalAlignment="[VerticalAlignment]Top" Width="[float]18" />
 							</IconTemplate>
-							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyStateAPI.gcomp" Top="[float]0" Width="[float]40" />
-							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][JSLI]&lt;BusyStateAPI.jsli&gt;" Top="[float]0" Width="[float]40" />
+							<Path Data="[PathGeometry]M 4.875,10.5625 L 8.125,10.5625 L 6.5,8.125 L 4.875,10.5625 Z M 5.6875,7.3125 L 5.6875,5.6875 L 3.25,1.625 L 9.75,1.625 L 7.3125,5.6875 L 7.3125,7.3125 L 9.75,11.375 L 3.25,11.375 L 5.6875,7.3125 Z M 0,0 L 4.0625,5.6875 L 4.0625,7.3125 L 0,13 L 13,13 L 8.9375,7.3125 L 8.9375,5.6875 L 13,0 L 0,0 Z" EditMode="[ShapeEditMode]FixedPath" Fill="[SMSolidColorBrush]#ffe5e5e5" Height="[float]13" Left="[float]5" MinHeight="[float]1" MinWidth="[float]1" Stroke="[SMSolidColorBrush]#00ffffff" Top="[float]4" Width="[float]13" />
+							<Path Data="[PathGeometry]M 11,6.96000004 C 11,9.74351978 8.12716675,12 4.58333349,12 C 4.48005581,12 4.37983322,11.9918404 4.27777767,11.9880009 L 4.27777767,11.0279999 C 4.37922192,11.03232 4.48005581,11.04 4.58333349,11.04 C 7.44761133,11.04 9.77777767,9.20975971 9.77777767,6.96000004 C 9.77777767,4.71024036 7.44761133,2.88000011 4.58333349,2.88000011 C 4.55888891,2.88000011 4.53566694,2.88192034 4.51122236,2.88287997 L 6.11172247,4.80000019 L 0,2.38464022 L 6.11172247,0 L 4.50816631,1.91903996 L 4.51550007,1.92239988 C 4.53811121,1.92192018 4.56072187,1.92000008 4.58333349,1.92000008 C 8.12716675,1.92000008 11,4.17648029 11,6.96000004 Z" EditMode="[ShapeEditMode]FixedPath" Fill="[SMSolidColorBrush]#ff4d4d4d" Height="[float]12" Left="[float]23" MinHeight="[float]1" MinWidth="[float]1" Stroke="[SMSolidColorBrush]#00ffffff" Top="[float]20" Width="[float]11" />
+							<IconTemplate Height="[float]40" IsHitTestVisible="[bool]False" Left="[float]0" TemplateName="[string][Comp]BusyState.gcomp" Top="[float]0" Width="[float]40" />
 						</IconPanel>
 					</Icon>
 				</MergeItem>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="B4E1000CFEEF2C27D45C01F66AFAE3747542AD9E526F6D94E74B15844C04904021824FC83E98C9116A353E388ACDCC1A11141BFD72175B36FC84B349F0DCAB5A" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="DBA43A91CB9F6E98EF2DD927C998994EE6D1259431118563B739B7DCD052F36AB8BEFE7A036F0F0518346731F633720F2595F3FDBC94B2BF1ECC114DB1F7E253" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Builders/SystemDesigner" Name="http://www.ni.com/Builders/SystemDesigner/SystemModel" OldestCompatibleVersion="6.1.0.0" Version="6.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
@@ -50,8 +50,8 @@
 						<Instance Id="93f0f1c8a6874a6cbed7b6b3dd96c551" Source="{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent">
 							<Symbols p8:Path="[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent" p9:ShowInDiagram="True" p10:Process.AliasName="Objects.gcomp" p10:Process.AssociatedIdentifier="160595e593a742bfa20e623ee6a61771" xmlns:p10="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p9="http://www.ni.com/SystemDesigner/MetaDiagram" xmlns:p8="http://www.ni.com/Core/Proxy" />
 						</Instance>
-						<Instance Id="b21ac30fce734f74b46e06c4d8d418b5" Source="{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent">
-							<Symbols p8:Path="[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent" p9:Process.AliasName="BusyStateAPI.gcomp" p9:Process.AssociatedIdentifier="f0416029c5be40cf86cd480e66a97ac3" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
+						<Instance Id="e963a3cd3a6140a5a7fea05a37ddae99" Source="{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent">
+							<Symbols p8:Path="[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent" p9:Process.AliasName="BusyState.gcomp" p9:Process.AssociatedIdentifier="11e8c75749b14d419c2547123acfa775" xmlns:p9="http://www.ni.com/SystemDesigner/SystemModel" xmlns:p8="http://www.ni.com/Core/Proxy" />
 						</Instance>
 						<Superimposition Id="7" Name="Root Superimposition">
 							<Superimpose Source="24" />
@@ -63,7 +63,7 @@
 								<Superimpose Parent="{:/538}[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoDevice]VireoDevice/[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoModule]VireoModule/VireoTarget" Source="7b49a22ed154dbd8660f40be34a7068" />
 								<Superimpose Parent="{:/538}[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoDevice]VireoDevice/[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoModule]VireoModule/VireoTarget" Source="f2a8d12fa5684252816a68c2b924c498" />
 								<Superimpose Parent="{:/538}[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoDevice]VireoDevice/[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoModule]VireoModule/VireoTarget" Source="93f0f1c8a6874a6cbed7b6b3dd96c551" />
-								<Superimpose Parent="{:/538}[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoDevice]VireoDevice/[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoModule]VireoModule/VireoTarget" Source="b21ac30fce734f74b46e06c4d8d418b5" />
+								<Superimpose Parent="{:/538}[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoDevice]VireoDevice/[{http://www.ni.com/SystemDesigner/VireoBrowser/SystemModel}VireoModule]VireoModule/VireoTarget" Source="e963a3cd3a6140a5a7fea05a37ddae99" />
 							</Superimpose>
 						</Superimposition>
 					</MappingManager>
@@ -94,7 +94,7 @@
 									<SystemHardware Bounds="5 165 301 25" Facade="PartsViewLeaf" Id="511446b113754563873c8ed4fa86108f" MainLabel="$aliasName" SystemModelContent="{:/93f0f1c8a6874a6cbed7b6b3dd96c551}[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent">
 										<SystemDiagramFacadeElement Name="PartsViewLeaf" Size="315 42" />
 									</SystemHardware>
-									<SystemHardware Bounds="5 190 301 25" Facade="PartsViewLeaf" Id="b9a44d5b8032495690e9e708611381c8" MainLabel="$aliasName" SystemModelContent="{:/b21ac30fce734f74b46e06c4d8d418b5}[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent">
+									<SystemHardware Bounds="5 190 301 25" Facade="PartsViewLeaf" Id="9d18adb3b4f8458f896ea303b9818634" MainLabel="$aliasName" SystemModelContent="{:/e963a3cd3a6140a5a7fea05a37ddae99}[{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent]Process.LibraryComponent">
 										<SystemDiagramFacadeElement Name="PartsViewLeaf" Size="315 42" />
 									</SystemHardware>
 								</SystemHardwareGroupDiagram>
@@ -215,7 +215,7 @@
 						<WeakDefaultComponentConfigurationReference Id="cace779eafd8475fb5bd8beb185c83da" PackageName="ni-skyline-file-src-19.5.0.niaddon" Target="NI.SL.File.gcomp" />
 						<WeakDefaultComponentConfigurationReference Id="141c63d2ceae46f1a419fefff260e35e" PackageName="ni-skyline-tdmreader-src-19.5.0.niaddon" Target="NI.SL.TDMReader.gcomp" />
 						<WeakDefaultComponentConfigurationReference Id="53bdef441002403cb75e0fc0a711faa4" PackageName="ni-visa-base-src-19.5.0.niaddon" Target="VISA.gcomp" />
-						<ComponentConfigurationReferenceDependencySource Id="456768608ce64286a1208c09db0ba0c8" Target="BusyStateAPI.gcomp::Configuration1" />
+						<ComponentConfigurationReferenceDependencySource Id="ea7c28c2aef44759b11461597ebac86c" Target="BusyState.gcomp::Configuration1" />
 					</BuildSpecificationDefinition>
 					<EmbeddedDefinitionReference Id="32" ModelDefinitionType="PackageReferencesDefinition" Name="ProjectReferences">
 						<PackageReferencesDefinition />
@@ -265,7 +265,7 @@
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="bcd1dd0547eb4ef2b1cd1e674e17af36" ModelDefinitionType="ComponentDefinition" Name="Error Handling.gcomp" StoragePath="Error Handling.gcomp\Error Handling.gcomp" />
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="f22d97cda054469999f7511bbb27309f" ModelDefinitionType="ComponentDefinition" Name="CustomInputControl.gcomp" StoragePath="CustomInputControl.gcomp\CustomInputControl.gcomp" />
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="ad146cbe89524d63a1a5785d00a2e11a" ModelDefinitionType="ComponentDefinition" Name="Objects.gcomp" StoragePath="Objects.gcomp\Objects.gcomp" />
-					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="5f1dd571f7b843eb9c3c0798a7da89bf" ModelDefinitionType="ComponentDefinition" Name="BusyStateAPI.gcomp" StoragePath="BusyStateAPI.gcomp\BusyStateAPI.gcomp" />
+					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="1a6eff1d751546149103912394481d4a" ModelDefinitionType="ComponentDefinition" Name="BusyState.gcomp" StoragePath="BusyState.gcomp\BusyState.gcomp" />
 				</NameScopingEnvoy>
 				<EmbeddedDefinitionReference Id="37" ModelDefinitionType="RepositoryManagerDefinition" Name="vi.lib.Common" Reparentable="False">
 					<RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Common&quot;" />
@@ -390,7 +390,7 @@
 						<WeakDefaultComponentConfigurationReference Id="e50505be9d64b0494cf58f517ee9741" PackageName="ni-skyline-file-src-19.5.0.niaddon" Target="NI.SL.File.gcomp" />
 						<WeakDefaultComponentConfigurationReference Id="b0898ebdec645de99bfb4d544a708a7" PackageName="ni-skyline-tdmreader-src-19.5.0.niaddon" Target="NI.SL.TDMReader.gcomp" />
 						<WeakDefaultComponentConfigurationReference Id="7c93b2906e62471088ac22f37ae1ddab" PackageName="ni-visa-base-src-19.5.0.niaddon" Target="VISA.gcomp" />
-						<ComponentConfigurationReferenceDependencySource Id="99de20da60354f67821af86621267333" Target="BusyStateAPI.gcomp::Configuration1" />
+						<ComponentConfigurationReferenceDependencySource Id="3d31504e75c34a44b6482cb1ca7db5ba" Target="BusyState.gcomp::Configuration1" />
 					</BuildSpecificationDefinition>
 					<EmbeddedDefinitionReference Id="550" ModelDefinitionType="PackageReferencesDefinition" Name="ProjectReferences">
 						<PackageReferencesDefinition />
@@ -441,7 +441,7 @@
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="f0cfc85455ad4b6a9fc239319e83b0fd" ModelDefinitionType="ComponentDefinition" Name="Error Handling.gcomp" StoragePath="Error Handling.gcomp\Error Handling.gcomp" />
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="656ca4b7dbfe40ceb43952c3c1a34529" ModelDefinitionType="ComponentDefinition" Name="CustomInputControl.gcomp" StoragePath="CustomInputControl.gcomp\CustomInputControl.gcomp" />
 					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="160595e593a742bfa20e623ee6a61771" ModelDefinitionType="ComponentDefinition" Name="Objects.gcomp" StoragePath="Objects.gcomp\Objects.gcomp" />
-					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="f0416029c5be40cf86cd480e66a97ac3" ModelDefinitionType="ComponentDefinition" Name="BusyStateAPI.gcomp" StoragePath="BusyStateAPI.gcomp\BusyStateAPI.gcomp" />
+					<SourceFileReference Bindings="EnvoyManager,ComponentMoC,ContentKind_{http://www.ni.com/Builders/SystemDesigner/SystemModel}Process.LibraryComponent,{http://www.ni.com/SystemDesigner/EnvoyManagement}ProcessBackedEnvoyServiceMetaFactory,{http://www.ni.com/GComponent.xsd}ComponentBaseType_Library" Id="11e8c75749b14d419c2547123acfa775" ModelDefinitionType="ComponentDefinition" Name="BusyState.gcomp" StoragePath="BusyState.gcomp\BusyState.gcomp" />
 				</NameScopingEnvoy>
 				<EmbeddedDefinitionReference Id="651" ModelDefinitionType="RepositoryManagerDefinition" Name="vi.lib.Common" Reparentable="False">
 					<RepositoryManagerDefinition Location="&quot;&lt;AppDir&gt;\\Resources\\vi.lib\\Common&quot;" />
