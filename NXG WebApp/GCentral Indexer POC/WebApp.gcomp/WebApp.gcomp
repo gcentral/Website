@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<SourceFile Checksum="4D84C6EDBF483AC058DDF27387A3590B12FF0F3952E5FC4AB7C6D371C6433541C054860B130FAAB9A1993548F0F213F0A5DFD3B5AB9D7732EB3DE94326812E2C" Timestamp="1D5DB6A2B0B271F" xmlns="http://www.ni.com/PlatformFramework">
+<SourceFile Checksum="A0F1F19B6A0F3B3B84B7D1E17E6C992CD48856F72333992D3F2070495FFD7B7A7384AB93BEBB78E4ED03A8C8496A7B62E9DE311D9A25C7412B4103049EC6AF19" Timestamp="1D5F25749AEC522" xmlns="http://www.ni.com/PlatformFramework">
 	<SourceModelFeatureSet>
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="GComponentFeatureSet" Name="http://www.ni.com/GComponent.xsd" OldestCompatibleVersion="7.1.0.49152" Version="7.1.0.49152" />
 		<ParsableNamespace AssemblyFileVersion="7.1.0.50148" FeatureSetName="Web Module: WebVI" Name="http://www.ni.com/NationalInstruments.LabVIEW.HtmlVI" OldestCompatibleVersion="6.3.0.49152" Version="6.3.0.49152" />
@@ -43,6 +43,7 @@
 					<SourceFileReference Id="86563fc7753141a68bad38bde49c9b61" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="RepoType string to enum.gvi" StoragePath="Support\RepoType string to enum.gvi" />
 					<SourceFileReference Id="5567a9523a264ff0b8753d54f2c26db1" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="GPM Install Instructions URL--constant.gvi" StoragePath="Support\GPM Install Instructions URL--constant.gvi" />
 					<SourceFileReference Id="46b1b5f87125470ba7b2798896b1bc89" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Generate GPM Install Command.gvi" StoragePath="Support\Generate GPM Install Command.gvi" />
+					<SourceFileReference Id="9ed016da16074b37a432d73c7a3748a7" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Get Package Name and Version from URL.gvi" StoragePath="Support\Get Package Name and Version from URL.gvi" />
 				</NameScopingEnvoy>
 				<SourceFileReference Id="391fd3ca2a9648b99771eb40c3ed2e36" ModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.VirtualInstrument" Name="Packages.gviweb" OverridingModelDefinitionType="NationalInstruments.LabVIEW.VI.Modeling.HTMLVirtualInstrument" StoragePath="Packages.gviweb" />
 				<FileReference Bindings=".css" Id="4fe133eb621044f1be067e561769e971" ModelDefinitionType="{http://www.ni.com/PlatformFramework}ExternalFile" Name="style.css" StoragePath="style.css" />
