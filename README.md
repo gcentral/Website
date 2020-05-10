@@ -9,4 +9,5 @@ Pease see [GCentral.org](https://www.gcentral.org/support/collaborate) for detai
 
 ### Documentation
 
-[GCentral's Wiki](https://github.com/gcentral/Website/wiki/GCentral-Wiki)
+[GCentral's Wiki](https://github.com/gcentral/Website/wiki)
+See how you can contribute!
