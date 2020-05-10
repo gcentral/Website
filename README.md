@@ -6,3 +6,7 @@ GCentral's goal is to empower the community to build GCentral into the tool it n
 Pease see [GCentral.org](https://www.gcentral.org/support/collaborate) for detailed instructions how to setup your development environment to work on the indexer.
 
 ### Above all, thank you for sacrificing your time and using your skills and talents and passion to build GCentral.
+
+### Documentation
+
+[GCentral's Wiki] (https://github.com/gcentral/Website/wiki/GCentral-Wiki)
