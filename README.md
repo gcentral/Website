@@ -13,4 +13,4 @@ Pease see [GCentral.org](https://www.gcentral.org/support/collaborate) for detai
 See how you can contribute!
 
 ## Sponsorship
-GCentral.org is a 501(c)3 non profit organization, completely funded through donations and sponsorship. All financial contributions are tax deductable. We apprecate donations and sponsorship in any amount. To donate to GCentral.org please visit our [Sponsorship / Donation page](https://www.gcentral.org/support/donate) or send an email to donate@gmail.org.
+GCentral.org is a 501(c)3 non profit organization, completely funded through donations and sponsorship. All financial contributions are tax deductable. We apprecate donations and sponsorship in any amount. To donate to GCentral.org please visit our [Sponsorship / Donation page](https://www.gcentral.org/support/donate) or send an email to donate@gcentral.org.
