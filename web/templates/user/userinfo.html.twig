@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ profile.displayName }}{% endblock %}
+
+{% block body %}
+    <div class="container text-center pt-3">
+        <p>{{ profile.displayName }}</p>
+        <p>{{ profile.location }}</p>
+    </div>
+{% endblock %}

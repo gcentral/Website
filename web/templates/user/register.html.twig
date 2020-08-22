@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+{% import "include/forms.html.twig" as forms %}
+
+{% block title %}Register{% endblock %}
+
+{% block stylesheets %}{% endblock %}
+
+{% block body %}
+    {{ form_start(form) }}
+        {{ form_errors(form) }}
+
+        {% if error %}
+            <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+        {% endif %}
+
+        <div class="container text-center mb-5">
+            <p class="lead">Creating a GCentral account allows you to manage packages you develop, provide reviews of other developers and packages, and join teams of developers.</p>
+        </div>
+
+        {{ forms.item(form.email) }}
+        {{ forms.item(form.display_name) }}
+        {{ forms.item(form.full_name) }}
+        {{ forms.item(form.location) }}
+
+        <div class="row mt-5">
+            <div class="col-sm-3"></div>
+            <div class="col-sm-6 text-center mb-5">
+                <button class="btn btn-lg btn-dark" type="submit">
+                    Register
+                </button>
+            </div>
+        </div>
+    
+    {{ form_end(form) }}
+{% endblock %}
+
+{% block scripts %}
+{% endblock %}

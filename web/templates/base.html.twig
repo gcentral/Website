@@ -1,0 +1,67 @@
+{# overridable blocks:
+    title - Leading portion of page title
+    stylesheets - additional css to include for the page
+    navbar - typically full website banner, can be overridden to show different nav options
+    pageHeader - upper portion of specific page, typically a banner with an image/text, typically repeats 'title' contents
+    body - page contents
+    scripts - additional javascript to include for the page
+#}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block title %}Home{% endblock %} - GCentral.org</title>
+        <link rel="icon" href="/images/logo-colored.png">
+
+        <!--<meta name="viewport" content="width=device-width, initial-scale=1.0">-->
+
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/gcentral.css">
+
+        {#{{ encore_entry_link_tags('app') }}#}
+
+        {% block stylesheets %}{% endblock %}
+    </head>
+    <body>
+        {% block navbar %}
+            {% include 'nav/topbar.html.twig' %}
+        {% endblock %}
+
+        {% block pageHeader %}
+            <div class="banner">
+                <div class="banner-text blue-grad pl-5">
+                    {% block pageBanner %}
+                        <h4>{{ block('title') }}</h4>
+                    {% endblock %}
+                </div>
+            </div>
+        {% endblock %}
+
+        {% block flashes %}
+            {% for label, messages in app.flashes() %}
+                {% for message in messages %}
+                    <div class="alert flash-{{ label }} text-center">
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endfor %}
+        {% endblock %}
+
+        <div class="content">
+            {% block body %}{% endblock %}
+        </div>
+
+        {% block footer %}
+            {% include 'nav/footer.html.twig' %}
+        {% endblock %}
+
+        <script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
+        <script type="text/javascript" src="/js/popper.min.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.min.js"></script>
+
+        {#{{ encore_entry_script_tags('app') }}#}
+
+        {% block scripts %}{% endblock %}
+    </body>
+</html>

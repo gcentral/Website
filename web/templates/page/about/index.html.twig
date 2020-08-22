@@ -1,0 +1,99 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}About{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>About GCentral</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+
+<style>
+#steering ul {
+    list-style: none;
+}
+
+#steering li {
+    margin-top: 1rem;
+}
+
+.container .nav-tabs {
+    border-bottom: 0px;
+}
+
+.container .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black;
+    background-color: transparent;
+    border-bottom: 4px solid;
+    border-color: transparent transparent #36e;
+}
+</style>
+
+<div class="container justify-content-center">
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="true">About</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">Board of Directors</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="steering-tab" data-toggle="tab" href="#steering" role="tab" aria-controls="steering" aria-selected="false">Steering Committee</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact Us</a>
+        </li>
+    </ul>
+    <div class="tab-content pt-5" id="myTabContent">
+        <div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="about-tab">
+            <h4>About us</h4>
+            <p>GCentral is a non profit organization providing a platform for G code packages and collaboration resources. GCentral is for programmers who need to find, share, or co-develop G reusable code or software engineering tools. GCentral is independent and driven by community experts.</p>
+            <h4 class="mt-5">Our mission</h4>
+            <p>To enable the LabVIEW community to make the best version of itself.<br>To improve our community's capability by removing barriers to collaboration.</p>
+            <h4 class="mt-5">Thanks to those who made GCentral possible</h4>
+            <p>GCentral is a non profit organization providing a platform for G code packages and collaboration resources. GCentral is for programmers who need to find, share, or co-develop G reusable code or software engineering tools. GCentral is independent and driven by community experts.</p>
+        </div>
+        <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
+            <div class="row text-center justify-content-center">
+                <div class="col-12 col-md-6 col-lg-4 mt-5">
+                    <img src="images/board/quentin-alldredge.png"><br>
+                    <span>Quentin Alldredge</span>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mt-5">
+                    <img src="images/board/chris-cilino.png"><br>
+                    <span>Chris Cilino</span>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mt-5">
+                    <img src="images/board/danielle-jobe.png"><br>
+                    <span>Danielle Jobe</span>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mt-5">
+                    <img src="images/board/elijah-kerry.png"><br>
+                    <span>Elijah Kerry</span>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 mt-5">
+                    <img src="images/board/francois-normandin.png"><br>
+                    <span>François Normandin</span>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="steering" role="tabpanel" aria-labelledby="steering-tab">
+            <ul>
+                <li>Michael Aivaliotis</li>
+                <li>Brian Hoover</li>
+                <li>Jeff Kodosky</li>
+                <li>Jon McBee</li>
+                <li>Brian Powell</li>
+                <li>Michal Radziwan</li>
+                <li>Derek Trepanier</li>
+            </ul>
+        </div>
+        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+    </div>
+</div>
+
+<script>
+</script>
+{% endblock %}

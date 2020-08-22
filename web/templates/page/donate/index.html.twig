@@ -1,0 +1,140 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Make a Donation{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>Donate or Sponsor</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+<style>
+.card-donation {
+    border: 1px solid #888;
+}
+
+.info-donation {
+    border-right: 1px solid #888;
+}
+</style>
+
+<div class="container">
+    <h5 class="mt-5">
+        We greatly appreciate both one time donations and recurring sponsorships.<br>
+        GCentral is a 501.c.3 non-profit organization. All donations are tax deductible.
+    </h5>
+
+    <h3 class="mt-5">Become a sponsor</h3>
+
+    <div class="row mt-5">
+        <div class="col-4 px-5">
+            <div class="card text-center p-3">
+                <img src="images/heart.png" class="mx-auto">
+                <h5>Lifetime</h5>
+                <h6>$250K one-time donation</h6>
+                <p class="mt-3">Logo on the GCentral footer in perpetuity</p>
+                <p>Optional video interview</p>
+                <p>Invitation to Sponsor Advisory Board</p>
+                <a href="contact?subject=Lifetime%20Sponsorship" class="btn-or mt-3 p-3">Contact Us</a>
+            </div>
+        </div>
+        <div class="col-4 px-5">
+            <div class="card text-center p-3">
+                <img src="images/diamond.png" class="mx-auto">
+                <h5>Diamond</h5>
+                <h6>$50K per year</h6>
+                <p class="mt-3">Logo on the GCentral footer for one year</p>
+                <p>Optional video interview</p>
+                <p>Invitation to Sponsor Advisory Board</p>
+                <a href="contact?subject=Lifetime%20Sponsorship" class="btn-or mt-3 p-3">Contact Us</a>
+            </div>
+        </div>
+        <div class="col-4 px-5">
+            <div class="card text-center p-3">
+                <img src="images/trophy.png" class="mx-auto">
+                <h5>Platinum</h5>
+                <h6>$36K per year</h6>
+                <p class="mt-3">Logo on the GCentral footer for one year</p>
+                <p>Optional video interview</p>
+                <p>Invitation to Sponsor Advisory Board</p>
+                <a href="contact?subject=Lifetime%20Sponsorship" class="btn-or mt-3 p-3">Contact Us</a>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="mt-5">Become a donor</h3>
+    <div class="row mt-3">
+        <div class="col-7 info-donation">
+            <h6>Select your donation level</h6>
+            <div class="row">
+                <div class="col">
+                    <button id="donation-bronze" class="btn-blue w-100 py-2 selected">Bronze</button>
+                </div>
+                <div class="col">
+                    <button id="donation-silver" class="btn-blue py-2 w-100">Silver</button>
+                </div>
+                <div class="col">
+                    <button id="donation-gold" class="btn-blue py-2 w-100">Gold</button>
+                </div>
+            </div>
+            <h6 class="mt-3">or</h6>
+            <h6 class="mt-3">Enter an amount you'd like to donate</h6>
+            <div class="input-group mt-3">
+                <div class="input-group-prepend">
+                    <span class="input-group-text">US$</span>
+                </div>
+                <input type="number" class="form-control" id="custom_amount">
+            </div>
+        </div>
+        <div class="col-5">
+            <div class="row mb-3">
+                <div class="col-3">
+                    <img src="images/medal-gold.png">
+                </div>
+                <div class="col-9">
+                    <h6>Gold</h6>
+                    <h6>$3000 one-time donation</h6>
+                    <p>Company name on GCentral sponsors page for 6 months</p>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-3">
+                    <img src="images/medal-silver.png">
+                </div>
+                <div class="col-9">
+                    <h6>Silver</h6>
+                    <h6>$1000 one-time donation</h6>
+                    <p>Company name on GCentral sponsors page for 3 months</p>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-3">
+                    <img src="images/medal-bronze.png">
+                </div>
+                <div class="col-9">
+                    <h6>Bronze</h6>
+                    <h6>$250 one-time donation</h6>
+                    <p>Company name on GCentral sponsors page for 1 months</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <h3 class="mt-big">Why donate?</h3>
+    <p class="mt-4">Funds are used to create and maintain infrastructure that reduce/eliminate barriers to sharing and using community packages. Build you/your company's reputation by sharing your code. GCentral.org promises to be one of the most visited sites in the LabVIEW ecosystem.</p>
+
+    <h3 class="mt-5">How donations work</h3>
+    <p class="mt-4">GCentral is a 501(c)3 non profit organization and  all donations are tax deductible.</p>
+    <p>By selecting the sponsorship / donation packages above, you'll be directed to fill out a short form with your contact information. Then you'll be directed to the GCentral portal via the Austin Community Foundation to complete your donation. Within 5 business days a GCentral representative will contact you to gather icons, videos, etc to fill out the package you've selected.</p>
+    <p>Donations of any size are welcome. If you prefer to give an amount not represented by the packages above, please visit the GCentral portal via the Austin Community Foundation to complete your donation.</p>
+    <p>GCentral is working with the Austin Community Foundation to receive grants until we've set up our own system. The Austin Community Foundation is also a 501c3 entity.</p>
+
+    <h3 class="mt-5">How are funds used</h3>
+    <p class="mt-4">GCentral is composed entirely of board members who do not receive any financial compensation. All funds are used in the operations of GCentral.org and execution of the vision/mission.</p>
+
+    <h3 class="mt-5">Can't donate? Want to volunteer?
+    <p class="mt-4"></p>
+</div>
+
+{% endblock %}

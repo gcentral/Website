@@ -1,0 +1,41 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Share{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>Collaborate and help build GCentral</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <p>While not specifically contributing to GCentral, please consider sharing your package with the community through your choice of package manager.  Part of GCentral's mission is to help you to build and share your packages as easily as possible.  While the tools we envision are not in place yet, please see the following resources on how to package your tools and share them:</p>
+    <div class="row justify-content-around">
+        <div class="col-12 col-md-6 col-lg-4 p-3">
+            <div class="card text-center p-4">
+                <img src="images/github.png" class="mx-auto">
+                <h6>Wiki in GitHub</h6>
+                <p>The instructions to get started developing parts of the indexer</p>
+                <a href="https://github.com/gcentral/Website/wiki">View <img src="images/arrow-right.png"></a>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 p-3">
+            <div class="card text-center p-4">
+                <img src="images/github.png" class="mx-auto">
+                <h6>GitHub</h6>
+                <p>The source for the website, APIs, and the indexer</p>
+                <a href="https://github.com/gcentral/Website">View <img src="images/arrow-right.png"></a>
+            </div>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 p-3">
+            <div class="card text-center p-4">
+                <img src="images/logo-lava.png" class="mx-auto w-100">
+                <h6>LAVA</h6>
+                <p>The community run LabVIEW Advanced Virtual Architects forums where you can with other LabVIEW developers.</p>
+                <a href="https://github.com/gcentral/Website">View <img src="images/arrow-right.png"></a>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

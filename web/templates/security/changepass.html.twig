@@ -1,0 +1,85 @@
+{% extends 'base.html.twig' %}
+
+{% import "include/forms.html.twig" as forms %}
+
+{% block title %}Update Password{% endblock %}
+
+{% block navbar %}
+    {% if app.user.getResetPass() %}
+        {% include 'nav/nolinks.html.twig' %}
+    {% else %}
+        {% include 'nav/topbar.html.twig' %}
+    {% endif %}
+{% endblock %}
+
+{% block body %}
+    {{ form_start(form) }}
+        {% if app.user.getResetPass() %}
+            <div class="alert alert-warning text-center">You must update your password.</div>
+        {% endif %}
+
+        {#{{ forms.item(form.old_pass) }}
+        {{ forms.item(form.password) }}#}
+
+        <div class="container">
+            {{ form_widget(form) }}
+
+            <div class="container text-center mt-3">
+                <button class="btn btn-lg btn-dark" type="submit">
+                    Update Password
+                </button>
+            </div>
+        </div>
+    {{ form_end(form) }}
+
+    {#
+    <form method="post">
+        {% if app.user.getResetPass() %}
+            <div class="alert alert-warning text-center">You must update your password.</div>
+        {% endif %}
+        {% if error %}
+            <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+        {% endif %}
+
+        <div class="container text-center pt-3">
+            <div class="form-row">
+                <div class="col-sm-3">
+                    <label for="inputEmail" class="sr-only">Current Password</label>
+                </div>
+                <div class="col-sm-6">
+                    <input type="password" value="" name="old_pass" id="old_pass" class="form-control" placeholder="Current Password" required autofocus>
+                </div>
+            </div>
+        </div>
+
+        <div class="container text-center mt-3">
+            <div class="form-row">
+                <div class="col-sm-3">
+                    <label for="inputPassword" class="sr-only">New Password</label>
+                </div>
+                <div class="col-sm-6">
+                    <input type="password" name="password" id="inputPassword" class="form-control" placeholder="New Password" required>
+                </div>
+            </div>
+        </div>
+
+        <div class="container text-center mt-3">
+            <div class="form-row">
+                <div class="col-sm-3">
+                    <label for="inputPassword2" class="sr-only">Confirm Password</label>
+                </div>
+                <div class="col-sm-6">
+                    <input type="password" name="password2" id="inputPassword2" class="form-control" placeholder="Confirm Password" required>
+                </div>
+            </div>
+        </div>
+
+        <div class="container text-center mt-3">
+
+            <button class="btn btn-lg btn-dark" type="submit">
+                Update Password
+            </button>
+        </div>
+    </form>
+    #}
+{% endblock %}

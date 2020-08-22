@@ -1,0 +1,167 @@
+/* Colors
+    Light blue: #458FF6 Buttons, solid blues, etc.
+    Blue gradient: #407BFF - #5A98F2
+    Orange: #FF891C
+    White
+    Black
+*/
+
+@font-face {
+    font-family: "Mulish";
+    src: url("/fonts/mulish.ttf");
+}
+
+body {
+    padding-top: 3rem;
+    background-color: #fff;
+    font-family: "Mulish";
+    color: #4d4d4d;
+}
+
+.ltblue {
+    background-color: #458FF6;
+    color: #FFF!important;
+}
+
+.ltblue-inv {
+    background-color: #fff;
+    color: #458FF6!important;
+}
+
+.orange {
+    background-color: #FF891C;
+    color: #EEE!important;
+}
+
+.blue-grad {
+    background: linear-gradient(208.18deg, #407BFF 9.05%, #5A98F2 76.4%);
+    color: #EEE!important;
+}
+
+.navbar {
+    font-weight: 600;
+    display: flex;
+    justify-content: space-between;
+}
+
+.navbar-brand {
+    color: #4d4d4d!important;
+}
+
+.nav-item {
+    margin-left: 16px;
+    text-align: right;
+}
+
+.nav-item a {
+    font-weight: 600;
+    color: #4d4d4d;
+}
+
+.page {
+    max-width: 1500px;
+    padding: 10px 30px;
+}
+
+.content {
+    position: relative;
+}
+
+.banner {
+    margin-bottom: 10px;
+}
+
+.banner-text {
+    font-size: 2.5em;
+    font-weight: 600;
+    text-shadow: 0px 0px 6px black;
+    padding: 30px 10px 30px 10px;
+    height: 100%;
+}
+
+.flash-error {
+    color: #721C24;
+    background-color: #F8D7DA;
+    border-color: #F5C6CB;
+}
+
+.flash-warning {
+    color: #856404;
+    background-color: #FFF3CD;
+    border-color: #FFEEBA;
+}
+
+.flash-notice {
+    color: #0C5460;
+    background-color: #D1ECF1;
+    border-color: #BEE5EB;
+}
+
+.flash-success {
+    color: #155724;
+    background-color: #D4EDDA;
+    border-color: #C3E6CB;
+}
+
+.mt-big {
+    margin-top: 150px;
+}
+
+.mt-med {
+    margin-top: 90px;
+}
+
+.card {
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-or {
+    background-color: #FF891C;
+    color: #EEE;
+    border-radius: 0.25rem;
+}
+
+.btn-blue {
+    background-color: white;
+    color: #444;
+    border-radius: 0.25rem;
+    border: 1px solid #458FF6;
+}
+
+.btn-blue:hover {
+    background-color: #458FF6;
+}
+
+.btn-blue.selected {
+    background-color: #458FF6;
+    color: #eee;
+    border: 0px;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+footer a:active {
+    color: #aaa;
+    text-decoration: none;
+}
+
+footer h6 {
+    font-weight: bold;
+}
+
+.h-100 {
+    height: 100%;
+}

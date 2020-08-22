@@ -1,0 +1,188 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Home{% endblock %}
+
+{% block stylesheets %}{{ encore_entry_link_tags('pkg_search') }}{% endblock %}
+
+{% block scripts %}
+    {{ encore_entry_script_tags('pkg_search') }}
+{% endblock %}
+
+{% block pageHeader %}
+    <div class="home-header m-5 text-center">
+        <div class="home-title">Your central location<br>to find reuse G code</div>
+        <p class="text-sm mt-4">GCentral is the global index of G packages</p>
+        <!--<input type="text" name="package_search" id="package_search" placeholder="Search for Packages" class="form-control m-5 col-6 pl-5" style="display: inline;">-->
+        <div class="col-6 mx-auto mt-5">
+            <div id="pkg_search"></div>
+        </div>
+    </div>
+{% endblock %}
+
+{% block body %}
+    <style>
+    .home-title {
+        font-size: 64px;
+        font-weight: bold;
+        color: #4d4d4d;
+    }
+
+    .actions-card {
+        width: 800px;
+        border-radius: 15px;
+        background-color: white;
+        box-shadow: 10px 40px 50px rgba(229, 233, 246, 0.4);
+    }
+
+    .btn-learn-more {
+        color: #458FF6;
+        border-radius: 20px;
+        height: 40px;
+        border: 1px solid;
+        font-size: 18px;
+        background-color: white;
+    }
+
+    .btn-learn-more:hover {
+        color: white;
+        background-color: #458FF6;
+        border: 1px solid #458FF6;
+    }
+
+    .carousel {
+        height: 360px;
+        width: 800px;
+        border-radius: 15px;
+    }
+
+    .card {
+        border: 0px;
+        border-radius: 15px;
+        color: black;
+    }
+
+    .pkg-bg {
+        position: absolute;
+        z-index: -999;
+        opacity: 0.4;
+        top: -500px;
+        left: 15px;
+    }
+    </style>
+
+    <img src="/images/package-532.png" class="pkg-bg">
+
+    <div class="text-center mt-big">
+        <h2>What is GCentral?</h2>
+        <p>GCentral is the global index of G packages. Discover, download, and install G packages regardless of type.<br>
+        Contribute and share a package.</p>
+    </div>
+
+    <div class="row actions-card mx-auto mt-med pb-4">
+        <div class="col-4 px-3">
+            <img src="images/file-search.png" class="w-100">
+            <h4>Discover</h4>
+            <p>Browse VI, G, and NI packages</p>
+        </div>
+        <div class="col-4 px-3">
+            <img src="images/file-transfer.png" class="w-100">
+            <h4>Download</h4>
+            <p>Quickly and easily download the packages that fit your needs</p>
+        </div>
+        <div class="col-4 px-3">
+            <img src="images/web-setup.png" class="w-100">
+            <h4>Install</h4>
+            <p>Seamlessly install community code to get your work done faster</p>
+        </div>
+        <div class="text-center mt-4 w-100">
+            <button class="btn-learn-more px-3 mx-auto">Learn More</button>
+        </div>
+    </div>
+
+    <div id="carouselExampleIndicators" class="carousel slide blue-grad mt-big mx-auto" data-ride="carousel" data-interval="10000">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+        </ol>
+        <div class="carousel-inner pt-5">
+            <div class="carousel-item active text-center">
+                <h3>Founder Statement</h3>
+                <div style="width: 80%;" class="row mx-auto mt-5">
+                    <div class="col-6">
+                        <img src="images/cilino.png">
+                        <div style="display: inline-block;">Chris Cilino<br><span style="font-size:11px;">Founder and President</span></div>
+                    </div>
+                    <div class="col-6">"This is a much needed service in my line of work. Working across package ecosystems will speed up my development efforts."</div>
+                </div>                    
+            </div>
+            <div class="carousel-item">
+                &nbsp;
+            </div>
+            <div class="carousel-item">
+                &nbsp;
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+
+    <div class="container mt-big">
+        <div class="text-center">
+            <h2>Get involved with GCentral</h2>
+        </div>
+        <div class="row mt-5">
+            <div class="col-4 px-3">
+                <div class="card">
+                    <img src="images/donate.png">
+                    <div class="p-4">
+                        <h5>Donate</h5>
+                        <p>Become a supporter and help GCentral meet its goals.</p>
+                        <a href="donate" class="gc-link">Donate <img src="images/arrow-right.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 px-3">
+                <div class="card">
+                    <img src="images/present.png">
+                    <div class="p-4">
+                        <h5>Share your work</h5>
+                        <p>Show off your work to the community and get or give feedback.</p>
+                        <a href="share" class="gc-link">Share <img src="images/arrow-right.png"></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-4 px-3">
+                <div class="card">
+                    <img src="images/collaborate.png">
+                    <div class="p-4">
+                        <h5>Collaborate with us</h5>
+                        <p>Help us make GCentral more useful and valuable.</p>
+                        <a href="collaborate" class="gc-link">Collaborate <img src="images/arrow-right.png"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container mt-big">
+        <div class="text-center">
+            <h2>Our Sponsors</h2>
+        </div>
+        <div class="row mt-5">
+            <div class="col"><img src="images/sponsors/composed-systems.png"></div>
+            <div class="col"><img src="images/sponsors/q-software-innovations.png"></div>
+            <div class="col"><img src="images/sponsors/studio-bods.png"></div>
+            <div class="col"><img src="images/sponsors/vi-shots.png"></div>
+            <div class="col"><img src="images/sponsors/stravaro-llc.png"></div>
+            <div class="col"><img src="images/sponsors/moore-good-ideas.png"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}

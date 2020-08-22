@@ -1,0 +1,167 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Resources{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>Community Resources</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+
+<style>
+#steering ul {
+    list-style: none;
+}
+
+#steering li {
+    margin-top: 1rem;
+}
+
+.container .nav-tabs {
+    border-bottom: 0px;
+}
+
+.container .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: black;
+    background-color: transparent;
+    border-bottom: 4px solid;
+    border-color: transparent transparent #36e;
+}
+
+#partners img {
+    width: 125px;
+    margin-top: 2rem;
+}
+</style>
+
+<div class="container justify-content-center">
+    <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="links-tab" data-toggle="tab" href="#links" role="tab" aria-controls="links" aria-selected="true">Community Links</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="partners-tab" data-toggle="tab" href="#partners" role="tab" aria-controls="partners" aria-selected="false">Community Partners</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="events-tab" data-toggle="tab" href="#events" role="tab" aria-controls="events" aria-selected="false">Livestreaming Events</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="highlights-tab" data-toggle="tab" href="#highlights" role="tab" aria-controls="highlights" aria-selected="false">Community Highlights</a>
+        </li>
+    </ul>
+    <div class="tab-content pt-5" id="myTabContent">
+        <div class="tab-pane fade show active" id="links" role="tabpanel" aria-labelledby="links-tab">
+            <div class="row justify-content-around">
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">Getting started with VI Package Manager</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>In this video, you'll learn how to make your first VI Package.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">Contributing to the NI Tools Network</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>Learn about and contribute to the NI Tools Network of VI Packages.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">Using NI Package Manager (NIPM)</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>See the Introduction to NI Package Manager on the NI Package Manager Portal.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">Using G Package Manager</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>Visit the GPackage Wiki home to learn about installing and using G Package Manager.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">Package Manager Comparison</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>This is the comparison of package management solutions in the LabVIEW community.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card text-center">
+                        <div class="card-header blue-grad mb-3">
+                            <h6 class="mb-0">What tools are needed?</h6>
+                        </div>
+                        <div class="p-3">
+                            <p>Learn what applications will be needed to use the various tools and how they can work with GCentral.</p>
+                            <a href="#" class="gc-link">View <img src="images/arrow-right.png"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="partners" role="tabpanel" aria-labelledby="partners-tab">
+            <div class="row justify-content-center text-center">
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://lavag.org/" target="_blank"><img src="images/partners/lava.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://labviewwiki.org/" target="_blank"><img src="images/partners/wiki.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://labviewwiki.org/wiki/LabVIEW_Champion" target="_blank"><img src="images/partners/champion.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://www.gdevcon.com/" target="_blank"><img src="images/partners/gdevcon.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://gdevconna.org/" target="_blank"><img src="images/partners/gdevcon-na.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://discord.com/invite/a4WA8Bm" target="_blank"><img src="images/partners/viweek.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://gpackage.io/" target="_blank"><img src="images/partners/gpm.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://www.vipm.io/" target="_blank"><img src="images/partners/vipm.png"></a>
+                </div>
+                <div class="col-12 col-sm-6 col-md-4">
+                    <a href="https://forums.ni.com/" target="_blank"><img src="images/partners/ni.png"></a>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="events" role="tabpanel" aria-labelledby="events-tab">
+            <p>Coming soon...</p>
+        </div>
+        <div class="tab-pane fade" id="highlights" role="tabpanel" aria-labelledby="highlights-tab">
+            <p>Coming soon...</p>
+        </div>
+    </div>
+</div>
+
+<script>
+</script>
+{% endblock %}
