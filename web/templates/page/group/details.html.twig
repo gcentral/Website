@@ -1,0 +1,155 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}{{ group.getDisplayName() }}{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>{{ group.getDisplayName() }}</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+<style>
+    .pkg-name {
+        font-size: 36px;
+    }
+
+    .pkg-desc-label {
+        font-size: 24px;
+        font-weight: bold;
+    }
+
+    .pkg-notes pre {
+        white-space: pre-wrap;
+        word-wrap: break-word;
+        max-height: 300px;
+        overflow-y: auto;
+        border: 1px solid #c4c4c4;   
+    }
+
+    .pkg-install button {
+        border: 0px;
+        border-radius: 0.25rem;
+        padding: 0.5rem 3rem;
+    }
+
+    .pkg-extra {
+        border-left: 2px solid #C4C4C4;
+    }
+
+    .pkg-ex-label {
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 1rem;
+    }
+
+    .pkg-version {
+        font-size: 20px;
+        float: left;
+    }
+
+    .pkg-notify {
+        float: left;
+        margin-left: 50px;
+    }
+
+    .gpm-install {
+        font-family: monospace;
+        padding: 0.25rem;
+        border-radius: 0.25rem;
+        background-color: #eee;
+        padding: 10px 30px 10px 10px;
+        width: 100;
+        outline: none;
+        border: 0;
+    }
+
+    .clear {
+        float: clear;
+    }
+
+    #gpm_copy {
+        position: relative;
+        left: -30px;
+        height: 28px;
+    }
+
+    #gpm_copy:active {
+        background-color: rgba(200, 150, 90, 0.4);
+    }
+
+    .cmd-copy {
+        height: 24px;
+        cursor: pointer;
+    }
+
+    .repo-type {
+        height: 2rem;
+    }
+</style>
+
+{% set packages = group.getPackages() %}
+
+<div class="px-5">
+    <div class="row">
+        <!--<div class="col-6 mx-auto text-center mb-3"><h5>Most Downloaded Packages</h5></div>-->
+    </div>
+    <div class="row justify-content-around">
+        {% for package in packages %}
+            {% set version = package.getVersions()|last %}
+            {% set repotype = version.getRepoType() %}
+
+            <div class="col-12 col-md-6 col-lg-4 p-3">
+                <div class="card">
+                    <div class="row m-0 card-header">
+                        <div class="col pl-2 package-name align-self-center">
+                            <a href="/package/{{package.id}}">{{ package.getDisplayName() }}</a>
+                        </div>
+                        <div class="col-auto p-0">
+                            {% if repotype == 'VIPM' %}
+                                <img src="/images/partners/vipm.png" class="repo-type">
+                            {% elseif repotype == 'GPM' %}
+                                <img src="/images/partners/gpm.png" class="repo-type">
+                            {% endif %}
+                        </div>
+                    </div>
+                    <div class="p-2">
+                        <div class="mt-5">
+                            {% set desc = package.description|length > 150 ? package.description|slice(0, 150) ~ '…' : package.description %}
+                            {{ desc | striptags }}
+                        </div>
+
+                        <div class="mt-5">
+                            {% if package.downloads > 0 %}
+                                <br><br>
+                                Downloads: {{ package.downloads }}<br>
+                            {% endif %}
+
+                            {% if package.AvgRating >= 0 %}
+                                Rating: {{ package.AvgRating < 0 ? 'None' : package.AvgRating }}<br>
+                            {% endif %}
+                        </div>
+
+                        {% if not package.developers.isEmpty() %}
+                            <div class="mt-5">
+                                Developers
+                                <ul>
+                                    {% for group in package.developers %}
+                                        {% if group.getPersonalUser() is null %}
+                                            {# normal group of users #}
+                                            <li><a href="/group/{{ group.id }}">{{ group.getName() }}</a></li>
+                                        {% else %}
+                                            {# single user personal dev group #}
+                                            <li><a href="/user/{{ group.getPersonalUser().id }}">{{ group.getPersonalUser().getDisplayName() }}</a></li>
+                                        {% endif %}
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+    </div>
+</div>
+{% endblock %}

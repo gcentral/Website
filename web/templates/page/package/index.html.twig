@@ -1,0 +1,122 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Search Packages{% endblock %}
+
+{% block stylesheets %}{{ encore_entry_link_tags('pkg_search') }}{% endblock %}
+
+{% block scripts %}
+    {{ encore_entry_script_tags('pkg_search') }}
+{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>Packages</h4>
+    </div>
+    <div class="col-6 mb-5">
+        <div id="pkg_search"></div>
+    </div>
+{% endblock %}
+
+{% block body %}
+<style>
+    .card {
+        height: 100%;
+        border: 0;
+    }
+
+    .card-header {
+        border-radius: 0.25rem 0.25rem 0.25rem 0.25rem !important;
+        background-color: #f5f5f5;
+        height: 100px;
+        padding: 0;
+        border: 0;
+    }
+
+    .pkg-link {
+        color: #444;
+    }
+
+    .pkg-link:hover {
+        color: #444;
+    }
+
+    .repo-type {
+        height: 2rem;
+        float: right;
+    }
+
+    .package-name {
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .hide {
+        display: none;
+    }
+</style>
+
+    <div class="px-5">
+        <div class="row">
+            <!--<div class="col-6 mx-auto text-center mb-3"><h5>Most Downloaded Packages</h5></div>-->
+        </div>
+        <div class="row justify-content-around">
+            {% for package in packages %}
+                {% set version = package.getVersions()|last %}
+                {% set repotype = version.getRepoType() %}
+
+                <div class="col-12 col-md-6 col-lg-4 p-3">
+                    <div class="card">
+                        <a class="pkg-link" href="/package/{{package.id}}">
+                            <div class="row m-0 card-header">
+                                <div class="col pl-2 package-name align-self-center">
+                                    {{ package.getDisplayName() }}
+                                </div>
+                                <div class="col-auto p-0">
+                                    {% if repotype == 'VIPM' %}
+                                        <img src="/images/partners/vipm.png" class="repo-type">
+                                    {% elseif repotype == 'GPM' %}
+                                        <img src="/images/partners/gpm.png" class="repo-type">
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </a>
+                        <div class="p-2">
+                            <div class="mt-5">
+                                {% set desc = package.description|length > 150 ? package.description|slice(0, 150) ~ '…' : package.description %}
+                                {{ desc | striptags }}
+                            </div>
+
+                            <div class="mt-5">
+                                {% if package.downloads > 0 %}
+                                    <br><br>
+                                    Downloads: {{ package.downloads }}<br>
+                                {% endif %}
+
+                                {% if package.AvgRating >= 0 %}
+                                    Rating: {{ package.AvgRating < 0 ? 'None' : package.AvgRating }}<br>
+                                {% endif %}
+                            </div>
+
+                            {% if not package.developers.isEmpty() %}
+                                <div class="mt-5">
+                                    Developers
+                                    <ul>
+                                        {% for group in package.developers %}
+                                            {% if group.getPersonalUser() is null %}
+                                                {# normal group of users #}
+                                                <li><a href="/group/{{ group.id }}">{{ group.getName() }}</a></li>
+                                            {% else %}
+                                                {# single user personal dev group #}
+                                                <li><a href="/user/{{ group.getPersonalUser().id }}">{{ group.getPersonalUser().getDisplayName() }}</a></li>
+                                            {% endif %}
+                                        {% endfor %}
+                                    </ul>
+                                </div>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endblock %}

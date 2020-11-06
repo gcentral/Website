@@ -1,0 +1,11 @@
+Thank you for your registration, {{ newuser.fullName }}!<br/>
+<br/>
+Here is the information you provided:<br/>
+Display Name: {{ newuser.displayName }}<br/>
+Location: {{ newuser.location }}<br/>
+<br/>
+To login, please visit <a href="{{ site }}{{ path('app_login') }}">{{ site }}{{ path('app_login') }}</a> and login with this email and your password:<br/>
+<br/>
+{{ newpass }}<br/>
+<br/>
+Happy coding!
