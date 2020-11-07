@@ -61,7 +61,7 @@ class PackageVersion implements \JsonSerializable
             'package_url' => $this->package_url,
             'repo_type' => $this->repo_type,
             'version' => $this->version,
-            'release_date' => Carbon::instance($this->release_date, 'UTC'),
+            'release_date' => Carbon::instance($this->release_date, 'UTC')->toISOString(),
             'release_notes' => $this->release_notes,
             'dependencies' => $this->deps_string
         ];
