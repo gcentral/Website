@@ -3,10 +3,10 @@
 namespace App\Controller\API;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
+use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\JsonResponse;
 
 use Carbon\Carbon;
@@ -22,12 +22,32 @@ use App\Service\PackageService;
 class PackageAPIController extends AbstractController
 {
     /**
-     * @Route("/api/packages", name="api_packages")
+     * @Route("/api/packages/list", name="api_packages")
      */
-    public function index() {
-        $response = new JsonResponse(['packages' => []]);
+    public function index(EntityManagerInterface $em) {
+        //since we'll be serializing everything 
+        $qb = $em->createQueryBuilder();
+
+        $qb ->select(['p', 'v', 'g', 't', 'r'])
+            ->from(Package::class, 'p')
+            ->leftJoin('p.versions', 'v')
+            ->leftJoin('p.developers', 'g')
+            ->leftJoin('p.tags', 't')
+            ->leftJoin('p.repo', 'r');
+        
+        $query = $qb->getQuery();
+        $packages = $query->getArrayResult();
+        
+        $response = new JsonResponse(['packages' => $packages]);
 
         return $response;
+    }
+
+    /**
+     * @Route("/api/package/{id}", name="api_package_detail")
+     */
+    public function package_detail(Package $package) {
+        return new JsonResponse($package);
     }
 
     /**
