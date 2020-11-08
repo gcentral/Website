@@ -18,6 +18,7 @@ use App\Entity\PackageRepo;
 use App\Entity\DeveloperGroup;
 use App\Repository\PackageRepository;
 use App\Service\PackageService;
+use App\Service\SearchService;
 
 class PackageAPIController extends AbstractController
 {
@@ -53,8 +54,14 @@ class PackageAPIController extends AbstractController
     /**
      * @Route("/api/packages/search", name="api_package_search")
      */
-    public function package_search(Request $request) {
+    public function package_search(Request $request, SearchService $search) {
         $params = json_decode($request->getContent(), true);
+        //$params = [];
+        //$params['terms'] = explode(' ', $q);
+
+        $results = $search->searchPackages($params);
+
+        return new JsonResponse($results);
     }
 
     /**
