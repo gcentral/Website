@@ -1,0 +1,27 @@
+{
+	"author": {
+		"email": "support@mooregoodideas.com",
+		"name": "Moore Good Ideas, Inc",
+		"url": "https://www.mooregoodideas.com"
+	},
+	"bugs": "https://gitlab.com/mgi/gpm-packages/semver/issues",
+	"contributors": [
+		{
+			"email": "derek@mooregoodideas.com",
+			"name": "Derek Trepanier",
+			"url": "http://www.mooregoodideas.com/"
+		}
+	],
+	"description": "An implementation of the Semver spec.",
+	"files": [
+		"Semver"
+	],
+	"keywords": [
+		"version"
+	],
+	"license": "BSD-3-Clause",
+	"lvversion": ">=17",
+	"name": "@mgi/semver",
+	"repository": "https://gitlab.com/mgi/gpm-packages/semver",
+	"version": "0.1.1"
+}
