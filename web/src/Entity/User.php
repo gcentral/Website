@@ -11,7 +11,7 @@ use Symfony\Component\Security\Core\User\UserInterface;
 /**
  * @ORM\Entity(repositoryClass=UserRepository::class)
  */
-class User implements UserInterface
+class User implements UserInterface, \JsonSerializable
 {
     /**
      * @ORM\Id()
@@ -100,6 +100,19 @@ class User implements UserInterface
     {
         $this->packageRatings = new ArrayCollection();
         $this->packageDevelopers = new ArrayCollection();
+    }
+    
+    public function jsonSerialize()
+    {
+        //We're only including the elements that are always
+        //publicly accessible
+        $res = [
+            'id' => $this->id,
+            'display_name' => $this->displayName,
+            'location' => $this->location,
+        ];
+        
+        return $res;
     }
 
     public function getId(): ?int

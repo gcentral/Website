@@ -3,10 +3,10 @@
 namespace App\Controller\API;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
-use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Routing\Annotation\Route;
 use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
+use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\HttpFoundation\JsonResponse;
 
 use Carbon\Carbon;
@@ -18,23 +18,50 @@ use App\Entity\PackageRepo;
 use App\Entity\DeveloperGroup;
 use App\Repository\PackageRepository;
 use App\Service\PackageService;
+use App\Service\SearchService;
 
 class PackageAPIController extends AbstractController
 {
     /**
-     * @Route("/api/packages", name="api_packages")
+     * @Route("/api/packages/list", name="api_packages")
      */
-    public function index() {
-        $response = new JsonResponse(['packages' => []]);
+    public function index(EntityManagerInterface $em) {
+        //since we'll be serializing everything 
+        $qb = $em->createQueryBuilder();
+
+        $qb ->select(['p', 'v', 'g', 't', 'r'])
+            ->from(Package::class, 'p')
+            ->leftJoin('p.versions', 'v')
+            ->leftJoin('p.developers', 'g')
+            ->leftJoin('p.tags', 't')
+            ->leftJoin('p.repo', 'r');
+        
+        $query = $qb->getQuery();
+        $packages = $query->getArrayResult();
+        
+        $response = new JsonResponse(['packages' => $packages]);
 
         return $response;
     }
 
     /**
+     * @Route("/api/package/{id}", name="api_package_detail")
+     */
+    public function package_detail(Package $package) {
+        return new JsonResponse($package);
+    }
+
+    /**
      * @Route("/api/packages/search", name="api_package_search")
      */
-    public function package_search(Request $request) {
+    public function package_search(Request $request, SearchService $search) {
         $params = json_decode($request->getContent(), true);
+        //$params = [];
+        //$params['terms'] = explode(' ', $q);
+
+        $results = $search->searchPackages($params);
+
+        return new JsonResponse($results);
     }
 
     /**

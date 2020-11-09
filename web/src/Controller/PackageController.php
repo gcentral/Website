@@ -5,6 +5,7 @@ namespace App\Controller;
 use App\Entity\Package;
 use App\Repository\PackageRepository;
 use App\Service\PackageService;
+use App\Service\SearchService;
 
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\Routing\Annotation\Route;
@@ -18,49 +19,16 @@ class PackageController extends AbstractController
     /**
      * @Route("/packages", name="package_list")
      */
-    public function index(PackageRepository $repo, PackageService $ps, Request $request) {
+    public function index(PackageRepository $repo, SearchService $search, Request $request) {
         $q = $request->query->get('q');
-        $packages = [];
+        
+        $params = [];
+        $params['terms'] = explode(' ', $q);
 
-        if (empty($q)) {
-            $packages = $repo->findAll();
-        } else {
-            $terms = explode(' ', $q);
-
-            $pkgs = [];
-
-            foreach ($terms as $term) {
-                $p = []; // results for term
-                $p = array_merge($p, $ps->lookupBy(['name' => $term]));
-                $p = array_merge($p, $ps->lookupBy(['description' => $term]));
-
-                foreach ($p as $package) {
-                    $name = $package->getName();
-
-                    if (!array_key_exists($name, $pkgs)) {
-                        $pkgs[$name] = [
-                            'count' => 1,
-                            'package' => $package
-                        ];
-                    } else {
-                        $pkgs[$name]['count'] += 1;
-                    }
-                }
-            }
-
-            $count = [];
-            foreach ($pkgs as $n => $p) {
-                $count[$n] = $p['count'];
-            }
-            arsort($count);
-
-            foreach($count as $n => $c) {
-                $packages[] = $pkgs[$n]['package'];
-            }
-        }
+        $results = $search->searchPackages($params);
 
         return $this->render('page/package/index.html.twig', [
-            'packages' => $packages,
+            'packages' => $results['packages'],
         ]);
     }
     
