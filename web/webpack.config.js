@@ -26,6 +26,7 @@ Encore
     .addEntry('app', './assets/js/app.js')
     .addEntry('update_packages', './assets/js/package/update/index.js')
     .addEntry('pkg_search', './assets/js/package/search/index.js')
+    .addEntry('swagger', './assets/js/swagger/index.js')
 
     // When enabled, Webpack "splits" your files into smaller pieces for greater optimization.
     .splitEntryChunks()
