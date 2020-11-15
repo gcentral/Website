@@ -1,0 +1,246 @@
+{
+    "openapi": "3.0.3",
+    "info": {
+        "title": "GCentral API",
+        "description": "GCentral API provides package searching and dependency management features across several G language (LabVIEW) package types.",
+        "contact": {
+            "name": "API Support",
+            "email": "derrick.bommarito@gcentral.org"
+        },
+        "license": {
+            "name": "MIT",
+            "url": "https://opensource.org/licenses/MIT"
+        },
+        "version": "0.1.0"
+    },
+    "servers": [
+        {
+            "url": "https://test.gcentral.org/api",
+            "description": "Public development testing server."
+        },
+        {
+            "url": "http://localhost/api",
+            "description": "Local development testing server. Requires running the testing server in your development environment."
+        }
+    ],
+    "paths": {
+        "/packages/list": {
+            "get": {
+                "description": "Lists all currently indexed packages.",
+                "responses": {
+                    "200": {
+                        "description": "An object containing an array of \"packages\"",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "packages": {
+                                            "$ref": "#/components/schemas/Package"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "/packages/search": {
+            "post": {
+                "description": "Searches packages by individual word terms.",
+                "requestBody": {
+                    "description": "The search terms and parameters used to find packages. If omitted the full list of packages is returned as if list was called.",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "object",
+                                "properties": {
+                                    "terms": {
+                                        "type": "array",
+                                        "items": {
+                                            "type": "string"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "responses": {
+                    "200": {
+                        "description": "An object containing an array of \"packages\"",
+                        "content": {
+                            "application/json": {
+                                "schema": {
+                                    "type": "object",
+                                    "properties": {
+                                        "packages": {
+                                            "$ref": "#/components/schemas/Package"
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "components": {
+        "schemas": {
+            "Package": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number",
+                        "description": "Unique database id of the package."
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "The unique name that identifies the package in the package's repository."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Describes the package. Can include markup."
+                    },
+                    "url": {
+                        "type": "string",
+                        "description": "URL for where more info can be found for the package."
+                    },
+                    "downloads": {
+                        "type": "number",
+                        "description": "The number of times the package has been installed/downloaded using GCentral tools."
+                    },
+                    "avg_rating": {
+                        "type": "number",
+                        "description": "The average score of all ratings provided for this package."
+                    },
+                    "display_name": {
+                        "type": "string",
+                        "description": "Human readable name of the package."
+                    },
+                    "icon_url": {
+                        "type": "string",
+                        "description": "URL of the icon provided for the package. Currently only VIPM packages provide unique icons."
+                    },
+                    "versions": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Version"
+                        }
+                    },
+                    "developers": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/Developer"
+                        }
+                    },
+                    "tags": {
+                        "type": "array",
+                        "items": {
+                            "type": "string"
+                        }
+                    }
+                }
+            },
+            "User": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number",
+                        "description": "Unique id # of the user."
+                    },
+                    "display_name": {
+                        "type": "string",
+                        "description": "The chosen name to display for the user."
+                    },
+                    "location": {
+                        "type": "string",
+                        "description": "Where the user is located in the universe. If an unscoped location is used it is assumed to be scoped to Earth."
+                    }
+                }
+            },
+            "Developer": {
+                "description": "Represents either a collection of developers for a package or an individual user.",
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number",
+                        "description": "Unique database id for the developer."
+                    },
+                    "name": {
+                        "type": "string",
+                        "description": "Unique name identifying the developer."
+                    },
+                    "display_name": {
+                        "type": "string",
+                        "description": "Human readable name of the developer."
+                    },
+                    "description": {
+                        "type": "string",
+                        "description": "Textual description of the developer. Can include markup. Only populated for groups."
+                    },
+                    "url": {
+                        "type": "string",
+                        "description": "URL of the developer's website. Only populated for groups."
+                    },
+                    "email": {
+                        "type": "string",
+                        "description": "Contact email for the developer. Only populated for groups."
+                    },
+                    "has_user": {
+                        "type": "boolean",
+                        "description": "True if the developer is an individual user. User details will be available in user property."
+                    },
+                    "user": {
+                        "$ref": "#/components/schemas/User"
+                    },
+                    "users": {
+                        "type": "array",
+                        "items": {
+                            "$ref": "#/components/schemas/User"
+                        }
+                    }
+                }
+            },
+            "Version": {
+                "type": "object",
+                "properties": {
+                    "id": {
+                        "type": "number",
+                        "description": "Database id for package version"
+                    },
+                    "package_url": {
+                        "type": "string",
+                        "description": "URL where the package version can be retrieved."
+                    },
+                    "repo_type": {
+                        "type": "string",
+                        "description": "GPM, VIPM, or NIPM to determine what package type this version uses.",
+                        "enum": [
+                            "GPM",
+                            "VIPM",
+                            "NIPM"
+                        ]
+                    },
+                    "release_date": {
+                        "type": "string",
+                        "description": "ISO-8601 Datetime when the version was released. Time is supplied in UTC."
+                    },
+                    "release_notes": {
+                        "type": "string",
+                        "description": "Notes the developer included to describe updates to this version of the package."
+                    },
+                    "dependencies": {
+                        "type": "array",
+                        "items": {
+                            "type": "string",
+                            "description": "Dependency requirement strings that denote the package name and version required."
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

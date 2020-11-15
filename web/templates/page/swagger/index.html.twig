@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}API Doc{% endblock %}
+
+{% block stylesheets %}{{ encore_entry_link_tags('swagger') }}{% endblock %}
+
+{% block scripts %}{{ encore_entry_script_tags('swagger') }}{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>GCentral API Documentation</h4>
+    </div>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <div id="swagger"></div>
+</div>
+{% endblock %}

@@ -56,8 +56,6 @@ class PackageAPIController extends AbstractController
      */
     public function package_search(Request $request, SearchService $search) {
         $params = json_decode($request->getContent(), true);
-        //$params = [];
-        //$params['terms'] = explode(' ', $q);
 
         $results = $search->searchPackages($params);
 

@@ -82,10 +82,16 @@ class DeveloperGroup implements \JsonSerializable
             'url' => $this->url,
             'email' => $this->email,
             'has_user' => !is_null($this->personal_user),
+            'user' => null,
+            'users' => []
         ];
 
         if ($res['has_user']) {
             $res['user'] = $this->personal_user->jsonSerialize();
+        }
+
+        foreach ($this->users as $u) {
+            $res['users'][] = $u->jsonSerialize();
         }
         
         return $res;
