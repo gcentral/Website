@@ -11,6 +11,8 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Cache" Type="Folder"/>
 		<Item Name="Data Types" Type="Folder">
+			<Item Name="API Endpoint.ctl" Type="VI" URL="../API Endpoint.ctl"/>
+			<Item Name="Method.ctl" Type="VI" URL="../Method.ctl"/>
 			<Item Name="search-json.ctl" Type="VI" URL="../search-json.ctl"/>
 		</Item>
 		<Item Name="Server" Type="Folder">
@@ -21,6 +23,7 @@
 		</Item>
 		<Item Name="Utilities" Type="Folder">
 			<Item Name="Download to Cache.vi" Type="VI" URL="../Download to Cache.vi"/>
+			<Item Name="HTTP Headers to Map.vi" Type="VI" URL="../HTTP Headers to Map.vi"/>
 			<Item Name="Strip Build Number.vi" Type="VI" URL="../Strip Build Number.vi"/>
 		</Item>
 	</Item>
@@ -28,6 +31,7 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Data Types" Type="Folder">
 			<Item Name="API Server.ctl" Type="VI" URL="../API Server.ctl"/>
+			<Item Name="Package Search Options.ctl" Type="VI" URL="../Package Search Options.ctl"/>
 			<Item Name="Repo Type.ctl" Type="VI" URL="../Repo Type.ctl"/>
 		</Item>
 		<Item Name="Download And Show Image From Website LV2012 NIVerfied.vi" Type="VI" URL="../Download And Show Image From Website LV2012 NIVerfied.vi"/>

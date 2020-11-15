@@ -17,6 +17,7 @@
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="List Packages.vi" Type="VI" URL="../Tests/List Packages.vi"/>
+			<Item Name="Search Packages by String.vi" Type="VI" URL="../Tests/Search Packages by String.vi"/>
 		</Item>
 		<Item Name="GCentral-API.lvlib" Type="Library" URL="../GCentral-API.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -48,6 +49,7 @@
 				<Item Name="Read BMP Header Info.vi" Type="VI" URL="/&lt;vilib&gt;/picture/bmp.llb/Read BMP Header Info.vi"/>
 				<Item Name="Read JPEG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/jpeg.llb/Read JPEG File.vi"/>
 				<Item Name="Read PNG File.vi" Type="VI" URL="/&lt;vilib&gt;/picture/png.llb/Read PNG File.vi"/>
+				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
