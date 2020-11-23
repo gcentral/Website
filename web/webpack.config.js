@@ -27,6 +27,7 @@ Encore
     .addEntry('update_packages', './assets/js/package/update/index.js')
     .addEntry('pkg_search', './assets/js/package/search/index.js')
     .addEntry('swagger', './assets/js/swagger/index.js')
+    .addEntry('password', './assets/js/form/password/index.js')
 
     // When enabled, Webpack "splits" your files into smaller pieces for greater optimization.
     .splitEntryChunks()
@@ -57,7 +58,7 @@ Encore
     // enables Sass/SCSS support
     .enableSassLoader()
 
-    .enableVueLoader(/*() => {}, { runtimeCompilerBuild: false }*/)
+    .enableVueLoader(() => {}, { runtimeCompilerBuild: false })
 
     // uncomment if you use TypeScript
     //.enableTypeScriptLoader()
