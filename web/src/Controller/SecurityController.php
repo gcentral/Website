@@ -93,6 +93,15 @@ class SecurityController extends AbstractController
             $user = $this->getUser();
             $user->setPassword($passwordEncoder->encodePassword($user, $form->getData()->getPassword()));
 
+            $user->setResetPass(false);
+            $user->setTempKey('');
+
+            $entityManager = $this->getDoctrine()->getManager();
+            $entityManager->persist($user);
+            $entityManager->flush();
+
+            $this->addFlash('success', 'Password changed.');
+
             $mail = $mailer->createMail();
 
             $mail->setFrom($_ENV['MAIL_EMAIL'], $_ENV['MAIL_NAME']);
@@ -102,16 +111,12 @@ class SecurityController extends AbstractController
             $msg = $this->renderView('email/changepass.html.twig');
 
             $mail->msgHTML($msg);
-            $mail->send();
 
-            $user->setResetPass(false);
-            $user->setTempKey('');
-
-            $entityManager = $this->getDoctrine()->getManager();
-            $entityManager->persist($user);
-            $entityManager->flush();
-
-            $this->addFlash('success', 'Password changed.');
+            try {
+                $mail->send();
+            } catch (\Exception $e) {
+                $this->addFlash('warning', 'Unable to send notification email.');
+            }
 
             return $this->redirectToRoute('profile');
         }

@@ -57,8 +57,8 @@
             
             <div class="row mt-5 justify-content-center">
                 <div class="col-auto">
-                    <input type="email" value="{{ last_username }}" name="email" id="inputEmail" class="form-control" placeholder="Email" size="30" required autofocus><br>
-                    <div id="password" class="my-3"></div>
+                    <input type="email" value="{{ last_username }}" name="email" class="form-control" placeholder="Email" size="30" required autofocus><br>
+                    <gc-password name="password" class="my-3"></gc-password>
                     <a href="/recover-pass">Forgot your password?</a><br>
                     <button type="submit" name="submit" class="btn orange w-100 mt-5 mb-2">Sign in</button><br>
                     New user? <a href="/register">Sign up</a>

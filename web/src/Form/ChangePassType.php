@@ -48,15 +48,29 @@ class ChangePassType extends AbstractType
     {
         $builder
             ->add('old_pass', PasswordType::class, [
-                'label' => 'Current Password',
-                'attr' => ['class' => 'form-control mb-3'],
+                'label' => false,
+                'attr' => [
+                    'class' => 'form-control mb-3',
+                    'placeholder' => 'Current Password',
+                    'autofocus' => true
+                ],
             ])
             ->add('password', RepeatedType::class, [
                 'type' => PasswordType::class,
                 'invalid_message' => 'Password fields must match.',
-                'options' => ['attr' => ['class' => 'form-control mb-3']],
-                'first_options' => ['label' => 'New Password'],
-                'second_options' => ['label' => 'Confirm Password'],
+                'first_options' => [
+                    'label' => false,
+                    'attr' => [
+                        'class' => 'form-control mb-3',
+                        'placeholder' => 'New Password'
+                    ]],
+                'second_options' => [
+                    'label' => false,
+                    'attr' => [
+                        'class' => 'form-control mb-3',
+                        'placeholder' => 'Confirm Password'
+                    ]
+                ],
             ])
         ;
     }

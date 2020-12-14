@@ -1,6 +1,6 @@
 <template>
     <div class="password-group">
-        <input :type="type" :name="name" :id="id" class="form-control" placeholder="Password" required>
+        <input :type="type" :name="name" class="form-control" placeholder="Password" required>
         <img src="/images/eye.png" @click="toggleVis">
     </div>
 </template>

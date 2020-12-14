@@ -13,6 +13,14 @@
 {% endblock %}
 
 {% block body %}
+    <style>
+        .pass-form {
+            max-width: 500px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+
     {{ form_start(form) }}
         {% if app.user.getResetPass() %}
             <div class="alert alert-warning text-center">You must update your password.</div>
@@ -21,11 +29,11 @@
         {#{{ forms.item(form.old_pass) }}
         {{ forms.item(form.password) }}#}
 
-        <div class="container">
+        <div class="container pass-form mt-5">
             {{ form_widget(form) }}
 
             <div class="container text-center mt-3">
-                <button class="btn btn-lg btn-dark" type="submit">
+                <button class="btn orange" type="submit">
                     Update Password
                 </button>
             </div>
