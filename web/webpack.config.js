@@ -28,6 +28,7 @@ Encore
     .addEntry('pkg_search', './assets/js/package/search/index.js')
     .addEntry('swagger', './assets/js/swagger/index.js')
     .addEntry('password', './assets/js/form/password/index.js')
+    .addEntry('help', './assets/js/page/help/index.js')
 
     // When enabled, Webpack "splits" your files into smaller pieces for greater optimization.
     .splitEntryChunks()
