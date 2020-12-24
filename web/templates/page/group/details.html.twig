@@ -10,8 +10,9 @@
 
 {% block body %}
 <style>
-    .pkg-name {
-        font-size: 36px;
+    .package-name {
+        font-weight: bold;
+        font-size: 20px;
     }
 
     .pkg-desc-label {
@@ -63,6 +64,14 @@
         outline: none;
         border: 0;
     }
+    
+    .pkg-link {
+        color: #444;
+    }
+
+    .pkg-link:hover {
+        color: #444;
+    }
 
     .clear {
         float: clear;
@@ -101,18 +110,20 @@
 
             <div class="col-12 col-md-6 col-lg-4 p-3">
                 <div class="card">
-                    <div class="row m-0 card-header">
-                        <div class="col pl-2 package-name align-self-center">
-                            <a href="/package/{{package.id}}">{{ package.getDisplayName() }}</a>
+                    <a class="pkg-link" href="/package/{{package.id}}">
+                        <div class="row m-0 card-header">
+                            <div class="col pl-2 package-name align-self-center">
+                                {{ package.getDisplayName() }}
+                            </div>
+                            <div class="col-auto p-0">
+                                {% if repotype == 'VIPM' %}
+                                    <img src="/images/partners/vipm.png" class="repo-type">
+                                {% elseif repotype == 'GPM' %}
+                                    <img src="/images/partners/gpm.png" class="repo-type">
+                                {% endif %}
+                            </div>
                         </div>
-                        <div class="col-auto p-0">
-                            {% if repotype == 'VIPM' %}
-                                <img src="/images/partners/vipm.png" class="repo-type">
-                            {% elseif repotype == 'GPM' %}
-                                <img src="/images/partners/gpm.png" class="repo-type">
-                            {% endif %}
-                        </div>
-                    </div>
+                    </a>
                     <div class="p-2">
                         <div class="mt-5">
                             {% set desc = package.description|length > 150 ? package.description|slice(0, 150) ~ '…' : package.description %}
