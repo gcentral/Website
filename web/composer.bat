@@ -1,3 +1,3 @@
 @echo off
 call env
-xampp\php\php bin/composer.phar %*
+%XAMPP_FOLDER%\php\php bin/composer.phar %*

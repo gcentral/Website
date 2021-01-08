@@ -1,14 +1,15 @@
 @echo off
+call env
 setlocal
 
-set XAMPP_URL=http://dl.gcentral.org/xampp-portable-windows-x64-7.4.13-0-VC15.zip
+set XAMPP_URL=http://dl.gcentral.org/xampp.zip
 set NODEJS_URL=https://nodejs.org/dist/v14.15.4/node-v14.15.4-win-x64.zip
 
-call env
+set CONFIG_SERVER=F
 
 echo:
 echo    === XAMPP ===
-if exist xampp\php\php.exe goto skipxampp
+if exist %XAMPP_FOLDER%\php\php.exe goto skipxampp
 echo:
 
 if exist xampp.zip goto skipxamppdl
@@ -27,13 +28,19 @@ echo:
 <nul set /p ="Extracting...                      "
 call :UnZipFile "%dest%" "%zip%"
 if not %ERRORLEVEL%==0 goto badxamppzip
-del xampp.zip
 echo Done.
 
 echo    === Configure XAMPP ===
-php bin\apache-config.php
+php scripts\apache-config.php
 if not %ERRORLEVEL%==0 goto badconfig
 
+php scripts\mysql-config.php
+if not %ERRORLEVEL%==0 goto badconfig
+
+del xampp.zip
+
+rem create file signifying mysql update is needed
+type nul>%temp%\gc_cfg
 
 goto startcomposer
 
@@ -92,12 +99,19 @@ echo Composer already exists, skipping installation.
 echo:
 echo    === PHP Packages ===
 echo:
+if exist .\vendor\ goto skipphppackages
 call composer install
 
 set EL=%ERRORLEVEL%
 rem echo EL %EL%
 if not %EL%==0 goto badphppackages
 
+goto nodejs
+
+:skipphppackages
+echo vendor folder already exists, skipping.
+
+:nodejs
 echo:
 echo    === NodeJS ===
 
@@ -141,18 +155,77 @@ echo Found NodeJS at %CD%\nodejs\node.exe
 echo:
 echo    === JS Packages ===
 echo:
-rem Need to make sure npm can relaunch node for some of the install actions
-call env
+if exist .\node_modules\ goto skipjspackages
 call npm install
 if not %ERRORLEVEL%==0 goto badnpm
 
+:startbuild
+echo:
+echo    === Building JS ===
+echo:
+call dev
+
+goto populatemysql
+
+:skipjspackages
+echo node_modules folder already exists, skipping.
+
+:populatemysql
+
+if not exist %temp%\gc_cfg goto skipconfigserver
+
+echo:
+echo    === Populating MySQL Database ===
+echo:
+echo Starting MySQL server
+start /min %XAMPP_FOLDER%\mysql_start
+
+rem more ping abuse as a pause
+ping -n 10 127.0.0.1 >nul
+
+echo:
+<nul set /p ="Creating database...               "
+%XAMPP_FOLDER%\mysql\bin\mysql -u root < scripts\setup.sql
+echo Done.
+
+<nul set /p ="Migrating up to test data...       "
+set /p MIGRATION_VERSION=<scripts\gcentral_dev.ver
+call c --no-interaction doctrine:migrations:migrate %MIGRATION_VERSION%
+echo Done.
+echo    Migrated to %MIGRATION_VERSION%
+
+<nul set /p ="Applying versioned data...         "
+rem echo use gcentral_dev; > %temp%\gc.sql
+rem type scripts\gcentral_dev.sql >> %temp%\gc.sql
+%XAMPP_FOLDER%\mysql\bin\mysql -u root < scripts\gcentral_dev.sql
+echo Done.
+
+<nul set /p ="Finishing migration...             "
+call c --no-interaction doctrine:migrations:migrate
+echo Done.
+
+%XAMPP_FOLDER%\xampp_stop
+
+rem remove file signifying mysql deployment is needed
+del %temp%\gc_cfg
+
+:skipconfigserver
+
 echo:
 echo:
-echo    === SETUP COMPLETED ===
+echo    =============================================
+echo    ============== SETUP COMPLETED ==============
+echo    =============================================
 echo:
 echo The development environment should now be ready to use!
 echo You can run the development server with the command:
-echo serve
+echo serve.bat
+echo:
+echo The default login email and password are:
+echo    email: test@gcentral.org
+echo     pass: 123456
+echo:
+pause
 
 exit /b 0
 

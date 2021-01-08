@@ -1,11 +1,11 @@
 @echo off
 call env
 
-cd xampp
+cd %XAMPP_FOLDER%
 
 start /b xampp_start
 
-rem pause for a handful of seconds by abusing ping
+rem Pause for a handful of seconds by abusing ping
 ping -n 4 127.0.0.1 >nul
 
 echo:
@@ -13,6 +13,9 @@ echo:
 echo ======================================================
 echo Server is running. You can access the server at
 echo http://localhost
+echo:
+echo You can manage the mysql database at
+echo http://localhost/phpmyadmin
 echo ======================================================
 echo:
 echo Pressing any key will shutdown the development server.
