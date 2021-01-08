@@ -19,40 +19,29 @@
     margin-top: 1rem;
 }
 
-.container .nav-tabs {
-    border-bottom: 0px;
-}
-
-.container .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
-    color: black;
-    background-color: transparent;
-    border-bottom: 4px solid;
-    border-color: transparent transparent #36e;
-}
-
-#partners img {
+#partners-pane img {
     width: 125px;
     margin-top: 2rem;
 }
 </style>
 
 <div class="container justify-content-center">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <ul class="nav gc-tabs" id="myTab" role="tablist">
         <li class="nav-item">
-            <a class="nav-link active" id="links-tab" data-toggle="tab" href="#links" role="tab" aria-controls="links" aria-selected="true">Community Links</a>
+            <a class="nav-link active" id="links-tab" href="#links" role="tab" aria-controls="links-pane" aria-selected="true">Community Links</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="partners-tab" data-toggle="tab" href="#partners" role="tab" aria-controls="partners" aria-selected="false">Community Partners</a>
+            <a class="nav-link" id="partners-tab" href="#partners" role="tab" aria-controls="partners-pane" aria-selected="false">Community Partners</a>
         </li>
-        <li class="nav-item">
+        {#<li class="nav-item">
             <a class="nav-link" id="events-tab" data-toggle="tab" href="#events" role="tab" aria-controls="events" aria-selected="false">Livestreaming Events</a>
         </li>
         <li class="nav-item">
             <a class="nav-link" id="highlights-tab" data-toggle="tab" href="#highlights" role="tab" aria-controls="highlights" aria-selected="false">Community Highlights</a>
-        </li>
+        </li>#}
     </ul>
     <div class="tab-content pt-5" id="myTabContent">
-        <div class="tab-pane fade show active" id="links" role="tabpanel" aria-labelledby="links-tab">
+        <div class="tab-pane fade show active" id="links-pane" role="tabpanel" aria-labelledby="links-tab">
             <div class="row justify-content-around">
                 <div class="col-12 col-md-6 col-lg-4 p-3">
                     <div class="card text-center">
@@ -122,7 +111,7 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="partners" role="tabpanel" aria-labelledby="partners-tab">
+        <div class="tab-pane fade" id="partners-pane" role="tabpanel" aria-labelledby="partners-tab">
             <div class="row justify-content-center text-center">
                 <div class="col-12 col-sm-6 col-md-4">
                     <a href="https://lavag.org/" target="_blank"><img src="images/partners/lava.png"></a>
@@ -153,15 +142,42 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="events" role="tabpanel" aria-labelledby="events-tab">
+        {#<div class="tab-pane fade" id="events" role="tabpanel" aria-labelledby="events-tab">
             <p>Coming soon...</p>
         </div>
         <div class="tab-pane fade" id="highlights" role="tabpanel" aria-labelledby="highlights-tab">
             <p>Coming soon...</p>
-        </div>
+        </div>#}
     </div>
 </div>
 
 <script>
+
+function changeTab(newTab) {
+    if (newTab == '') {
+        newTab = 'links';
+    }
+
+    var activeTab = document.querySelector('.tab-pane.active');
+    if (activeTab) {
+        var id = activeTab.id.split('-')[0];
+        activeTab.classList.remove('show', 'active');
+        document.getElementById(id + '-tab').classList.remove('active');
+    }
+
+    document.getElementById(newTab + '-tab').classList.add('active');
+    document.getElementById(newTab + '-pane').classList.add('show', 'active');
+}
+
+window.onhashchange = function(e) {
+    var newHash = e.newURL.split('#')[1];
+
+    changeTab(newHash);
+}
+
+
+var hash = window.location.hash.substring(1);
+changeTab(hash);
+
 </script>
 {% endblock %}

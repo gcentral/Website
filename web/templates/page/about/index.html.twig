@@ -32,30 +32,74 @@
 </style>
 
 <div class="container justify-content-center">
-    <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <ul class="nav gc-tabs" id="myTab">
         <li class="nav-item">
-            <a class="nav-link active" id="about-tab" data-toggle="tab" href="#about" role="tab" aria-controls="about" aria-selected="true">About</a>
+            <a class="nav-link" id="about-tab" href="#about" role="tab" aria-controls="about-pane" aria-selected="true">About</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="board-tab" data-toggle="tab" href="#board" role="tab" aria-controls="board" aria-selected="false">Board of Directors</a>
+            <a class="nav-link" id="how-tab" href="#how" role="tab" aria-controls="how-pane" aria-selected="false">How it works</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="steering-tab" data-toggle="tab" href="#steering" role="tab" aria-controls="steering" aria-selected="false">Steering Committee</a>
+            <a class="nav-link" id="board-tab" href="#board" role="tab" aria-controls="board-pane" aria-selected="false">Board of Directors</a>
         </li>
         <li class="nav-item">
-            <a class="nav-link" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="false">Contact Us</a>
+            <a class="nav-link" id="steering-tab" href="#steering" role="tab" aria-controls="steering-pane" aria-selected="false">Steering Committee</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="contact-tab" href="#contact" role="tab" aria-controls="contact-pane" aria-selected="false">Contact Us</a>
         </li>
     </ul>
     <div class="tab-content pt-5" id="myTabContent">
-        <div class="tab-pane fade show active" id="about" role="tabpanel" aria-labelledby="about-tab">
+        <div class="tab-pane fade" id="about-pane" role="tabpanel" aria-labelledby="about-pane-tab">
             <h4>About us</h4>
             <p>GCentral is a non profit organization providing a platform for G code packages and collaboration resources. GCentral is for programmers who need to find, share, or co-develop G reusable code or software engineering tools. GCentral is independent and driven by community experts.</p>
             <h4 class="mt-5">Our mission</h4>
             <p>To enable the LabVIEW community to make the best version of itself.<br>To improve our community's capability by removing barriers to collaboration.</p>
             <h4 class="mt-5">Thanks to those who made GCentral possible</h4>
             <p>GCentral is a non profit organization providing a platform for G code packages and collaboration resources. GCentral is for programmers who need to find, share, or co-develop G reusable code or software engineering tools. GCentral is independent and driven by community experts.</p>
+            <div class="mt-big text-center">
+                <h3>
+                    Learn about GCentral from the CLA Summit 2019 - Austin presentation
+                </h3>
+                <iframe class="mx-auto" width="640" height="360" sandbox="allow-scripts allow-popups allow-forms allow-same-origin allow-popups-to-escape-sandbox allow-downloads" frameborder="0" aria-label="YouTube Video, 2019 CLA 331 Chris Cilino and Quentin Alldredge GCentral - Removing Barriers" src="https://www.youtube.com/embed/H4nFQeP3AYU" allowfullscreen=""></iframe>
+            </div>
         </div>
-        <div class="tab-pane fade" id="board" role="tabpanel" aria-labelledby="board-tab">
+        <div class="tab-pane fade" id="how-pane" role="tabpanel" aria-labelledby="how-pane-tab">
+            <div class="row">
+                <div class="col-12 col-lg-6 order-2 order-lg-1 my-auto">
+                    <div class="mt-5">
+                        <h5>Discover</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 order-1 order-lg-2 text-center">
+                    <img src="/images/search-lg.png" class="mx-auto">
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-12 col-lg-6 text-center">
+                    <img src="/images/transfer-lg.png" class="mx-auto">
+                </div>
+                <div class="col-12 col-lg-6 my-auto">
+                    <div class="mt-5">
+                        <h5>Download</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-12 col-lg-6 order-2 order-lg-1 my-auto">
+                    <div class="mt-5">
+                        <h5>Install</h5>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                    </div>
+                </div>
+                <div class="col-12 col-lg-6 order-1 order-lg-2 text-center">
+                    <img src="/images/software-lg.png" class="mx-auto">
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="board-pane" role="tabpanel" aria-labelledby="board-pane-tab">
             <div class="row text-center justify-content-center">
                 <div class="col-12 col-md-6 col-lg-4 mt-5">
                     <img src="images/board/quentin-alldredge.png"><br>
@@ -79,7 +123,7 @@
                 </div>
             </div>
         </div>
-        <div class="tab-pane fade" id="steering" role="tabpanel" aria-labelledby="steering-tab">
+        <div class="tab-pane fade" id="steering-pane" role="tabpanel" aria-labelledby="steering-pane-tab">
             <ul>
                 <li>Michael Aivaliotis</li>
                 <li>Brian Hoover</li>
@@ -90,10 +134,37 @@
                 <li>Derek Trepanier</li>
             </ul>
         </div>
-        <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">...</div>
+        <div class="tab-pane fade" id="contact-pane" role="tabpanel" aria-labelledby="contact-pane-tab">...</div>
     </div>
 </div>
 
 <script>
+
+function changeTab(newTab) {
+    if (newTab == '') {
+        newTab = 'about';
+    }
+
+    var activeTab = document.querySelector('.tab-pane.active');
+    if (activeTab) {
+        var id = activeTab.id.split('-')[0];
+        activeTab.classList.remove('show', 'active');
+        document.getElementById(id + '-tab').classList.remove('active');
+    }
+
+    document.getElementById(newTab + '-tab').classList.add('active');
+    document.getElementById(newTab + '-pane').classList.add('show', 'active');
+}
+
+window.onhashchange = function(e) {
+    var newHash = e.newURL.split('#')[1];
+
+    changeTab(newHash);
+}
+
+
+var hash = window.location.hash.substring(1);
+changeTab(hash);
+
 </script>
 {% endblock %}

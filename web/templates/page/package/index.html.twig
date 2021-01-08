@@ -67,11 +67,11 @@
                 <div class="col-12 col-md-6 col-lg-4 p-3">
                     <div class="card">
                         <a class="pkg-link" href="/package/{{package.id}}">
-                            <div class="row m-0 card-header">
-                                <div class="col pl-2 package-name align-self-center">
+                            <div class="row m-0 card-header p-3">
+                                <div class="col package-name align-self-center">
                                     {{ package.getDisplayName() }}
                                 </div>
-                                <div class="col-auto p-0">
+                                <div class="col-auto p-0 align-self-center">
                                     {% if repotype == 'VIPM' %}
                                         <img src="/images/partners/vipm.png" class="repo-type">
                                     {% elseif repotype == 'GPM' %}

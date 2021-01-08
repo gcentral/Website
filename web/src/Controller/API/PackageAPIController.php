@@ -40,7 +40,7 @@ class PackageAPIController extends AbstractController
         $packages = $query->getArrayResult();
         
         $response = new JsonResponse(['packages' => $packages]);
-
+        $response->headers->set('Access-Control-Allow-Origin', '*');
         return $response;
     }
 
@@ -59,7 +59,9 @@ class PackageAPIController extends AbstractController
 
         $results = $search->searchPackages($params);
 
-        return new JsonResponse($results);
+        $response = new JsonResponse($results);
+        $response->headers->set('Access-Control-Allow-Origin', '*');
+        return $response;
     }
 
     /**

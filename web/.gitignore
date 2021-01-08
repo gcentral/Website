@@ -1,3 +1,7 @@
+composer.phar
+/xampp/
+/server/
+/nodejs/
 
 ###> symfony/framework-bundle ###
 /.env.local

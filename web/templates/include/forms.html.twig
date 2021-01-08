@@ -15,14 +15,16 @@
     </div>
 {% endmacro %}
 
-{% macro item(item, style = "") %}
+{% macro item(item, style = "", placeholder = "", showLabel = true) %}
     <div class="container text-center mt-3">
         <div class="form-row">
-            <div class="col-sm-3">
-                {{ form_label(item) }}
-            </div>
+            {% if showLabel %}
+                <div class="col-sm-3">
+                    {{ form_label(item) }}
+                </div>
+            {% endif %}
             <div class="col-sm-6">
-                {{ form_widget(item, { 'attr': {'class': 'form-control', 'style': style } }) }}
+                {{ form_widget(item, { 'attr': {'class': 'form-control', 'style': style, 'placeholder': placeholder } }) }}
             </div>
         </div>
         <div class="form-row px-2">

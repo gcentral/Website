@@ -4,9 +4,19 @@
 
 {% block title %}Register{% endblock %}
 
-{% block stylesheets %}{% endblock %}
+{% block pageHeader %}{% endblock %}
 
 {% block body %}
+<style>
+.col-inputs {
+    border-left: 2px solid #C4C4C4;
+}
+
+.gc-input-group {
+    margin-bottom: 2rem;
+}
+
+</style>
     {{ form_start(form) }}
         {{ form_errors(form) }}
 
@@ -14,21 +24,72 @@
             <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
         {% endif %}
 
-        <div class="container text-center mb-5">
-            <p class="lead">Creating a GCentral account allows you to manage packages you develop, provide reviews of other developers and packages, and join teams of developers.</p>
-        </div>
+        <div class="px-3">
+            <div class="row mt-5">
+                <div class="col-md-6 mb-5">
+                    <div class="row mt-5 mx-auto">
+                        <div class="col-2">
+                            <img src="/images/download.png">
+                        </div>
+                        <div class="col-10 pt-3">
+                            <h4>View your download history</h4>
+                        </div>
+                    </div>
+                    <div class="row mt-2 mx-auto">
+                        <div class="col-2">
+                            <img src="/images/feedback.png">
+                        </div>
+                        <div class="col-10 pt-3">
+                            <h4>Get and give feedback</h4>
+                        </div>
+                    </div>
+                    <div class="row mt-2 mx-auto">
+                        <div class="col-2">
+                            <img src="/images/package.png">
+                        </div>
+                        <div class="col-10 pt-3">
+                            <h4>Manage packages</h4>
+                        </div>
+                    </div>
+                    <div class="row mt-2 mx-auto">
+                        <div class="col-2">
+                            <img src="/images/notification.png">
+                        </div>
+                        <div class="col-10 pt-3">
+                            <h4>Get update notifications</h4>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-inputs">
+                    <div class="container px-5">
+                        <h4>Find and download packages you need. It's always free.</h4>
+                        <div class="gc-input-group mt-5">
+                            {{ form_errors(form.email) }}
+                            {{ form_widget(form.email, { 'attr': {'class': 'form-control', 'placeholder': 'Email' } }) }}
+                            <small class="form-text text-muted">{{ form_help(form.email) }}</small>
+                        </div>
+                        <div class="gc-input-group">
+                            {{ form_errors(form.display_name) }}
+                            {{ form_widget(form.display_name, { 'attr': {'class': 'form-control', 'placeholder': 'Display Name' } }) }}
+                            <small class="form-text text-muted">{{ form_help(form.display_name) }}</small>
+                        </div>
+                        <div class="gc-input-group">
+                            {{ form_errors(form.full_name) }}
+                            {{ form_widget(form.full_name, { 'attr': {'class': 'form-control', 'placeholder': 'Full Name' } }) }}
+                            <small class="form-text text-muted">{{ form_help(form.full_name) }}</small>
+                        </div>
+                        <div class="gc-input-group">
+                            {{ form_errors(form.location) }}
+                            {{ form_widget(form.location, { 'attr': {'class': 'form-control', 'placeholder': 'Location' } }) }}
+                            <small class="form-text text-muted">{{ form_help(form.location) }}</small>
+                        </div>
 
-        {{ forms.item(form.email) }}
-        {{ forms.item(form.display_name) }}
-        {{ forms.item(form.full_name) }}
-        {{ forms.item(form.location) }}
-
-        <div class="row mt-5">
-            <div class="col-sm-3"></div>
-            <div class="col-sm-6 text-center mb-5">
-                <button class="btn btn-lg btn-dark" type="submit">
-                    Register
-                </button>
+                        <button class="btn orange w-100 mt-5" type="submit">
+                            Create account
+                        </button>
+                        <p>Already have an account? <a href="/login">Sign in</a></p>
+                    </div>
+                </div>
             </div>
         </div>
     

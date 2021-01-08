@@ -165,3 +165,30 @@ footer h6 {
 .h-100 {
     height: 100%;
 }
+
+.gc-tabs {
+    border-bottom: 0;
+}
+
+.gc-tabs li {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.gc-tabs a {
+    font-weight: 600;
+    color: #4D4D4D;
+}
+
+.gc-tabs a.active {
+    color: black;
+    border-bottom: 4px solid #36e;
+}
+
+.gc-pane:not(.show) {
+    opacity: 0;
+}
+
+.gc-fade {
+    transition: opacity 0.3s linear;
+}

@@ -1,0 +1,24 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Help{% endblock %}
+
+{% block pageBanner %}
+    <div class="col-6 mt-3 mb-3">
+        <h4>Help</h4>
+    </div>
+{% endblock %}
+
+{% block stylesheets %}
+    {{ encore_entry_link_tags('help') }}
+{% endblock %}
+
+{% block scripts %}
+    {{ encore_entry_script_tags('help') }}
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <h2 class="mt-4">FAQs</h2>
+    <gc-help></gc-help>
+</div>
+{% endblock %}
