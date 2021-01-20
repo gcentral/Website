@@ -31,11 +31,15 @@ if not %ERRORLEVEL%==0 goto badxamppzip
 echo Done.
 
 echo    === Configure XAMPP ===
-php scripts\apache-config.php
-if not %ERRORLEVEL%==0 goto badconfig
+cd %XAMPP_FOLDER%
+call setup_xampp
+set EL=%ERRORLEVEL%
+cd ..
+if not %EL%==0 goto badconfig
 
-php scripts\mysql-config.php
-if not %ERRORLEVEL%==0 goto badconfig
+<nul set /p ="Setting DocumentRoot...            "
+
+php scripts\apache-config.php
 
 del xampp.zip
 
@@ -46,7 +50,7 @@ goto startcomposer
 
 :skipxampp
 echo:
-echo Found php at %CD%\xampp\php\php.exe
+echo Found php at %CD%\%XAMPP_FOLDER%\php\php.exe
 
 :startcomposer
 
@@ -178,7 +182,7 @@ echo:
 echo    === Populating MySQL Database ===
 echo:
 echo Starting MySQL server
-start /min %XAMPP_FOLDER%\mysql_start
+start /b %XAMPP_FOLDER%\mysql_start
 
 rem more ping abuse as a pause
 ping -n 10 127.0.0.1 >nul
@@ -231,7 +235,7 @@ exit /b 0
 
 :badconfig
 echo:
-echo There was a problem configuring XAMPP. Try deleting the xampp folder
+echo There was a problem configuring XAMPP. Try deleting the %XAMPP_FOLDER% folder
 echo and try again.
 goto badend
 

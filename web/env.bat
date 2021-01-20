@@ -6,8 +6,8 @@ exit /b 0
 
 :setpath
 echo Setting GCentral environment
-set PATH=%CD%\nodejs;%CD%\xampp\php;%PATH%
 set XAMPP_FOLDER=server
+set PATH=%CD%\nodejs;%CD%\%XAMPP_FOLDER%\php;%PATH%
 set GCDEV=T
 prompt $CGCentral$F $P$G
 
