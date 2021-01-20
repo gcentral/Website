@@ -20,10 +20,6 @@ $docroot = '/(DocumentRoot ")([^"]+)(".*)/';
 $dirpat = '/(<Directory ")([^"]+)(".*)/';
 $docrepl = '${1}' . str_replace('\\', '/', getcwd()) . '/public' . '${3}';
 
-$svrdef = '/(Define SRVROOT ")([^"]+)(".*)/';
-$svrroot = '/(ServerRoot ")([^"]+)(".*)/';
-$svrrepl = '${1}' . str_replace('\\', '/', getcwd()) . '/' . $xampp_folder . '/apache' . '${3}';
-
 $out = "";
 while (($line = fgets($httpd_file)) !== false) {
 	$fixed = preg_replace($docroot, $docrepl, $line, -1, $count);
@@ -33,18 +29,6 @@ while (($line = fgets($httpd_file)) !== false) {
 	}
 	
 	$fixed = preg_replace($dirpat, $docrepl, $line, -1, $count);
-	if ($count > 0) {
-		$out .= $fixed;
-		continue;
-	}
-	
-	$fixed = preg_replace($svrdef, $svrrepl, $line, -1, $count);
-	if ($count > 0) {
-		$out .= $fixed;
-		continue;
-	}
-	
-	$fixed = preg_replace($svrroot, $svrrepl, $line, -1, $count);
 	if ($count > 0) {
 		$out .= $fixed;
 		continue;
