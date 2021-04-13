@@ -125,6 +125,10 @@ class PackageIndexer extends Command
 
         //Path to download package index file
         //All archives go in the archive folder and will then be extracted to an organized index
+        if (!is_dir($pkgRoot . '/archive')) {
+            mkdir($pkgRoot . '/archive', 0777, true);
+        }
+
         $dlPath = $pkgRoot . '/archive/' . $repoName . '.zip';
         $this->out->writeln("Downloading archive to " . $dlPath);
         //$dlPath = realpath($dlPath);
