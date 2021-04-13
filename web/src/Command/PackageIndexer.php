@@ -420,7 +420,13 @@ class PackageIndexer extends Command
         $path = dirname($path);
         $path = dirname($path);
         //$this->out->writeln("Project root: " . $path);
-        $path = realpath($path . '/var/packages');
+        $path = $path . '/var/packages';
+
+        if (!is_dir($path)) {
+            mkdir($path, 0777, true);
+        }
+
+        $path = realpath($path);
         //$this->out->writeln("Packages root: " . $path);
 
         return $path;
