@@ -7,6 +7,8 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
+use Carbon\Carbon;
+
 /**
  * @ORM\Entity(repositoryClass=PackageRepoRepository::class)
  */
@@ -49,6 +51,11 @@ class PackageRepo
      */
     private $packages;
 
+    /**
+     * @ORM\Column(type="string", length=255, nullable=true)
+     */
+    private $IndexUrl;
+
     public function __construct()
     {
         $this->packages = new ArrayCollection();
@@ -83,14 +90,18 @@ class PackageRepo
         return $this;
     }
 
-    public function getLastUpdate(): ?\DateTimeInterface
+    public function getLastUpdate(): ?Carbon
     {
-        return $this->last_update;
+        if (is_null($this->last_update)) {
+            return null;
+        }
+        
+        return new Carbon($this->last_update, 'UTC');
     }
 
-    public function setLastUpdate(?\DateTimeInterface $last_update): self
+    public function setLastUpdate(?Carbon $last_update): self
     {
-        $this->last_update = $last_update;
+        $this->last_update = $last_update->shiftTimezone('UTC');
 
         return $this;
     }
@@ -146,6 +157,18 @@ class PackageRepo
                 $package->setRepo(null);
             }
         }
+
+        return $this;
+    }
+
+    public function getIndexUrl(): ?string
+    {
+        return $this->IndexUrl;
+    }
+
+    public function setIndexUrl(?string $IndexUrl): self
+    {
+        $this->IndexUrl = $IndexUrl;
 
         return $this;
     }
