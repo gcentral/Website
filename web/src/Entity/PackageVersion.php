@@ -61,7 +61,7 @@ class PackageVersion implements \JsonSerializable
     private $icon_url;
 
     /**
-     * @ORM\Column(type="string", length=30)
+     * @ORM\Column(type="string", length=255)
      */
     private $license = '';
 
