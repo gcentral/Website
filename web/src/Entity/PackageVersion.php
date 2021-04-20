@@ -26,7 +26,7 @@ class PackageVersion implements \JsonSerializable
     private $package;
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="text")
      */
     private $package_url;
 
@@ -56,9 +56,9 @@ class PackageVersion implements \JsonSerializable
     private $deps_string = [];
 
     /**
-     * @ORM\Column(type="string", length=255, nullable=true)
+     * @ORM\Column(type="text")
      */
-    private $icon_url;
+    private $icon_url = "";
 
     /**
      * @ORM\Column(type="string", length=255)

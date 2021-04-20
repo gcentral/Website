@@ -37,9 +37,9 @@ class Package implements \JsonSerializable
     private $version = "";
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="text")
      */
-    private $url = 0;
+    private $url = "";
 
     /**
      * @ORM\OneToMany(targetEntity=PackageRating::class, mappedBy="package")
