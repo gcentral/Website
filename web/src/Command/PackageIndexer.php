@@ -292,7 +292,7 @@ class PackageIndexer extends Command
                     }
 
                     if (isset($desc['Summary'])) {
-                        $pkgVersion->setSummary($desc['Summary']);
+                        $pkgVersion->setSummary($this->cleanText($desc['Summary']));
                     } else {
                         $pkgVersion->setSummary(substr($pkgVersion->getDescription(), 0, 100));
                     }
@@ -331,6 +331,7 @@ class PackageIndexer extends Command
     }
 
     private function cleanText($t) {
+        $t = utf8_decode($t);
         $t = str_replace('\0D', '', $t);
         $t = str_replace('\0A', '<br>', $t);
 
