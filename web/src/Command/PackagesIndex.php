@@ -280,7 +280,7 @@ class PackagesIndex extends Command
                     //$this->out->writeln(print_r($spec, true));
 
                     if (isset($desc['License'])) {
-                        $pkgVersion->setLicense($desc['License']);
+                        $pkgVersion->setLicense($this->cleanText($desc['License']));
                     }
 
                     if (isset($desc['Description'])) {
