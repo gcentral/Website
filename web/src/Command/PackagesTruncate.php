@@ -20,7 +20,7 @@ use App\Repository\PackageRepoRepository;
 use App\Service\PackageService;
 use App\Service\RepoService;
 
-class PackageIndexer extends Command
+class PackagesTruncate extends Command
 {
     private $ps; //PackageService
     private $pkgRepo;

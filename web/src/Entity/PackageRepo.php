@@ -101,7 +101,11 @@ class PackageRepo
 
     public function setLastUpdate(?Carbon $last_update): self
     {
-        $this->last_update = $last_update->shiftTimezone('UTC');
+        if (is_null($last_update)) {
+            $this->last_update = $last_update;
+        } else {
+            $this->last_update = $last_update->shiftTimezone('UTC');
+        }
 
         return $this;
     }
