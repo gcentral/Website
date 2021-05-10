@@ -10,7 +10,7 @@ use Doctrine\ORM\EntityManagerInterface;
 
 use App\Repository\PackageRepoRepository;
 
-class PackagesIndex extends Command
+class PackagesTruncate extends Command
 {
 
     private $em; //EntityManagerInterface
