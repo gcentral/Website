@@ -314,7 +314,7 @@ class PackagesTruncate extends Command
             if (is_null($dev)) {
                 //developer not found, create a new one
                 $dev = new DeveloperGroup();
-                $dev->setName($spec['Description']['Vendor']);
+                $dev->setName($this->cleanText($spec['Description']['Vendor']));
                 $this->em->persist($dev);
             }
 
