@@ -4,10 +4,12 @@
 
 {% block stylesheets %}
     {{ encore_entry_link_tags('pkg_search') }}
+    {{ encore_entry_link_tags('version_dd') }}
 {% endblock %}
 
 {% block scripts %}
     {{ encore_entry_script_tags('pkg_search') }}
+    {{ encore_entry_script_tags('version_dd') }}
 {% endblock %}
 
 {% block pageBanner %}
@@ -139,8 +141,10 @@
             </div>
             <div class="mt-5 clearfix">
                 <span class="pkg-version">
+                    {% set versionList = package.versions|last %}
+
                     {% set curVersion = package.versions|last %}
-                    Version {{ curVersion.version }}
+                    <VersionDD package="{{ packageJSON }}"/>
                 </span>
                 <span class="pkg-notify">
                     <img src="/images/bell.png">
@@ -202,6 +206,8 @@ function copy() {
         window.getSelection().removeAllRanges();
     }
 }
+
+var packageJSON = {{ packageJSON|raw }};
 
 document.querySelector("#gpm_copy").addEventListener("click", copy);
 </script>
