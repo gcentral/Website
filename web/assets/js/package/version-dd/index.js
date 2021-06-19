@@ -7,7 +7,7 @@ new Vue({
         return createElement(VersionDD,
             {
                 props: {
-                    package: this.$el.attributes.package.value
+                    pkg: this.$el.attributes.pkg.value
                 }
             });
     }

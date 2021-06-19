@@ -62,39 +62,10 @@
         margin-bottom: 1rem;
     }
 
-    .pkg-version {
-        font-size: 20px;
-        float: left;
-    }
 
-    .pkg-notify {
-        float: left;
-        margin-left: 50px;
-    }
-
-    .gpm-install {
-        font-family: monospace;
-        padding: 0.25rem;
-        border-radius: 0.25rem;
-        background-color: #eee;
-        padding: 10px 30px 10px 10px;
-        width: 100;
-        outline: none;
-        border: 0;
-    }
 
     .clear {
         float: clear;
-    }
-
-    #gpm_copy {
-        position: relative;
-        left: -30px;
-        height: 28px;
-    }
-
-    #gpm_copy:active {
-        background-color: rgba(200, 150, 90, 0.4);
     }
 
     .cmd-copy {
@@ -139,30 +110,7 @@
                     No ratings yet
                 {% endif %}
             </div>
-            <div class="mt-5 clearfix">
-                <span class="pkg-version">
-                    {% set versionList = package.versions|last %}
-
-                    {% set curVersion = package.versions|last %}
-                    <VersionDD package="{{ packageJSON }}"/>
-                </span>
-                <span class="pkg-notify">
-                    <img src="/images/bell.png">
-                </span>
-            </div>
-            <div class="clear"></div>
-            <div class="pkg-install mt-3">
-                <div class="">
-                    {% if curVersion.RepoType == 'GPM' %}
-                        Install with:<br>
-                        {% set gpm_install = 'gpm install ' ~ package.Name ~ '^' ~ curVersion.Version %}
-                        <input class="gpm-install" id="gpm_install" value="{{ gpm_install }}" size="{{ gpm_install|length }}" readonly>
-                        <a id="gpm_copy"><img class="cmd-copy" src="/images/copy.png"></a>
-                    {% elseif curVersion.RepoType == 'VIPM' %}
-                        <a class="btn orange" href="{{ curVersion.PackageUrl }}">Download</a>
-                    {% endif %}
-                </div>
-            </div>
+            <VersionDD pkg="{{ packageJSON }}"></VersionDD> 
         </div>
         <div class="col-12 col-md-3">
         </div>
@@ -198,18 +146,7 @@
 </div>
 
 <script>
-function copy() {
-    var copyText = document.getElementById('gpm_install');
-    if (copyText != null) {
-        copyText.select();
-        document.execCommand("copy");
-        window.getSelection().removeAllRanges();
-    }
-}
-
-var packageJSON = {{ packageJSON|raw }};
-
-document.querySelector("#gpm_copy").addEventListener("click", copy);
+    var packageJSON = {{ packageJSON|raw }};
 </script>
     
 {% endblock %}
