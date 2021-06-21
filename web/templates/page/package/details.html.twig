@@ -23,10 +23,6 @@
 
 {% block body %}
 <style>
-    .pkg-name {
-        font-size: 36px;
-    }
-
     .pkg-desc-label {
         font-size: 24px;
         font-weight: bold;
@@ -63,59 +59,10 @@
     }
 
 
-
-    .clear {
-        float: clear;
-    }
-
-    .cmd-copy {
-        height: 24px;
-        cursor: pointer;
-    }
-
-    .repo-type {
-        height: 2rem;
-    }
 </style>
 
 <div class="container">
-    <div class="row mt-med">
-        <div class="col-12 col-md-9">
-            <div class="pkg-name">
-                {% if curVersion.RepoType == 'VIPM' %}
-                    <img src="/images/partners/vipm.png" class="repo-type">
-                {% elseif curVersion.RepoType == 'GPM' %}
-                    <img src="/images/partners/gpm.png" class="repo-type">
-                {% endif %}
-                {{ package.getDisplayName() }}
-            </div>
-            <div class="pkg-devs">
-                by
-                {% for group in package.developers %}
-                    {% if group.getPersonalUser() is null %}
-                        {# normal group of users #}
-                        <a href="/group/{{ group.id }}">{{ group.getName() }}</a>
-                    {% else %}
-                        {# single user personal dev group #}
-                        <a href="/user/{{ group.getPersonalUser().id }}">{{ group.getPersonalUser().getDisplayName() }}</a>
-                    {% endif %}
-
-                    {% if not loop.last %}, {% endif %}
-                {% endfor %}
-            </div>
-            <div class="pkg-rating">
-                {% if package.AvgRating >= 0 %}
-                    Rating: {{ package.AvgRating < 0 ? 'None' : package.AvgRating }}<br>
-                {% else %}
-                    No ratings yet
-                {% endif %}
-            </div>
-            <!--<VersionDD pkg="{{ packageJSON }}"></VersionDD> -->
-            <DetailsPage pkg="{{ packageJSON }}"></DetailsPage>
-        </div>
-        <div class="col-12 col-md-3">
-        </div>
-    </div>
+    <DetailsPage pkg="{{ packageJSON }}"></DetailsPage>
     <div class="row mt-med">
         <div class="col-12 col-md-9 pr-5">
             <div class="pkg-desc-label">Description</div>

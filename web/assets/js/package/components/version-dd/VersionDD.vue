@@ -22,6 +22,7 @@ export default {
     },
     methods: {
         selection_change() {
+            this.$emit('selection_changed', this.selected_version.repo_type)
             if (this.selected_version.repo_type == 'GPM') {
                 this.$root.$emit('gpm_update', this.selected_version.version)
             } else if (this.selected_version.repo_type == 'VIPM'){
