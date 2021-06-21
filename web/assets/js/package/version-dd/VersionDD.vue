@@ -39,19 +39,16 @@ export default {
     computed: {
         gpm_install() {
             if (this.selected_version) {
-                console.log('called')
                 if (this.selected_version.repo_type == 'GPM') {
-                    console.log('found')
                     return 'gpm install ' + this.pkg_obj.name + '^' + this.selected_version.version
                 }
             }
-            console.log('return')
             return null
         },
         vipm_install() {
             if (this.selected_version) {
                 if (this.selected_version.repo_type == 'VIPM') {
-                    return selected_version.PackageUrl
+                    return this.selected_version.package_url
                 }
             }
             return null
