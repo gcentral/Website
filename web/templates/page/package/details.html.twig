@@ -4,12 +4,12 @@
 
 {% block stylesheets %}
     {{ encore_entry_link_tags('pkg_search') }}
-    {{ encore_entry_link_tags('version_dd') }}
+    {{ encore_entry_link_tags('details_page') }}
 {% endblock %}
 
 {% block scripts %}
     {{ encore_entry_script_tags('pkg_search') }}
-    {{ encore_entry_script_tags('version_dd') }}
+    {{ encore_entry_script_tags('details_page') }}
 {% endblock %}
 
 {% block pageBanner %}
@@ -110,7 +110,8 @@
                     No ratings yet
                 {% endif %}
             </div>
-            <VersionDD pkg="{{ packageJSON }}"></VersionDD> 
+            <!--<VersionDD pkg="{{ packageJSON }}"></VersionDD> -->
+            <DetailsPage pkg="{{ packageJSON }}"></DetailsPage>
         </div>
         <div class="col-12 col-md-3">
         </div>
