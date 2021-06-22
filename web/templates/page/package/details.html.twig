@@ -23,75 +23,11 @@
 
 {% block body %}
 <style>
-    .pkg-desc-label {
-        font-size: 24px;
-        font-weight: bold;
-    }
-
-    .pkg-notes pre {
-        white-space: pre-wrap;
-        word-wrap: break-word;
-        max-height: 300px;
-        overflow-y: auto;
-        border: 1px solid #c4c4c4;   
-    }
-
-    .pkg-desc pre {
-        white-space: pre-wrap;
-        word-wrap: break-word;
-        font-family: "Mulish";  
-    }
-
-    .pkg-install button {
-        border: 0px;
-        border-radius: 0.25rem;
-        padding: 0.5rem 3rem;
-    }
-
-    .pkg-extra {
-        border-left: 2px solid #C4C4C4;
-    }
-
-    .pkg-ex-label {
-        font-weight: bold;
-        font-size: 16px;
-        margin-bottom: 1rem;
-    }
-
-
 </style>
 
-<div class="container">
-    <DetailsPage pkg="{{ packageJSON }}"></DetailsPage>
-    <div class="row mt-med">
-        <div class="col-12 col-md-9 pr-5">
-            <div class="pkg-desc-label">Description</div>
-            <div class="pkg-desc mt-3">
-                <pre>{{ package.description|raw }}</pre>
-            </div>
-            <div class="mt-med pkg-desc-label">Release Notes</div>
-            <div class="pkg-notes mt-3">
-                <pre>
-                    {{ curVersion.ReleaseNotes }}
-                </pre>
-            </div>
-        </div>
-        <div class="col-12 col-md-3 pkg-extra">
-            <div class="pkg-ex-label">Downloads</div>
-            {{ package.downloads }}
-            <div class="pkg-ex-label mt-4">Categories</div>
-            &nbsp;
-            <div class="pkg-ex-label mt-4">Tags</div>
-            &nbsp;
-            <div class="pkg-ex-label mt-4">Release date</div>
-            {{ releaseDate }}
-            <div class="pkg-ex-label mt-4">Version history</div>
-            {% for version in package.versions|reverse %}
-                <div class="pkg-ex-version mt-3">{{ version.version }}</div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
+
+<DetailsPage pkg="{{ packageJSON }}"></DetailsPage>
+
 
 <script>
     var packageJSON = {{ packageJSON|raw }};

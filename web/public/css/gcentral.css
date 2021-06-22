@@ -192,3 +192,9 @@ footer h6 {
 .gc-fade {
     transition: opacity 0.3s linear;
 }
+
+.vrs-highlight {
+    background-color: #458FF6;
+    color: #eee;
+    border-radius: 0.25rem;
+}
