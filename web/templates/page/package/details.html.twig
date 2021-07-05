@@ -149,12 +149,12 @@
             <div class="clear"></div>
             <div class="pkg-install mt-3">
                 <div class="">
-                    {% if curVersion.RepoType == 'GPM' %}
+                    {% if curVersion.RepoType == 'gpm' %}
                         Install with:<br>
                         {% set gpm_install = 'gpm install ' ~ package.Name ~ '^' ~ curVersion.Version %}
                         <input class="gpm-install" id="gpm_install" value="{{ gpm_install }}" size="{{ gpm_install|length }}" readonly>
                         <a id="gpm_copy"><img class="cmd-copy" src="/images/copy.png"></a>
-                    {% elseif curVersion.RepoType == 'VIPM' %}
+                    {% elseif curVersion.RepoType == 'vipm' %}
                         <a class="btn orange" href="{{ curVersion.PackageUrl }}">Download</a>
                     {% endif %}
                 </div>
@@ -167,12 +167,12 @@
         <div class="col-12 col-md-9 pr-5">
             <div class="pkg-desc-label">Description</div>
             <div class="pkg-desc mt-3">
-                <pre>{{ package.description|raw }}</pre>
+                <pre>{{ package.getLatestVersion().description|raw }}</pre>
             </div>
             <div class="mt-med pkg-desc-label">Release Notes</div>
             <div class="pkg-notes mt-3">
                 <pre>
-                    {{ curVersion.ReleaseNotes }}
+                    {{ curVersion.ReleaseNotes|raw }}
                 </pre>
             </div>
         </div>
