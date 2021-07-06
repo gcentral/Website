@@ -17,7 +17,7 @@
                 <div v-else>
                     No ratings yet
                 </div>
-                <VersionDD v-if="pkg_obj.versions" :vrs="pkg_obj.versions" @selection_changed='selection_changed'></VersionDD>
+                <VersionDD v-if="pkg_obj.versions" :vrs="pkg_obj.versions" :slctd_vrs="selected_version" @selection_changed='selection_changed'></VersionDD>
                 <div class="clear"></div>
                 <InstallPkg :name="pkg_obj.name"></InstallPkg>
             </div>
@@ -47,7 +47,7 @@
                 <div class="pkg-ex-label mt-4">Release date</div>
                 <div v-if="selected_version">{{ release_date }}</div>
                 <div class="pkg-ex-label mt-4">Version history</div>
-                <div class= "pkg-ex-version mt-3" :class="{ 'vrs-highlight': version === selected_version }" v-for="version in pkg_obj.versions" :key="version.id">{{ version.version }}</div>
+                <div class= "pkg-ex-version mt-3" :class="{ 'vrs-highlight': version === selected_version }" v-for="version in pkg_obj.versions" :key="version.id" @click="historyClick($event, version)">{{ version.version }}</div>
             </div>
         </div>
     </div>
@@ -76,8 +76,8 @@ export default {
         this.pkg_obj = JSON.parse(this.pkg)
     },
     methods: {
-        selection_changed(repo_type, release_notes, selected_version) {
-            this.release_notes = release_notes
+        selection_changed(selected_version) {
+            this.release_notes = selected_version.release_notes
             this.selected_version = selected_version
             var dte = new Date(selected_version.release_date)
             this.release_date = `${dte.getFullYear()}-${dte.getMonth() + 1}-${dte.getDate()}`
@@ -86,6 +86,9 @@ export default {
             } else if (selected_version.repo_type == 'VIPM') {
                 this.type_icon_path = "/images/partners/vipm.png"
             }
+        },
+        historyClick(event, version) {
+            this.selection_changed(version)
         }
     }
 }
@@ -137,6 +140,13 @@ export default {
         font-weight: bold;
         font-size: 16px;
         margin-bottom: 1rem;
+    }
+
+    .pkg-ex-version {
+        cursor: pointer;
+        transition-property: color, background-color;
+        transition-duration: 1s;
+        transition-timing-function: ease-out;
     }
 
 </style>
