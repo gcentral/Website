@@ -125,6 +125,19 @@ class User implements UserInterface, \JsonSerializable
         return $this->email;
     }
 
+    public function getUserInfo()
+    {
+        $res = [
+            'fullname' => $this->fullName,
+            'displayname' => $this->displayName,
+            'location' => $this->location,
+            'username' => $this->email,
+            'password' => $this->password
+        ];
+
+        return $res;
+    }
+
     public function setEmail(string $email): self
     {
         $this->email = $email;
