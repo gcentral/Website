@@ -27,7 +27,7 @@ file_put_contents($ini_file, $ini);
 
 echo "Done.\r";
 
-
+/*
 function saveIni($config, $path) {
 	$output = "";
 	
@@ -40,4 +40,4 @@ function saveIni($config, $path) {
 	}
 	
 	file_put_contents($path, $output);
-}
+}*/

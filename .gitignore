@@ -3,3 +3,4 @@
 *.aliases
 *.lvcompile
 *.lvindexcache
+/web/public/phpmailer
