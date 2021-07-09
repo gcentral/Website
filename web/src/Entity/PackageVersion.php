@@ -83,7 +83,11 @@ class PackageVersion implements \JsonSerializable
             'version' => $this->version,
             'release_date' => Carbon::instance($this->release_date, 'UTC')->toISOString(),
             'release_notes' => $this->release_notes,
-            'dependencies' => $this->deps_string
+            'dependencies' => $this->deps_string,
+            'icon_url' => $this->icon_url,
+            'license' => $this->license,
+            'description' => $this->description,
+            'summary' => $this->summary
         ];
 
         return $res;
