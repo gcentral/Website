@@ -7,7 +7,7 @@ new Vue({
         return createElement(UserProfile,
             {
                 props: {
-                    usrInfo: this.$el.attributes.usrinfo.value
+                    userJson: this.$el.attributes.userjson.value
                 }
             });
     }

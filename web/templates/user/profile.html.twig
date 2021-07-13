@@ -11,12 +11,5 @@
 {% endblock %}
 
 {% block body %}
-    <UserProfile usrinfo="{{ userInfo }}"></UserProfile>
-    <script>
-        var userInfo = 'freibier'
-        {# {
-                'fullname': app.user.getFullName(),
-                'displayname': app.user.getDisplayName()
-            } #}
-    </script>
+    <UserProfile userjson="{{ userJson }}"></UserProfile>
 {% endblock %}

@@ -14,10 +14,10 @@
                 Full Name
             </div>
             <div class="col-8">
-                <!-- {{ app.user.getFullName() }} -->
+                <input :disabled="fnameDisable" type="text" id="fname" name="fname" @keypress.enter="updateFullName" v-model="userInfo.full_name">
             </div>
             <div class="col-1">
-                <a href="#">Edit</a>
+                <a @click="editFullName">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -25,7 +25,7 @@
                 Display Name
             </div>
             <div class="col-8">
-                <!-- {{ app.user.getDisplayName() }} -->
+                {{ userInfo.display_name}}
             </div>
             <div class="col-1">
                 <a href="#">Edit</a>
@@ -36,7 +36,7 @@
                 Location
             </div>
             <div class="col-8">
-                <!-- {{ app.user.getLocation() }} -->
+                {{ userInfo.location }}
             </div>
             <div class="col-1">
                 <a href="#">Edit</a>
@@ -47,7 +47,7 @@
                 Email
             </div>
             <div class="col-8">
-                <!-- {{ app.user.getEmail() }} -->
+                {{ userInfo.user_name }}
             </div>
         </div>
         <div class="profile-row">
@@ -62,15 +62,33 @@
 </template>
 
 <script>
+import axios from 'axios'
+
 export default {
-    props: [ 'usrInfo' ],
+    props: [ 'userJson' ],
     data() {
         return {
-            userInfo: null
+            userInfo: null,
+            fnameDisable: true
         }
     },
-    mounted() {
-        this.userInfo = this.usrInfo
+    methods: {
+        editFullName() {
+            this.fnameDisable = false
+        },
+        updateFullName() {
+            this.fnameDisable = true
+            axios({
+                method: 'post',
+                url: '/profile/updatefullname',
+                data: this.userInfo.full_name
+            }).then(resp => {
+                console.log(resp)
+            })
+        }
+    },
+    created() {
+        this.userInfo = JSON.parse(this.userJson)
     }
 }
 </script>
@@ -107,6 +125,7 @@ export default {
     .profile-row:hover a {
         color: white;
         text-decoration: underline;
+        cursor: pointer;
     }
 
     .profile-label {
@@ -115,5 +134,15 @@ export default {
 
     .edit-center {
         padding-top: 0.75rem;
+    }
+
+    input[type="text"] {
+        box-sizing: border-box;
+        width: 100%;
+    }
+
+    input[type="text"]:disabled {
+        border: none;
+        background: transparent;
     }
 </style>

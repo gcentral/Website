@@ -125,14 +125,16 @@ class User implements UserInterface, \JsonSerializable
         return $this->email;
     }
 
-    public function getUserInfo()
+    /*
+    return a full set of user data to set up the User profile page.
+    */
+    public function userProfile()
     {
         $res = [
-            'fullname' => $this->fullName,
-            'displayname' => $this->displayName,
+            'full_name' => $this->fullName,
+            'display_name' => $this->displayName,
             'location' => $this->location,
-            'username' => $this->email,
-            'password' => $this->password
+            'user_name' => $this->email
         ];
 
         return $res;
