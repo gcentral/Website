@@ -33,4 +33,42 @@ class UserAPIController extends AbstractController
 
         return new Response('Updated the data:'.$user->getFullName());
     }
+
+    /**
+     * @Route("/profile/updatedisplayname", name="update_display_name")
+     */
+    public function update_display_name(Request $request) {
+        $entityManager = $this->getDoctrine()->getManager();
+
+        $displayname = $request->getContent();
+
+        // change full name
+        $user = $this->getUser();
+        $user->setDisplayName($displayname);
+
+        // write changes to database
+        $entityManager->persist($user);
+        $entityManager->flush(); 
+
+        return new Response('Updated the data:'.$user->getDisplayName());
+    }
+
+    /**
+     * @Route("/profile/updatelocation", name="update_location")
+     */
+    public function update_location(Request $request) {
+        $entityManager = $this->getDoctrine()->getManager();
+
+        $location = $request->getContent();
+
+        // change full name
+        $user = $this->getUser();
+        $user->setLocation($location);
+
+        // write changes to database
+        $entityManager->persist($user);
+        $entityManager->flush(); 
+
+        return new Response('Updated the data:'.$user->getLocation());
+    }
 }

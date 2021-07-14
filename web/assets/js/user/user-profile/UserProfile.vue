@@ -14,10 +14,11 @@
                 Full Name
             </div>
             <div class="col-8">
-                <input :disabled="fnameDisable" type="text" id="fname" name="fname" @keypress.enter="updateFullName" v-model="userInfo.full_name">
+                <!-- CR-Q Alternatively, I could go up the DOM from the Edit and down again, but i prefer this readability wise -->
+                <input :disabled="fNameDisable" type="text" id="fname" ref="fname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.full_name">
             </div>
             <div class="col-1">
-                <a @click="editFullName">Edit</a>
+                <a class="edit-btn" @click="editField('fname')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -25,10 +26,10 @@
                 Display Name
             </div>
             <div class="col-8">
-                {{ userInfo.display_name}}
+                <input :disabled="dNameDisable" type="text" id="dname" ref="dname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.display_name">
             </div>
             <div class="col-1">
-                <a href="#">Edit</a>
+                <a class="edit-btn" @click="editField('dname')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -36,10 +37,10 @@
                 Location
             </div>
             <div class="col-8">
-                {{ userInfo.location }}
+                <input :disabled="locationDisable" type="text" id="location" ref="location" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.location">
             </div>
             <div class="col-1">
-                <a href="#">Edit</a>
+                <a class="edit-btn" @click="editField('location')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -69,22 +70,55 @@ export default {
     data() {
         return {
             userInfo: null,
-            fnameDisable: true
+            fNameDisable: true,
+            dNameDisable: true,
+            locationDisable: true,
         }
     },
     methods: {
-        editFullName() {
-            this.fnameDisable = false
+        fieldEnable(fieldName, state = false) {
+            switch (fieldName) {
+                case 'fname':
+                    this.fNameDisable = state
+                    return {
+                        method: 'post',
+                        url: '/profile/updatefullname',
+                        data: this.userInfo.full_name
+                    }
+                case 'dname':
+                    this.dNameDisable = state
+                    return {
+                        method: 'post',
+                        url: '/profile/updatedisplayname',
+                        data: this.userInfo.display_name
+                    }
+                case 'location':
+                    this.locationDisable = state
+                    return {
+                        method: 'post',
+                        url: '/profile/updatelocation',
+                        data: this.userInfo.location
+                    }
+                default:
+                    console.log('Field Name not found: ' + fieldName)
+                    return {}
+            }
         },
-        updateFullName() {
-            this.fnameDisable = true
-            axios({
-                method: 'post',
-                url: '/profile/updatefullname',
-                data: this.userInfo.full_name
-            }).then(resp => {
+        editField(fieldName) {
+            Promise.resolve(this.fieldEnable(fieldName)).then(() => {
+                return Promise.resolve(
+                    this.$refs[fieldName].select()
+                    )
+            })
+        },
+        updateField(event) {
+            var axiosParameters = this.fieldEnable(event.target.attributes.id.value, true)
+            axios(axiosParameters).then(resp => {
                 console.log(resp)
             })
+        },
+        discardChange(event) {
+            this.fieldEnable(event.target.attributes.id.value, true)
         }
     },
     created() {
@@ -123,10 +157,10 @@ export default {
     }
 
     .profile-row:hover a {
-        color: white;
-        text-decoration: underline;
-        cursor: pointer;
+        background-color: #5A98F2;
+        border:1px solid #FFFFFF;
     }
+
 
     .profile-label {
         font-weight: 700;
@@ -134,6 +168,18 @@ export default {
 
     .edit-center {
         padding-top: 0.75rem;
+    }
+
+    .edit-btn {
+        text-decoration: none;
+        background-color: #FFFFFF;
+        border:1px solid #458FF6;
+        border-radius: 5px;
+        padding: 8px 12px;
+    }
+
+    .edit-btn:hover {
+        cursor: pointer;
     }
 
     input[type="text"] {

@@ -1,6 +1,7 @@
 import Vue from 'vue';
 import UserProfile from './UserProfile';
 
+
 new Vue({
     el: 'UserProfile',
     render (createElement) {
