@@ -37,8 +37,14 @@ class UserController extends AbstractController
     {
         $user = $this->getUser();
 
+        $userJson = null;
+
+        if ( !is_null($user) ) {
+            $userJson = json_encode($user->userProfile());
+        }
+
         return $this->render('user/profile.html.twig', [
-            'userJson' => json_encode($user->userProfile())
+            'userJson' => $userJson
         ]);
     }
 }

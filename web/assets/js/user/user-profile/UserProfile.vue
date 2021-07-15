@@ -1,5 +1,5 @@
 <template>
-    <div class="m-5 profile-card">
+    <div class="m-5 profile-card" v-if="userInfo != null">
         <div class="row mt-3">
             <div class="col-auto">
                 <img src="/images/profile-default.png" height="48">
@@ -59,6 +59,11 @@
                 <a class="btn orange" href="/pass">Change Password</a>
             </div>
         </div>
+    </div>
+    <div class="m-5 profile-card" v-else>
+        <h2>
+            Please log in to see this page!
+        </h2>
     </div>
 </template>
 
@@ -130,7 +135,9 @@ export default {
         }
     },
     created() {
-        this.userInfo = JSON.parse(this.userJson)
+        if (this.userJson != null && this.userJson != "") {
+            this.userInfo = JSON.parse(this.userJson)
+        }
     }
 }
 </script>
