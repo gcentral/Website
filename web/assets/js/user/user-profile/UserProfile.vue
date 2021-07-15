@@ -70,13 +70,14 @@ export default {
     data() {
         return {
             userInfo: null,
+            buffer: null,
             fNameDisable: true,
             dNameDisable: true,
             locationDisable: true,
         }
     },
     methods: {
-        fieldEnable(fieldName, state = false) {
+        fieldDisable(fieldName, state = false) {
             switch (fieldName) {
                 case 'fname':
                     this.fNameDisable = state
@@ -105,20 +106,27 @@ export default {
             }
         },
         editField(fieldName) {
-            Promise.resolve(this.fieldEnable(fieldName)).then(() => {
+            Promise.resolve(this.fieldDisable(fieldName)).then(() => {
                 return Promise.resolve(
+                    this.buffer = this.$refs[fieldName].value,
                     this.$refs[fieldName].select()
                     )
             })
         },
         updateField(event) {
-            var axiosParameters = this.fieldEnable(event.target.attributes.id.value, true)
+            var axiosParameters = this.fieldDisable(event.target.attributes.id.value, true)
             axios(axiosParameters).then(resp => {
                 console.log(resp)
             })
         },
         discardChange(event) {
-            this.fieldEnable(event.target.attributes.id.value, true)
+            Promise.resolve(this.fieldDisable(event.target.attributes.id.value, true)).then(() => {
+                return Promise.resolve(
+                    console.log(event.target.attributes.id.value),
+                    this.$refs[event.target.attributes.id.value].value = this.buffer //CR Q How to do this better? This breaks as soon as id != ref
+                )
+            })
+            
         }
     },
     created() {
