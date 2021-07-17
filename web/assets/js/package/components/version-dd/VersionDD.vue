@@ -24,7 +24,7 @@ export default {
         update_install_component() {
             if (this.selected_version.repo_type == 'GPM') {
                 this.$root.$emit('gpm_update', this.selected_version.version)
-            } else if (this.selected_version.repo_type == 'VIPM'){
+            } else if (this.selected_version.repo_type == 'vipm'){
                 this.$root.$emit('vipm_update', this.selected_version.package_url)
             }
         },

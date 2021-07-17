@@ -11,7 +11,7 @@
                     <a v-if="developer.personal_user == null" :href="'/group/' + developer.id">{{ developer.name }}</a>
                     <a v-else :href="'/user/' + developer.personal_user.id">{{ developer.display_name }}</a>
                 </div>
-                <div class="pkg-rating" v-if="pkg_obj.avg_rating >=0">
+                 <div class="pkg-rating" v-if="pkg_obj.avg_rating >=0">
                     Rating: {{ pkg_obj.avg_rating }}<br>
                 </div>
                 <div v-else>
@@ -27,12 +27,14 @@
             <div class="col-12 col-md-9 pr-5">
                 <div class="pkg-desc-label">Description</div>
                 <div class="pkg-desc mt-3">
-                    <pre>{{ pkg_obj.description }}</pre>
+                    <pre>
+                        {{ selected_version.description }}
+                    </pre>
                 </div>
                 <div class="mt-med pkg-desc-label">Release Notes</div>
                 <div class="pkg-notes mt-3">
                     <pre>
-                        {{ release_notes }}
+                        {{ selected_version.release_notes }}
                     </pre>
                 </div>
             </div>
@@ -67,9 +69,8 @@ export default {
         return {
             pkg_obj: {},
             type_icon_path: null,
-            release_notes: null,
             release_date: null,
-            selected_version: null
+            selected_version: {}
         }
     },
     mounted() {
@@ -77,13 +78,14 @@ export default {
     },
     methods: {
         selection_changed(selected_version) {
-            this.release_notes = selected_version.release_notes
+            // Does not need the event parameter, because it is either emited by VersionDD or called as a function.
+            console.log(selected_version)
             this.selected_version = selected_version
             var dte = new Date(selected_version.release_date)
             this.release_date = `${dte.getFullYear()}-${dte.getMonth() + 1}-${dte.getDate()}`
             if (selected_version.repo_type == 'GPM') {
                 this.type_icon_path = "/images/partners/gpm.png"
-            } else if (selected_version.repo_type == 'VIPM') {
+            } else if (selected_version.repo_type == 'vipm') {
                 this.type_icon_path = "/images/partners/vipm.png"
             }
         },
