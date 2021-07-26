@@ -42,7 +42,7 @@ class UserAPIController extends AbstractController
 
         $displayname = $request->getContent();
 
-        // change full name
+        // change display name
         $user = $this->getUser();
         $user->setDisplayName($displayname);
 
@@ -61,7 +61,7 @@ class UserAPIController extends AbstractController
 
         $location = $request->getContent();
 
-        // change full name
+        // change location
         $user = $this->getUser();
         $user->setLocation($location);
 
