@@ -14,7 +14,6 @@
                 Full Name
             </div>
             <div class="col-8">
-                <!-- CR-Q Alternatively, I could go up the DOM from the Edit and down again, but i prefer this readability wise -->
                 <input :disabled="fNameDisable" type="text" id="fname" ref="fname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.full_name">
             </div>
             <div class="col-1">
@@ -74,8 +73,9 @@ export default {
     props: [ 'userJson' ],
     data() {
         return {
-            userInfo: null,
-            buffer: null,
+            userInfo: null, //All plain text data returned by userJson
+            buffer: null, //string buffer used for resetting entries on [esc]
+            /* Disable states for the data entry fields */
             fNameDisable: true,
             dNameDisable: true,
             locationDisable: true,
@@ -83,6 +83,7 @@ export default {
     },
     methods: {
         fieldDisable(fieldName, state = false) {
+            // activates/deactivates the field and returns the parameters to update the data into the db
             switch (fieldName) {
                 case 'fname':
                     this.fNameDisable = state
@@ -111,20 +112,31 @@ export default {
             }
         },
         editField(fieldName) {
+            // makes the input field editable and selects the content
+            Promise.resolve([{id: 'fname', state: this.fNameDisable}, 
+             {id: 'dname', state: this.dNameDisable},
+             {id: 'location', state: this.locationDisable}].forEach( input => {
+                if (!input.state) {
+                    this.fieldDisable(input.id, true)
+                    this.$refs[input.id].value = this.buffer
+                }
+            })).then(() => {// ensure only one field is editable at a time
             Promise.resolve(this.fieldDisable(fieldName)).then(() => {
                 return Promise.resolve(
                     this.buffer = this.$refs[fieldName].value,
                     this.$refs[fieldName].select()
                 )
-            })
+            })})
         },
         updateField(event) {
+            // changes the property in the database
             var axiosParameters = this.fieldDisable(event.target.attributes.id.value, true)
             axios(axiosParameters).then(resp => {
                 console.log(resp)
             })
         },
         discardChange(event) {
+            // reset the field and stop editing
             Promise.resolve(this.fieldDisable(event.target.attributes.id.value, true)).then(() => {
                 return Promise.resolve(
                     console.log(event.target.attributes.id.value),
@@ -135,6 +147,7 @@ export default {
         }
     },
     created() {
+        // fill userInfo
         if (this.userJson != null && this.userJson != "") {
             this.userInfo = JSON.parse(this.userJson)
         }
@@ -175,7 +188,7 @@ export default {
         color: white;
     }
 
-    .profile-row:hover input[type="text"] {
+    .profile-row:hover input[type="text"]:disabled {
         color: white;
     }
 
@@ -198,6 +211,7 @@ export default {
     }
 
     input[type="text"] {
+        color: #4d4d4d;
         box-sizing: border-box;
         width: 100%;
     }
