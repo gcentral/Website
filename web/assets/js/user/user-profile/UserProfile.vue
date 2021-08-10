@@ -18,7 +18,7 @@
                 <input :disabled="fNameDisable" type="text" id="fname" ref="fname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.full_name">
             </div>
             <div class="col-1">
-                <a class="edit-btn" @click="editField('fname')">Edit</a>
+                <a class="edit-btn" href="#" @click="editField('fname')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -29,7 +29,7 @@
                 <input :disabled="dNameDisable" type="text" id="dname" ref="dname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.display_name">
             </div>
             <div class="col-1">
-                <a class="edit-btn" @click="editField('dname')">Edit</a>
+                <a class="edit-btn" href="#" @click="editField('dname')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -40,7 +40,7 @@
                 <input :disabled="locationDisable" type="text" id="location" ref="location" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.location">
             </div>
             <div class="col-1">
-                <a class="edit-btn" @click="editField('location')">Edit</a>
+                <a class="edit-btn" href="#" @click="editField('location')">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -55,8 +55,8 @@
             <div class="col-3 profile-label">
                 Password
             </div>
-            <div class="col-8">
-                <a class="btn orange" href="/pass">Change Password</a>
+            <div class="col-9">
+                <a class="edit-btn" href="/pass">Change Password</a>
             </div>
         </div>
     </div>
@@ -115,7 +115,7 @@ export default {
                 return Promise.resolve(
                     this.buffer = this.$refs[fieldName].value,
                     this.$refs[fieldName].select()
-                    )
+                )
             })
         },
         updateField(event) {
@@ -172,8 +172,11 @@ export default {
     }
 
     .profile-row:hover a {
-        background-color: #5A98F2;
-        border:1px solid #FFFFFF;
+        color: white;
+    }
+
+    .profile-row:hover input[type="text"] {
+        color: white;
     }
 
 
@@ -187,10 +190,7 @@ export default {
 
     .edit-btn {
         text-decoration: none;
-        background-color: #FFFFFF;
-        border:1px solid #458FF6;
-        border-radius: 5px;
-        padding: 8px 12px;
+        /* padding: 8px 12px; */
     }
 
     .edit-btn:hover {
