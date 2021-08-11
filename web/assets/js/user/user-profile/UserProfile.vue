@@ -1,5 +1,5 @@
 <template>
-    <div class="m-5 profile-card" v-if="userInfo != null">
+    <div class="m-5 profile-card" v-if="userInfo.tableFields[0].value != null">
         <div class="row mt-3">
             <div class="col-auto">
                 <img src="/images/profile-default.png" height="48">
@@ -9,37 +9,15 @@
                 <i>Ability to edit picture coming soon</i>
             </div>
         </div>
-        <div class="profile-row mt-3">
+        <div class="profile-row" :class="index == 0 ? 'mt-3' : ''" v-for="(property, index) in userInfo.tableFields" :key="property.id">
             <div class="col-3 profile-label">
-                Full Name
+                {{ property.label }}
             </div>
             <div class="col-8">
-                <input :disabled="fNameDisable" type="text" id="fname" ref="fname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.full_name">
+                <input :disabled="property.disabled" type="text" :id="property.id" :ref="property.id" @keypress.enter="updateField(property)" @keydown.esc="discardChange(property)" v-model="property.value">
             </div>
             <div class="col-1">
-                <a class="edit-btn" href="#" @click="editField('fname')">Edit</a>
-            </div>
-        </div>
-        <div class="profile-row">
-            <div class="col-3 profile-label">
-                Display Name
-            </div>
-            <div class="col-8">
-                <input :disabled="dNameDisable" type="text" id="dname" ref="dname" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.display_name">
-            </div>
-            <div class="col-1">
-                <a class="edit-btn" href="#" @click="editField('dname')">Edit</a>
-            </div>
-        </div>
-        <div class="profile-row">
-            <div class="col-3 profile-label">
-                Location
-            </div>
-            <div class="col-8">
-                <input :disabled="locationDisable" type="text" id="location" ref="location" @keypress.enter="updateField" @keydown.esc="discardChange" v-model="userInfo.location">
-            </div>
-            <div class="col-1">
-                <a class="edit-btn" href="#" @click="editField('location')">Edit</a>
+                <a class="edit-btn" href="#" @click="editField(property)">Edit</a>
             </div>
         </div>
         <div class="profile-row">
@@ -47,7 +25,7 @@
                 Email
             </div>
             <div class="col-8">
-                {{ userInfo.user_name }}
+                {{ userInfo.userName }}
             </div>
         </div>
         <div class="profile-row">
@@ -73,74 +51,57 @@ export default {
     props: [ 'userJson' ],
     data() {
         return {
-            userInfo: null, //All plain text data returned by userJson
+            userInfo: {
+                tableFields: [
+                    {id: 'fname', label: 'Full Name', value: null, url: '/profile/updatefullname', disabled: true},
+                    {id: 'dname', label: 'Display Name', value: null, url: '/profile/updatedisplayname', disabled: true},
+                    {id: 'location', label: 'Location', value: null, url: '/profile/updatelocation', disabled: true}
+                ],
+                userName: null
+            }, //All plain text data returned by userJson
             buffer: null, //string buffer used for resetting entries on [esc]
-            /* Disable states for the data entry fields */
-            fNameDisable: true,
-            dNameDisable: true,
-            locationDisable: true,
         }
     },
     methods: {
-        fieldDisable(fieldName, state = false) {
+        fieldDisable(property, state = false) {
             // activates/deactivates the field and returns the parameters to update the data into the db
-            switch (fieldName) {
-                case 'fname':
-                    this.fNameDisable = state
-                    return {
-                        method: 'post',
-                        url: '/profile/updatefullname',
-                        data: this.userInfo.full_name
-                    }
-                case 'dname':
-                    this.dNameDisable = state
-                    return {
-                        method: 'post',
-                        url: '/profile/updatedisplayname',
-                        data: this.userInfo.display_name
-                    }
-                case 'location':
-                    this.locationDisable = state
-                    return {
-                        method: 'post',
-                        url: '/profile/updatelocation',
-                        data: this.userInfo.location
-                    }
-                default:
-                    console.log('Field Name not found: ' + fieldName)
-                    return {}
+            property.disabled = state
+            return {
+                method: 'post',
+                url: property.url,
+                data: property.value
             }
         },
-        editField(fieldName) {
+        editField(property) {
             // makes the input field editable and selects the content
-            Promise.resolve([{id: 'fname', state: this.fNameDisable}, 
-             {id: 'dname', state: this.dNameDisable},
-             {id: 'location', state: this.locationDisable}].forEach( input => {
-                if (!input.state) {
-                    this.fieldDisable(input.id, true)
-                    this.$refs[input.id].value = this.buffer
+            Promise.resolve(this.userInfo.tableFields.forEach( input => {
+                if (!input.disabled) {
+                    this.fieldDisable(input, true)
+                    input.value = this.buffer
                 }
             })).then(() => {// ensure only one field is editable at a time
-            Promise.resolve(this.fieldDisable(fieldName)).then(() => {
+            Promise.resolve(this.fieldDisable(property)).then(() => {
                 return Promise.resolve(
-                    this.buffer = this.$refs[fieldName].value,
-                    this.$refs[fieldName].select()
+                    this.buffer = property.value,
+                    console.log(property.id),
+                    this.$refs[property.id][0].select()
                 )
             })})
         },
-        updateField(event) {
+        updateField(property) {
+            console.log(property)
             // changes the property in the database
-            var axiosParameters = this.fieldDisable(event.target.attributes.id.value, true)
+            var axiosParameters = this.fieldDisable(property, true)
+            console.log(axiosParameters)
             axios(axiosParameters).then(resp => {
                 console.log(resp)
             })
         },
-        discardChange(event) {
+        discardChange(property) {
             // reset the field and stop editing
-            Promise.resolve(this.fieldDisable(event.target.attributes.id.value, true)).then(() => {
+            Promise.resolve(this.fieldDisable(property, true)).then(() => {
                 return Promise.resolve(
-                    console.log(event.target.attributes.id.value),
-                    this.$refs[event.target.attributes.id.value].value = this.buffer //CR Q How to do this better? This breaks as soon as id != ref
+                    this.$refs[property.id][0].value = this.buffer
                 )
             })
             
@@ -149,7 +110,11 @@ export default {
     created() {
         // fill userInfo
         if (this.userJson != null && this.userJson != "") {
-            this.userInfo = JSON.parse(this.userJson)
+            var tempJson = JSON.parse(this.userJson)
+            this.userInfo.tableFields[0].value = tempJson.full_name
+            this.userInfo.tableFields[1].value = tempJson.display_name
+            this.userInfo.tableFields[2].value = tempJson.location
+            this.userInfo.userName = tempJson.user_name
         }
     }
 }
