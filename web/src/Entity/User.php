@@ -96,6 +96,11 @@ class User implements UserInterface, \JsonSerializable
      */
     private $personalGroup;
 
+    /**
+     * @ORM\Column(type="string", length=3, nullable=true)
+     */
+    private $file_type;
+
     public function __construct()
     {
         $this->packageRatings = new ArrayCollection();
@@ -401,6 +406,18 @@ class User implements UserInterface, \JsonSerializable
         if ($personalGroup->getPersonalUser() !== $newPersonal_user) {
             $personalGroup->setPersonalUser($newPersonal_user);
         }
+
+        return $this;
+    }
+
+    public function getFileType(): ?string
+    {
+        return $this->file_type;
+    }
+
+    public function setFileType(?string $file_type): self
+    {
+        $this->file_type = $file_type;
 
         return $this;
     }
