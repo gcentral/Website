@@ -16,6 +16,7 @@ use App\Form\ChangePassType;
 use App\Entity\User;
 
 use App\Service\Mailer;
+use App\Service\FileUploader;
 
 class UserController extends AbstractController
 {

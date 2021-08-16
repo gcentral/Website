@@ -12,6 +12,11 @@ use Symfony\Component\HttpFoundation\JsonResponse;
 use Carbon\Carbon;
 
 use App\Service\UserService;
+use App\Entity\User;
+use App\Form\UserType;
+use Symfony\Component\HttpFoundation\File\Exception\FileException;
+use Symfony\Component\String\Slugger\SluggerInterface;
+use Symfony\Flex\Unpack\Result;
 
 class UserAPIController extends AbstractController
 {
@@ -70,5 +75,20 @@ class UserAPIController extends AbstractController
         $entityManager->flush(); 
 
         return new Response('Updated the data:'.$user->getLocation());
+    }
+
+    /**
+     * @Route("/profile/uploadimage", name="upload", methods={"POST"})
+     */
+    public function upload(Request $request, SluggerInterface $slugger)
+    {   
+        $filename = $this->getUser()->getUsername();
+        $user = new User();
+        $form = $this->createForm(UserType::class, $user);
+        $form->handleRequest($request);
+
+        $imageFile = $form->get('profile_image')->getData();
+
+        return new Response($imageFile);
     }
 }

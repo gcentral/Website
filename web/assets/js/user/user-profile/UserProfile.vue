@@ -5,6 +5,7 @@
                 <img src="/images/profile-default.png" height="48">
             </div>
             <div class="col-auto edit-center">
+                <ImgUpload :userName="userInfo.userName"></ImgUpload>
                 <!-- {# <a href="/profile/edit-picture">Edit profile picture</a> #} -->
                 <i>Ability to edit picture coming soon</i>
             </div>
@@ -46,9 +47,13 @@
 
 <script>
 import axios from 'axios'
+import ImgUpload from './img-upload/ImgUpload.vue'
 
 export default {
     props: [ 'userJson' ],
+    components: {
+        ImgUpload
+    },
     data() {
         return {
             userInfo: {
