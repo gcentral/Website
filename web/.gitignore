@@ -2,6 +2,8 @@ composer.phar
 /xampp/
 /server/
 /nodejs/
+/tests/RobotFramework/Scripts/results
+/public/images/user
 
 ###> symfony/framework-bundle ###
 /.env.local

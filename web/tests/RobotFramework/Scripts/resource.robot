@@ -11,6 +11,8 @@ ${VALID USER}       test@gcentral.com
 ${VALID PASSWORD}   123456
 ${HOME PAGE}        http://${SERVER}/
 ${LOGIN URL}        http://${SERVER}/login
+${LOGOUT URL}       http://${SERVER}/logout
+${PROFILE URL}      http://${SERVER}/profile
 
 *** Keywords ***
 Open Browser To Home Page
@@ -34,6 +36,10 @@ Login Page Should Be Open
 Go To Login Page
     Go To   ${LOGIN URL}
     Login Page Should Be Open
+
+Log Out
+    Go To   ${LOGOUT URL}
+    Home Page Should Be Open
 
 Input Username
     [Arguments]     ${username}
