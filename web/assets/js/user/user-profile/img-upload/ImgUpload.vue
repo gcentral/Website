@@ -1,20 +1,24 @@
 <!-- https://www.digitalocean.com/community/tutorials/how-to-handle-file-uploads-in-vue-2 -->
 <template>
-    <div>
-        <form enctype="multipart/form-data" novalidate v-if="isInitial || isSaving">
-            <h1>Upload images</h1>
-            <div class="dropbox">
+    <div class="row mt-3">
+        <div class="col-2">
+            <img :src="imgPath" height="48">
+        </div>
+        <div class="col-6">
+
+        </div>
+        <div class="col-4 edit-center">
+            <div class="file-upload">
                 <input type="file" name="profile_image" :disabled="isSaving" @change="filesChange($event.target.files)"
                     accept="image/*" class="input-file">
-                    <p v-if="isInitial">
-                        Drag your file(s) here to begin<br>
-                        or click to browse
-                    </p>
-                    <p v-if="isSaving">
-                        Uploading files...
-                    </p>
+                <p v-if="isInitial">
+                    Click to change image
+                </p>
+                <p v-if="isSaving">
+                    Uploading files...
+                </p>
             </div>
-        </form>
+        </div>
     </div>
 </template>
 
@@ -25,6 +29,7 @@
 
     export default {
         id: 'ImgUpload',
+        props: ['imgPath'],
         data() {
             return {
                 uploadedFile: '',
@@ -97,32 +102,30 @@
 </script>
 
 <style>
-    .dropbox {
-        outline: 2px dashed grey; /* the dash box */
-        outline-offset: -10px;
-        background: lightcyan;
-        color: dimgray;
-        padding: 10px 10px;
-        min-height: 200px; /* minimum height */
+/* CRTD Design is still up for debate. I made it look like this, because it's easy enoguh and doesn't look horrible. */
+    .file-upload {
+        background: #5A98F2;
+        color: rgb(255, 255, 255);
         position: relative;
         cursor: pointer;
+        border-radius: 10px;
     }
 
     .input-file {
         opacity: 0; /* invisible but it's there! */
-        width: 100%;
-        height: 200px;
         position: absolute;
         cursor: pointer;
+        width: 100%;
     }
 
-    .dropbox:hover {
-        background: lightblue; /* when mouse over to the drop zone, change color */
+    .file-upload:hover {
+        background: rgb(255, 255, 255); /* when mouse over to the drop zone, change color */
+        color: #5A98F2;
     }
 
-    .dropbox p {
+    .file-upload p {
         font-size: 1.2em;
         text-align: center;
-        padding: 50px 0;
+        padding: 1px 0;
     }
 </style>

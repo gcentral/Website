@@ -89,9 +89,13 @@ class UserAPIController extends AbstractController
         $form->handleRequest($request);
         // https://stackoverflow.com/questions/53961605/how-to-upload-image-from-vuejs-to-symfony-with-axios
         
+        // CRTD this is not quite waht we discussed, but after ramming my head into the wall with the formData, I found the above example
+        // It's "easier" to retrieve the file from the request directly, as oposed to pressing it into the form.
         $data = $request->files->get('profile_image');
         $fileType = $data->guessExtension();
 
+        // CRTD The way I understood our discussion, we use the user name as file name and thus, only need to store the file type, which vue needs. 
+        // If this is not correct, let me know. I now know how to add another field and the symfony example includes randomizing the names.
         $user = $this->getUser();
         $user->setFileType($fileType);
 

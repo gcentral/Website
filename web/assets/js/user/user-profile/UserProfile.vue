@@ -1,13 +1,6 @@
 <template>
     <div class="m-5 profile-card" v-if="userInfo.tableFields[0].value != null">
-        <div class="row mt-3">
-            <div class="col-auto">
-                <img :src="imgPath" height="48">
-            </div>
-            <div class="col-auto edit-center">
-                <ImgUpload></ImgUpload>
-            </div>
-        </div>
+        <ImgUpload :imgPath='imgPath'></ImgUpload>
         <div class="profile-row" :class="index == 0 ? 'mt-3' : ''" v-for="(property, index) in userInfo.tableFields" :key="property.id">
             <div class="col-3 profile-label">
                 {{ property.label }}
