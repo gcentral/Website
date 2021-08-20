@@ -2,12 +2,10 @@
     <div class="m-5 profile-card" v-if="userInfo.tableFields[0].value != null">
         <div class="row mt-3">
             <div class="col-auto">
-                <img src="/images/profile-default.png" height="48">
+                <img :src="imgPath" height="48">
             </div>
             <div class="col-auto edit-center">
-                <ImgUpload :userName="userInfo.userName"></ImgUpload>
-                <!-- {# <a href="/profile/edit-picture">Edit profile picture</a> #} -->
-                <i>Ability to edit picture coming soon</i>
+                <ImgUpload></ImgUpload>
             </div>
         </div>
         <div class="profile-row" :class="index == 0 ? 'mt-3' : ''" v-for="(property, index) in userInfo.tableFields" :key="property.id">
@@ -112,6 +110,11 @@ export default {
             
         }
     },
+    computed: {
+        imgPath() {
+            return "/usercontent/avatars/" + this.userInfo.userName + '.' + this.userInfo.imageType
+        }
+    },
     created() {
         // fill userInfo
         if (this.userJson != null && this.userJson != "") {
@@ -120,6 +123,7 @@ export default {
             this.userInfo.tableFields[1].value = tempJson.display_name
             this.userInfo.tableFields[2].value = tempJson.location
             this.userInfo.userName = tempJson.user_name
+            this.userInfo.imageType = tempJson.file_type
         }
     }
 }

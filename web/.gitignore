@@ -3,7 +3,7 @@ composer.phar
 /server/
 /nodejs/
 /tests/RobotFramework/Scripts/results
-/public/images/user
+/public/usercontent
 
 ###> symfony/framework-bundle ###
 /.env.local

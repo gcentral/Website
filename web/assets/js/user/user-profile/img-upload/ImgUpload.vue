@@ -25,13 +25,13 @@
 
     export default {
         id: 'ImgUpload',
-        props: ['userName'],
         data() {
             return {
                 uploadedFile: '',
                 uploadError: null,
                 currentStatus: null,
-                formData: null
+                formData: null,
+                res: null
             }
         },
         computed: {
@@ -58,40 +58,32 @@
             save(formData) {
                 // upload data to the server
                 this.currentStatus = STATUS_SAVING
-                
                 // https://stackoverflow.com/questions/43013858/how-to-post-a-file-from-a-form-with-axios
-                axios.post('/profile/uploadimage', formData,{
+                axios({
+                    method: "post",
+                    url: '/profile/uploadimage',
+                    data: formData,
                     headers: {
                         'Content-Type': 'multipart/form-data'
                     }
                 })                
                 .then( res => {
-                    console.log(res)
+                    this.res = res
+                    this.currentStatus = STATUS_INITIAL
                 }).catch( err => {
-                    console.log('axios error')
-                    console.log(err.response.data.detail)
                     this.uploadError = err.response
                     this.currentStatus = STATUS_FAILED
                 })
+
             },
             filesChange(fileList) {
                 // handle file changes
 
-                if (!fileList.length) return
-                console.log(fileList)
+                if (!fileList.length) return //no files
+                
                 // append the files to FormData
-
-                var file = {
-                    userName: this.userName,
-                    fileName: fileList[0].name,
-                    file:     fileList[0]
-                }
-
                 var formData = new FormData()
-
                 formData.append('profile_image', fileList[0])
-                this.formData = formData
-                console.log(formData)
 
                 // save it
                 this.save(formData)

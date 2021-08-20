@@ -13,6 +13,7 @@ use Carbon\Carbon;
 
 use App\Service\UserService;
 use App\Entity\User;
+use App\Form\ProfileImageType;
 use App\Form\UserType;
 use Symfony\Component\HttpFoundation\File\Exception\FileException;
 use Symfony\Component\String\Slugger\SluggerInterface;
@@ -82,13 +83,33 @@ class UserAPIController extends AbstractController
      */
     public function upload(Request $request, SluggerInterface $slugger)
     {   
-        $filename = $this->getUser()->getUsername();
-        $user = new User();
-        $form = $this->createForm(UserType::class, $user);
+        $entityManager = $this->getDoctrine()->getManager();
+        
+        $form = $this->createForm(ProfileImageType::class);
         $form->handleRequest($request);
+        // https://stackoverflow.com/questions/53961605/how-to-upload-image-from-vuejs-to-symfony-with-axios
+        
+        $data = $request->files->get('profile_image');
+        $fileType = $data->guessExtension();
 
-        $imageFile = $form->get('profile_image')->getData();
+        $user = $this->getUser();
+        $user->setFileType($fileType);
 
-        return new Response($imageFile);
+        // write changes to database
+        $entityManager->persist($user);
+        $entityManager->flush(); 
+
+        $filename = $user->getUsername().'.'.$fileType;
+
+        try {
+            $movedFile = $data->move(
+                $this->getParameter('images_directory'),
+                $filename
+            );
+        } catch (FileException $e) {
+            throw new FileException($e->getMessage(), $e->getCode());
+        }
+
+        return new Response($movedFile);
     }
 }

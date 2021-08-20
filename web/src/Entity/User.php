@@ -139,7 +139,8 @@ class User implements UserInterface, \JsonSerializable
             'full_name' => $this->fullName,
             'display_name' => $this->displayName,
             'location' => $this->location,
-            'user_name' => $this->email
+            'user_name' => $this->email,
+            'file_type' => $this->file_type
         ];
 
         return $res;
