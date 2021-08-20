@@ -9,7 +9,7 @@
                 <input :disabled="property.disabled" type="text" :id="property.id" :ref="property.id" @keypress.enter="updateField(property)" @keydown.esc="discardChange(property)" v-model="property.value">
             </div>
             <div class="col-1">
-                <a class="edit-btn" href="#" @click="editField(property)">Edit</a>
+                <a :id="property.id + '_link'" class="edit-btn" href="#" @click="editField(property)">Edit</a>
             </div>
         </div>
         <div class="profile-row">

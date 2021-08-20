@@ -37,9 +37,19 @@ Go To Login Page
     Go To   ${LOGIN URL}
     Login Page Should Be Open
 
+Go To Profile Page
+    Go To   ${PROFILE URL}
+    Profile Page Should Be Open
+
 Log Out
     Go To   ${LOGOUT URL}
     Home Page Should Be Open
+
+Log In
+    Input Username  test@gcentral.org
+    Input Password  123456
+    Submit Credentials
+    Welcome Page Should Be Open
 
 Input Username
     [Arguments]     ${username}
@@ -55,3 +65,7 @@ Submit Credentials
 Welcome Page Should Be Open
     Location Should Be  ${HOME PAGE}
     Title Should Be     Home - GCentral.org
+
+Profile Page Should Be Open
+    Location Should Be  ${PROFILE URL}
+    Title Should Be     Profile - GCentral.org

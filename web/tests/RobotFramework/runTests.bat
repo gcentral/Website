@@ -6,4 +6,6 @@ set "HH=%dt:~8,2%" & set "Min=%dt:~10,2%" & set "Sec=%dt:~12,2%"
 
 call py -m robot -d Scripts/results/run%YYYY%%MM%%DD%-%HH%%Min%%Sec%/valid Scripts/valid_login.robot
 call py -m robot -d Scripts/results/run%YYYY%%MM%%DD%-%HH%%Min%%Sec%/invalid Scripts/invalid_login.robot
+call py -m robot -d Scripts/results/run%YYYY%%MM%%DD%-%HH%%Min%%Sec%/change Scripts/profile_changes.robot
+call py -m robot -d Scripts/results/run%YYYY%%MM%%DD%-%HH%%Min%%Sec%/change_abort Scripts/profile_changes_abort.robot
 call py -m robot -d Scripts/results/run%YYYY%%MM%%DD%-%HH%%Min%%Sec%/misc Scripts/misc_test.robot
