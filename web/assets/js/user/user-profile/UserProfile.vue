@@ -79,19 +79,14 @@ export default {
             Promise.resolve(this.fieldDisable(property)).then(() => {
                 return Promise.resolve(
                     this.buffer = property.value,
-                    console.log(property.id),
                     this.$refs[property.id][0].select()
                 )
             })})
         },
         updateField(property) {
-            console.log(property)
             // changes the property in the database
             var axiosParameters = this.fieldDisable(property, true)
-            console.log(axiosParameters)
-            axios(axiosParameters).then(resp => {
-                console.log(resp)
-            })
+            axios(axiosParameters)
         },
         discardChange(property) {
             // reset the field and stop editing

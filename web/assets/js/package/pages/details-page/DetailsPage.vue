@@ -79,7 +79,6 @@ export default {
     methods: {
         selection_changed(selected_version) {
             // Does not need the event parameter, because it is either emited by VersionDD or called as a function.
-            console.log(selected_version)
             this.selected_version = selected_version
             var dte = new Date(selected_version.release_date)
             this.release_date = `${dte.getFullYear()}-${dte.getMonth() + 1}-${dte.getDate()}`
