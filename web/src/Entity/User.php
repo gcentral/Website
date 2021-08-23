@@ -136,6 +136,7 @@ class User implements UserInterface, \JsonSerializable
     public function userProfile()
     {
         $res = [
+            'id' => $this->id,
             'full_name' => $this->fullName,
             'display_name' => $this->displayName,
             'location' => $this->location,

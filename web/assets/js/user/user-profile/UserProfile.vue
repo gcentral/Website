@@ -53,7 +53,8 @@ export default {
                     {id: 'dname', label: 'Display Name', value: null, url: '/profile/updatedisplayname', disabled: true},
                     {id: 'location', label: 'Location', value: null, url: '/profile/updatelocation', disabled: true}
                 ],
-                userName: null
+                userName: null,
+                id: null
             }, //All plain text data returned by userJson
             buffer: null, //string buffer used for resetting entries on [esc]
         }
@@ -100,7 +101,7 @@ export default {
     },
     computed: {
         imgPath() {
-            return "/usercontent/avatars/" + this.userInfo.userName + '.' + this.userInfo.imageType
+            return "/usercontent/avatars/" + this.userInfo.id + '.' + this.userInfo.imageType
         }
     },
     created() {
@@ -112,6 +113,7 @@ export default {
             this.userInfo.tableFields[2].value = tempJson.location
             this.userInfo.userName = tempJson.user_name
             this.userInfo.imageType = tempJson.file_type
+            this.userInfo.id = tempJson.id
         }
     }
 }

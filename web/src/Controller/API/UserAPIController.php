@@ -112,7 +112,7 @@ class UserAPIController extends AbstractController
         $entityManager->persist($user);
         $entityManager->flush(); 
 
-        $filename = $user->getUsername().'.'.$fileType;
+        $filename = $user->getID().'.'.$fileType;
 
         try {
             $movedFile = $data->move(
