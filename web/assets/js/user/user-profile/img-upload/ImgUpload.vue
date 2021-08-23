@@ -4,8 +4,8 @@
         <div class="col-2">
             <img :src="imgPath" height="48">
         </div>
-        <div class="col-6">
-
+        <div class="col-6 my-auto">
+            <p>{{ message }}</p>
         </div>
         <div class="col-4 edit-center">
             <div class="file-upload">
@@ -36,7 +36,8 @@
                 uploadError: null,
                 currentStatus: null,
                 formData: null,
-                res: null
+                res: null,
+                message: ''
             }
         },
         computed: {
@@ -75,9 +76,11 @@
                 .then( res => {
                     this.res = res
                     this.currentStatus = STATUS_INITIAL
+                    this.message = "Success! Refresh the page to enjoy your new avatar."
                 }).catch( err => {
                     this.uploadError = err.response
                     this.currentStatus = STATUS_FAILED
+                    this.message = err.response
                 })
 
             },
