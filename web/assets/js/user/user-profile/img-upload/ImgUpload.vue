@@ -10,7 +10,7 @@
         <div class="col-4 edit-center">
             <div class="file-upload">
                 <input type="file" name="profile_image" :disabled="isSaving" @change="filesChange($event.target.files)"
-                    accept="image/*" class="input-file">
+                    accept="image/png, image/jpeg" class="input-file">
                 <p v-if="isInitial">
                     Click to change image
                 </p>
