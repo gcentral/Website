@@ -1,0 +1,9 @@
+Hello {{ user.fullName }},<br/>
+<br/>
+Your password was reset. Your temporary password is:<br/>
+<br/>
+{{ newpass }}<br/>
+<br/>
+Please log in at <a href="{{ site }}{{ path('app_login') }}">{{ site }}{{ path('app_login') }}</a> within 24 h to create a new password.<br/>
+<br/>
+Happy coding!

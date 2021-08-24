@@ -1,15 +1,16 @@
 <?php
 
 namespace App\Service;
-
-use App\Entity\Package;
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Security\Core\Security;
+
+use App\Entity\Package;
+use App\Entity\DeveloperGroup;
 
 /**
  * PackageService serves to perform package operations such as creation, lookup, etc.
  */
-class PackageService {
+class DeveloperService {
 
     private $em;
     private $security;

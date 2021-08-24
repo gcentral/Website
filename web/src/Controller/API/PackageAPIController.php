@@ -153,11 +153,11 @@ class PackageAPIController extends AbstractController
                 $p->setIconUrl($latest['IconURL']);
 
                 switch($latest['RepoType']) {
-                    case "GPM":
+                    case "gpm":
                         $p->setRepo($gpm);
                     break;
 
-                    case "VIPM":
+                    case "vipm":
                         $p->setRepo($vipm);
                     break;
                 }

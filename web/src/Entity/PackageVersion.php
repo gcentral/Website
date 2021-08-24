@@ -26,7 +26,7 @@ class PackageVersion implements \JsonSerializable
     private $package;
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="text")
      */
     private $package_url;
 
@@ -48,12 +48,32 @@ class PackageVersion implements \JsonSerializable
     /**
      * @ORM\Column(type="text")
      */
-    private $release_notes;
+    private $release_notes = '';
 
     /**
      * @ORM\Column(type="simple_array", nullable=true)
      */
     private $deps_string = [];
+
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $icon_url = "";
+
+    /**
+     * @ORM\Column(type="string", length=255)
+     */
+    private $license = '';
+
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $description = '';
+
+    /**
+     * @ORM\Column(type="text")
+     */
+    private $summary = '';
 
     public function jsonSerialize() {
         $res = [
@@ -63,7 +83,11 @@ class PackageVersion implements \JsonSerializable
             'version' => $this->version,
             'release_date' => Carbon::instance($this->release_date, 'UTC')->toISOString(),
             'release_notes' => $this->release_notes,
-            'dependencies' => $this->deps_string
+            'dependencies' => $this->deps_string,
+            'icon_url' => $this->icon_url,
+            'license' => $this->license,
+            'description' => $this->description,
+            'summary' => $this->summary
         ];
 
         return $res;
@@ -122,12 +146,12 @@ class PackageVersion implements \JsonSerializable
         return $this;
     }
 
-    public function getReleaseDate(): ?\DateTimeInterface
+    public function getReleaseDate(): ?Carbon
     {
-        return $this->release_date;
+        return new Carbon($this->release_date);
     }
 
-    public function setReleaseDate(\DateTimeInterface $release_date): self
+    public function setReleaseDate(Carbon $release_date): self
     {
         $this->release_date = $release_date;
 
@@ -154,6 +178,54 @@ class PackageVersion implements \JsonSerializable
     public function setDepsString(?array $deps_string): self
     {
         $this->deps_string = $deps_string;
+
+        return $this;
+    }
+
+    public function getIconUrl(): ?string
+    {
+        return $this->icon_url;
+    }
+
+    public function setIconUrl(?string $icon_url): self
+    {
+        $this->icon_url = $icon_url;
+
+        return $this;
+    }
+
+    public function getLicense(): ?string
+    {
+        return $this->license;
+    }
+
+    public function setLicense(string $license): self
+    {
+        $this->license = $license;
+
+        return $this;
+    }
+
+    public function getDescription(): ?string
+    {
+        return $this->description;
+    }
+
+    public function setDescription(string $description): self
+    {
+        $this->description = $description;
+
+        return $this;
+    }
+
+    public function getSummary(): ?string
+    {
+        return $this->summary;
+    }
+
+    public function setSummary(string $summary): self
+    {
+        $this->summary = $summary;
 
         return $this;
     }

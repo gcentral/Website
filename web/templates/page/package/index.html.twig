@@ -2,7 +2,9 @@
 
 {% block title %}Search Packages{% endblock %}
 
-{% block stylesheets %}{{ encore_entry_link_tags('pkg_search') }}{% endblock %}
+{% block stylesheets %}
+    {{ encore_entry_link_tags('pkg_search') }}
+{% endblock %}
 
 {% block scripts %}
     {{ encore_entry_script_tags('pkg_search') }}
@@ -72,9 +74,9 @@
                                     {{ package.getDisplayName() }}
                                 </div>
                                 <div class="col-auto p-0 align-self-center">
-                                    {% if repotype == 'VIPM' %}
+                                    {% if repotype == 'vipm' %}
                                         <img src="/images/partners/vipm.png" class="repo-type">
-                                    {% elseif repotype == 'GPM' %}
+                                    {% elseif repotype == 'gpm' %}
                                         <img src="/images/partners/gpm.png" class="repo-type">
                                     {% endif %}
                                 </div>
@@ -82,7 +84,8 @@
                         </a>
                         <div class="p-2">
                             <div class="mt-5">
-                                {% set desc = package.description|length > 150 ? package.description|slice(0, 150) ~ '…' : package.description %}
+                                {% set desc = package.getLatestVersion().description %}
+                                {% set desc = desc|length > 150 ? desc|slice(0, 150) ~ '…' : desc %}
                                 {{ desc | striptags }}
                             </div>
 

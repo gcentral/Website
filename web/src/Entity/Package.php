@@ -7,6 +7,8 @@ use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\Common\Collections\Collection;
 use Doctrine\ORM\Mapping as ORM;
 
+use Carbon\Carbon;
+
 /**
  * @ORM\Entity(repositoryClass=PackageRepository::class)
  */
@@ -27,7 +29,7 @@ class Package implements \JsonSerializable
     /**
      * @ORM\Column(type="text")
      */
-    private $description;
+    private $description = '';
 
     /**
      * @ORM\Column(type="string", length=20)
@@ -35,9 +37,9 @@ class Package implements \JsonSerializable
     private $version = "";
 
     /**
-     * @ORM\Column(type="string", length=255)
+     * @ORM\Column(type="text")
      */
-    private $url = 0;
+    private $url = "";
 
     /**
      * @ORM\OneToMany(targetEntity=PackageRating::class, mappedBy="package")
@@ -70,11 +72,6 @@ class Package implements \JsonSerializable
     private $display_name;
 
     /**
-     * @ORM\Column(type="string", length=255, nullable=true)
-     */
-    private $icon_url;
-
-    /**
      * @ORM\ManyToOne(targetEntity=PackageRepo::class, inversedBy="packages")
      * @ORM\JoinColumn(nullable=false)
      */
@@ -97,12 +94,12 @@ class Package implements \JsonSerializable
         $res = [
             'id' => $this->id,
             'name' => $this->name,
-            'description' => $this->description,
+            //'description' => $this->description,
             'url' => $this->url,
             'downloads' => $this->downloads,
             'avg_rating' => $this->avg_rating,
             'display_name' => $this->display_name,
-            'icon_url' => $this->icon_url,
+            //'icon_url' => $this->icon_url,
             'versions' => [],
             'developers' => [],
             'tags' => [],
@@ -270,6 +267,30 @@ class Package implements \JsonSerializable
         return $this->versions;
     }
 
+    public function getSpecificVersion(string $versionString) : ?PackageVersion
+    {
+        $versions = $this->getVersions();
+
+        foreach ($versions as $version) {
+            if ($version->getVersion() == $versionString) {
+                return $version;
+            }
+        }
+
+        //didn't find a match, return null
+        return null;
+    }
+
+    public function getLatestVersion() : ?PackageVersion
+    {
+        if (empty($this->versions)) {
+            return null;
+        }
+
+        //newest version should be last in the array
+        return $this->versions[count($this->versions) - 1];
+    }
+
     public function addVersion(PackageVersion $version): self
     {
         if (!$this->versions->contains($version)) {
@@ -301,18 +322,6 @@ class Package implements \JsonSerializable
     public function setDisplayName(string $display_name): self
     {
         $this->display_name = $display_name;
-
-        return $this;
-    }
-
-    public function getIconUrl(): ?string
-    {
-        return $this->icon_url;
-    }
-
-    public function setIconUrl(?string $icon_url): self
-    {
-        $this->icon_url = $icon_url;
 
         return $this;
     }
