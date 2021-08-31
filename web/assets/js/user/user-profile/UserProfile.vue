@@ -54,7 +54,7 @@ export default {
                     {id: 'location', label: 'Location', value: null, url: '/profile/updatelocation', disabled: true}
                 ],
                 userName: null,
-                id: null
+                pictureFileName: null,
             }, //All plain text data returned by userJson
             buffer: null, //string buffer used for resetting entries on [esc]
         }
@@ -101,7 +101,7 @@ export default {
     },
     computed: {
         imgPath() {
-            return "/usercontent/avatars/" + this.userInfo.id + '.' + this.userInfo.imageType
+            return "/usercontent/avatars/" + this.userInfo.pictureFileName
         }
     },
     created() {
@@ -112,8 +112,7 @@ export default {
             this.userInfo.tableFields[1].value = tempJson.display_name
             this.userInfo.tableFields[2].value = tempJson.location
             this.userInfo.userName = tempJson.user_name
-            this.userInfo.imageType = tempJson.file_type
-            this.userInfo.id = tempJson.id
+            this.userInfo.pictureFileName = tempJson.picture_file_name
         }
     }
 }

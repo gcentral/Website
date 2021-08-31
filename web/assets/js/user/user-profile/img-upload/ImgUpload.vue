@@ -2,10 +2,9 @@
 <template>
     <div class="row mt-3">
         <div class="col-2">
-            <img :src="imgPath" height="48">
+            <img :src="pictureFilePath" height="48">
         </div>
         <div class="col-6 my-auto">
-            <p>{{ message }}</p>
         </div>
         <div class="col-4 edit-center">
             <div class="file-upload">
@@ -37,7 +36,7 @@
                 currentStatus: null,
                 formData: null,
                 res: null,
-                message: ''
+                pictureFilePath: ''
             }
         },
         computed: {
@@ -75,6 +74,7 @@
                 })                
                 .then( res => {
                     this.res = res
+                    this.pictureFilePath = '/usercontent/avatars/' + res.data.split('\\').pop()
                     this.currentStatus = STATUS_INITIAL
                     this.message = "Success! Refresh the page to enjoy your new avatar."
                 }).catch( err => {
@@ -99,6 +99,7 @@
         },
         mounted() {
             this.reset()
+            this.pictureFilePath = this.imgPath
         }
     }
 

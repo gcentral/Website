@@ -101,6 +101,11 @@ class User implements UserInterface, \JsonSerializable
      */
     private $file_type;
 
+    /**
+     * @ORM\Column(type="string", length=512, nullable=true)
+     */
+    private $picture_file_name;
+
     public function __construct()
     {
         $this->packageRatings = new ArrayCollection();
@@ -141,7 +146,7 @@ class User implements UserInterface, \JsonSerializable
             'display_name' => $this->displayName,
             'location' => $this->location,
             'user_name' => $this->email,
-            'file_type' => $this->file_type
+            'picture_file_name' => $this->picture_file_name
         ];
 
         return $res;
@@ -420,6 +425,18 @@ class User implements UserInterface, \JsonSerializable
     public function setFileType(?string $file_type): self
     {
         $this->file_type = $file_type;
+
+        return $this;
+    }
+
+    public function getPictureFileName(): ?string
+    {
+        return $this->picture_file_name;
+    }
+
+    public function setPictureFileName(?string $picture_file_name): self
+    {
+        $this->picture_file_name = $picture_file_name;
 
         return $this;
     }

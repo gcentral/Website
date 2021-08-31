@@ -81,7 +81,7 @@ class UserAPIController extends AbstractController
     /**
      * @Route("/profile/uploadimage", name="upload", methods={"POST"})
      */
-    public function upload(Request $request, SluggerInterface $slugger)
+    public function upload(Request $request)
     {   
         $entityManager = $this->getDoctrine()->getManager();
         
@@ -89,8 +89,6 @@ class UserAPIController extends AbstractController
         $form->handleRequest($request);
         // https://stackoverflow.com/questions/53961605/how-to-upload-image-from-vuejs-to-symfony-with-axios
         
-        // CRTD this is not quite waht we discussed, but after ramming my head into the wall with the formData, I found the above example
-        // It's "easier" to retrieve the file from the request directly, as oposed to pressing it into the form.
         $data = $request->files->get('profile_image');
 
         $fileType = $data->guessExtension();
@@ -103,16 +101,29 @@ class UserAPIController extends AbstractController
                 break;
         }
 
-        // CRTD The way I understood our discussion, we use the user name as file name and thus, only need to store the file type, which vue needs. 
-        // If this is not correct, let me know. I now know how to add another field and the symfony example includes randomizing the names.
         $user = $this->getUser();
-        $user->setFileType($fileType);
+
+        $oldFileName = $user->getPictureFileName();
+
+        if ($oldFileName) {
+            try{
+                $oldFileLocation = $this->getParameter('images_directory').'/'.$oldFileName;
+                unlink($oldFileLocation);
+            } catch (FileException $e) {
+                // File not found, moving on...
+                throw new FileException($e->getMessage(), $e->getCode());
+            }
+        }
+
+        $milliseconds = round(microtime(true) * 1000);
+        $hash = md5($milliseconds);
+        $filename = $user->getID().'-'.$hash.'.'.$fileType;
+        
+        $user->setPictureFileName($filename);
 
         // write changes to database
         $entityManager->persist($user);
         $entityManager->flush(); 
-
-        $filename = $user->getID().'.'.$fileType;
 
         try {
             $movedFile = $data->move(
