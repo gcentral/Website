@@ -96,6 +96,16 @@ class User implements UserInterface, \JsonSerializable
      */
     private $personalGroup;
 
+    /**
+     * @ORM\Column(type="string", length=3, nullable=true)
+     */
+    private $file_type;
+
+    /**
+     * @ORM\Column(type="string", length=512, nullable=true)
+     */
+    private $picture_file_name;
+
     public function __construct()
     {
         $this->packageRatings = new ArrayCollection();
@@ -123,6 +133,23 @@ class User implements UserInterface, \JsonSerializable
     public function getEmail(): ?string
     {
         return $this->email;
+    }
+
+    /*
+    return a full set of user data to set up the User profile page.
+    */
+    public function userProfile()
+    {
+        $res = [
+            'id' => $this->id,
+            'full_name' => $this->fullName,
+            'display_name' => $this->displayName,
+            'location' => $this->location,
+            'user_name' => $this->email,
+            'picture_file_name' => $this->picture_file_name
+        ];
+
+        return $res;
     }
 
     public function setEmail(string $email): self
@@ -386,6 +413,30 @@ class User implements UserInterface, \JsonSerializable
         if ($personalGroup->getPersonalUser() !== $newPersonal_user) {
             $personalGroup->setPersonalUser($newPersonal_user);
         }
+
+        return $this;
+    }
+
+    public function getFileType(): ?string
+    {
+        return $this->file_type;
+    }
+
+    public function setFileType(?string $file_type): self
+    {
+        $this->file_type = $file_type;
+
+        return $this;
+    }
+
+    public function getPictureFileName(): ?string
+    {
+        return $this->picture_file_name;
+    }
+
+    public function setPictureFileName(?string $picture_file_name): self
+    {
+        $this->picture_file_name = $picture_file_name;
 
         return $this;
     }

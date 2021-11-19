@@ -13,6 +13,7 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
 use Carbon\Carbon;
+use Symfony\Component\Serializer\Encoder\JsonEncode;
 
 class PackageController extends AbstractController
 {
@@ -49,6 +50,7 @@ class PackageController extends AbstractController
         $dateStr = $releaseDate->format('F j, Y');
         return $this->render('page/package/details.html.twig', [
             'package' => $package,
+            'packageJSON' => json_encode($package),
             'curVersion' => $curVersion,
             'releaseDate' => $dateStr
         ]);

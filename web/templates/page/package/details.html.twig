@@ -4,10 +4,12 @@
 
 {% block stylesheets %}
     {{ encore_entry_link_tags('pkg_search') }}
+    {{ encore_entry_link_tags('details_page') }}
 {% endblock %}
 
 {% block scripts %}
     {{ encore_entry_script_tags('pkg_search') }}
+    {{ encore_entry_script_tags('details_page') }}
 {% endblock %}
 
 {% block pageBanner %}
@@ -21,189 +23,8 @@
 
 {% block body %}
 <style>
-    .pkg-name {
-        font-size: 36px;
-    }
-
-    .pkg-desc-label {
-        font-size: 24px;
-        font-weight: bold;
-    }
-
-    .pkg-notes pre {
-        white-space: pre-wrap;
-        word-wrap: break-word;
-        max-height: 300px;
-        overflow-y: auto;
-        border: 1px solid #c4c4c4;   
-    }
-
-    .pkg-desc pre {
-        white-space: pre-wrap;
-        word-wrap: break-word;
-        font-family: "Mulish";  
-    }
-
-    .pkg-install button {
-        border: 0px;
-        border-radius: 0.25rem;
-        padding: 0.5rem 3rem;
-    }
-
-    .pkg-extra {
-        border-left: 2px solid #C4C4C4;
-    }
-
-    .pkg-ex-label {
-        font-weight: bold;
-        font-size: 16px;
-        margin-bottom: 1rem;
-    }
-
-    .pkg-version {
-        font-size: 20px;
-        float: left;
-    }
-
-    .pkg-notify {
-        float: left;
-        margin-left: 50px;
-    }
-
-    .gpm-install {
-        font-family: monospace;
-        padding: 0.25rem;
-        border-radius: 0.25rem;
-        background-color: #eee;
-        padding: 10px 30px 10px 10px;
-        width: 100;
-        outline: none;
-        border: 0;
-    }
-
-    .clear {
-        float: clear;
-    }
-
-    #gpm_copy {
-        position: relative;
-        left: -30px;
-        height: 28px;
-    }
-
-    #gpm_copy:active {
-        background-color: rgba(200, 150, 90, 0.4);
-    }
-
-    .cmd-copy {
-        height: 24px;
-        cursor: pointer;
-    }
-
-    .repo-type {
-        height: 2rem;
-    }
 </style>
 
-<div class="container">
-    <div class="row mt-med">
-        <div class="col-12 col-md-9">
-            <div class="pkg-name">
-                {% if curVersion.RepoType == 'VIPM' %}
-                    <img src="/images/partners/vipm.png" class="repo-type">
-                {% elseif curVersion.RepoType == 'GPM' %}
-                    <img src="/images/partners/gpm.png" class="repo-type">
-                {% endif %}
-                {{ package.getDisplayName() }}
-            </div>
-            <div class="pkg-devs">
-                by
-                {% for group in package.developers %}
-                    {% if group.getPersonalUser() is null %}
-                        {# normal group of users #}
-                        <a href="/group/{{ group.id }}">{{ group.getName() }}</a>
-                    {% else %}
-                        {# single user personal dev group #}
-                        <a href="/user/{{ group.getPersonalUser().id }}">{{ group.getPersonalUser().getDisplayName() }}</a>
-                    {% endif %}
 
-                    {% if not loop.last %}, {% endif %}
-                {% endfor %}
-            </div>
-            <div class="pkg-rating">
-                {% if package.AvgRating >= 0 %}
-                    Rating: {{ package.AvgRating < 0 ? 'None' : package.AvgRating }}<br>
-                {% else %}
-                    No ratings yet
-                {% endif %}
-            </div>
-            <div class="mt-5 clearfix">
-                <span class="pkg-version">
-                    {% set curVersion = package.versions|last %}
-                    Version {{ curVersion.version }}
-                </span>
-                <span class="pkg-notify">
-                    <img src="/images/bell.png">
-                </span>
-            </div>
-            <div class="clear"></div>
-            <div class="pkg-install mt-3">
-                <div class="">
-                    {% if curVersion.RepoType == 'gpm' %}
-                        Install with:<br>
-                        {% set gpm_install = 'gpm install ' ~ package.Name ~ '^' ~ curVersion.Version %}
-                        <input class="gpm-install" id="gpm_install" value="{{ gpm_install }}" size="{{ gpm_install|length }}" readonly>
-                        <a id="gpm_copy"><img class="cmd-copy" src="/images/copy.png"></a>
-                    {% elseif curVersion.RepoType == 'vipm' %}
-                        <a class="btn orange" href="{{ curVersion.PackageUrl }}">Download</a>
-                    {% endif %}
-                </div>
-            </div>
-        </div>
-        <div class="col-12 col-md-3">
-        </div>
-    </div>
-    <div class="row mt-med">
-        <div class="col-12 col-md-9 pr-5">
-            <div class="pkg-desc-label">Description</div>
-            <div class="pkg-desc mt-3">
-                <pre>{{ package.getLatestVersion().description|raw }}</pre>
-            </div>
-            <div class="mt-med pkg-desc-label">Release Notes</div>
-            <div class="pkg-notes mt-3">
-                <pre>
-                    {{ curVersion.ReleaseNotes|raw }}
-                </pre>
-            </div>
-        </div>
-        <div class="col-12 col-md-3 pkg-extra">
-            <div class="pkg-ex-label">Downloads</div>
-            {{ package.downloads }}
-            <div class="pkg-ex-label mt-4">Categories</div>
-            &nbsp;
-            <div class="pkg-ex-label mt-4">Tags</div>
-            &nbsp;
-            <div class="pkg-ex-label mt-4">Release date</div>
-            {{ releaseDate }}
-            <div class="pkg-ex-label mt-4">Version history</div>
-            {% for version in package.versions|reverse %}
-                <div class="pkg-ex-version mt-3">{{ version.version }}</div>
-            {% endfor %}
-        </div>
-    </div>
-</div>
-
-<script>
-function copy() {
-    var copyText = document.getElementById('gpm_install');
-    if (copyText != null) {
-        copyText.select();
-        document.execCommand("copy");
-        window.getSelection().removeAllRanges();
-    }
-}
-
-document.querySelector("#gpm_copy").addEventListener("click", copy);
-</script>
-    
+<DetailsPage pkg="{{ packageJSON }}"></DetailsPage> 
 {% endblock %}

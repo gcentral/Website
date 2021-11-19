@@ -16,6 +16,7 @@ use App\Form\ChangePassType;
 use App\Entity\User;
 
 use App\Service\Mailer;
+use App\Service\FileUploader;
 
 class UserController extends AbstractController
 {
@@ -35,7 +36,16 @@ class UserController extends AbstractController
      */
     public function profile()
     {
+        $user = $this->getUser();
+
+        $userJson = null;
+
+        if ( !is_null($user) ) {
+            $userJson = json_encode($user->userProfile());
+        }
+
         return $this->render('user/profile.html.twig', [
+            'userJson' => $userJson
         ]);
     }
 }

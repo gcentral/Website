@@ -1,0 +1,50 @@
+{% extends 'base.html.twig' %}
+
+{% import "include/forms.html.twig" as forms %}
+
+{% block title %}Register{% endblock %}
+
+{% block pageHeader %}{% endblock %}
+
+{% block body %}
+<style>
+.col-inputs {
+    border-left: 2px solid #C4C4C4;
+}
+
+.gc-input-group {
+    margin-bottom: 2rem;
+}
+
+</style>
+    {{ form_start(form) }}
+        {{ form_errors(form) }}
+
+        {% if error %}
+            <div class="alert alert-danger">{{ error.messageKey|trans(error.messageData, 'security') }}</div>
+        {% endif %}
+
+        <div class="px-3">
+            <div class="row mt-5 justify-content-center">
+                <div class="col-auto">
+                    <div class="container px-5">
+                        <h4>Recover your Account password.</h4>
+                        <div class="gc-input-group mt-5">
+                            {{ form_errors(form.email) }}
+                            {{ form_widget(form.email, { 'attr': {'class': 'form-control', 'placeholder': 'Email' } }) }}
+                            <small class="form-text text-muted">{{ form_help(form.email) }}</small>
+                        </div>
+
+                        <button class="btn orange w-100 mt-5" type="submit">
+                            Reset password
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    {{ form_end(form) }}
+{% endblock %}
+
+{% block scripts %}
+{% endblock %}

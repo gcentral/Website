@@ -12,6 +12,7 @@ use Symfony\Component\Security\Http\Authentication\AuthenticationUtils;
 use Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface;
 
 use App\Form\RegistrationType;
+use App\Form\RecoverType;
 use App\Form\ChangePassType;
 use App\Entity\User;
 
@@ -150,5 +151,62 @@ class SecurityController extends AbstractController
     public function logout()
     {
         throw new \LogicException('This method can be blank - it will be intercepted by the logout key on your firewall.');
+    }
+
+    /** 
+     * @Route ("/recover-pass", name="recover_pass")
+     */
+    public function recover(Request $req, UserPasswordEncoderInterface $passwordEncoder, Mailer $mailer) {
+        $form = $this->createForm(RecoverType::class);
+
+        $form->handleRequest($req);
+
+        if ($form->isSubmitted() && $form->isValid()) {
+            $user_email = $form->getData()->getEmail();
+            $user = $this->getDoctrine()->getRepository(User::class)->findOneBy(array('email' => $user_email));
+
+            $password = bin2hex(random_bytes(16));
+
+            $site = $req->getSchemeAndHttpHost();
+
+            $user->setPassword($passwordEncoder->encodePassword($user, $password));
+            $user->setResetPass(true);
+
+            $mail = $mailer->createMail();
+
+            $mail->setFrom('negentropicdev@gmail.com', 'GCentral Admin');
+            $mail->addAddress($user->getEmail(), $user->getFullName());
+            $mail->Subject = $req->getHost() . ' User Registration';
+
+            $msg = $this->renderView('email/recovery.html.twig', [
+                'user' => $user,
+                'newpass' => $password,
+                'site' => $site
+            ]);
+
+            $mail->msgHTML($msg);
+            if (!$mail->send()) {
+                $error = 'There was an error sending your user password recovery email: ' . $mail->ErrorInfo . '<br>';
+                $error .= 'Email us at <a href="mailto:negentropicdev@gmail.com">negentropicdev@gmail.com</a> if you need assistance.';
+
+                return $this->render('user/recover.html.twig', [
+                    'form' => $form->createView(),
+                    'error' => $error
+                ]);
+            }
+            
+            $entityManager = $this->getDoctrine()->getManager();
+            $entityManager->persist($user);
+            $entityManager->flush();
+
+            $this->addFlash('success', 'If your email is registered, we will send you a new password.');
+
+            return $this->redirectToRoute('home');
+        }
+
+        return $this->render('user/recover.html.twig', [
+            'form' => $form->createView(),
+            'error' => null,
+        ]);
     }
 }
