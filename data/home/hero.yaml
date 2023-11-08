@@ -1,0 +1,15 @@
+enabled: true
+id: "hero"
+
+content:
+  title: "Get Going with **GCentral**"
+  text: "Striving to help the G Community make the best version of itself."
+
+  buttonPrimary:
+    label: "About GCentral"
+    url: "#"
+
+  buttonSecondary:
+    label: "Initiatives"
+    url: ""
+
