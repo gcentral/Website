@@ -5,3 +5,7 @@ NXG WebApp/GCentral Indexer POC/Builds/*
 NXG WebApp/GCentral Indexer POC/.cache/*
 *.lvcompile
 *.lvindexcache
+
+# Hugo generated files
+resources/_gen/*
+public/*
