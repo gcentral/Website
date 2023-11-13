@@ -4,3 +4,4 @@
 [submodule "themes/up-business-theme"]
 	path = themes/up-business-theme
 	url = https://gitlab.com/writeonlyhugo/up-business-theme.git
+	branch = master
