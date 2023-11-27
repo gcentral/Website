@@ -1,0 +1,3 @@
+{{ with resources.Get . }}
+  <img class="" src="{{ .Permalink }}" alt="{{ .Title }}" width="{{ div .Width 3 }}" height="{{ div .Height 3 }}">
+{{ end }}

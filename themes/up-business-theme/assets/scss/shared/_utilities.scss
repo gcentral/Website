@@ -1,0 +1,81 @@
+.fw-semibold {
+  font-weight: 600;
+}
+
+.text-black-61 { color: rgba(0, 0, 0, 0.61); }
+
+.bg-green { background-color: #B4D1C4; }
+.bg-yellow { background-color: #F6DE9D; }
+.bg-red { background-color: #FF87B0D9; }
+.bg-purple { background-color: #ADA8D6; }
+
+.bg-blue-16 {
+  background-color: rgba(39, 163, 255, 0.16);
+}
+
+.border-blue-16 {
+  border-color: rgba(39, 163, 255, 0.16);
+}
+
+.bg-blue-63 {
+  background-color: rgba(220, 240, 255, 0.63);
+}
+
+.bg-blue-light {
+  background-color: #F6FBFF;
+}
+
+.border-radius-34 {
+  border-radius: 34px;
+}
+
+.size-16 {
+  min-width: 16px;
+  max-width: 16px;
+
+  min-height: 16px;
+  max-height: 16px;
+}
+
+.size-24 {
+  min-width: 24px;
+  max-width: 24px;
+
+  min-height: 24px;
+  max-height: 24px;
+}
+
+.size-64 {
+  min-width: 64px;
+  max-width: 64px;
+
+  min-height: 64px;
+  max-height: 64px;
+}
+
+.size-90 {
+  min-width: 90px;
+  max-width: 90px;
+
+  min-height: 90px;
+  max-height: 90px;
+}
+
+.aspect-ratio-62-5 {
+  position: relative;
+  width: 100%;
+  max-height: 0;
+  padding-bottom: 62.5%;
+
+  img {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+}

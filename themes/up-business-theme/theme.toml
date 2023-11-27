@@ -1,0 +1,14 @@
+name = "Up Business Theme"
+license = "MIT"
+licenselink = "https://gitlab.com/writeonlyhugo/up-business-theme/-/blob/master/LICENSE"
+description = "A clean and modern landing page website inspired by clean and modern illustrations."
+
+homepage = "https://gitlab.com/writeonlyhugo/up-business-theme/"
+demosite = "https://writeonlyhugo.gitlab.io/up-business-demo/"
+
+tags = ["blog", "responsive", "personal", "light", "bootstrap", "portfolio", "landing", "company", "modern"]
+features = []
+
+[author]
+  name = "Iago Bozza"
+  homepage = "https://writeonlycode.io/"
