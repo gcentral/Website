@@ -43,7 +43,7 @@ menus:
       weight: 1
 
     - name: "About"
-      url: "/#"
+      url: "/about"
       weight: 2
 
     - name: "Community"
