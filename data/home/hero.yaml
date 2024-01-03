@@ -4,12 +4,13 @@ id: "hero"
 content:
   title: "Get Going with **GCentral**"
   text: "Striving to help the G Community make the best version of itself."
+  image: "images/logocolor.png"
 
   buttonPrimary:
     label: "About GCentral"
-    url: "#"
+    url: "about"
 
   buttonSecondary:
     label: "Initiatives"
-    url: ""
+    url: "initiatives"
 
