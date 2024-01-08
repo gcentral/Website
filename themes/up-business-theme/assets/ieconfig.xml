@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <browserconfig>
+      <msapplication>
+        <tile>
+          <square70x70logo src="{{ .smalltile.Permalink }}"/>
+          <square150x150logo src="{{ .mediumtile.Permalink }}"/>
+          <wide310x150logo src="{{ .widetile.Permalink }}"/>
+          <square310x310logo src="{{ .largetile.Permalink }}"/>
+          <TileColor>{{ site.Params.themeColor }}</TileColor>
+        </tile>
+      </msapplication>
+    </browserconfig>

@@ -1,0 +1,74 @@
+{{- $favicon := resources.Get "images/favicon.ico" -}}
+{{- with resources.Get "uploads/favicon.ico" -}}
+  {{- $favicon = . -}}
+{{- end -}}
+{{- $favicon = slice $favicon | resources.Concat "favicon.ico" -}}
+
+{{- $logo := resources.Get "images/logo.png" -}}
+{{- with .Site.Params.logo -}}
+  {{- with resources.Get . -}}
+    {{- $logo = . -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $favicon32png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-32.png" "size" "32x32") -}}
+{{- $favicon57png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-57.png" "size" "57x57") -}}
+{{- $favicon72png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-72.png" "size" "72x72") -}}
+{{- $favicon76png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-76.png" "size" "76x76") -}}
+{{- $favicon96png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-96.png" "size" "96x96") -}}
+{{- $favicon114png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-114.png" "size" "114x114") -}}
+{{- $favicon120png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-120.png" "size" "120x120") -}}
+{{- $favicon128png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-128.png" "size" "128x128") -}}
+{{- $smalltile := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "smalltile.png" "size" "128x128") -}}
+{{- $favicon144png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-144.png" "size" "144x144") -}}
+{{- $favicon152png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-152.png" "size" "152x152") -}}
+{{- $favicon180png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-180.png" "size" "180x180") -}}
+{{- $favicon195png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-195.png" "size" "195x195") -}}
+{{- $favicon196png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-196.png" "size" "196x196") -}}
+{{- $favicon228png := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "favicon-228.png" "size" "228x228") -}}
+{{- $mediumtile := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "mediumtile.png" "size" "270x270") -}}
+{{- $widetile := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "widetile.png" "size" "558x270") -}}
+{{- $largetile := partial "utilities/create-favicon.html" (dict "logo" $logo "filename" "largetile.png" "size" "558x558") -}}
+
+<!-- Touch icon for iOS 2.0+ and Android 2.1+: -->
+<link rel="apple-touch-icon-precomposed" href="{{ $favicon180png.Permalink }}">
+
+<!-- IE 10 Metro tile icon (Metro equivalent of apple-touch-icon): -->
+<meta name="msapplication-TileColor" content="{{ .Site.Params.themeColor }}">
+<meta name="msapplication-TileImage" content="{{ $favicon144png.Permalink }}">
+
+<!-- IE 11 Tile for Windows 8.1 Start Screen -->
+<meta name="application-name" content="{{ .Site.Title }}">
+<meta name="msapplication-tooltip" content="{{ .Site.Params.Description }}">
+
+{{- $resourceIEConfigOptions := (dict "smalltile" $smalltile "mediumtile" $mediumtile "widetile" $widetile "largetile" $largetile) -}}
+{{- $resourceIEConfigTemplate := resources.Get "ieconfig.xml" -}}
+{{- $resourceIEConfig := $resourceIEConfigTemplate | resources.ExecuteAsTemplate "site.webmanifest" $resourceIEConfigOptions -}}
+<meta name="msapplication-config" content="{{ $resourceIEConfig.Permalink }}">
+
+<!-- Largest to smallest apple-touch-icons: -->
+<link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ $favicon180png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="{{ $favicon152png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ $favicon144png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="{{ $favicon120png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ $favicon114png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="{{ $favicon76png.Permalink }}">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="{{ $favicon72png.Permalink }}">
+
+<!-- Favicons targeted to any additional png sizes that you add that aren't covered above: -->
+<link rel="icon" href="{{ $favicon32png.Permalink }}" sizes="32x32">
+
+<!-- Favicon Chrome for Android -->
+<link rel="shortcut icon" sizes="196x196" href="{{ $favicon196png.Permalink }}">
+
+<!-- Pinned tabs in Safari 9+ use an SVG vector mask for the favicon instead of any -->
+<!-- other PNG/ICO/etc. favicons that may be present. Vector artwork in the SVG file -->
+<!-- should be black only (no shades of black or other colors) with a transparent -->
+<!-- background. Also, a fill color needs to be defined in the <link> tag - a hex -->
+<!-- value or color shorthand will work. Here's the markup for adding the icon: -->
+<link rel='mask-icon' href='favicon.svg' color='{{ .Site.Params.faviconColor }}'>
+
+{{- $resourceWebManifestOptions := (dict) -}}
+{{- $resourceWebManifestTemplate := resources.Get "site.webmanifest" -}}
+{{- $resourceWebManifest := $resourceWebManifestTemplate | resources.ExecuteAsTemplate "site.webmanifest" . -}}
+<link rel="manifest" href="{{ $resourceWebManifest.Permalink }}">

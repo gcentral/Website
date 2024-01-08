@@ -1,0 +1,6 @@
+{{- $favicon := resources.Get (printf "uploads/%s" .filename) -}}
+{{- if eq $favicon nil -}}
+  {{- $favicon = .logo.Fit (printf "%s png" .size) -}}
+  {{- $favicon = slice $favicon | resources.Concat .filename -}}
+{{- end }}
+{{- return $favicon -}}

@@ -1,0 +1,25 @@
+<section class="section hero py-5">
+  <div class="container">
+    <div class="row flex-column flex-xl-row-reverse">
+      <div class="col-12 col-xl-6  d-flex flex-column justify-content-center hero-image">
+        {{ partial "utilities/image-fluid" "images/hero-image.png" }}
+      </div>
+      <div class="col-12 col-xl-6 d-flex flex-column justify-content-center">
+        {{ with .content.title }}
+          <h3 class="hero-title fw-bold display-1 text-primary text-center text-xl-start pb-4">{{ . | markdownify }}</h3>
+        {{ end }}
+        {{ with .content.text }}
+          <p class="text-center text-black-61 text-xl-start pb-4">{{ . | markdownify }}</p>
+        {{ end }}
+        <div class="d-flex flex-column flex-xl-row">
+          {{ with .content.buttonPrimary }}
+            <a class="btn btn-primary text-light px-4 my-1" href="{{ .url }}">{{ .label }}</a>
+          {{ end }}
+          {{ with .content.buttonSecondary }}
+            <a class="btn btn-outline-primary px-4 my-1 ms-xl-4" href="{{ .url }}">{{ .label }}<span class="ms-2">{{ partial "icons/arrow-right.html" }}</span></a>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
