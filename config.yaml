@@ -1,4 +1,4 @@
-baseURL: "https://www.gcentral.org/"
+baseURL: ""
 theme: "up-business-theme"
 languageCode: "en-us"
 
@@ -12,7 +12,7 @@ params:
   title: "GCentral"
   description: "We specialize in providing services to desing websites, applications, build and maintain business for customers."
   images: 
-    - "images/hero-image.png"
+    - "images/logocolor.png"
 
   logo: "GCentralLogo.png"
 
@@ -39,7 +39,7 @@ params:
 menus:
   main:
     - name: "Initiatives"
-      url: "/#hero"
+      url: "/initiatives"
       weight: 1
 
     - name: "About"
@@ -47,11 +47,11 @@ menus:
       weight: 2
 
     - name: "Community"
-      url: "/#"
+      url: "/community"
       weight: 3
 
     - name: "Sponsor"
-      url: "/#"
+      url: "/sponsor"
       weight: 4
 
     - name: "Blog"
@@ -59,8 +59,8 @@ menus:
       weight: 5
 
   buttons:
-    - name: "Book a call"
-      url: "/#"
+    - name: "Search"
+      url: "/search"
       weight: 5
       pre: "btn btn-primary text-light"
 

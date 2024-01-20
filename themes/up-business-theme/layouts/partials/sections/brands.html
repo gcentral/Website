@@ -1,0 +1,18 @@
+<section class="section brands py-5">
+  <div class="container">
+    <div class="row">
+      {{ with .content.title }}
+        <div class="col-12">
+          <h3 class="fs-5 fw-semibold text-primary text-center pb-4">{{ . }}</h3>
+        </div>
+      {{ end }}
+    </div>
+    <div class="row align-items-center justify-content-center">
+      {{ range .content.items }}
+      <div class="col px-3 my-2 text-center">
+        {{ partial "utilities/image-third.html" . }}
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
