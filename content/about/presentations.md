@@ -35,8 +35,6 @@ GCentralis a community-run initiative that aggregates different package types(VI
 
 {{< youtube QHIVSDQ7Y3g >}}
 
-<br>
-
 ## CLA Summit 2019
 
 Chris Cillino and Quentin Alldredge presents the initial GCentral proposal at the American CLA Summit in 2019
