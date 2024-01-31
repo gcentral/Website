@@ -3,7 +3,13 @@ title = "Presentations about GCentral"
 description = "Recorded videos about GCentral and our projects, presented in chronoligical order"
 +++
 
-## GLASummit 2022
+## GDevcon NA 2023 Summer of LabVIEW Squarebattle | Erich Schlieper and Casey May
+
+Estemed members of the G Idea Exchange, Erich Schlieper and Casey May presents the results of the Summer of LabVIEW, a competition focussing on LabVIEW programming. The competition was started by Derrick Bomaritto and Darren Nattinger. This year the competition focussed on Object Oriented programming through the SquareBattle framework, originally developed by Endigit.
+
+Video pending release.
+
+## GLA Summit 2022: G Idea Exchange: Empowering Your Open Source LabVIEW Ideas
 
 Do you have the next great idea for an open-source toolkit in LabVIEW but need help implementing it? Would you like to help new upcoming toolkits get funded and get initialized? Is your company looking for an open-source project to invest in? The G Idea Exchange is a sub-committee under the non-profit GCentral. It promotes and supports new open-source toolkits and ideas for improving LabVIEW, helping open-source ideas get off the ground.
 
