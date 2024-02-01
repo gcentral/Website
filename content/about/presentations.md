@@ -5,7 +5,7 @@ description = "Recorded videos about GCentral and our projects, presented in chr
 
 ## GDevcon NA 2023 Summer of LabVIEW Squarebattle | Erich Schlieper and Casey May
 
-Estemed members of the G Idea Exchange, Erich Schlieper and Casey May presents the results of the Summer of LabVIEW, a competition focussing on LabVIEW programming. The competition was started by Derrick Bomaritto and Darren Nattinger. This year the competition focussed on Object Oriented programming through the SquareBattle framework, originally developed by Endigit.
+Esteemed members of the G Idea Exchange, Erich Schlieper and Casey May present the results of the Summer of LabVIEW, a competition focusing on LabVIEW programming. The competition was started by Derrick Bommarito and Darren Nattinger. This year the competition focused on Object Oriented programming through the SquareBattle framework, originally developed by Endigit.
 
 Video pending release.
 
@@ -31,12 +31,12 @@ Do you have a toolkit that would benefit the community but don't have the resour
 
 ### GCentral Helping to Write the Web Interface - Chris Cilino, Danielle Jobe, Derrik Bommarito
 
-GCentralis a community-run initiative that aggregates different package types(VIPackages, NIPackages, GPackages) in one website so that the LabVIEWcommunity can find, share, and collaborate on packages, independent of packagetype. In this presentation, we'll teach how we've created GCentral's websiteand underlying indexing technology so that you can contribute by enhancing oradding new functionality.
+GCentral is a community-run initiative that aggregates different package types (VIPackages, NIPackages, GPackages) in one website so that the LabVIEW community can find, share, and collaborate on packages, independent of package type. In this presentation, we'll teach how we've created GCentral's website and underlying indexing technology so that you can contribute by enhancing or adding new functionality.
 
 {{< youtube QHIVSDQ7Y3g >}}
 
 ## CLA Summit 2019
 
-Chris Cillino and Quentin Alldredge presents the initial GCentral proposal at the American CLA Summit in 2019
+Chris Cilino and Quentin Alldredge presents the initial GCentral proposal at the American CLA Summit in 2019
 
 {{< youtube H4nFQeP3AYU >}}
