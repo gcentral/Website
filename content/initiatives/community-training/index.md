@@ -1,10 +1,11 @@
 ---
-title: "Community Initiatives"
+title: "The Community Training Initiative"
 date: "2023-01-31"
-description: "Something about our initiatives"
+description: "How to get started learning LabVIEW for Free"
+layout: "single"
 ---
 
-![Comunity logo](/CTI_no_shadow.png)
+![Comunity logo](./CTI_no_shadow.png)
 
 ## Getting started
 
