@@ -66,6 +66,18 @@
   name = "Initiatives"
   pageRef = "initiatives"
   weight = 20
+  
+[[main]]
+  name = "Community Training Image"
+  parent = "Initiatives"
+  pageRef = "cti"
+  weight = 10
+ 
+ [[main]]
+  name = "Credly Community Badges"
+  parent = "Initiatives"
+  pageRef = "communitybadges"
+  weight = 20
 
 [[main]]
   name = "Community"
