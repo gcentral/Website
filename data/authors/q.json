@@ -1,0 +1,8 @@
+{
+    "name": "Q",
+    "image" : "authors/QAuthorPic.jpg",
+    "bio": "Ravenclaw, Engineer, Builder, Programmer",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/quentin-q-alldredge" }
+    ]
+}

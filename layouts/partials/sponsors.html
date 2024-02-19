@@ -1,0 +1,22 @@
+  <div class="container mb-8">
+    <div class="flex justify-center">
+      {{ with .content.title }}
+        <div class="col-12">
+          <h3 class="fs-5 font-semibold text-primary text-center pb-4 text-neutral-500 dark:text-neutral-300">{{ . }}</h3>
+        </div>
+      {{ end }}
+    </div>
+    <div class="flex justify-center">
+	  {{ range .content.light }}
+      <div class="px-3 my-2 dark:hidden">
+        {{ partial "image-third.html" . }}
+      </div>
+      {{ end }}
+	  {{ range .content.dark }}
+      <div class="px-3 my-2 hidden dark:flex">
+        {{ partial "image-third.html" . }}
+      </div>
+	  {{ end }}
+	  </a>
+    </div>
+  </div>

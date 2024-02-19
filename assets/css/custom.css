@@ -1,0 +1,8 @@
+font-face {
+    font-family: mulish;
+    src: url('/fonts/Mulish-VariableFont_wght.ttf');
+}
+
+html {
+    font-family: mulish;
+}
