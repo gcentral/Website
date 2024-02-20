@@ -18,7 +18,7 @@
         <nav class="flex space-x-3">
 
             {{ if not .Site.Params.disableTextInHeader | default true }}
-            <a href="{{ "" | relLangURL }}" class="text-4xl font-bold text-gray-500 hover:text-gray-900">{{
+            <a href="{{ "" | relLangURL }}" class="text-2xl md:text-4xl font-bold text-gray-500 hover:text-gray-900">{{
                 .Site.Title | markdownify
                 | emojify }}</a>
             {{ end }}
@@ -43,9 +43,9 @@
 
 
             {{/* Appearance switch */}}
-            {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+            {{ if .Site.Params.header.showAppearanceSwitcher | default false }}
             <div
-                class="{{ if .Site.Params.footer.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} flex items-center">
+                class="{{ if .Site.Params.header.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} flex items-center">
                 <button id="appearance-switcher" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400">
                     <div class="flex items-center justify-center dark:hidden">
                         {{ partial "icon.html" "moon" }}
@@ -72,7 +72,7 @@
             {{ end }}
 
             {{/* Appearance switch */}}
-            {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+            {{ if .Site.Params.header.showAppearanceSwitcher | default false }}
             <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" class="text-base hover:text-primary-600 dark:hover:text-primary-400" style="margin-right:5px">
                 <div class="flex items-center justify-center dark:hidden">
                     {{ partial "icon.html" "moon" }}

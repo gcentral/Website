@@ -27,17 +27,17 @@ smartTOCHideUnfocusedChildren = false
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
+  showAppearanceSwitcher = true
 
 [footer]
   showMenu = false
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
-  layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "/img/iceland.jpg" # used in: hero, and card
+  layout = "custom" # valid options: page, profile, hero, card, background, custom
+  #homepageImage = "/img/iceland.jpg" # used in: hero, and card
   showRecent = false
   showRecentItems = 12
   showMoreLink = true

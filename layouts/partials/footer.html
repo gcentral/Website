@@ -1,10 +1,10 @@
-<footer id="site-footer" class="fixed w-screen inset-x-0 bottom-0 pl-[24px] pr-[24px] py-6  print:hidden bg-neutral-100 dark:bg-neutral-600">
+<footer id="site-footer" class="fixed w-screen inset-x-0 bottom-0 pl-[24px] pr-[24px] py-2  print:hidden bg-neutral-100 dark:bg-neutral-600">
     {{/* Footer menu */}}
   <div class="max-w-[64rem] ml-auto mr-auto">
   {{ with .Site.Data.home.sponsors }}{{ partial "sponsors.html" . }}{{ end }}
   {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
-    <nav class="flex flex-row pb-4  text-base font-medium text-neutral-500 dark:text-neutral-300">
+    <nav class="flex flex-row pb-2  text-base font-medium text-neutral-500 dark:text-neutral-300">
       <ul class="flex flex-col list-none sm:flex-row">
         {{ range .Site.Menus.footer }}
         <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
@@ -27,7 +27,7 @@
 
     {{/* Copyright */}}
     {{ if .Site.Params.footer.showCopyright | default true }}
-    <p class="text-sm text-neutral-500 dark:text-neutral-300">
+    <p class="text-xs text-neutral-500 dark:text-neutral-300">
       {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
       {{ . | emojify | markdownify }}
       {{- else }}

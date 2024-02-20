@@ -73,21 +73,57 @@
   pageRef = "cti"
   weight = 10
  
- [[main]]
+[[main]]
   name = "Credly Community Badges"
   parent = "Initiatives"
   pageRef = "communitybadges"
   weight = 20
 
 [[main]]
-  name = "Community"
-  pageRef = "community"
-  weight = 25
+  name = "Hub"
+  pageRef = "hub"
+  weight = 30
+  
+[[main]]
+  name = "Learn Something"
+  parent = "Hub"
+  pageRef = "learnsomething"
+  weight = 10
+  
+[[main]]
+  name = "Engage with Peers"
+  parent = "Hub"
+  pageRef = "engagewithpeers"
+  weight = 20
+  
+[[main]]
+  name = "Handle the Details"
+  parent = "Hub"
+  pageRef = "handlethedetails"
+  weight = 30
+
+[[main]]
+  name = "Get Code"
+  parent = "Hub"
+  pageRef = "getcode"
+  weight = 40
+  
+[[main]]
+  name = "Connect with Others"
+  parent = "Hub"
+  pageRef = "connectwithothers"
+  weight = 50
+  
+[[main]]
+  name = "Find Answers"
+  parent = "Hub"
+  pageRef = "findanswers"
+  weight = 60
   
 [[main]]
   name = "Posts"
   pageref = "posts"
-  weight = 30
+  weight = 40
 
 #[[main]]
 #  name = "Test"

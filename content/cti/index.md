@@ -33,7 +33,7 @@ The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Reso
  - The LabVIEW Wiki: the community's online wiki
  - VIPM.IO: find and download community code
 
-Much more on the  [Community Page]({{< ref community >}}) so be sure to visit it.
+Much more on the  [Community Hub Page]({{< ref hub >}}) so be sure to visit it.
 
 ## Help ensure the CTI is always available by supporting GCentral today!
 GCentral's [mission]({{< ref visionandmission >}}) is to enable the LabVIEW community to make the best version of itself by removing barriers to collaboration. GCentral is honored to work with [Steve Watts](https://www.linkedin.com/in/swatzy/) and [Derrick Bommarito](https://www.linkedin.com/in/dabommarito/) to deliver the CTI to you. The CTI is a manifestation of their passion and dedication to bringing LabVIEW to the world!
