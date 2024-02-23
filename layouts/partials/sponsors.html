@@ -1,20 +1,7 @@
-  <div class="container mb-4">
-    <div class="flex justify-center font-semibold md:text-base">
-      {{ with .content.title }}
-        <div class=" text-primary pb-2 text-neutral-500 dark:text-neutral-300">{{ . }}</div>
-      {{ end }}
-    </div>
-    <div class="flex justify-center">
-	  {{ range .content.light }}
-      <div class="px-3 my-2 dark:hidden">
-        {{ partial "image-third.html" . }}
-      </div>
-      {{ end }}
-	  {{ range .content.dark }}
-      <div class="px-3 my-2 hidden dark:flex">
-        {{ partial "image-third.html" . }}
-      </div>
-	  {{ end }}
-	  </a>
-    </div>
-  </div>
+<div class=" text-sm md:text-base text-primary pb-2 text-center text-neutral-500 dark:text-neutral-300">Sponsors that help GCentral and the G Community</div>
+<div class="flex dark:hidden">
+	{{partial "sponsorslight.html" . }}
+</div>
+<div class="hidden dark:flex">
+	{{partial "sponsorsdark.html" . }}
+</div>

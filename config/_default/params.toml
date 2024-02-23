@@ -34,6 +34,10 @@ smartTOCHideUnfocusedChildren = false
   showCopyright = true
   showThemeAttribution = true
   showScrollToTop = true
+  showSponsors = true
+  sponsorslightdir = "sponsors/light/"
+  sponsorsdarkdir = "sponsors/dark/"
+  sponsorsscrollspeed = 30 #speed is in seconds
 
 [homepage]
   layout = "custom" # valid options: page, profile, hero, card, background, custom

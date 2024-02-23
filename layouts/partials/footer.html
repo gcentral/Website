@@ -1,7 +1,7 @@
 <footer id="site-footer" class="fixed w-screen inset-x-0 bottom-0 pl-[24px] pr-[24px] py-2  print:hidden bg-neutral-100 dark:bg-neutral-600">
     {{/* Footer menu */}}
   <div class="max-w-[64rem] ml-auto mr-auto">
-  {{ with .Site.Data.home.sponsors }}{{ partial "sponsors.html" . }}{{ end }}
+  {{ if .Site.Params.footer.showSponsors | default true }}{{ partial "sponsors.html" . }}{{ end }}
   {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
     <nav class="flex flex-row pb-2  text-base font-medium text-neutral-500 dark:text-neutral-300">
