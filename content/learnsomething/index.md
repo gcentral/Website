@@ -13,3 +13,5 @@ showZenMode: false
 showPagination: false
 showRelatedContent: false
 ---
+ - Learn.ni.com
+ - Training Videos

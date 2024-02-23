@@ -13,3 +13,13 @@ showZenMode: false
 showPagination: false
 showRelatedContent: false
 ---
+ - Discord
+	- LabVIEW
+	- AF Guild
+	- VIPM
+	- LabVIEW Advent of Code
+ - ni.com/community
+ - LinkedIn Groups
+ - Facebook Groups
+ - Reddit
+ 
