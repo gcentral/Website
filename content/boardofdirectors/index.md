@@ -28,14 +28,14 @@ The Board of Directors leads GCentral's initiatives as representatives of the G 
 <p>Currently, Enrique is the proprietor of PantherLAB, a software development and consultancy business based in México. Every day, he finds joy in solving problems with LabVIEW, continuing to pursue his passion for the platform.</p>
 {{< /personcard >}}
 {{< personcard image="ChristianButcher.jpg" side="left" name="Christian Butcher" linkedinname="christian-butcher" >}}
-<p>Morbi a tempor felis. Etiam ligula enim, maximus ultrices mi at, egestas aliquam magna. Nam sodales nulla eget tortor ornare dignissim. Praesent mattis volutpat dapibus. Suspendisse nec tellus quis dui imperdiet aliquam eget sed dui. Nam eget eros ac risus accumsan pharetra. Nunc tortor augue, facilisis eu felis sed, sollicitudin placerat purus. Morbi a ligula id justo luctus dapibus.</p>
+<p></p>
 {{< /personcard >}}
 {{< personcard image="ChrisCilino.jpg" side="right" name="Chris Cilino" linkedinname="chriscilino" position="President, Treasurer" >}}
 <p>Chris is a member of DMC's Test & Measurement team and is based in Austin, Texas. He's a LabVIEW Champion (April 2018) and a Certified LabVIEW Architect (2014). In addition to developing and releasing community-oriented tools and libraries (LabVIEW Container, Software Module Builder, LabVIEW AutoDocumentation Utility, and more), Chris founded GCentral.org, a non-profit organization designed to ease the LabVIEW community's burdens when finding, sharing, and co-developing code. He believes that we, as scientists and engineers, can make the world a better place; and we can do it better and faster by working together.</p>
 <p>Chris is highly active in the LabVIEW community via GCentral, the LabVIEW Champions Program, and Certified LabVIEW Architect Community.</p>
 {{< /personcard >}}
 {{< personcard image="NancyHenson.jpg" side="left" name="Nancy Henson" linkedinname="njhollenback" >}}
-<p>Morbi a tempor felis. Etiam ligula enim, maximus ultrices mi at, egestas aliquam magna. Nam sodales nulla eget tortor ornare dignissim. Praesent mattis volutpat dapibus. Suspendisse nec tellus quis dui imperdiet aliquam eget sed dui. Nam eget eros ac risus accumsan pharetra. Nunc tortor augue, facilisis eu felis sed, sollicitudin placerat purus. Morbi a ligula id justo luctus dapibus.</p>
+<p></p>
 {{< /personcard >}}
 {{< personcard image="EricReffett.jfif" side="right" name="Eric Reffett" linkedinname="ericreffett" >}}
 <p>Eric Reffett has worked at NI for 23 years in multiple roles including Applications Engineering, Software Development, Software Marketing, Engineering Management and Software Planning. In his current role as a Software Planner, Eric is responsible for the product roadmap for LabVIEW.  Eric has met with hundreds of NI's customers during his career at NI and he uses their feedback to improve the products NI creates. Before NI, Eric worked at Motorola developing satellite communication systems for worldwide radio systems.</p>

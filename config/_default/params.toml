@@ -15,7 +15,7 @@ enableCodeCopy = true
 mainSections = ["docs"]
 # robots = ""
 
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = false
 
 defaultBackgroundImage = "/img/ocean.jpg"
@@ -30,7 +30,7 @@ smartTOCHideUnfocusedChildren = false
   showAppearanceSwitcher = true
 
 [footer]
-  showMenu = false
+  showMenu = true
   showCopyright = true
   showThemeAttribution = true
   showScrollToTop = true
@@ -62,7 +62,7 @@ smartTOCHideUnfocusedChildren = false
   layoutBackgroundBlur = true # only used when heroStyle equals background
   showBreadcrumbs = true
   showDraftLabel = true
-  showEdit = true
+  showEdit = false
   editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
   editAppendPath = true
   seriesOpened = false
@@ -77,7 +77,7 @@ smartTOCHideUnfocusedChildren = false
   showAuthorsBadges = true 
   showWordCount = false
   sharingLinks = [ "linkedin", "twitter", "reddit", "whatsapp", "telegram", "pinterest", "facebook", "email"]
-  showZenMode = true
+  showZenMode = false
 
 [list]
   showHero = true
@@ -106,7 +106,7 @@ smartTOCHideUnfocusedChildren = false
   showViews = true
   showLikes = true
   showTableOfContents = true
-  cardView = false
+  cardView = true
 
 [term]
   showHero = true
@@ -118,6 +118,7 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
+  alphaorder = false
   
 [firebase]
   apiKey = "AIzaSyBJsQsLe6t8UzlYuefRNNNQ7yQXCWZz284"

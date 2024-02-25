@@ -27,15 +27,17 @@ Download the Community Training Image (CTI)
 1. [Download the CTI VM](https://downloads.gcentral.org/vm/20231021_OpenSUSE_CTIBase.ova) (~ 8 GB download). 
 2. Download the setup and getting started instructions in either [PDF](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.pdf) or [ODT](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.odt) format. 
 
-## Learning LabVIEW and Finding Resources
+## Learning LabVIEW
 The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Resources Page to learn more about the resources at your disposal such as  
 
  - The LabVIEW Wiki: the community's online wiki
  - VIPM.IO: find and download community code
 
-Much more on the  [Community Hub Page]({{< ref hub >}}) so be sure to visit it.
+Much more on the  [Community Hub Page]({{< ref categories >}}) so be sure to visit it.
 
-## Help ensure the CTI is always available by supporting GCentral today!
+## Help Keep the CTI Available
+{{< alert >}}Help ensure the CTI is always available by <a href="../howtosponsor">supporting GCentral</a> today!{{< /alert >}}
+
 GCentral's [mission]({{< ref visionandmission >}}) is to enable the LabVIEW community to make the best version of itself by removing barriers to collaboration. GCentral is honored to work with [Steve Watts](https://www.linkedin.com/in/swatzy/) and [Derrick Bommarito](https://www.linkedin.com/in/dabommarito/) to deliver the CTI to you. The CTI is a manifestation of their passion and dedication to bringing LabVIEW to the world!
 
 GCentral is honored to host the files, but needs your help. If you have benefited from the CTI and/or want to make sure it remains available for others to download please [contribute to GCentral today]({{< ref howtodonate >}}).

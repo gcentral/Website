@@ -81,43 +81,43 @@
 
 [[main]]
   name = "Hub"
-  pageRef = "hub"
+  pageRef = "categories"
   weight = 30
   
 [[main]]
   name = "Learn Something"
   parent = "Hub"
-  pageRef = "learnsomething"
+  pageRef = "categories/learn-something"
   weight = 10
   
 [[main]]
   name = "Engage with Peers"
   parent = "Hub"
-  pageRef = "engagewithpeers"
+  pageRef = "categories/engage-with-peers"
   weight = 20
   
 [[main]]
   name = "Handle the Details"
   parent = "Hub"
-  pageRef = "handlethedetails"
+  pageRef = "categories/handle-the-details"
   weight = 30
 
 [[main]]
   name = "Get Code"
   parent = "Hub"
-  pageRef = "getcode"
+  pageRef = "categories/get-code"
   weight = 40
   
 [[main]]
   name = "Connect with Others"
   parent = "Hub"
-  pageRef = "connectwithothers"
+  pageRef = "categories/connect-with-others"
   weight = 50
   
 [[main]]
   name = "Find Answers"
   parent = "Hub"
-  pageRef = "findanswers"
+  pageRef = "categories/find-answers"
   weight = 60
   
 [[main]]

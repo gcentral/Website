@@ -6,3 +6,52 @@ font-face {
 html {
     font-family: mulish;
 }
+.fade-edges {
+  position: relative;
+  overflow: hidden; /* Ensures the pseudo-elements are contained within the div */
+}
+
+.fade-edges::before, .fade-edges::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 10%; /* Adjust the width of the fading effect */
+  z-index: 2;
+  pointer-events: none; /* Allows clicks to pass through */
+}
+
+.fade-edges::before {
+  left: 0;
+  background: linear-gradient(to right, #475569 0%, transparent 100%);
+  
+}
+
+.fade-edges::after {
+  right: 0;
+  background: linear-gradient(to left, #475569 0%, transparent 100%);
+}
+.fade-edgeslight {
+  position: relative;
+  overflow: hidden; /* Ensures the pseudo-elements are contained within the div */
+}
+
+.fade-edgeslight::before, .fade-edgeslight::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 10%; /* Adjust the width of the fading effect */
+  z-index: 2;
+  pointer-events: none; /* Allows clicks to pass through */
+}
+
+.fade-edgeslight::before {
+  left: 0;
+  background: linear-gradient(to right, #f3f4f6 0%, transparent 100%);
+}
+
+.fade-edgeslight::after {
+  right: 0;
+  background: linear-gradient(to left, #f3f4f6 0%, transparent 100%);
+}
