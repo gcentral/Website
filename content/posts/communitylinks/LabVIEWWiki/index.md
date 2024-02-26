@@ -1,8 +1,7 @@
 ---
 title: "LabVIEW Wiki"
 externalUrl: https://labviewwiki.org/wiki/Home
-summary: "The LabVIEW Wiki is a community driven information resouce."
-featureimage: LabVIEWWiki.png
+summary: "The LabVIEW Wiki is a community-driven information resource."
 showSummary: true
 categories:
  - "Find Answers"
