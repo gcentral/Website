@@ -1,16 +1,37 @@
-# Welcome to the GCentral Indexer Repository!
+# Welcome to the GCentral Website
 
-This repository contains the GCentral Indexer, the back-end implementation, and the front-end presentation of VI Packages, NI Packages, and G Packages in various repositories, inducing GCentral's own repositories. The indexer is displayed in GCentral.org and represents the "Find / Discover" portion of the mission. 
-GCentral's goal is to empower the community to build GCentral into the tool it needs. Therefore we are open-sourcing as much of the indexer and website as possible so you can lend your passion and expertise to the cause.
+This repository contains the GCentral website the central hub for all things related to the G (LabVIEW) Community. It is maintained by members of the GCentral Board of Directors and other volunteer community members. It is built on the Hugo Static Website Generator. The infustructure is not free. o maintain this resource, please consider [donating](https://www.gcentral.org/howtodonate) or becoming a [sponsor](https://www.gcentral.org/howtosponsor) of GCentral.
 
-Please see [GCentral.org](https://www.gcentral.org/support/collaborate) for detailed instructions how to set up your development environment to work on the indexer.
 
-### Above all, thank you for sacrificing your time and using your skills, talents, and passion to build GCentral.
+There are two non-financial ways you could also contribute by adding content to GCentral to make it an even more valuable resource. The two main places to add content to GCentral are:
 
-### Documentation
+ 1. Add to the hub of of community links. These links are organized into six categories. A link can be a member of multiple categories if it make sense to. The categories are:
+	- Connect with Others
+	- Engage with Peers
+	- Find Answers
+	- Get Code
+	- Handle the Details
+	- Learn Something
 
-[GCentral's Wiki](https://github.com/gcentral/Website/wiki)
-See how you can contribute!
-
-## Sponsorship
-GCentral.org is a 501(c)3 non-profit organization, completely funded through donations and sponsorship. All financial contributions are tax-deductible. We appreciate donations and sponsorship in any amount. To donate to GCentral.org please visit our [Sponsorship / Donation page](https://www.gcentral.org/support/donate) or send an email to donate@gcentral.org.
+ 2. Add a blog post about anything pertaining to software development in G (LabVIEW).
+ 
+ To add content to this website you can choose to submit requests for changes on out ["Forgot Something"](https://www.gcentral.org/forgotsomething) page or fork, make edits, and submit a merge request through this repo.
+ 
+ To make edits depends on where you want the content added. To submit a link:
+ 1. Add a uniquely named folder to the /content/posts/communitylinks folder.
+ 2. Add a file named ***index.md*** with the following content:
+	'''
+	---
+title: "LabVIEW Wiki"
+externalUrl: https://labviewwiki.org/wiki/Home
+summary: "The LabVIEW Wiki is a community driven information resouce."
+showSummary: true
+categories:
+ - "Find Answers"
+ - "Learn Something"
+tags:
+ - "Community"
+ - "Knowledge Base"
+ - "Online"
+---
+'''
