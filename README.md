@@ -98,3 +98,4 @@ tags:
 		categories should include one or more of the categories above
     	tags can be any other keywords useful in describing or helping to find your resource in a search 
 8. Add your blog content and use the rules for Hugo markdown.
+9. Go through the merge request steps.
