@@ -1,7 +1,7 @@
 ---
-title: "LabVIEW Discord"
-externalUrl: https://discord.gg/UF3kFwkJvZ
-summary: "The general LabVIEW Discord server for all things LabVIEW."
+title: "Tom's LabVIEW Adventure"
+externalUrl: http://www.youtube.com/@TomsLabVIEWAdventure
+summary: "Videos of various LabVIEW topics explained simply and easy to understand."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -12,10 +12,9 @@ showZenMode: false
 showPagination: false
 showRelatedContent: false
 categories:
- - "Find Answers"
- - "Connect with Others"
+ - "Learn Something"
 tags:
  - "Community"
- - "Discord"
+ - "YouTube"
  - "Online"
 ---

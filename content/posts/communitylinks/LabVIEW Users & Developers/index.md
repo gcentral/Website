@@ -10,6 +10,14 @@ summary: "Motto of this group is to share the following information's
 6. LabVIEW User event Info 
 (1K+ Users)"
 showSummary: true
+showAuthor: false
+showEdit: false
+showWordCount: false
+showHeadingAnchors: false
+sharingLinks: false
+showZenMode: false
+showPagination: false
+showRelatedContent: false
 categories:
  - "Find Answers"
  - "Connect with Others"
