@@ -1,0 +1,49 @@
+---
+title: "Better Drag and Drop"
+externalUrl: https://www.vipm.io/package/blue_origin_lib_better_drag_and_drop
+summary: "This package provides an improved drag and drop schema for:
+- Listbox
+- Multicolumn Listbox
+- Tree
+
+Notable advantages:
+- Use cursor position to select indent level when dropping items onto a tree control."
+showSummary: true
+showAuthor: false
+showEdit: false
+showData: false
+showViews: false
+showReadingTime: false
+showWordCount: false
+showBreadcrumbs: false
+showHeadingAnchors: false
+sharingLinks: false
+showZenMode: false
+showPagination: false
+showRelatedContent: false
+draft: true
+tags:
+ - "VIPM"
+ - "VIPM Community"
+ - "OOP"
+---
+
+Redirecting to https://www.vipm.io/package/blue_origin_lib_better_drag_and_drop
+
+Vendor: Blue Origin
+
+Author(s): Brent Justice
+ 
+Full Description:
+This package provides an improved drag and drop schema for:
+- Listbox
+- Multicolumn Listbox
+- Tree
+
+Notable advantages:
+- Use cursor position to select indent level when dropping items onto a tree control.  (Not a native LabVIEW capability)
+- Easily move items from 1 control to another control
+- LVOOP abstraction
+
+This toolkit entirely overrides the built-in drag/drop behavior with custom code.
+Basically, this is an entirely G-written implentation of drag/drop behavior.

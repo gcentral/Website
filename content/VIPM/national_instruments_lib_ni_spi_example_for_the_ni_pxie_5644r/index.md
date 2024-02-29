@@ -1,0 +1,31 @@
+---
+title: "NI SPI Example for the NI PXIe-5644R"
+externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_spi_example_for_the_ni_pxie_5644r
+summary: "Serial Peripheral Interface (SPI) buses are commonly used to communicate between a controller (master) device and a target (slave) device."
+showSummary: true
+showAuthor: false
+showEdit: false
+showData: false
+showViews: false
+showReadingTime: false
+showWordCount: false
+showBreadcrumbs: false
+showHeadingAnchors: false
+sharingLinks: false
+showZenMode: false
+showPagination: false
+showRelatedContent: false
+draft: true
+tags:
+ - "VIPM"
+ - "NI LabVIEW Tools Network"
+---
+
+Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_spi_example_for_the_ni_pxie_5644r
+
+Vendor: National Instruments
+
+Author(s): National Instruments
+ 
+Full Description:
+Serial Peripheral Interface (SPI) buses are commonly used to communicate between a controller (master) device and a target (slave) device. In general, SPI buses require four lines for communication: chip select/clock enable, serial clock, master serial data out (MOSI), and master serial data in (MISO). In some cases only a subset of these lines are used; some devices multiplex both MOSI and MISO onto a single bidirectional data line. This example includes LabVIEW FPGA code for both an SPI master and an SPI slave.
