@@ -1,6 +1,7 @@
 ---
 title: "Bauer SDK"
 externalUrl: https://www.vipm.io/package/bauer_controls_lib_bauer_sdk
+date: 2020-04-09
 summary: "The Bauer SDK for LabVIEW is a collection of VIs that make it easy to handle Bauer Test Results directly from LabVIEW."
 showSummary: true
 showAuthor: false

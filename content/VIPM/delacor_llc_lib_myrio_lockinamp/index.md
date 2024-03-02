@@ -1,6 +1,7 @@
 ---
 title: "myRIO LockInAmp"
 externalUrl: https://www.vipm.io/package/delacor_llc_lib_myrio_lockinamp
+date: 2016-05-19
 summary: "Lock-In Amplifier implementation with myRIO."
 showSummary: true
 showAuthor: false

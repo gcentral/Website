@@ -1,6 +1,7 @@
 ---
 title: "NI Linux RT Inter-Process Communication"
 externalUrl: https://www.vipm.io/package/ni_lib_ni_linux_rt_ipc
+date: 2017-08-30
 summary: "This library provides LabVIEW with access to common inter-process communication (IPC) mechanisms available in Linux-based operating systems."
 showSummary: true
 showAuthor: false

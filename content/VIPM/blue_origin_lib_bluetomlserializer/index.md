@@ -1,7 +1,8 @@
 ---
 title: "BlueTOMLSerializer"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluetomlserializer
-summary: "."
+date: 2021-08-05
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Hydrostatic Transmission"
 externalUrl: https://www.vipm.io/package/fluid_power_toolset_lib_hydrostatic_transmission
+date: 2016-05-19
 summary: "This is a free subset of the Fluid Power Toolset for LabVIEW."
 showSummary: true
 showAuthor: false

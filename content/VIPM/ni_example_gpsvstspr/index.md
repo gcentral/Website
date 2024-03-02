@@ -1,7 +1,8 @@
 ---
 title: "NI GPS Streaming Example VST"
 externalUrl: https://www.vipm.io/package/ni_example_gpsvstspr
-summary: "Support for LabVIEW 2015 only.."
+date: 2017-03-31
+summary: "Support for LabVIEW 2015 only."
 showSummary: true
 showAuthor: false
 showEdit: false

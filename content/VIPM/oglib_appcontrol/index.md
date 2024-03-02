@@ -1,7 +1,8 @@
 ---
 title: "OpenG Application Control Library"
 externalUrl: https://www.vipm.io/package/oglib_appcontrol
-summary: "The OpenG Application Control Library package contains application control functions.."
+date: 2018-03-02
+summary: "The OpenG Application Control Library package contains application control functions."
 showSummary: true
 showAuthor: false
 showEdit: false

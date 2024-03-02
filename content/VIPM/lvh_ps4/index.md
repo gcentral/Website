@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Interface for PS4 Controller"
 externalUrl: https://www.vipm.io/package/lvh_ps4
+date: 2016-05-19
 summary: "The MakerHub Interface for the PS4 Controller makes it easy to read all button and axis data from a PS4 Controller."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Front Panel Layout"
 externalUrl: https://www.vipm.io/package/ni_lib_fp_layout
+date: 2016-05-19
 summary: "The Front Panel Layout utility provides the ability to use a single VI’s front panel with various different window sizes and layout configurations."
 showSummary: true
 showAuthor: false

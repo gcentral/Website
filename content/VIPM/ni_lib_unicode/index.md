@@ -1,6 +1,7 @@
 ---
 title: "NI Unicode Tools"
 externalUrl: https://www.vipm.io/package/ni_lib_unicode
+date: 2019-02-21
 summary: "LabVIEW for Windows has limited support for Unicode strings in the front panel controls and indicators."
 showSummary: true
 showAuthor: false

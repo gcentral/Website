@@ -1,7 +1,8 @@
 ---
 title: "NI Persistence IP Host"
 externalUrl: https://www.vipm.io/package/ni_lib_persistence_ip_host
-summary: "This package provides the host library required to control a bitfile containing the NI Persistence IP FPGA block.."
+date: 2016-05-19
+summary: "This package provides the host library required to control a bitfile containing the NI Persistence IP FPGA block."
 showSummary: true
 showAuthor: false
 showEdit: false

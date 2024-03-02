@@ -1,6 +1,7 @@
 ---
 title: "NI Lock-In Amplifier Reference Example"
 externalUrl: https://www.vipm.io/package/ni_example_lia
+date: 2017-03-01
 summary: "This package installs LabVIEW Host, RT, and FPGA libraries and examples for implementing a lock-in amplifier using NI FlexRIO hardware."
 showSummary: true
 showAuthor: false

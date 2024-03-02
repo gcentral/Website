@@ -1,6 +1,7 @@
 ---
 title: "Blue Event Log (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blue_event_log_opensource
+date: 2023-04-06
 summary: "An event-based debug logger optimized for a continuously running application."
 showSummary: true
 showAuthor: false

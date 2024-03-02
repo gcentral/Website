@@ -1,6 +1,7 @@
 ---
 title: "IG Serial Stream"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_serial_stream
+date: 2022-11-12
 summary: "Provides a SerialStream implementation based on the IG Stream Base library."
 showSummary: true
 showAuthor: false

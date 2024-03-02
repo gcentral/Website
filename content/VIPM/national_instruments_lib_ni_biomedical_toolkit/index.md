@@ -1,6 +1,7 @@
 ---
 title: "NI Biomedical Toolkit"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_biomedical_toolkit
+date: 2016-05-19
 summary: "The LabVIEW Biomedical Toolkit includes tools that you can use to acquire, preprocess, extract, and analyze biosignals and biomedical images."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "OpenG LabVIEW ZIP Library"
 externalUrl: https://www.vipm.io/package/oglib_lvzip-4.0.1
+date: 2020-10-21
 summary: "The lvzip package contains several routines for operating on zip files."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Report Generation Toolkit For Google Sheets"
 externalUrl: https://www.vipm.io/package/report_generation_toolkit_for_google_sheets
+date: 2019-03-25
 summary: "This LabVIEW toolkit enables to generate the reports right into Google Sheets ."
 showSummary: true
 showAuthor: false

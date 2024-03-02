@@ -1,6 +1,7 @@
 ---
 title: "AnimationRing QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_animationring_qcontrol
+date: 2023-06-05
 summary: "The AnimationRing is a QControl that inherits from and extends the Ring control, specifically a Picture Ring."
 showSummary: true
 showAuthor: false
@@ -19,6 +20,7 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "QControl"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_animationring_qcontrol

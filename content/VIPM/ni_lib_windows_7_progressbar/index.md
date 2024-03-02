@@ -1,6 +1,7 @@
 ---
 title: "Windows 7 Progress bar"
 externalUrl: https://www.vipm.io/package/ni_lib_windows_7_progressbar
+date: 2016-05-19
 summary: "This simple LabVIEW Tool enables the use of the Progress bar embedded in the Windows 7 Taskbar using three simple VIs."
 showSummary: true
 showAuthor: false

@@ -1,17 +1,8 @@
 ---
 title: "cRIO PN Device (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pnad_system
-summary: "**PROFINET Device Interface for CompactRIO**  
-forLabVIEW 2018 or later
-
-**Required Software**
-Before using this driver it is needed to install the following software components:
-   - LabVIEW RT
-   - FPGA
-   - NI-RIO
-
-**Help**
-The Installation Instructions manual and the Getting Started manual can be found in *LabVIEW -> Help -> KUNBUS GmbH -> cRIO PNAD*."
+date: 2019-01-30
+summary: "**PROFINET Device Interface for CompactRIO**  "
 showSummary: true
 showAuthor: false
 showEdit: false

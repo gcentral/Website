@@ -1,6 +1,7 @@
 ---
 title: "NI LCD Module Driver"
 externalUrl: https://www.vipm.io/package/ni_lib_ie_embedded_display_driver
+date: 2016-05-19
 summary: "This code library includes NI LabVIEW FPGA code for a communication engine to HD44780-based character LCDs."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "NetDCPower WebService"
 externalUrl: https://www.vipm.io/package/insol_netdcpower_webservice
-summary: "Network DCPower Driver is network-working DCPower driver i.e."
+date: 2016-05-19
+summary: "Network DCPower Driver is network-working DCPower driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

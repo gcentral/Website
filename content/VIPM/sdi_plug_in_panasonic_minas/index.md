@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Panasonic MINAS"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_panasonic_minas
+date: 2017-02-01
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Panasonic MINAS EtherCAT servo drives."
 showSummary: true
 showAuthor: false

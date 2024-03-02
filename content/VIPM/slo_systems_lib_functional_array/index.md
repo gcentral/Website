@@ -1,6 +1,7 @@
 ---
 title: "Functional Array"
 externalUrl: https://www.vipm.io/package/slo_systems_lib_functional_array
+date: 2021-02-10
 summary: "VIs for generating arrays in a declarative way and for processing arrays in a functional manner using combinations of maps, folds, and filters."
 showSummary: true
 showAuthor: false

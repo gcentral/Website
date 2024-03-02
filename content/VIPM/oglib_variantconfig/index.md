@@ -1,7 +1,8 @@
 ---
 title: "OpenG Variant Configuration File Library"
 externalUrl: https://www.vipm.io/package/oglib_variantconfig
-summary: "The OpenG Variant Configuration File Library package contains tools for writing and reading variant data to and from INI files.."
+date: 2018-03-02
+summary: "The OpenG Variant Configuration File Library package contains tools for writing and reading variant data to and from INI files."
 showSummary: true
 showAuthor: false
 showEdit: false

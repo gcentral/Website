@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "nirsc_html_help_common-1.0"
 externalUrl: https://www.vipm.io/package/nirsc_html_help_common-1.0
-summary: "common files for OpenG help documentation."
+date: 2020-05-16
+summary: "common files for OpenG help documentation"
 showSummary: true
 showAuthor: false
 showEdit: false

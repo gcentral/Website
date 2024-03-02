@@ -1,7 +1,8 @@
 ---
 title: "LVBuildSpec For G CLI"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_lvbuildspec_for_g_cli
-summary: "For building LV build spec items such as Exes and Installers, using GCLI.."
+date: 2024-02-02
+summary: "For building LV build spec items such as Exes and Installers, using GCLI."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Actor Hierarchy Inspector"
 externalUrl: https://www.vipm.io/package/justacs_lib_actor_hierarchy_inspector
+date: 2023-07-18
 summary: "The Actor Hierarchy Inspector displays the hierarchy of your Actor Framework project in real time."
 showSummary: true
 showAuthor: false

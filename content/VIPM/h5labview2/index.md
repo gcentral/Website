@@ -1,6 +1,7 @@
 ---
 title: "Hierarchical Data Format (HDF5)"
 externalUrl: https://www.vipm.io/package/h5labview2
+date: 2022-12-03
 summary: "This library provides a simple interface to read and write data stored in the Heirarchical Data Format (HDF), version 5."
 showSummary: true
 showAuthor: false

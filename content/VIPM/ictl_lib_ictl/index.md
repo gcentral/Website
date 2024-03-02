@@ -1,6 +1,7 @@
 ---
 title: "Intelligent Control Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/ictl_lib_ictl
+date: 2018-12-19
 summary: "Today's global, highly competitive business environment requires continually improving performance of industrial and consumer products as well as their manufacturing processes."
 showSummary: true
 showAuthor: false

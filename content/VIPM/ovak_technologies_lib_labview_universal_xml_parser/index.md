@@ -1,7 +1,8 @@
 ---
 title: "LabVIEW Universal XML Parser"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_labview_universal_xml_parser
-summary: "This add-on designed to read data from XML files and create LabVIEW compatible data.."
+date: 2017-02-01
+summary: "This add-on designed to read data from XML files and create LabVIEW compatible data."
 showSummary: true
 showAuthor: false
 showEdit: false

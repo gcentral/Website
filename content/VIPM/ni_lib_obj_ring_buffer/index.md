@@ -1,6 +1,7 @@
 ---
 title: "Variant Ring Buffer"
 externalUrl: https://www.vipm.io/package/ni_lib_obj_ring_buffer
+date: 2016-05-19
 summary: "This package contains functionality of an variant based ring, circular buffer."
 showSummary: true
 showAuthor: false

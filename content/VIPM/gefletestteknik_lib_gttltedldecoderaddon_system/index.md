@@ -1,6 +1,7 @@
 ---
 title: "LTE DL BER/BLER (System)"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttltedldecoderaddon_system
+date: 2018-06-11
 summary: "GTT LTE DL BER/BLER is an an add-on to the GTT LTE RBS Toolkit for downlink decoding and BER/BLER analysis."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "IG WebSocket Stream"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_websocket_stream
-summary: "."
+date: 2023-11-23
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

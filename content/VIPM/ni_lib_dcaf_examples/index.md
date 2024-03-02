@@ -1,7 +1,8 @@
 ---
 title: "DCAF Examples"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_examples
-summary: "Installs a set of examples for the Tag Bus Data Framework in the Example Finder.."
+date: 2018-04-06
+summary: "Installs a set of examples for the Tag Bus Data Framework in the Example Finder."
 showSummary: true
 showAuthor: false
 showEdit: false

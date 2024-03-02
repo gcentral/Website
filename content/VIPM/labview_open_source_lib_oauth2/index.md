@@ -1,11 +1,8 @@
 ---
 title: "Oauth 2.0"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_oauth2
-summary: "Oauth 2.0 library for LabVIEW
-
-Open Authorization 2.0 API (Oauth2)
-
-This library contains the base class for Oauth2 authorization workflow."
+date: 2022-05-01
+summary: "Oauth 2."
 showSummary: true
 showAuthor: false
 showEdit: false

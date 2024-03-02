@@ -1,6 +1,7 @@
 ---
 title: "AsciiDoc for LabVIEW"
 externalUrl: https://www.vipm.io/package/wovalab_lib_asciidoc_for_labview
+date: 2023-09-12
 summary: "This toolkit provides a set of vis that helps you builds plain-text file using asciidoc syntax."
 showSummary: true
 showAuthor: false

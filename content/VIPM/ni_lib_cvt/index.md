@@ -1,6 +1,7 @@
 ---
 title: "NI Current Value Table"
 externalUrl: https://www.vipm.io/package/ni_lib_cvt
+date: 2016-05-19
 summary: "Machine control, automation, and application monitoring are typically all developed as independent processes running on one or more systems."
 showSummary: true
 showAuthor: false

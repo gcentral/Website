@@ -1,6 +1,7 @@
 ---
 title: "RS-232 Interface Reference Example for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_rs-232_interface_reference_example_for_labview_fpga
+date: 2016-05-19
 summary: "This RS-232 example contains a single FPGA serial read/write example."
 showSummary: true
 showAuthor: false

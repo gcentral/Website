@@ -1,10 +1,8 @@
 ---
 title: "Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_connection
-summary: "Connection
-https://github.com/LabVIEW-Open-Source/Connection
-
-This package consists the fundamental building blocks for abstract connection extensions."
+date: 2024-01-14
+summary: "Connection"
 showSummary: true
 showAuthor: false
 showEdit: false

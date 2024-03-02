@@ -1,6 +1,7 @@
 ---
 title: "XDSC Components"
 externalUrl: https://www.vipm.io/package/anomoref_lib_xdsc_components
+date: 2016-05-19
 summary: "**XDSC UI."
 showSummary: true
 showAuthor: false

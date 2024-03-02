@@ -1,9 +1,8 @@
 ---
 title: "LLC"
 externalUrl: https://www.vipm.io/package/olymp_engineering_llc_lib_llc
-summary: "**LossLess Coding Library for LabVIEW FPGA**
-
-Lossless data compression is a class of data compression algorithms that allows the exact original data to be reconstructed from the compressed data."
+date: 2016-05-19
+summary: "**LossLess Coding Library for LabVIEW FPGA**"
 showSummary: true
 showAuthor: false
 showEdit: false

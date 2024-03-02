@@ -1,6 +1,7 @@
 ---
 title: "Cluster Tools"
 externalUrl: https://www.vipm.io/package/ims_lib_cluster_tools
+date: 2016-05-19
 summary: "IMS ClusterTools is an advanced utility for clusters."
 showSummary: true
 showAuthor: false

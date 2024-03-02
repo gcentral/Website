@@ -1,9 +1,8 @@
 ---
 title: "Cron Scheduler"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_cron_scheduler
-summary: "Cron Scheduler library for LabVIEW
-
-This library provides support for parsing Cron Expressions and computing job timing."
+date: 2023-12-03
+summary: "Cron Scheduler library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

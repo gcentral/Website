@@ -1,7 +1,8 @@
 ---
 title: "DCAF Ethernet/IP Tags Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_ethernet_ip_tags
-summary: "."
+date: 2017-05-20
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,7 +1,8 @@
 ---
 title: "DCAF UI Reference Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_uiref
-summary: "."
+date: 2019-03-05
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

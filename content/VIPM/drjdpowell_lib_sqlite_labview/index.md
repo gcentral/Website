@@ -1,6 +1,7 @@
 ---
 title: "SQLite Library"
 externalUrl: https://www.vipm.io/package/drjdpowell_lib_sqlite_labview
+date: 2023-07-12
 summary: "SQLite3 is a very light-weight, server-less, database-in-a-file library."
 showSummary: true
 showAuthor: false

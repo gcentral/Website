@@ -1,7 +1,8 @@
 ---
 title: "IconExpress"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_iconexpress
-summary: "A toolkit of .vis that allow the programmatic extraction of icons from EXE and DLL files."
+date: 2016-05-19
+summary: "A toolkit of ."
 showSummary: true
 showAuthor: false
 showEdit: false

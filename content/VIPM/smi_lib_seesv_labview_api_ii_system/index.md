@@ -1,6 +1,7 @@
 ---
 title: "SeeSV LabVIEW API II (System)"
 externalUrl: https://www.vipm.io/package/smi_lib_seesv_labview_api_ii_system
+date: 2017-02-13
 summary: "SeeSV API II acquires image and signal in real time by a portable sound camera."
 showSummary: true
 showAuthor: false

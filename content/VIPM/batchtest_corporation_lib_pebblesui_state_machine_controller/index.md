@@ -1,9 +1,8 @@
 ---
 title: "Pebbles UI: State Machine Controller"
 externalUrl: https://www.vipm.io/package/batchtest_corporation_lib_pebblesui_state_machine_controller
-summary: "**This toolkit installer requires VI Package Manager 2014 or later to install.**
-
-State-Machine based block-diagram design utilizing highly optimized & automated **Pebbles UI State Machine Controller**."
+date: 2016-05-19
+summary: "**This toolkit installer requires VI Package Manager 2014 or later to install."
 showSummary: true
 showAuthor: false
 showEdit: false

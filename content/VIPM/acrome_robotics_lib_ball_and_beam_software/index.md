@@ -1,14 +1,8 @@
 ---
 title: "Ball and Beam Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_ball_and_beam_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW (2015 SP1 or later)
-**Required software modules:** NI-VISA, NI-Softmotion, MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module (2015 SP1 or later)
-**Hardware Requirements:** Ball and Beam System (It contains NI myRIO, ACROME Power Distribution Unit, RC Servo Motor, Steel Ball, Potentiometer and Mechanics of the System)
-
-**Original Release Date:** 24-04-2018
-**Current Revision Date:**11-02-2019
-VI Package Manager 2017 is required to install the package."
+date: 2019-02-15
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

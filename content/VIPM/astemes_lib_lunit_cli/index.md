@@ -1,6 +1,7 @@
 ---
 title: "LUnit CLI"
 externalUrl: https://www.vipm.io/package/astemes_lib_lunit_cli
+date: 2024-01-29
 summary: "LUnit is a LabVIEW **Unit Testing Framework** and this package contains a command line interface using LabVIEW native command line interface."
 showSummary: true
 showAuthor: false

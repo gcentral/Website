@@ -1,6 +1,7 @@
 ---
 title: "WF3132_cDAQ driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3132_cdaq_driver
+date: 2018-09-14
 summary: "**Please note that this package requires <u>VIPM 2014</u> for installation and requires VIPM to be run with <u>administrator</u> rights."
 showSummary: true
 showAuthor: false

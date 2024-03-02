@@ -1,6 +1,7 @@
 ---
 title: "Vector Graph"
 externalUrl: https://www.vipm.io/package/integrator_ltd_lib_vector_graph
+date: 2017-03-06
 summary: "Vector Graph Toolkit allows you to draw 2D vectors in graph plotter and to do math operations with vectors."
 showSummary: true
 showAuthor: false

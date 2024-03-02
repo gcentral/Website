@@ -1,7 +1,8 @@
 ---
 title: "UI Tools Controls Addon"
 externalUrl: https://www.vipm.io/package/lavag_lib_ui_tools_controls_addon
-summary: "."
+date: 2020-11-14
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

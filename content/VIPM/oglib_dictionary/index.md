@@ -1,7 +1,8 @@
 ---
 title: "OpenG Dictionary Library"
 externalUrl: https://www.vipm.io/package/oglib_dictionary
-summary: "The OpenG Dictionary Library package contains a library for key-value sets.."
+date: 2018-03-02
+summary: "The OpenG Dictionary Library package contains a library for key-value sets."
 showSummary: true
 showAuthor: false
 showEdit: false

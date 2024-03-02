@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_msgqueue-2.2"
 externalUrl: https://www.vipm.io/package/oglib_msgqueue-2.2
-summary: "The message queue generates a response notifier to reply to messages."
+date: 2018-03-02
+summary: "The message queue generates a response notifier to reply to messages"
 showSummary: true
 showAuthor: false
 showEdit: false

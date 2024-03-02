@@ -1,6 +1,7 @@
 ---
 title: "DCAF FPGA Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_fpga
+date: 2019-06-25
 summary: "Pass data to and from an FPGA target's front panel via DCAF."
 showSummary: true
 showAuthor: false

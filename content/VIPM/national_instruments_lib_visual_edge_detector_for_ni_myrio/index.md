@@ -1,6 +1,7 @@
 ---
 title: "Visual Edge Detector for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_visual_edge_detector_for_ni_myrio
+date: 2016-05-19
 summary: "The Visual Edge Detector for NI myRIO transforms your NI myRIO and USB camera into a high quality edge detector with an efficient algorithm and user-controlled threshold values."
 showSummary: true
 showAuthor: false

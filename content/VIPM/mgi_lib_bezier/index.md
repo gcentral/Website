@@ -1,6 +1,7 @@
 ---
 title: "MGI Bezier"
 externalUrl: https://www.vipm.io/package/mgi_lib_bezier
+date: 2016-08-30
 summary: "This package contains VIs useful when working with Bezier curves."
 showSummary: true
 showAuthor: false

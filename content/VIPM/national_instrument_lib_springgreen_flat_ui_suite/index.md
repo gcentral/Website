@@ -1,6 +1,7 @@
 ---
 title: "Springgreen Flat UI Suite"
 externalUrl: https://www.vipm.io/package/national_instrument_lib_springgreen_flat_ui_suite
+date: 2016-05-19
 summary: "The Springgreen Flat User Interface Controls Suite by NI China AES group offers new aesthetic additions to the LabVIEW front panel controls palette."
 showSummary: true
 showAuthor: false

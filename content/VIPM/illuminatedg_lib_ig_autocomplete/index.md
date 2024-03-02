@@ -1,6 +1,7 @@
 ---
 title: "IG AutoComplete"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_autocomplete
+date: 2023-10-24
 summary: "Provides a minimal API (1 VI!) to create an autocomplete style text search where filtered results based on entered text is displayed."
 showSummary: true
 showAuthor: false

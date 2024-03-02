@@ -1,9 +1,8 @@
 ---
 title: "PL Comdel CX"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_comdel_cx
-summary: "LabVIEW instrument driver for Comdel CX series RF generators
-
-Tested on Comdel CX-1250S."
+date: 2022-07-14
+summary: "LabVIEW instrument driver for Comdel CX series RF generators"
 showSummary: true
 showAuthor: false
 showEdit: false

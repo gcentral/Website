@@ -1,7 +1,8 @@
 ---
 title: "Hooovahh Numeric and Math"
 externalUrl: https://www.vipm.io/package/hooovahh_numeric_and_math
-summary: "This package contains a set of VIs for performing math functions, or numeric manipulation.."
+date: 2020-11-17
+summary: "This package contains a set of VIs for performing math functions, or numeric manipulation."
 showSummary: true
 showAuthor: false
 showEdit: false

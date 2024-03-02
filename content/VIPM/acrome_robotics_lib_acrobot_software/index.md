@@ -1,14 +1,8 @@
 ---
 title: "Acrobot Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_acrobot_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW (2015 SP1 or later)
-**Required software modules:** NI-VISA, NI-Softmotion, LabVIEW Robotics Module, MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module (2015 SP1 or later) , NI Dynamixel API (from VIPM)
-**Hardware Requirements:** Acrobot System (It contains NI myRIO, ACROME Power Distribution Unit, Dynamixel motors, Max485 Module, 24V Power Supply, Acrobot Electric Panel and Mechanics of the System)
-
-**Original Release Date:** 28-08-2018
-**Current Revision Date:**14-09-2018
-VI Package Manager 2017 is required to install the package."
+date: 2018-09-24
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

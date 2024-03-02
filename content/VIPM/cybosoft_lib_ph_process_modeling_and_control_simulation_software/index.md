@@ -1,6 +1,7 @@
 ---
 title: "pH Process Modeling and Control Simulation Software"
 externalUrl: https://www.vipm.io/package/cybosoft_lib_ph_process_modeling_and_control_simulation_software
+date: 2017-07-14
 summary: "Before designing and implementing a pH control system, it is wise to study and understand the pH process that you have so that proper solutions, equipment, and software can be acquired and installed."
 showSummary: true
 showAuthor: false

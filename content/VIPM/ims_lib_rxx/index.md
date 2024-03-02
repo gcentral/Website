@@ -1,6 +1,7 @@
 ---
 title: "RXX"
 externalUrl: https://www.vipm.io/package/ims_lib_rxx
+date: 2016-05-19
 summary: "Manage your requirements from your front panel."
 showSummary: true
 showAuthor: false

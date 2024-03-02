@@ -1,6 +1,7 @@
 ---
 title: "pdfTeX"
 externalUrl: https://www.vipm.io/package/agh_ust_lib_pdftex
+date: 2016-07-15
 summary: "This package contains a palette of functions to create document in TeX format."
 showSummary: true
 showAuthor: false

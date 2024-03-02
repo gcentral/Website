@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Delta ASDA"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_delta_asda
+date: 2017-10-11
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Delta ASDA-A2-E servo drives."
 showSummary: true
 showAuthor: false

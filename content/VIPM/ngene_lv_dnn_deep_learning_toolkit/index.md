@@ -1,8 +1,8 @@
 ---
 title: "Deep Learning Toolkit"
 externalUrl: https://www.vipm.io/package/ngene_lv_dnn_deep_learning_toolkit
-summary: "**Empower LabVIEW with Deep Learning**
-**Deep Learning Toolkit for LabVIEW** is a high-level API providing possibilities to build, configure, visualize, train, analyze and deploy Deep Learning based systems."
+date: 1903-12-31
+summary: "**Empower LabVIEW with Deep Learning**"
 showSummary: true
 showAuthor: false
 showEdit: false

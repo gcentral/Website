@@ -1,6 +1,7 @@
 ---
 title: "ControlArray"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_controlarray
+date: 2021-10-13
 summary: "Enables providing array-like UIs with arbitrary, homogeneous controls."
 showSummary: true
 showAuthor: false

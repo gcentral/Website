@@ -1,14 +1,8 @@
 ---
 title: "Delta Robot Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_delta_robot_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW (2015 SP1 or later)
-**Required software modules:** NI-VISA, NI-Softmotion, MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module, NI-Vision Acquisition Software, NI-Vision Development Module (2015 SP1 or later)
-**Hardware Requirements:** ACROME Mechanics of Delta Robot System, ACROME Power Distribution Unit,NI myRIO, Herkulex Smart Servo Motors, Coins, Camera, Electromagnet 
-
-**Original Release Date:** 28-04-2018
-**Current Revision Date:**21-06-2018
-VI Package Manager 2017 is required to install the package."
+date: 2018-08-06
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

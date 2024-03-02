@@ -1,7 +1,8 @@
 ---
 title: "LVProject Shortcut"
 externalUrl: https://www.vipm.io/package/benjaminr_lvproject_shortcut
-summary: "This plugin allows to create Shortcuts, as we have on our desktop, to LabVIEW files (VIs, LVClass, RunTime Menu, ...) directly within a LabVIEW project tree."
+date: 2022-03-04
+summary: "This plugin allows to create Shortcuts, as we have on our desktop, to LabVIEW files (VIs, LVClass, RunTime Menu, ."
 showSummary: true
 showAuthor: false
 showEdit: false

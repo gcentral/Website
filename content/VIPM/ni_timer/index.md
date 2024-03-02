@@ -1,6 +1,7 @@
 ---
 title: "Timer"
 externalUrl: https://www.vipm.io/package/ni_timer
+date: 2018-06-15
 summary: "This tool allows users to easily create multiple timers for controlling the timing of their code, measuring or benchmarking."
 showSummary: true
 showAuthor: false

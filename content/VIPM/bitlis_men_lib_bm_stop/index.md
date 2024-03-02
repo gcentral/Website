@@ -1,17 +1,8 @@
 ---
 title: "Parallel Stop"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_bm_stop
-summary: "Parallel Stop: LabVIEW add-on
-
-Vendor: Bitlis-MEN
-Supported Language(s): LabVIEW
-Source Code Available: No
-
-Original Release Date:  22-Jul-2015
-Current Revision Date: 21-Feb-2017
-
-Desription:
-This toolkit is to be used in LabVIEW applications (both windows and real-time) for stopping parallel loops."
+date: 2017-04-24
+summary: "Parallel Stop: LabVIEW add-on"
 showSummary: true
 showAuthor: false
 showEdit: false

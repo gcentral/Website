@@ -1,6 +1,7 @@
 ---
 title: "WE-fit"
 externalUrl: https://www.vipm.io/package/wakefield_engineering_lib_we_fit
+date: 2016-05-19
 summary: "Easy-to-use fitting for some commonly-used equations."
 showSummary: true
 showAuthor: false

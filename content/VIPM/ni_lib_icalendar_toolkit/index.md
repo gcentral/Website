@@ -1,6 +1,7 @@
 ---
 title: "iCalendar Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_icalendar_toolkit
+date: 2017-09-08
 summary: "iCalendar Toolkit allows the user to create a calendar event and send it via email to the mentioned recipients."
 showSummary: true
 showAuthor: false

@@ -1,17 +1,8 @@
 ---
 title: "RIOsys-9001 API"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_riosys_9001
-summary: "RIOsys-9001 API: LabVIEW add-on
-
-Vendor: Bitlis-MEN
-Supported Language(s): LabVIEW
-Required NI software modules: LabVIEW FPGA, LabVIEW Real-time
-Required NI hardware: myRIO-1900
-Required hardware: RIOsys-9001
-
-Original Release Date:21 -Jun-2018
-
-VI Package Manager 2016 or later is required to install the package."
+date: 2018-07-12
+summary: "RIOsys-9001 API: LabVIEW add-on"
 showSummary: true
 showAuthor: false
 showEdit: false

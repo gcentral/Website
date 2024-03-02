@@ -1,7 +1,8 @@
 ---
 title: "DCAF Core"
 externalUrl: https://www.vipm.io/package/ni_frmwk_dcaf_core
-summary: "The Distributed Control and Automation Framework (DCAF) is a configuration-based solution for designing, developing, and deploying applications for Embedded and Windows targets.."
+date: 2018-04-06
+summary: "The Distributed Control and Automation Framework (DCAF) is a configuration-based solution for designing, developing, and deploying applications for Embedded and Windows targets."
 showSummary: true
 showAuthor: false
 showEdit: false

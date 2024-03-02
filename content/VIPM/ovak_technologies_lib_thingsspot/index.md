@@ -1,6 +1,7 @@
 ---
 title: "ThingsSpot"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_thingsspot
+date: 2016-11-15
 summary: "ThingsSpot IIoT platform is an Industrial IoT platform, which is designed to control and gather data from industrial controllers and IoT devices, log data to local database and visualize data on the configurable dashboards."
 showSummary: true
 showAuthor: false

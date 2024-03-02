@@ -1,6 +1,7 @@
 ---
 title: "BlueSerializationProviderShared"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueserializationprovidershared
+date: 2021-08-05
 summary: "This code is shared between the BlueSerialzer core and BlueSerializer project provider."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Cyth Logger (with SQLite)"
 externalUrl: https://www.vipm.io/package/cyth_logger_sqlite
+date: 2023-10-02
 summary: "A logger and log viewer using an SQLite database."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "OpenG Builder"
 externalUrl: https://www.vipm.io/package/ogrsc_builder-3.0.1
+date: 2011-06-25
 summary: "OpenG's Software Builder."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "DCAF E2E Tag Exchange Module"
 externalUrl: https://www.vipm.io/package/data_ahead_gmbh_lib_dcaf_e2e_tag_exchange_module
+date: 2018-10-17
 summary: "The Engine-to-Engine Tag Exchange (E2E) module is a plugin module developed for the Distributed Control and Automation (DCAF) framework by Data Ahead AG."
 showSummary: true
 showAuthor: false

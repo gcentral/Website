@@ -1,6 +1,7 @@
 ---
 title: "AI Visual Inspection Tool"
 externalUrl: https://www.vipm.io/package/ai_visual_inspection_tool_by_pekat
+date: 2020-03-31
 summary: "PEKAT VISION(c) is a software for industrial visual inspection and quality assurance based on Deep Learning."
 showSummary: true
 showAuthor: false

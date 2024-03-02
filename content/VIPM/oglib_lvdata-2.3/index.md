@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_lvdata-2.3"
 externalUrl: https://www.vipm.io/package/oglib_lvdata-2.3
-summary: "This library contains several routines for operating on variant data and type descriptors.."
+date: 2011-06-25
+summary: "This library contains several routines for operating on variant data and type descriptors."
 showSummary: true
 showAuthor: false
 showEdit: false

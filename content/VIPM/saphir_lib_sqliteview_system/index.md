@@ -1,6 +1,7 @@
 ---
 title: "GDataBase for SQLite (System)"
 externalUrl: https://www.vipm.io/package/saphir_lib_sqliteview_system
+date: 2016-05-19
 summary: "This toolkit allows you to manage 'small, fast and reliable' SQLite 3 database."
 showSummary: true
 showAuthor: false

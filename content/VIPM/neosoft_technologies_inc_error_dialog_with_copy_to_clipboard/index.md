@@ -1,8 +1,8 @@
 ---
 title: "Improved Error Dialog"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_inc_error_dialog_with_copy_to_clipboard
-summary: "Displays a revamped error dialog to the user which improve the capabilities by offering to :
-- copy the error code & message into the clipboard."
+date: 2023-11-23
+summary: "Displays a revamped error dialog to the user which improve the capabilities by offering to :"
 showSummary: true
 showAuthor: false
 showEdit: false

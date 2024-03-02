@@ -1,6 +1,7 @@
 ---
 title: "DeferPanelUpdates (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_deferpanelupdates_opensource
+date: 2023-01-02
 summary: "This small utility package provides a method to defer front panel updates given a control or VI reference."
 showSummary: true
 showAuthor: false

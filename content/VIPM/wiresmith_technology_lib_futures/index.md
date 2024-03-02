@@ -1,7 +1,8 @@
 ---
 title: "Futures"
 externalUrl: https://www.vipm.io/package/wiresmith_technology_lib_futures
-summary: "Implements a basic API for promises and futures in LabVIEW to enable easier management of asynchronous messaging.."
+date: 2020-12-18
+summary: "Implements a basic API for promises and futures in LabVIEW to enable easier management of asynchronous messaging."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,9 +1,8 @@
 ---
 title: "Opto Fortress (System)"
 externalUrl: https://www.vipm.io/package/opto_france_lib_optofortress_system
-summary: "**Opto Fortress Package**
-
-The Opto Fortress Package creates Opto Module's palette."
+date: 2020-12-24
+summary: "**Opto Fortress Package**"
 showSummary: true
 showAuthor: false
 showEdit: false

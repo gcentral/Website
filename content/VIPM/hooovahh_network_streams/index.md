@@ -1,6 +1,7 @@
 ---
 title: "Hooovahh Network Streams"
 externalUrl: https://www.vipm.io/package/hooovahh_network_streams
+date: 2021-10-21
 summary: "This package contains VIs which wrap various Network Stream functions into a set of Client and Host VIMs that make sending and receiving data from local, or remote systems easier."
 showSummary: true
 showAuthor: false

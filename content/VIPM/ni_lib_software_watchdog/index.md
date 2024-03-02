@@ -1,6 +1,7 @@
 ---
 title: "NI Software Watchdog"
 externalUrl: https://www.vipm.io/package/ni_lib_software_watchdog
+date: 2016-05-19
 summary: "This library implements a software watchdog."
 showSummary: true
 showAuthor: false

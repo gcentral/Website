@@ -1,8 +1,8 @@
 ---
 title: "Network Configurator"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_network_configurator
-summary: "**KUNBUS Network Configurator - Configuration tool for KUNBUS Industrial Ethernet Devices**
-The KUNBUS Network Configurator can detect any KUNBUS Industrial Ethernet device in a network regardless of it's settings and allows the configuration of typical Ethernet specific parameters like ip address, subnet mask and gateway address."
+date: 2017-09-25
+summary: "**KUNBUS Network Configurator - Configuration tool for KUNBUS Industrial Ethernet Devices**"
 showSummary: true
 showAuthor: false
 showEdit: false

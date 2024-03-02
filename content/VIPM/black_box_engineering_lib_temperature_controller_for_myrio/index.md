@@ -1,6 +1,7 @@
 ---
 title: "Temperature Controller for myRIO"
 externalUrl: https://www.vipm.io/package/black_box_engineering_lib_temperature_controller_for_myrio
+date: 2016-05-19
 summary: "Temperature control during serving and during fermentation directly impacts both the consistency flavor of beer."
 showSummary: true
 showAuthor: false

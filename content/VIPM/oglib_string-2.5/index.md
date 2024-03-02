@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_string-2.5"
 externalUrl: https://www.vipm.io/package/oglib_string-2.5
-summary: "The string package contains several routines for operating on strings.."
+date: 2011-06-25
+summary: "The string package contains several routines for operating on strings."
 showSummary: true
 showAuthor: false
 showEdit: false

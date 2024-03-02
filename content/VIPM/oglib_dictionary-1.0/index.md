@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_dictionary-1.0"
 externalUrl: https://www.vipm.io/package/oglib_dictionary-1.0
-summary: "The dictionary package contains a library for key-value sets.."
+date: 2018-03-02
+summary: "The dictionary package contains a library for key-value sets."
 showSummary: true
 showAuthor: false
 showEdit: false

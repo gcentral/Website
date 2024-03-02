@@ -1,6 +1,7 @@
 ---
 title: "Bowzer the Browser"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_bowzer_the_browser
+date: 2022-11-03
 summary: "Adds an option to the Tools menu that launches a utility that allows a user to select an actor within the current project and browse and navigate to all its payload methods (including inherited methods) of that particular actor."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NB IoT Standalone (System)"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttnbiottoolkit_system
+date: 2018-02-16
 summary: "The GTT NB IoT Toolkit is a toolkit for efficient NB IoT test."
 showSummary: true
 showAuthor: false

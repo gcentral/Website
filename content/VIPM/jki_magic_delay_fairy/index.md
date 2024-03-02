@@ -1,8 +1,8 @@
 ---
 title: "JKI Magic Delay Fairy (QD Plug-in)"
 externalUrl: https://www.vipm.io/package/jki_magic_delay_fairy
-summary: "**About this tool:**
-The Magic Delay Fairy fixes race conditions in your code by inserting magical delays into your code that are specifically tuned using advanced magical algorithms to fix your race conditions."
+date: 2015-03-31
+summary: "**About this tool:**"
 showSummary: true
 showAuthor: false
 showEdit: false

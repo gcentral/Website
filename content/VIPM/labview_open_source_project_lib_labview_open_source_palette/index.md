@@ -1,7 +1,8 @@
 ---
 title: "LabVIEW Open Source Palette"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_labview_open_source_palette
-summary: "."
+date: 2021-03-01
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

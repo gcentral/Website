@@ -1,6 +1,7 @@
 ---
 title: "A/D Converters Test Toolkit"
 externalUrl: https://www.vipm.io/package/project_integration_lib_adc_toolkit
+date: 2016-05-19
 summary: "A/D Converters Test is a toolkit of VIs allowing users to perform quick analyse of test signals of the Analog-to-Digital converter under test."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "QuickDrop AddLabels"
 externalUrl: https://www.vipm.io/package/mnprojects_lib_quickdrop_addlabels
+date: 2020-09-09
 summary: "A LabVIEW Quick-Drop (QD) plug-in to easily add or remove labels to blockdiagram elements."
 showSummary: true
 showAuthor: false

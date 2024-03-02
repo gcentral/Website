@@ -1,6 +1,7 @@
 ---
 title: "Vocal remover for NI myRIO"
 externalUrl: https://www.vipm.io/package/altenbach_lib_vocal_remover_for_ni_myrio
+date: 2016-05-19
 summary: "This app runs on the NI myRIO-1900 target."
 showSummary: true
 showAuthor: false

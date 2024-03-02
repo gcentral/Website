@@ -1,6 +1,7 @@
 ---
 title: "GPower VI Register"
 externalUrl: https://www.vipm.io/package/gpower_lib_viregister
+date: 2017-02-07
 summary: "A VI Register combines the performance and simplicity in use of a local variable with the scope of a global variable – without any bindings beyond the block diagram."
 showSummary: true
 showAuthor: false

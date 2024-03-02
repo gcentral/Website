@@ -1,6 +1,7 @@
 ---
 title: "Distributed State Machines (DSM) Framework"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_distributed_state_machines_dsm_framework
+date: 2016-05-19
 summary: "The DSM framework is a software library, which consists of a set of classes."
 showSummary: true
 showAuthor: false

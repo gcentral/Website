@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_rename_folder_of_vis-1.4"
 externalUrl: https://www.vipm.io/package/ogrsc_rename_folder_of_vis-1.4
-summary: "Adds a 'Rename Folder of VIs...' option to the File menu."
+date: 2011-11-21
+summary: "Adds a 'Rename Folder of VIs."
 showSummary: true
 showAuthor: false
 showEdit: false

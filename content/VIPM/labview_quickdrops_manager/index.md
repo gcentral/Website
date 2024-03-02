@@ -1,6 +1,7 @@
 ---
 title: "LabVIEW-QuickDrops-Manager"
 externalUrl: https://www.vipm.io/package/labview_quickdrops_manager
+date: 2023-10-20
 summary: "**LabVIEW QuickDrops Manager**, which is also a quickdrop itself, assists in managing your quickdrops."
 showSummary: true
 showAuthor: false

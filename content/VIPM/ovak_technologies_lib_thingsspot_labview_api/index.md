@@ -1,6 +1,7 @@
 ---
 title: "ThingsSpot LabVIEW API"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_thingsspot_labview_api
+date: 2016-11-17
 summary: "ThingsSpot LabVIEW API provides VIs to connect to ThingsSpot IIoT platform, which is available in Tools Network and communicate with IoT devices over MQTT protocol."
 showSummary: true
 showAuthor: false

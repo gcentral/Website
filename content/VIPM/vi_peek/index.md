@@ -1,6 +1,7 @@
 ---
 title: "VI Peek"
 externalUrl: https://www.vipm.io/package/vi_peek
+date: 2021-11-12
 summary: "VI Peek provides a different way to zoom your VIs."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Power Servoing Host Example for the NI PXIe-5644R/45R/46R (System)"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_power_servoing_host_example_for_the_pxie_5644r_45r_system
+date: 2016-05-19
 summary: "This example is designed to level the output of an RF power amplifier by iteratively measuring its output power and adjusting the supplied stimulus."
 showSummary: true
 showAuthor: false

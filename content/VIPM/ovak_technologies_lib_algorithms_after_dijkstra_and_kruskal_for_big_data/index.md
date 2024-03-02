@@ -1,6 +1,7 @@
 ---
 title: "Algorithms after Dijkstra and Kruskal for Big Data"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_algorithms_after_dijkstra_and_kruskal_for_big_data
+date: 2016-05-19
 summary: "The 'Algorithms after Dijkstra and Kruskal for Big Data' enables to find the shortest path between two points."
 showSummary: true
 showAuthor: false

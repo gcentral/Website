@@ -1,6 +1,7 @@
 ---
 title: "NI Waveform Math IP"
 externalUrl: https://www.vipm.io/package/ni_lib_waveform_math_ip
+date: 2016-05-19
 summary: "This IP provides functionality for performing various math functions on indexed waveforms."
 showSummary: true
 showAuthor: false

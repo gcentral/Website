@@ -1,6 +1,7 @@
 ---
 title: "MGI Panel Manager"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_panel_manager
+date: 2018-03-30
 summary: "This package helps you quickly and easily build complex, multi-panel user interfaces."
 showSummary: true
 showAuthor: false

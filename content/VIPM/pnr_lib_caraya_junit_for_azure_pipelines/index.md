@@ -1,6 +1,7 @@
 ---
 title: "Caraya JUnit for Azure Pipelines"
 externalUrl: https://www.vipm.io/package/pnr_lib_caraya_junit_for_azure_pipelines
+date: 2024-01-07
 summary: "**Caraya JUnit for Azure Pipelines** is a test report extension for Caraya that generates JUnit test reports compatible with Azure Pipelines."
 showSummary: true
 showAuthor: false

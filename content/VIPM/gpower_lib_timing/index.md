@@ -1,9 +1,8 @@
 ---
 title: "GPower Timing"
 externalUrl: https://www.vipm.io/package/gpower_lib_timing
-summary: "This toolset offers:
-
-- Functions to measure elapsed time, remaining time, and cycle time in your code."
+date: 2019-07-31
+summary: "This toolset offers:"
 showSummary: true
 showAuthor: false
 showEdit: false

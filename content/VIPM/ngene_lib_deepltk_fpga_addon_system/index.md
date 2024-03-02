@@ -1,6 +1,7 @@
 ---
 title: "DeepLTK FPGA Addon (System)"
 externalUrl: https://www.vipm.io/package/ngene_lib_deepltk_fpga_addon_system
+date: 2023-03-21
 summary: "FPGA Add-on for DEEP LEATRNONG TOOLKIT is a Convolutional Neural Network Accelerator designed to deploy and accelerate pretrained CNNs on FPGA targets."
 showSummary: true
 showAuthor: false

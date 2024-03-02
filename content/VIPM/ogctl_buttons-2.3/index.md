@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogctl_buttons-2.3"
 externalUrl: https://www.vipm.io/package/ogctl_buttons-2.3
-summary: "The buttons package contains various button controls.."
+date: 2021-06-17
+summary: "The buttons package contains various button controls."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Touchscreen Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_touchscreen_toolkit
+date: 2016-05-19
 summary: "This toolkit provides a LabVIEW API to the Windows 7 Touch API and the UPDD driver in order to read touch coordinates from any number of connected touchscreens."
 showSummary: true
 showAuthor: false

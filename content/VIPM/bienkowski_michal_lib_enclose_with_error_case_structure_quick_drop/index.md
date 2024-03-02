@@ -1,7 +1,8 @@
 ---
 title: "Enclose With Error Case Structure Quick Drop"
 externalUrl: https://www.vipm.io/package/bienkowski_michal_lib_enclose_with_error_case_structure_quick_drop
-summary: "."
+date: 2020-06-14
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

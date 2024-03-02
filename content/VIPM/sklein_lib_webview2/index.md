@@ -1,7 +1,8 @@
 ---
 title: "WebView2"
 externalUrl: https://www.vipm.io/package/sklein_lib_webview2
-summary: "This XControl provides a wrapper around the new WebView2 .NET Control for Microsoft Edge Browser."
+date: 2023-11-01
+summary: "This XControl provides a wrapper around the new WebView2 ."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Averna Notify Icon"
 externalUrl: https://www.vipm.io/package/averna_lib_notify_icon
+date: 2016-05-19
 summary: "Averna’s Notify Icon enables you to create a notification icon on the taskbar of the Windows OS."
 showSummary: true
 showAuthor: false

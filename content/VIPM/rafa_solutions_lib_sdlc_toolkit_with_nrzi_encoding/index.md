@@ -1,6 +1,7 @@
 ---
 title: "SDLC Toolkit with NRZI encoding"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_sdlc_toolkit_with_nrzi_encoding
+date: 2017-03-28
 summary: "SDLC Toolkit with NRZI encoding for LabVIEW by RAFA Solutions easily implements and integrates Synchronous Data Link Control (SDLC) data communication protocol (developed by IBM) in custom applications."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NATS Core"
 externalUrl: https://www.vipm.io/package/nats_core
+date: 2022-08-09
 summary: "Adds core client Neural Autonomic Transport System (NATS) functionality to LabVIEW."
 showSummary: true
 showAuthor: false

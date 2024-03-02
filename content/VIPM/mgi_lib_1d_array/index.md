@@ -1,6 +1,7 @@
 ---
 title: "MGI 1D Array"
 externalUrl: https://www.vipm.io/package/mgi_lib_1d_array
+date: 2016-09-08
 summary: "The MGI 1D Array package contains VIs useful for operating on an array, including averaging, thresholds, and interpolation."
 showSummary: true
 showAuthor: false

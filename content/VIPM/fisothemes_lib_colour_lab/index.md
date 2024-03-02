@@ -1,27 +1,8 @@
 ---
 title: "Colour Lab"
 externalUrl: https://www.vipm.io/package/fisothemes_lib_colour_lab
-summary: "This toolkit does the following conversions:
-
-- CMYK to Colour
-- CMYK to RGB
-- Colour to CMYK
-- Colour to HSL
-- Colour to HSV
-- Colour to RGB
-- HSL to Colour
-- HSL to RGB
-- HSV to Colour
-- HSV to RGB
-- RGB to CMYK
-- RGB to Colour
-- RGB to HSL
-- RGB to HSV
-- Colour to Greyscale
-- Invert Colour
-- RGB Luminosity
-
-There is also additive and substractive colour mixing.."
+date: 2023-06-04
+summary: "This toolkit does the following conversions:"
 showSummary: true
 showAuthor: false
 showEdit: false

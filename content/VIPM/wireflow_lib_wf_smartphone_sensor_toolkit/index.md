@@ -1,6 +1,7 @@
 ---
 title: "WF Smartphone Sensor Toolkit"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf_smartphone_sensor_toolkit
+date: 1903-12-31
 summary: "Toolkit for reading smartphone sensor data to LabVIEW."
 showSummary: true
 showAuthor: false

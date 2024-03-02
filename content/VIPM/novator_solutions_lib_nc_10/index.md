@@ -1,6 +1,7 @@
 ---
 title: "NC-10"
 externalUrl: https://www.vipm.io/package/novator_solutions_lib_nc_10
+date: 2020-01-10
 summary: "Novator Solutions NC-10 is an NI LabVIEW™ Toolkit that lets LabVIEW users leverage powerful industry-leading channelization techniques."
 showSummary: true
 showAuthor: false

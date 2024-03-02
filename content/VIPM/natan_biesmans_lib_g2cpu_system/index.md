@@ -1,11 +1,8 @@
 ---
 title: "G2CPU GPU and CPU HPC Toolkit (System)"
 externalUrl: https://www.vipm.io/package/natan_biesmans_lib_g2cpu_system
-summary: "** Please make sure VIPM is running with Administrator privliges!!!**
-
-** G2CPU GPU and CPU high performance computing toolkit**
-
-G2CPU is a general high performance computing library for LabVIEW based on ArrayFire."
+date: 2023-12-06
+summary: "** Please make sure VIPM is running with Administrator privliges!!!**"
 showSummary: true
 showAuthor: false
 showEdit: false

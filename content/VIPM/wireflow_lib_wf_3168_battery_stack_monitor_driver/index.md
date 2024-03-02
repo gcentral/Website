@@ -1,6 +1,7 @@
 ---
 title: "WF 3168 Battery Stack Monitor Driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf_3168_battery_stack_monitor_driver
+date: 2018-11-06
 summary: "Driver for the WF 3168 C-series Battery Stack Monitor module from WireFlow."
 showSummary: true
 showAuthor: false

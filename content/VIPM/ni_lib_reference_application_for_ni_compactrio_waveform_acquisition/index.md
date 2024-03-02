@@ -1,6 +1,7 @@
 ---
 title: "Reference Application for NI CompactRIO Waveform Acquisition"
 externalUrl: https://www.vipm.io/package/ni_lib_reference_application_for_ni_compactrio_waveform_acquisition
+date: 2016-05-19
 summary: "Many reconfigurable I/O (RIO) applications acquire continuous blocks of data from multiple synchronized NI C Series modules."
 showSummary: true
 showAuthor: false

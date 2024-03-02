@@ -1,6 +1,7 @@
 ---
 title: "WebPager - Put Front Panels Online"
 externalUrl: https://www.vipm.io/package/vfp_soft_com_webpager-0.63.1
+date: 2016-12-28
 summary: "WebPager at first glance is somewhat similar to Remote Panels."
 showSummary: true
 showAuthor: false

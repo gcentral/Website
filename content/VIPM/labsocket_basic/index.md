@@ -1,6 +1,7 @@
 ---
 title: "LabSocket-Basic"
 externalUrl: https://www.vipm.io/package/labsocket_basic
+date: 2016-05-19
 summary: "The LabSocket system enables remote access to LabVIEW applications via a web browser, without the need for a client-side run-time engine or browser plug-ins."
 showSummary: true
 showAuthor: false

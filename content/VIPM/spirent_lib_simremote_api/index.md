@@ -1,6 +1,7 @@
 ---
 title: "SimREMOTE API"
 externalUrl: https://www.vipm.io/package/spirent_lib_simremote_api
+date: 2023-02-07
 summary: "SimREMOTE is a package of remote control facilities that greatly enhances the flexibility of SimGEN."
 showSummary: true
 showAuthor: false

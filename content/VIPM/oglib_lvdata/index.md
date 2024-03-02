@@ -1,7 +1,8 @@
 ---
 title: "OpenG Variant Data Library"
 externalUrl: https://www.vipm.io/package/oglib_lvdata
-summary: "The OpenG Variant Data Library contains several routines for operating on Variant Data, Type Descriptors and LVOOP Data.."
+date: 2021-02-03
+summary: "The OpenG Variant Data Library contains several routines for operating on Variant Data, Type Descriptors and LVOOP Data."
 showSummary: true
 showAuthor: false
 showEdit: false

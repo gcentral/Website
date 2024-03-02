@@ -1,6 +1,7 @@
 ---
 title: "Structure Error Handler"
 externalUrl: https://www.vipm.io/package/ni_lib_seh
+date: 2017-07-22
 summary: "The Structured Error Handler (SEH) library provides tools for handling errors in an organized fashion."
 showSummary: true
 showAuthor: false

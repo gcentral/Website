@@ -1,8 +1,8 @@
 ---
 title: "Pulse_Train_Generator"
 externalUrl: https://www.vipm.io/package/yea_engineering_lib_pulse_train_generator
-summary: "Description:
-The PTG Pulse Train Generator (PTG) is developed for pulse sequence generation."
+date: 2017-03-22
+summary: "Description:"
 showSummary: true
 showAuthor: false
 showEdit: false

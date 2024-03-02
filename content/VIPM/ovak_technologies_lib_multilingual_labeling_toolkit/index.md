@@ -1,6 +1,7 @@
 ---
 title: "Multilingual Labeling Toolkit"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_multilingual_labeling_toolkit
+date: 2017-09-21
 summary: "Multilingual Labeling Toolkit is designed as a useful tool for software engineers to build multilingual graphical user interfaces."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/ovak_technologies_lib_multilingual_labeling_toolkit

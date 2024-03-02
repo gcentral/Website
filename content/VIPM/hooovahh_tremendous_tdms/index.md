@@ -1,6 +1,7 @@
 ---
 title: "Hooovahh File IO >> Tremendous TDMS"
 externalUrl: https://www.vipm.io/package/hooovahh_tremendous_tdms
+date: 2021-10-05
 summary: "This package contains various tool for TDMS operations."
 showSummary: true
 showAuthor: false

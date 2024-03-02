@@ -1,6 +1,7 @@
 ---
 title: "Encryption Compendium for LabVIEW"
 externalUrl: https://www.vipm.io/package/lvs_tools_co_uk_lib_encryption_compendium_for_labview
+date: 2016-11-14
 summary: "The Encryption Compendium For LabVIEW™ offers developers advanced encryption, hashing and secure communication capabilities in LabVIEW™."
 showSummary: true
 showAuthor: false

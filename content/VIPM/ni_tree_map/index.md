@@ -1,6 +1,7 @@
 ---
 title: "Tree Map"
 externalUrl: https://www.vipm.io/package/ni_tree_map
+date: 2019-12-19
 summary: "This package is intended to use the inbuilt LV19 Set and Map data types to provide a Tree Map data type."
 showSummary: true
 showAuthor: false

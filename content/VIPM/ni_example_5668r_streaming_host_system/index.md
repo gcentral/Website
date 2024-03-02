@@ -1,6 +1,7 @@
 ---
 title: "NI Streaming Host Example for the NI 5668R (System)"
 externalUrl: https://www.vipm.io/package/ni_example_5668r_streaming_host_system
+date: 2020-01-10
 summary: "The NI Streaming Host Example for the NI 5668R provides a multi-device stream to disk reference example for the NI PXIe-5668R vector signal analyzer."
 showSummary: true
 showAuthor: false

@@ -1,10 +1,8 @@
 ---
 title: "Wovalab Utilities"
 externalUrl: https://www.vipm.io/package/wovalab_lib_utilities
-summary: "Available utilities:
-
-Functions palette:
-- Functions to get a steady period when using an event structure to repeat an action (DQMH framework Helper Loop concept)."
+date: 2023-12-29
+summary: "Available utilities:"
 showSummary: true
 showAuthor: false
 showEdit: false

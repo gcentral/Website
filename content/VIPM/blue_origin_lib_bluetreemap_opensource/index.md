@@ -1,6 +1,7 @@
 ---
 title: "BlueTreeMap (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluetreemap_opensource
+date: 2023-01-02
 summary: "This toolkit allows for the user to build what I'm calling a 'TreeMap' data structure in memory."
 showSummary: true
 showAuthor: false

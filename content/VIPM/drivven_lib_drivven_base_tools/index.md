@@ -1,6 +1,7 @@
 ---
 title: "Powertrain Controls Device Drivers"
 externalUrl: https://www.vipm.io/package/drivven_lib_drivven_base_tools
+date: 2017-07-20
 summary: "Note:  Administrator privileges are required for a complete installation."
 showSummary: true
 showAuthor: false

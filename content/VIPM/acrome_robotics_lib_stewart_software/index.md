@@ -1,14 +1,8 @@
 ---
 title: "Stewart Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_stewart_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW (2015 SP1 or later)
-**Required software modules:** NI-VISA , MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module (2015 SP1 or later)
-**Hardware Requirements:** Stewart Platform System (It contains NI myRIO, ACROME Power Distribution Unit, Linear DC Motors, 6DOF Gyroscope  and Mechanics of the System)
-
-**Original Release Date:** 18-09-2018
-**Current Revision Date:**03-10-2018
-VI Package Manager 2017 is required to install the package."
+date: 2018-10-05
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

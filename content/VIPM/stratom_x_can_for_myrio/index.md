@@ -1,6 +1,7 @@
 ---
 title: "X-CAN for myRIO"
 externalUrl: https://www.vipm.io/package/stratom_x_can_for_myrio
+date: 2016-05-19
 summary: "**X-CAN** for myRIO project library."
 showSummary: true
 showAuthor: false

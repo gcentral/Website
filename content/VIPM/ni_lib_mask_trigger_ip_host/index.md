@@ -1,6 +1,7 @@
 ---
 title: "NI Mask Trigger IP Host"
 externalUrl: https://www.vipm.io/package/ni_lib_mask_trigger_ip_host
+date: 2016-05-19
 summary: "The NI Mask Trigger IP block provides the ability to compare point by point values of an indexed record against a mask, and give notification when the record exceeds the mask."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "LabJack Utilities"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_labjack_utilities
+date: 2016-05-19
 summary: "This package is a set of utilities for configuration and measurement using LabJack's UD series of devices, the U3, U6, and UE9, on USB and Ethernet interfaces."
 showSummary: true
 showAuthor: false

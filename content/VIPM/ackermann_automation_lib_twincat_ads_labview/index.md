@@ -1,7 +1,8 @@
 ---
 title: "TwinCAT ADS LabVIEW Library"
 externalUrl: https://www.vipm.io/package/ackermann_automation_lib_twincat_ads_labview
-summary: "A LabVIEW library for easy data exchange with the TwinCAT System (2.x und 3.x) from Beckhoff or with Beckhoff Ethernet IO systems."
+date: 2020-09-08
+summary: "A LabVIEW library for easy data exchange with the TwinCAT System (2."
 showSummary: true
 showAuthor: false
 showEdit: false

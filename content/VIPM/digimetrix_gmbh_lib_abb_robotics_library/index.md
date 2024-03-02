@@ -1,6 +1,7 @@
 ---
 title: "ABB Robotics Library"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_abb_robotics_library
+date: 2019-02-27
 summary: "With the ABB library, you can easily integrate robots into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing - eliminating complex robotics programming expertise."
 showSummary: true
 showAuthor: false

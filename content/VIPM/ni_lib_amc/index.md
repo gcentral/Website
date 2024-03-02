@@ -1,7 +1,8 @@
 ---
 title: "NI Asynchronous Message Communication (AMC) Library"
 externalUrl: https://www.vipm.io/package/ni_lib_amc
-summary: "The Asynchronous Message Communication (AMC) Reference Library is a general purpose LabVIEW API for sending messages within a process, between processes, and between different LabVIEW targets (systems on a network) in a LabVIEW application.."
+date: 2016-05-19
+summary: "The Asynchronous Message Communication (AMC) Reference Library is a general purpose LabVIEW API for sending messages within a process, between processes, and between different LabVIEW targets (systems on a network) in a LabVIEW application."
 showSummary: true
 showAuthor: false
 showEdit: false

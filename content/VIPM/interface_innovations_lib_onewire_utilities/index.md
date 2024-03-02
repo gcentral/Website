@@ -1,6 +1,7 @@
 ---
 title: "OneWire Utilities"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_onewire_utilities
+date: 2017-01-04
 summary: "This package offers a set of utilities, controls, and toolkit VIs for identification, configuration, and read of 1Wire DS18B20 and DS1923 family sensor devices attached to a USB adapter DS9490R."
 showSummary: true
 showAuthor: false

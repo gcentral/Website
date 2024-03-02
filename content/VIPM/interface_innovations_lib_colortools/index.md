@@ -1,6 +1,7 @@
 ---
 title: "ColorTools"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_colortools
+date: 2017-01-04
 summary: "This package contains a toolkit for calculation of photometric quantities from Spectral Power Distributions (SPDs) for inline instrument output or standalone applications."
 showSummary: true
 showAuthor: false

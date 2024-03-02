@@ -1,6 +1,7 @@
 ---
 title: "Select5"
 externalUrl: https://www.vipm.io/package/s5solutions_select5
+date: 2016-05-19
 summary: "Select5 is a simple, customizable Human/Machine interface designed to simplify Operator interaction with a test or research system."
 showSummary: true
 showAuthor: false

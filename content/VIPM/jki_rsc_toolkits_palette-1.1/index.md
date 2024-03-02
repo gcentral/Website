@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "jki_rsc_toolkits_palette-1.1"
 externalUrl: https://www.vipm.io/package/jki_rsc_toolkits_palette-1.1
-summary: "JKI Toolkits Palette."
+date: 2015-03-31
+summary: "JKI Toolkits Palette"
 showSummary: true
 showAuthor: false
 showEdit: false

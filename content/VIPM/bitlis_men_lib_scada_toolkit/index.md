@@ -1,15 +1,8 @@
 ---
 title: "SCADA Toolkit"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_scada_toolkit
-summary: "SCADA Toolkit: LabVIEW add-on
-
-Vendor: Bitlis-MEN
-Supported Language(s): LabVIEW
-Required software modules: NI DSC Module, Parallel Stop tool by Bitlis-MEN
-
-Original Release Date:19 -Jul-2016
-Current Revision Date:15-Sep-2017
-VI Package Manager 2016 or later is required to install the package."
+date: 2017-09-20
+summary: "SCADA Toolkit: LabVIEW add-on"
 showSummary: true
 showAuthor: false
 showEdit: false

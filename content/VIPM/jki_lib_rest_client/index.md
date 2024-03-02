@@ -1,6 +1,7 @@
 ---
 title: "JKI HTTP REST Client"
 externalUrl: https://www.vipm.io/package/jki_lib_rest_client
+date: 2024-01-20
 summary: "JKI HTTP REST Client is a library for connecting LabVIEW applications with RESTful web services for creating Industrial Internet of Things (IoT) applications."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "3D Express"
 externalUrl: https://www.vipm.io/package/synergy_lib_3d_express
+date: 2016-05-19
 summary: "3D Express is a platform provided by Synergy."
 showSummary: true
 showAuthor: false

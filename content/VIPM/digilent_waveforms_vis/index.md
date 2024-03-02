@@ -1,6 +1,7 @@
 ---
 title: "Digilent WaveForms VIs"
 externalUrl: https://www.vipm.io/package/digilent_waveforms_vis
+date: 2016-05-19
 summary: "Instrument driver VI library for Digilent instrumentation products (Analog Discovery, Electronics Explorer)."
 showSummary: true
 showAuthor: false

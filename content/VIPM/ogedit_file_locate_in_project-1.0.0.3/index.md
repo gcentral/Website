@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogedit_file_locate_in_project-1.0.0.3"
 externalUrl: https://www.vipm.io/package/ogedit_file_locate_in_project-1.0.0.3
-summary: "Adds a 'Locate in Project' option to the File menu."
+date: 2007-09-15
+summary: "Adds a 'Locate in Project' option to the File menu"
 showSummary: true
 showAuthor: false
 showEdit: false

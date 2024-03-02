@@ -1,7 +1,8 @@
 ---
 title: "GPower Events"
 externalUrl: https://www.vipm.io/package/gpower_lib_events
-summary: "Functions for creating and manipulating events.."
+date: 2016-05-19
+summary: "Functions for creating and manipulating events."
 showSummary: true
 showAuthor: false
 showEdit: false

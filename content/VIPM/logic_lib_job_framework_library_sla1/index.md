@@ -1,6 +1,7 @@
 ---
 title: "JOb Framework Library (SLA-1)"
 externalUrl: https://www.vipm.io/package/logic_lib_job_framework_library_sla1
+date: 2018-02-09
 summary: "The JOb Framework Library (JOb) provides a platform for rapid object-oriented development of general Windows applications."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Xilinx ChipScopePro Debugging Break-Out-Box (BOB)"
 externalUrl: https://www.vipm.io/package/b&a_engineering_inc_(bai)_lib_xilinx_chipscopepro_debugging_break_out_box_(bob)
+date: 2019-05-16
 summary: "This tool enables LabVIEW FPGA developers to debug code real time."
 showSummary: true
 showAuthor: false

@@ -1,13 +1,8 @@
 ---
 title: "Colorful UI Controls Palette"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_colorful_ui_controls_palette
-summary: "Colorful UI Controls Palette:LabVIEW add-on
-
-Vendor: Bitlis-MEN
-Supported Language(s): LabVIEW
-Original Release Date: 25-Jun-2016
-Current Revision Date:25-Jun-2016
-VI Package Manager 2014 or later is required to install the package."
+date: 2016-08-19
+summary: "Colorful UI Controls Palette:LabVIEW add-on"
 showSummary: true
 showAuthor: false
 showEdit: false

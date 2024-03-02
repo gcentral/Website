@@ -1,8 +1,8 @@
 ---
 title: "HDLC"
 externalUrl: https://www.vipm.io/package/rims_lib_hdlc
-summary: "**HDLC Frame**
-**HDLC** is a bit - oriented protocol where each frame contains up to six fields."
+date: 2022-05-12
+summary: "**HDLC Frame**"
 showSummary: true
 showAuthor: false
 showEdit: false

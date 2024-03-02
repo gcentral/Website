@@ -1,6 +1,7 @@
 ---
 title: "Reference Example for Encrypting IP for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/ni_lib_reference_example_for_encrypting_ip_for_labview_fpga
+date: 2016-05-19
 summary: "This code is intended to be an example of how to encrypt your FPGA bitfile so that it only runs with your original software and only with your original hardware."
 showSummary: true
 showAuthor: false

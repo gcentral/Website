@@ -1,6 +1,7 @@
 ---
 title: "NI Configurable Length Spectrum IP"
 externalUrl: https://www.vipm.io/package/ni_lib_config_length_power_spectrum_ip
+date: 2016-05-19
 summary: "The NI Configurable Length Spectrum IP provides windowing, fft, and magnitude blocks for use in LabVIEW FPGA."
 showSummary: true
 showAuthor: false

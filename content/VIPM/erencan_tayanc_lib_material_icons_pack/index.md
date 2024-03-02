@@ -1,7 +1,8 @@
 ---
 title: "Material Icons Pack"
 externalUrl: https://www.vipm.io/package/erencan_tayanc_lib_material_icons_pack
-summary: "."
+date: 2020-09-22
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

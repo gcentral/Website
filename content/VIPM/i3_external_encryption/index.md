@@ -1,6 +1,7 @@
 ---
 title: "i3 External Encryption"
 externalUrl: https://www.vipm.io/package/i3_external_encryption
+date: 2016-05-19
 summary: "A 3rd party library packaged for use with the Interactive Internet Interface."
 showSummary: true
 showAuthor: false

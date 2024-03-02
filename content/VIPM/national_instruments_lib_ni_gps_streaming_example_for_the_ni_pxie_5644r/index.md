@@ -1,6 +1,7 @@
 ---
 title: "NI GPS Streaming Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_gps_streaming_example_for_the_ni_pxie_5644r
+date: 2016-05-19
 summary: "With more than 800 MB/s of PXI Express bandwidth, the NI PXIe-5644R can sustain continuous generation for signals occupying its full 80 MHz of real-time RF bandwidth."
 showSummary: true
 showAuthor: false

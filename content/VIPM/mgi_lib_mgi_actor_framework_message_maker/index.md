@@ -1,14 +1,8 @@
 ---
 title: "MGI Actor Framework Message Maker"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_actor_framework_message_maker
-summary: "An enhanced Actor Framework Message Maker!
-
-Key improvements over NI's Actor Framework Message Maker:
--Ability to update already built messages
--New message icons
--Send Message VI gets its description from the message VI
-
-To use the tool open a your project then select 'Tools'->'Actor Framework Message Maker (MGI)'."
+date: 2016-09-15
+summary: "An enhanced Actor Framework Message Maker!"
 showSummary: true
 showAuthor: false
 showEdit: false

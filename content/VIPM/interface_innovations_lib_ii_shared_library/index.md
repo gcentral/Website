@@ -1,7 +1,8 @@
 ---
 title: "II Shared Library"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_ii_shared_library
-summary: "Helper library of license and library tools for Interface Innovations software packages.."
+date: 2019-03-21
+summary: "Helper library of license and library tools for Interface Innovations software packages."
 showSummary: true
 showAuthor: false
 showEdit: false

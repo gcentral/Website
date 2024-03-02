@@ -1,9 +1,8 @@
 ---
 title: "Epoch Date & Time"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_epoch_datetime
-summary: "Epoch Date & Time is a unified time library for LabVIEW
-
-This library provides support for UTC, Unix and GPS Epochs, enabling the conversion of timestamps into the proper frame of reference."
+date: 2023-07-04
+summary: "Epoch Date & Time is a unified time library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

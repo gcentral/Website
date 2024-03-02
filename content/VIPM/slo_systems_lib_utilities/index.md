@@ -1,7 +1,8 @@
 ---
 title: "Utilities"
 externalUrl: https://www.vipm.io/package/slo_systems_lib_utilities
-summary: "A collection of various utility VIs."
+date: 2022-01-26
+summary: "A collection of various utility VIs"
 showSummary: true
 showAuthor: false
 showEdit: false

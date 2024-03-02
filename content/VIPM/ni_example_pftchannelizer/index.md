@@ -1,17 +1,8 @@
 ---
 title: "NI PFT Channelizer Reference Example"
 externalUrl: https://www.vipm.io/package/ni_example_pftchannelizer
-summary: "**Required Software**
-LabVIEW 2015
-LabVIEW 2015 Real-Time Module
-FlexRIO 15.1
-
-**Required Hardware**
-NI 7935R Controller for FlexRIO
-NI 5792 RF Receiver Adapter Module
-
-**Optional Hardware**
-10 GbE Network Interface Card."
+date: 2016-05-19
+summary: "**Required Software**"
 showSummary: true
 showAuthor: false
 showEdit: false

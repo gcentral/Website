@@ -1,7 +1,8 @@
 ---
 title: "CLAUDIE_xlsx"
 externalUrl: https://www.vipm.io/package/atesystem_lib_claudie_xlsx
-summary: "LabVIEW CLAUDIE xlsx 1.4.2 library created by ATEsystem s.r.o."
+date: 2017-08-21
+summary: "LabVIEW CLAUDIE xlsx 1."
 showSummary: true
 showAuthor: false
 showEdit: false

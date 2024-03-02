@@ -1,6 +1,7 @@
 ---
 title: "NI Dynamixel API"
 externalUrl: https://www.vipm.io/package/ni_lib_dynamixel_api
+date: 2016-05-19
 summary: "This Library contains two drivers."
 showSummary: true
 showAuthor: false

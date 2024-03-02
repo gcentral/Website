@@ -1,6 +1,7 @@
 ---
 title: "Visual Components Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/imaginglab_gmbh_lib_visual_components_robotics_library_system
+date: 2016-05-19
 summary: "With this library you can program a single LabVIEW application that integrates all aspects of machine control and automation simulation from part handling and robot control to advanced path generation and collision detection."
 showSummary: true
 showAuthor: false

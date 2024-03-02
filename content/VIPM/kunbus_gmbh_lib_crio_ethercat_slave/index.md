@@ -1,26 +1,8 @@
 ---
 title: "cRIO EtherCAT Slave"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_ethercat_slave
-summary: "**EtherCAT Slave Interface for CompactRIO**
-for LabVIEW 2018 or later
-
-**Requirements**
-*Software*
-- LabVIEW 2018 or later
-- LabVIEW 2018 Real-time Module AND FPGA module 
-- NI-RIO 2018 or later 
-- NI-Industrial Communications for EtherCAT 2018 or later (EtherCAT Master)
-- KUNBUS *cRIO EtherCAT Slave* driver package (this package)
-- KUNBUS *PDO Configurator* package 
-
-*Hardware*
-- KUNBUS cRIO ECAT module 
-- NI cRIO chassis 
-- 24 V DC power supply for the module 
-- NI EtherCAT Master system or 3rd party EtherCAT master system 
-
-**EtherCAT Slave Configuration**
-You need to configure the cRIO ECAT S module with the *PDO-Configurator*."
+date: 2018-12-20
+summary: "**EtherCAT Slave Interface for CompactRIO**"
 showSummary: true
 showAuthor: false
 showEdit: false

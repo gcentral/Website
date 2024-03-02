@@ -1,6 +1,7 @@
 ---
 title: "WebSocket-Actor"
 externalUrl: https://www.vipm.io/package/ls_instruments_ag_lib_websocket_actor
+date: 2023-10-24
 summary: "A library implementing a high-level actor-based WebSocket communication."
 showSummary: true
 showAuthor: false

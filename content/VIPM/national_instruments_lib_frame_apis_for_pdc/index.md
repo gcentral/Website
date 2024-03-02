@@ -1,7 +1,8 @@
 ---
 title: "Frame APIs for PDC"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_frame_apis_for_pdc
-summary: "Use C37.118 Frame APIs for PDC to implement a phasor data concentrator (PDC) application."
+date: 2016-05-19
+summary: "Use C37."
 showSummary: true
 showAuthor: false
 showEdit: false

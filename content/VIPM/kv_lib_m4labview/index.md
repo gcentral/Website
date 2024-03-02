@@ -1,9 +1,8 @@
 ---
 title: "Multimedia for LabVIEW"
 externalUrl: https://www.vipm.io/package/kv_lib_m4labview
-summary: "This version contains Windows 32bit and Windows 64bit version of m4LabVIEW 
-
-m4LabVIEW library adds selected functionality from FFmpeg project to LabVIEW."
+date: 2016-05-19
+summary: "This version contains Windows 32bit and Windows 64bit version of m4LabVIEW "
 showSummary: true
 showAuthor: false
 showEdit: false

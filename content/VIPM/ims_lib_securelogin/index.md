@@ -1,6 +1,7 @@
 ---
 title: "SecureLogin"
 externalUrl: https://www.vipm.io/package/ims_lib_securelogin
+date: 2016-05-19
 summary: "Secure Login is a user authentication and management framework that allows you to easily implement highly secure user control for any project."
 showSummary: true
 showAuthor: false

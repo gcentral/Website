@@ -1,7 +1,8 @@
 ---
 title: "DCAF DDS Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_dds
-summary: "."
+date: 2017-05-20
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

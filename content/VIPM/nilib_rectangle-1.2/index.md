@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "nilib_rectangle-1.2"
 externalUrl: https://www.vipm.io/package/nilib_rectangle-1.2
-summary: "The NI Rectangle Tools package adds a subpalette to the picture control palette that contains vi.lib rectangle support library VIs.."
+date: 2020-05-16
+summary: "The NI Rectangle Tools package adds a subpalette to the picture control palette that contains vi."
 showSummary: true
 showAuthor: false
 showEdit: false

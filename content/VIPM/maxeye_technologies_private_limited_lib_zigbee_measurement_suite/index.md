@@ -1,6 +1,7 @@
 ---
 title: "ZigBee Measurement Suite"
 externalUrl: https://www.vipm.io/package/maxeye_technologies_private_limited_lib_zigbee_measurement_suite
+date: 2019-05-17
 summary: "ZigBee is a specification for a suite of high-level communication protocols used to create personal area networks built from small, low-power digital radios."
 showSummary: true
 showAuthor: false

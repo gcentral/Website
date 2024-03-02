@@ -1,9 +1,8 @@
 ---
 title: "jgcode_rpk_ni_system_style_daqmx_controls"
 externalUrl: https://www.vipm.io/package/jgcode_rpk_ni_system_style_daqmx_controls-1.0
-summary: "SimonH:
-
-Between the system controls defined by the operating system and the additional system-styled controls I posted here we have options for most LabVIEW controls."
+date: 2021-01-04
+summary: "SimonH:"
 showSummary: true
 showAuthor: false
 showEdit: false

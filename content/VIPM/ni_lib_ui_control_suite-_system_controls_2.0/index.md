@@ -1,8 +1,8 @@
 ---
 title: "UI Control Suite: System Controls 2.0"
 externalUrl: https://www.vipm.io/package/ni_lib_ui_control_suite-_system_controls_2.0
-summary: "Description
-The LabVIEW system controls are great for developing user interfaces because they change appearance depending on which platform you run the VI."
+date: 2016-05-19
+summary: "Description"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,9 +1,8 @@
 ---
 title: "GPower Overflow"
 externalUrl: https://www.vipm.io/package/gpower_lib_overflow
-summary: "The GPower Overflow toolset adds a set of functions that lets you do numeric operations while verifying the exactness of them, specifically;
-
-- Arithmetic operations (add, subtract, negate, multiply, power, sum, product, and absolute value) that outputs an **Overflow?** Boolean."
+date: 2016-05-19
+summary: "The GPower Overflow toolset adds a set of functions that lets you do numeric operations while verifying the exactness of them, specifically;"
 showSummary: true
 showAuthor: false
 showEdit: false

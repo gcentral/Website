@@ -1,7 +1,8 @@
 ---
 title: "InstaCoverage Core"
 externalUrl: https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_core
-summary: "InstaCoverage Core is the free version of the InstaCoverage Pro unit testing tool for LabVIEW (http://sine.ni.com/nips/cds/view/p/lang/hu/nid/216652)."
+date: 2020-11-09
+summary: "InstaCoverage Core is the free version of the InstaCoverage Pro unit testing tool for LabVIEW (http://sine."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -19,7 +20,6 @@ draft: true
 tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
- - "OOP"
 ---
 
 Redirecting to https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_core

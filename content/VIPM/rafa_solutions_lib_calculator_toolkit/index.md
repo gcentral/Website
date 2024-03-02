@@ -1,9 +1,8 @@
 ---
 title: "Calculator Toolkit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_calculator_toolkit
-summary: "Calculator Toolkit
-
-Calculator Toolkit Library includes four VIs: Standard calculator, Scientific calculator, Programmer calculator and Calculate Formula."
+date: 2016-05-19
+summary: "Calculator Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false

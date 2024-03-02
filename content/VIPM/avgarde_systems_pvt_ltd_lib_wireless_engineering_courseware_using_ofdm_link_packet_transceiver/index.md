@@ -1,6 +1,7 @@
 ---
 title: "Wireless Engineering Courseware using OFDM link Packet Transceiver"
 externalUrl: https://www.vipm.io/package/avgarde_systems_pvt_ltd_lib_wireless_engineering_courseware_using_ofdm_link_packet_transceiver
+date: 2022-05-27
 summary: "NI USRP Wireless Engineering Courseware using OFDM link Packet Transceiver can be used as the reference framework for the academic institutes working on AvGarde courseware built on USRP."
 showSummary: true
 showAuthor: false

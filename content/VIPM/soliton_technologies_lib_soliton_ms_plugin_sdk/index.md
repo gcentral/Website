@@ -1,6 +1,7 @@
 ---
 title: "Soliton MS Plugin sdk"
 externalUrl: https://www.vipm.io/package/soliton_technologies_lib_soliton_ms_plugin_sdk
+date: 2021-09-30
 summary: "Soliton Measurement Suite SDK is a Framework, enables user to create the automation modules which can be shown in the InstrumentStudio 2021 by providing the templates."
 showSummary: true
 showAuthor: false

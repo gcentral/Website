@@ -1,6 +1,7 @@
 ---
 title: "NB IoT Standalone BER/BLER"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttnbiobleraddon
+date: 2018-02-02
 summary: "The NB IoT Standalone BER/BLER is an add-on to GTT NB IoT Toolkit for decoding and BER/BLER analysis."
 showSummary: true
 showAuthor: false

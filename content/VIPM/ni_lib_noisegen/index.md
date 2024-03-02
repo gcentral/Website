@@ -1,7 +1,8 @@
 ---
 title: "NI Noise Generation IP"
 externalUrl: https://www.vipm.io/package/ni_lib_noisegen
-summary: "The NI Noise Generation IP package provides a LabVIEW FPGA library for generating high bandwidth uniform and gaussian noise.."
+date: 2017-03-01
+summary: "The NI Noise Generation IP package provides a LabVIEW FPGA library for generating high bandwidth uniform and gaussian noise."
 showSummary: true
 showAuthor: false
 showEdit: false

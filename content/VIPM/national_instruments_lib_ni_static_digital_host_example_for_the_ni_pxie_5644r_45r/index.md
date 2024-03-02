@@ -1,8 +1,8 @@
 ---
 title: "NI Static Digital Host Example for the NI PXIe-5644R/45R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_static_digital_host_example_for_the_ni_pxie_5644r_45r
-summary: "**
-Note: After installing a VI package containing an instrument driver FPGA extensions host example, before opening any of the host VIs, move the sub-directories installed under the example parent directory into c:\\Program Files\\National Instruments\\NI VST\\Custom Bitfiles\\ (32-bit Windows) or c:\\Program Files (x86)\\National Instruments\\NI VST\\Custom Bitfiles\\ (64-bit Windows)."
+date: 2016-05-19
+summary: "**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Labstache"
 externalUrl: https://www.vipm.io/package/field_rnd_services_labstache
+date: 2020-04-15
 summary: "Labstache is a pure LabVIEW library for working with logic-less Mustache templates."
 showSummary: true
 showAuthor: false

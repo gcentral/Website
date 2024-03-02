@@ -1,6 +1,7 @@
 ---
 title: "Eulogy"
 externalUrl: https://www.vipm.io/package/field_rnd_services_eulogy
+date: 2019-11-28
 summary: "You just inherited a large project that has been under continuous development for years, and now you are tasked with improving performance and adding functionality while maintaining compatibility."
 showSummary: true
 showAuthor: false

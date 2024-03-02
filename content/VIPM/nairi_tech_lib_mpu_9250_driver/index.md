@@ -1,6 +1,7 @@
 ---
 title: "MPU-9250 Driver for LabVIEW by Nairi-Tech"
 externalUrl: https://www.vipm.io/package/nairi_tech_lib_mpu_9250_driver
+date: 2019-08-29
 summary: "**MPU-9250 Driver for LabVIEW** Toolkit by Nairi-Tech is an implemented tool for NI USB-8451 to communicate with MPU-9250 sensors."
 showSummary: true
 showAuthor: false

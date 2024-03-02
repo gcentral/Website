@@ -1,6 +1,7 @@
 ---
 title: "MGI Timing"
 externalUrl: https://www.vipm.io/package/mgi_lib_timing
+date: 2016-09-08
 summary: "This package contains VIs that operate with absolute time, millisecond ticks, or relative time."
 showSummary: true
 showAuthor: false

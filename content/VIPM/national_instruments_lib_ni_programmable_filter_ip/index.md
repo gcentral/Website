@@ -1,6 +1,7 @@
 ---
 title: "NI Programmable Filter IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_programmable_filter_ip
+date: 2016-05-19
 summary: "This IP implements a 33 tap FIR Filter."
 showSummary: true
 showAuthor: false

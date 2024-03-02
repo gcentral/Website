@@ -1,6 +1,7 @@
 ---
 title: "DCAF DAQmx Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_daqmx
+date: 2019-06-25
 summary: "This module takes single point data adquistion from DAQmx."
 showSummary: true
 showAuthor: false

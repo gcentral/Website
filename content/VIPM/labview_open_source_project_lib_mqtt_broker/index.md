@@ -1,10 +1,8 @@
 ---
 title: "MQTT Broker"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_broker
-summary: "LV-MQTT-Broker
-Native LabVIEW MQTT Broker Server
-
-This project is an exercise in Test-Driven Development, which essentially means that the code is implemented gradually and verified through comprehensive unit tests."
+date: 2024-01-14
+summary: "LV-MQTT-Broker"
 showSummary: true
 showAuthor: false
 showEdit: false

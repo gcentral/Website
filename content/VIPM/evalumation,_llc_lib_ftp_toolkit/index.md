@@ -1,6 +1,7 @@
 ---
 title: "FTP Toolkit"
 externalUrl: https://www.vipm.io/package/evalumation,_llc_lib_ftp_toolkit
+date: 2016-05-19
 summary: "This is a toolkit that is built with LabVIEW to perform FTP client functions."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/evalumation,_llc_lib_ftp_toolkit

@@ -1,7 +1,8 @@
 ---
 title: "TeamViewer IoT for LabVIEW"
 externalUrl: https://www.vipm.io/package/yea_lib_teamviewer_remote_access
-summary: "LabView TeamViewer IoT toolkit provides functions to communicate with your device from anywhere with using TeamViewers Global Access Network and enables an ultimate way to implement remote monitoring and control applications.An example on how the toolkit can be used in your application is provided."
+date: 2018-04-04
+summary: "LabView TeamViewer IoT toolkit provides functions to communicate with your device from anywhere with using TeamViewers Global Access Network and enables an ultimate way to implement remote monitoring and control applications."
 showSummary: true
 showAuthor: false
 showEdit: false

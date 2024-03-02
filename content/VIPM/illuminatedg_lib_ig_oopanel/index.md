@@ -1,6 +1,7 @@
 ---
 title: "IG OOPanel"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_oopanel
+date: 2023-10-24
 summary: "Provides an OOP based panel UI manager and also includes functionality for simulating arrays with these Panels for highly flexible dynamic UI content."
 showSummary: true
 showAuthor: false

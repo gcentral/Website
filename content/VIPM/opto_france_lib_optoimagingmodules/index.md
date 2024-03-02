@@ -1,9 +1,8 @@
 ---
 title: "Opto Imaging Modules"
 externalUrl: https://www.vipm.io/package/opto_france_lib_optoimagingmodules
-summary: "**Opto Imaging Modules Package**
-
-The Opto Imaging Modules Package creates Opto IM's palette."
+date: 2022-08-02
+summary: "**Opto Imaging Modules Package**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "G# Framework"
 externalUrl: https://www.vipm.io/package/addq_lib_gsharp
+date: 2020-06-21
 summary: "The G# Framework is a free, award winning add-on toolkit for LabVIEW that adds reference based object-oriented support."
 showSummary: true
 showAuthor: false

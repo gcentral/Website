@@ -1,6 +1,7 @@
 ---
 title: "State Machine Pipes"
 externalUrl: https://www.vipm.io/package/ox_origin_state_machine_pipes
+date: 2021-10-24
 summary: "State Machine Pipes provides an easy way of implementing the Pipe and Filter design pattern within a state machine."
 showSummary: true
 showAuthor: false

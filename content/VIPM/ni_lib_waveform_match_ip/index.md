@@ -1,6 +1,7 @@
 ---
 title: "NI Waveform Match Trigger IP"
 externalUrl: https://www.vipm.io/package/ni_lib_waveform_match_ip
+date: 2016-05-19
 summary: "The NI Waveform Match Trigger IP provides a LabVIEW FPGA block for identifying and isolating an analog waveform by its shape."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "OpenG Numeric Library"
 externalUrl: https://www.vipm.io/package/oglib_numeric
-summary: "The OpenG Numeric Library package contains several routines for operating on numeric data.."
+date: 2018-03-02
+summary: "The OpenG Numeric Library package contains several routines for operating on numeric data."
 showSummary: true
 showAuthor: false
 showEdit: false

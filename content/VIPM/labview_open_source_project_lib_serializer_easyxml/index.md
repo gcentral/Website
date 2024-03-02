@@ -1,7 +1,8 @@
 ---
 title: "OpenSerializer easyXML"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_serializer_easyxml
-summary: "."
+date: 2020-11-03
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

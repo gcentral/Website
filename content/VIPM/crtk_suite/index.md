@@ -1,10 +1,8 @@
 ---
 title: "CRTK Suite"
 externalUrl: https://www.vipm.io/package/crtk_suite
-summary: "**Constelli Radar Toolkit for NI LabVIEW**
-October, Version 3.0.0.2
- 
-The Constelli Radar Toolkit extends the built-in capabilities of NI LabVIEW and NI LabVIEW FPGA with functions and tools for Radar Waveform generation, Target & Emitter Simulation*, and Measurements and Analysis."
+date: 2020-01-09
+summary: "**Constelli Radar Toolkit for NI LabVIEW**"
 showSummary: true
 showAuthor: false
 showEdit: false

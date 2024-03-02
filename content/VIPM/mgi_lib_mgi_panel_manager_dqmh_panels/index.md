@@ -1,6 +1,7 @@
 ---
 title: "MGI Panel Manager - DQMH Panels"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_panel_manager_dqmh_panels
+date: 2018-03-30
 summary: "Provides two new DQMH Module templates."
 showSummary: true
 showAuthor: false

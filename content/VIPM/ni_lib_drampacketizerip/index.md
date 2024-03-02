@@ -1,6 +1,7 @@
 ---
 title: "NI DRAM Packetizer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_drampacketizerip
+date: 2016-05-19
 summary: "Some data transmission protocols, such as VITA49, require that each data packet contain only samples from one channel."
 showSummary: true
 showAuthor: false

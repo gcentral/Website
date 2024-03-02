@@ -1,6 +1,7 @@
 ---
 title: "NI State Pattern Actor"
 externalUrl: https://www.vipm.io/package/ni_lib_state_pattern_actor
+date: 2016-08-25
 summary: "The state pattern is a behavioral design pattern that “allow[s] an object to alter its behavior when its internal state changes."
 showSummary: true
 showAuthor: false

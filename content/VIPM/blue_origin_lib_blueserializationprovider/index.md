@@ -1,7 +1,8 @@
 ---
 title: "BlueSerializationProvider"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueserializationprovider
-summary: "project provider for BlueSerializer."
+date: 2021-08-05
+summary: "project provider for BlueSerializer"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,8 +1,8 @@
 ---
 title: "Pitsco Tetrix Prime for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_pitsco_tetrix_prime_for_ni_myrio
-summary: "Description:
-This package contains example LabVIEW code for the three assemblies included in the builders guide for the Pitsco TETRIX PRIME for myRIO kit."
+date: 2016-11-10
+summary: "Description:"
 showSummary: true
 showAuthor: false
 showEdit: false

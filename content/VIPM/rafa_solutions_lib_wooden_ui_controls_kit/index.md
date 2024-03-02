@@ -1,9 +1,8 @@
 ---
 title: "Wooden UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_wooden_ui_controls_kit
-summary: "Wooden UI Controls Kit Library
-
-Wooden UI Controls Kit is a modern controls library that allows to create modern unique wooden user interfaces for your LabVIEW applications."
+date: 2016-05-19
+summary: "Wooden UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

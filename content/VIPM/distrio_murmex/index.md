@@ -1,6 +1,7 @@
 ---
 title: "Murmex"
 externalUrl: https://www.vipm.io/package/distrio_murmex
+date: 2016-07-07
 summary: "Murmex is Distrio's software framework for distributed input/output applications."
 showSummary: true
 showAuthor: false

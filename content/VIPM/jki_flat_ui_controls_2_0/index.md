@@ -1,7 +1,8 @@
 ---
 title: "JKI Flat UI Controls 2.0"
 externalUrl: https://www.vipm.io/package/jki_flat_ui_controls_2_0
-summary: "The JKI Flat UI Controls 2.0 is a set of professionally designed controls and indicators to help you create amazing UIs in LabVIEW."
+date: 2019-09-05
+summary: "The JKI Flat UI Controls 2."
 showSummary: true
 showAuthor: false
 showEdit: false

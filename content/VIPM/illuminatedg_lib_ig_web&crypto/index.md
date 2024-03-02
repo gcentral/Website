@@ -1,6 +1,7 @@
 ---
 title: "IG Web&Crypto"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_web&crypto
+date: 2022-11-12
 summary: "Includes the Fast Base64 implementation from the NI forums with the addition of the Base64-URL variant."
 showSummary: true
 showAuthor: false

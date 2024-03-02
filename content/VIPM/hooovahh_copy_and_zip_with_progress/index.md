@@ -1,7 +1,8 @@
 ---
 title: "Hooovahh File IO >> Copy and Zip with Progress"
 externalUrl: https://www.vipm.io/package/hooovahh_copy_and_zip_with_progress
-summary: "This package contains a set of API that can copy or zip files and query the progress, and invoke a cancel.."
+date: 2020-12-16
+summary: "This package contains a set of API that can copy or zip files and query the progress, and invoke a cancel."
 showSummary: true
 showAuthor: false
 showEdit: false

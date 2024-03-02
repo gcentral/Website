@@ -1,6 +1,7 @@
 ---
 title: "JKI Simple Localization"
 externalUrl: https://www.vipm.io/package/jki_simple_localization
+date: 2020-12-10
 summary: "This toolkit makes use of the 'Language for non-Unicode programs' setting in Windows (located in the 'Region and Language' settings)."
 showSummary: true
 showAuthor: false

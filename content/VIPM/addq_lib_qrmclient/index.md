@@ -1,6 +1,7 @@
 ---
 title: "QRMClient"
 externalUrl: https://www.vipm.io/package/addq_lib_qrmclient
+date: 2016-05-19
 summary: "QRM is a web based result management system that stores and analyzes test results."
 showSummary: true
 showAuthor: false

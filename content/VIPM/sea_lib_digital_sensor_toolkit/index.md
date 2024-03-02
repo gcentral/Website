@@ -1,7 +1,8 @@
 ---
 title: "SEA Digital Sensor Toolkit"
 externalUrl: https://www.vipm.io/package/sea_lib_digital_sensor_toolkit
-summary: "**1.**Digital Sensor Toolkit for SEA Digital Sensors and **SEA 9210** Multifunction I/O module."
+date: 2016-05-19
+summary: "**1."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "MGI 2D Array"
 externalUrl: https://www.vipm.io/package/mgi_lib_2d_array
+date: 2016-08-30
 summary: "The MGI 2D Array package contains VIs useful for operating on 2 dimensional arrays."
 showSummary: true
 showAuthor: false

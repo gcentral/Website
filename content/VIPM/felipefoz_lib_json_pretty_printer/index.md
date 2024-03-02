@@ -1,8 +1,8 @@
 ---
 title: "JSON Pretty Printer"
 externalUrl: https://www.vipm.io/package/felipefoz_lib_json_pretty_printer
-summary: "**JSON Pretty Printer **
-JSON Pretty Printer for LabVIEW."
+date: 2023-11-01
+summary: "**JSON Pretty Printer **"
 showSummary: true
 showAuthor: false
 showEdit: false

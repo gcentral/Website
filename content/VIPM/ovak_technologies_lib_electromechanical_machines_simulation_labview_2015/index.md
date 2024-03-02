@@ -1,6 +1,7 @@
 ---
 title: "Electromechanical Machines Simulation LabVIEW 2015"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_electromechanical_machines_simulation_labview_2015
+date: 2016-05-19
 summary: "Electromechanical Machines Simulation is set of electrical motors' models that is designed to help user to create systems simulations where electrical engines are needed."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "PL Arinst SSA-TG"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_arinst_ssa_tg
+date: 2022-07-14
 summary: "LabVIEW instrument driver for Arinst SSA-TG series spectrum analyzers."
 showSummary: true
 showAuthor: false

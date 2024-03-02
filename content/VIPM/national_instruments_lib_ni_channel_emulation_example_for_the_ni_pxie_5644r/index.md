@@ -1,6 +1,7 @@
 ---
 title: "NI Channel Emulation Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_channel_emulation_example_for_the_ni_pxie_5644r
+date: 2016-05-19
 summary: "This example uses the NI PXIe-5644R VST to emulate the over-the-air (OTA) channel for a wireless communication link."
 showSummary: true
 showAuthor: false

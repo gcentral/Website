@@ -1,6 +1,7 @@
 ---
 title: "Configuration Editor Framework (CEF)"
 externalUrl: https://www.vipm.io/package/ni_lib_config_editor
+date: 2018-04-06
 summary: "Framework for creating configuration editors."
 showSummary: true
 showAuthor: false

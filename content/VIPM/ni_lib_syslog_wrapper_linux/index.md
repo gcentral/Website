@@ -1,6 +1,7 @@
 ---
 title: "NI Syslog Wrapper"
 externalUrl: https://www.vipm.io/package/ni_lib_syslog_wrapper_linux
+date: 2017-11-03
 summary: "Simple, high-speed interface to syslog."
 showSummary: true
 showAuthor: false

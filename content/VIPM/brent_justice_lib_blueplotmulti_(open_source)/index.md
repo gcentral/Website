@@ -1,6 +1,7 @@
 ---
 title: "BluePlotMulti (Open Source)"
 externalUrl: https://www.vipm.io/package/brent_justice_lib_blueplotmulti_(open_source)
+date: 2023-02-12
 summary: "A Multi-panel wrapper around the BluePlot library."
 showSummary: true
 showAuthor: false
@@ -19,7 +20,6 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
- - "OOP"
 ---
 
 Redirecting to https://www.vipm.io/package/brent_justice_lib_blueplotmulti_(open_source)

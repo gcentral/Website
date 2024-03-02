@@ -1,6 +1,7 @@
 ---
 title: "LINX Raspberry Pi Addons"
 externalUrl: https://www.vipm.io/package/mediamongrels_lib_linx_raspberry_pi_addons
+date: 2020-05-20
 summary: "An open source collection of libraries for communicating with hardware on the Raspberry Pi/BeagleBone using LabVIEW and the LINX Toolkit developed/curated/maintained by Sam Sharp of MediaMongrels."
 showSummary: true
 showAuthor: false

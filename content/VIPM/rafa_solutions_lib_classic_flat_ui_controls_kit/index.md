@@ -1,9 +1,8 @@
 ---
 title: "Classic Flat UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_classic_flat_ui_controls_kit
-summary: "Classic Flat UI Controls Kit Library
-
-Classic UI Controls Kit is a modern controls library that allows to create numerous different user interfaces for your LabVIEW applications."
+date: 2016-05-19
+summary: "Classic Flat UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

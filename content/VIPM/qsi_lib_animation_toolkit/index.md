@@ -1,6 +1,7 @@
 ---
 title: "Animation Toolkit"
 externalUrl: https://www.vipm.io/package/qsi_lib_animation_toolkit
+date: 2022-07-27
 summary: "Basic Animation Tools for Position, Size, Fade, Drag, and Jiggle."
 showSummary: true
 showAuthor: false

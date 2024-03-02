@@ -1,6 +1,7 @@
 ---
 title: "Epson Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_epson_robotics_library_system
+date: 2017-09-21
 summary: "With the EPSON library, you can easily integrate robotics into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing - eliminating complex robotics programming expertise."
 showSummary: true
 showAuthor: false

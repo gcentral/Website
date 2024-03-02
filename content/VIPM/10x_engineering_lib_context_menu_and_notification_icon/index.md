@@ -1,7 +1,8 @@
 ---
 title: "Context Menu and Notification Icon"
 externalUrl: https://www.vipm.io/package/10x_engineering_lib_context_menu_and_notification_icon
-summary: "This toolkit requires VIPM 2017 and .NET framework 4.0 or higher and is compatible with LabVIEW 2015 (32 and 64 bits) or later as well as Windows XP or later."
+date: 2018-04-12
+summary: "This toolkit requires VIPM 2017 and ."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "NeoDB for PostgreSQL (System)"
 externalUrl: https://www.vipm.io/package/neodb_for_postgresql_system
+date: 2022-03-22
 summary: "**1."
 showSummary: true
 showAuthor: false

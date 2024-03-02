@@ -1,6 +1,7 @@
 ---
 title: "PostgreSQL Library"
 externalUrl: https://www.vipm.io/package/jdp_science_postgresql
+date: 2020-06-25
 summary: "Wrapping of libPQ for PostgreSQL access."
 showSummary: true
 showAuthor: false

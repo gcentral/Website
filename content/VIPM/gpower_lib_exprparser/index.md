@@ -1,11 +1,8 @@
 ---
 title: "GPower Expression Parser"
 externalUrl: https://www.vipm.io/package/gpower_lib_exprparser
-summary: "This toolset enables you to evaluate mathematical expressions, supplied as strings, into numeric values:
-
-'SIN(x)/2-COS(x)/2' where x=pi -> 0.5
-
-Being able to evaluate string expressions enables you to define and change mathematical expressions at runtime instead of being forced to define them statically at edit time."
+date: 2019-09-17
+summary: "This toolset enables you to evaluate mathematical expressions, supplied as strings, into numeric values:"
 showSummary: true
 showAuthor: false
 showEdit: false

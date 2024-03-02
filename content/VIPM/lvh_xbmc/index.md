@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Interface for Kodi"
 externalUrl: https://www.vipm.io/package/lvh_xbmc
+date: 2016-05-19
 summary: "The MakerHub Interface for Kodi makes it easy to interact with Kodi, a media player and entertainment hub."
 showSummary: true
 showAuthor: false

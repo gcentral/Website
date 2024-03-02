@@ -1,6 +1,7 @@
 ---
 title: "PL Lotis TII LS"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_lotis_tii_ls
+date: 2022-07-14
 summary: "LabVIEW instrument driver for Lotis TII LS series lasers."
 showSummary: true
 showAuthor: false

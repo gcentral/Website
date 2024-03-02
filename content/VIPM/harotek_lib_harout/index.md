@@ -1,13 +1,8 @@
 ---
 title: "HaroUT"
 externalUrl: https://www.vipm.io/package/harotek_lib_harout
-summary: "***  This package must be installed with VIPM version 2018 or later ***
-
-HaroUT from HaroTek LLC
-
-www.harotek.com
-
-Toolkit for non-destructive testing using Phased-Array Ultrasound."
+date: 2019-05-16
+summary: "***  This package must be installed with VIPM version 2018 or later ***"
 showSummary: true
 showAuthor: false
 showEdit: false

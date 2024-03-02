@@ -1,8 +1,8 @@
 ---
 title: "Custom Controls"
 externalUrl: https://www.vipm.io/package/benjaminr_custom_controls
-summary: "This package allows to use custom controls in your LabVIEW application :
-- The buttons has been customized using Material Filled or Windows 11 icons."
+date: 2021-11-06
+summary: "This package allows to use custom controls in your LabVIEW application :"
 showSummary: true
 showAuthor: false
 showEdit: false

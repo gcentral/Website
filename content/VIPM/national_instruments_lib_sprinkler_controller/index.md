@@ -1,9 +1,8 @@
 ---
 title: "Sprinkler Controller for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_sprinkler_controller
-summary: "**Sprinkler Controller for NI myRIO**
-
-The Sprinkler Controller App contains controller code capable of monitoring and controlling sprinkler lines."
+date: 2016-05-19
+summary: "**Sprinkler Controller for NI myRIO**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Circular Chart Base"
 externalUrl: https://www.vipm.io/package/kitx_circularchart_base
+date: 2018-12-25
 summary: "The Circular Chart Add-On provides an easy way to create high quality circular charts with features such as anti-aliased and translucence, helps you to deal with the boring and time-consuming drawing details."
 showSummary: true
 showAuthor: false

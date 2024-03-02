@@ -1,6 +1,7 @@
 ---
 title: "UI Tools"
 externalUrl: https://www.vipm.io/package/lava_lib_ui_tools
+date: 2020-11-14
 summary: "This package contains tools for designing user interfaces."
 showSummary: true
 showAuthor: false

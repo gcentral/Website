@@ -1,7 +1,8 @@
 ---
 title: "NI String Tools Library"
 externalUrl: https://www.vipm.io/package/ni_lib_string
-summary: "Basic set of string manipulation VIs."
+date: 2016-05-19
+summary: "Basic set of string manipulation VIs"
 showSummary: true
 showAuthor: false
 showEdit: false

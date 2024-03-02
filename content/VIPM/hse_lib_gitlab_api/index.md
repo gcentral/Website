@@ -1,6 +1,7 @@
 ---
 title: "GitLab API"
 externalUrl: https://www.vipm.io/package/hse_lib_gitlab_api
+date: 2024-02-10
 summary: "Automate GitLab by using its simple and powerful REST API."
 showSummary: true
 showAuthor: false

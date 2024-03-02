@@ -1,8 +1,8 @@
 ---
 title: "OpenSerializer.Base64"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_serializer_base64
-summary: "Base64 Encoder and Decoder
-OpenSerializer Base64 Encoder."
+date: 2020-11-03
+summary: "Base64 Encoder and Decoder"
 showSummary: true
 showAuthor: false
 showEdit: false

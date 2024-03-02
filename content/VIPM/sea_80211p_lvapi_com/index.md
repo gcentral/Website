@@ -1,7 +1,8 @@
 ---
 title: "SEA 802.11p Add-On for LabVIEW - COMMS API"
 externalUrl: https://www.vipm.io/package/sea_80211p_lvapi_com
-summary: "The **SEA 802.11p Add-On for LabVIEW - COMMS API** delivers a set of basic functions to build V2X (Vehicle-To-Anything) related applications in LabVIEW."
+date: 2022-04-11
+summary: "The **SEA 802."
 showSummary: true
 showAuthor: false
 showEdit: false

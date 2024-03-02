@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "jki_labs_tool_vi_tester-1.0.0.70"
 externalUrl: https://www.vipm.io/package/jki_labs_tool_vi_tester-1.0.0.70
-summary: "JKI VI Tester."
+date: 2020-11-02
+summary: "JKI VI Tester"
 showSummary: true
 showAuthor: false
 showEdit: false

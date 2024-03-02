@@ -1,8 +1,8 @@
 ---
 title: "OPC DA Client API for LabVIEW (System)"
 externalUrl: https://www.vipm.io/package/grovf_lib_opc_da_client_api_system
-summary: "**Overview**
-OPC DA Client API for LabVIEW toolkit provides effortless access to OPC DA server applications without previous knowledge of the OPC standard."
+date: 2020-06-10
+summary: "**Overview**"
 showSummary: true
 showAuthor: false
 showEdit: false

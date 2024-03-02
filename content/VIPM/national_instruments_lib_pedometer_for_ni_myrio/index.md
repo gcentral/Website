@@ -1,6 +1,7 @@
 ---
 title: "Pedometer for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_pedometer_for_ni_myrio
+date: 2016-05-19
 summary: "The Pedometer for NI myRIO runs on the 1900 and 1950 models."
 showSummary: true
 showAuthor: false

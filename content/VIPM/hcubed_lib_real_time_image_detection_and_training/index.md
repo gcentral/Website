@@ -1,6 +1,7 @@
 ---
 title: "Real-time Image Detection and Training"
 externalUrl: https://www.vipm.io/package/hcubed_lib_real_time_image_detection_and_training
+date: 2021-01-06
 summary: "The Real-time Image Detection and Training Toolkit enables real-time image detection and custom data training in LabVIEW (Model: YOLO v3)."
 showSummary: true
 showAuthor: false

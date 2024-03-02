@@ -1,7 +1,8 @@
 ---
 title: "NIPM API"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_nipm_api_(beta)
-summary: "Use the NIPM API to programmatically perform NI Package Manager tasks (e.g."
+date: 2020-04-30
+summary: "Use the NIPM API to programmatically perform NI Package Manager tasks (e."
 showSummary: true
 showAuthor: false
 showEdit: false

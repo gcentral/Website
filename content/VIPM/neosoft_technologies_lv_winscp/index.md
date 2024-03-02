@@ -1,6 +1,7 @@
 ---
 title: "LV-WinSCP"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lv_winscp
+date: 2022-11-03
 summary: "This package allows taking advantage of WinSCP capabilities to perform file transfers between a PC and distant targets."
 showSummary: true
 showAuthor: false

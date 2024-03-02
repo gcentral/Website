@@ -1,6 +1,7 @@
 ---
 title: "Flatline Controls"
 externalUrl: https://www.vipm.io/package/jdp_science_flatline_controls
+date: 2022-11-01
 summary: "Modified controls meant as a more modern 'nearly-flat' style."
 showSummary: true
 showAuthor: false

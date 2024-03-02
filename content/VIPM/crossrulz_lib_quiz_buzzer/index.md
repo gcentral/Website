@@ -1,6 +1,7 @@
 ---
 title: "Quiz Buzzer"
 externalUrl: https://www.vipm.io/package/crossrulz_lib_quiz_buzzer
+date: 2016-05-19
 summary: "Sample Project using the NI myRIO device."
 showSummary: true
 showAuthor: false

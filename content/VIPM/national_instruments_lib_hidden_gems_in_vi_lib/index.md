@@ -1,7 +1,8 @@
 ---
 title: "Hidden Gems in vi.lib"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_hidden_gems_in_vi_lib
-summary: "The Hidden Gems in vi.lib VIs allow you to utilize helpful VIs and libraries that ship with LabVIEW."
+date: 2017-05-05
+summary: "The Hidden Gems in vi."
 showSummary: true
 showAuthor: false
 showEdit: false

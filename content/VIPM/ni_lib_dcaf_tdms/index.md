@@ -1,7 +1,8 @@
 ---
 title: "DCAF TDMS Logging Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_tdms
-summary: "."
+date: 2019-06-25
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

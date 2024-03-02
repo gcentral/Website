@@ -1,6 +1,7 @@
 ---
 title: "LUnit (System)"
 externalUrl: https://www.vipm.io/package/astemes_lib_lunit_system
+date: 2022-07-08
 summary: "LUnit is a LabVIEW **Unit Testing Framework** built on the xUnit unit testing model and inspired by JKI VI Tester."
 showSummary: true
 showAuthor: false

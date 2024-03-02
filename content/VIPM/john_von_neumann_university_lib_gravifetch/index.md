@@ -1,7 +1,8 @@
 ---
 title: "GraviFetch"
 externalUrl: https://www.vipm.io/package/john_von_neumann_university_lib_gravifetch
-summary: "The toolkit allows the users to import .hdf format gravitational wave data."
+date: 2022-12-19
+summary: "The toolkit allows the users to import ."
 showSummary: true
 showAuthor: false
 showEdit: false

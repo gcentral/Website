@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "jki_lib_state_machine-2.0.0"
 externalUrl: https://www.vipm.io/package/jki_lib_state_machine-2.0.0
+date: 2018-11-20
 summary: "The JKI State Machine™ is a template you can use for quickly creating your own LabVIEW applications."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "myRIO LED PWM API"
 externalUrl: https://www.vipm.io/package/darin_k_lib_myrio_led_pwm_api
+date: 2016-05-19
 summary: "This API provides a set of SubVIs to individually control the brightness of the four built-in LEDs of the myRIO."
 showSummary: true
 showAuthor: false

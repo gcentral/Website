@@ -1,7 +1,8 @@
 ---
 title: "SEA LTE-V Add-On for LabVIEW - FULL API"
 externalUrl: https://www.vipm.io/package/sea_ltev_lvapi_full
-summary: "The **SEA LTE-V Add-On for LabVIEW - FULL API** delivers a suite to build V2X (Vehicle-To-Anything) related applications in LabVIEW based on LTE technlogies (3GPP TS 36.300)."
+date: 2022-03-04
+summary: "The **SEA LTE-V Add-On for LabVIEW - FULL API** delivers a suite to build V2X (Vehicle-To-Anything) related applications in LabVIEW based on LTE technlogies (3GPP TS 36."
 showSummary: true
 showAuthor: false
 showEdit: false

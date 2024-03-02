@@ -1,6 +1,7 @@
 ---
 title: "Face Recognition (System)"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_face_recognition_system
+date: 2020-04-06
 summary: "This VI lib represents an advanced face recognition system."
 showSummary: true
 showAuthor: false

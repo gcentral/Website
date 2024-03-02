@@ -1,6 +1,7 @@
 ---
 title: "10dof"
 externalUrl: https://www.vipm.io/package/nairi_tech_lib_10dof
+date: 2016-10-06
 summary: "10DOF Sensors toolkit wiil help you to configure the sensors and acquire measurments in no time."
 showSummary: true
 showAuthor: false

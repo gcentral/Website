@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "jki_tool_right_click_framework-1.0.0.189"
 externalUrl: https://www.vipm.io/package/jki_tool_right_click_framework-1.0.0.189
+date: 2009-07-08
 summary: "The JKI Right-Click Framework for LabVIEW is an amazing tool that allows you to create new features in LabVIEW and use new features created by other developers."
 showSummary: true
 showAuthor: false

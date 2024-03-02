@@ -1,13 +1,8 @@
 ---
 title: "QSid"
 externalUrl: https://www.vipm.io/package/qsid_review_report
-summary: "**Creating Review Docs for Free: QSid is used to generate reports (word document or custom format) based on LabVIEW Bookmarks on the Block Diagram:**
-- Lets you place Bookmarks using QuickDrop shortcuts
-- Gets your review information (bookmarks) from the block diagram and automatically creates a report
-- Comes with a customizable report template in Microsoft Word
-- Plug-in architecture allows you to use your own document generator to create the review document in any file format
-- Saves document header information to be reused in future reports
-- Acts as a bookmark manager."
+date: 2021-02-18
+summary: "**Creating Review Docs for Free: QSid is used to generate reports (word document or custom format) based on LabVIEW Bookmarks on the Block Diagram:**"
 showSummary: true
 showAuthor: false
 showEdit: false

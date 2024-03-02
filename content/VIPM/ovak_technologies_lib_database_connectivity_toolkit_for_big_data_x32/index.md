@@ -1,9 +1,8 @@
 ---
 title: "Database Connectivity Toolkit for Big Data x32"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_database_connectivity_toolkit_for_big_data_x32
-summary: "**Database Connectivity Toolkit for Big Data**
- is a library, which consists of low-level DLL functions, which you can perform both common database 
-tasks and advanced customized tasks."
+date: 2019-03-28
+summary: "**Database Connectivity Toolkit for Big Data**"
 showSummary: true
 showAuthor: false
 showEdit: false

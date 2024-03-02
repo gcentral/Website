@@ -1,7 +1,8 @@
 ---
 title: "DQMH Thermal Chamber Examples"
 externalUrl: https://www.vipm.io/package/delacor_lib_qmh_temperature_chamber_examples
-summary: "Examples to illustrate how the DQMH modules could be used in a LabVIEW project or in a TestStand project."
+date: 2024-02-23
+summary: "Examples to illustrate how the DQMH modules could be used in a LabVIEW project or in a TestStand project"
 showSummary: true
 showAuthor: false
 showEdit: false

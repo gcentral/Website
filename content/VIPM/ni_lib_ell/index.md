@@ -1,6 +1,7 @@
 ---
 title: "NI Event Logger Library"
 externalUrl: https://www.vipm.io/package/ni_lib_ell
+date: 2016-05-19
 summary: "The Event Logger Library provides a way to log user defined events to a log file."
 showSummary: true
 showAuthor: false

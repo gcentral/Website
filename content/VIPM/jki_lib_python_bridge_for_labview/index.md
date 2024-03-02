@@ -1,6 +1,7 @@
 ---
 title: "JKI Python Bridge for LabVIEW"
 externalUrl: https://www.vipm.io/package/jki_lib_python_bridge_for_labview
+date: 2023-03-16
 summary: "A toolkit allowing Python to call into LabVIEW and seamlessly transfer argument and return data."
 showSummary: true
 showAuthor: false

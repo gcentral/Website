@@ -1,6 +1,7 @@
 ---
 title: "lavag_lib_User_Interface_XControls_multi-segment-ramp_xcontrol"
 externalUrl: https://www.vipm.io/package/lavag_lib_user_interface_xcontrole_multi_segment_ramp_xcontrol
+date: 2022-11-06
 summary: "A multi-segment ramp provides a waveform that the user defines in terms of a series of linear ramp segments with a target and either a step size or ramp rate."
 showSummary: true
 showAuthor: false

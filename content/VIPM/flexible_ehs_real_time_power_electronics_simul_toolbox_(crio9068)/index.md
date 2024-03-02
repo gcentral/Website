@@ -1,6 +1,7 @@
 ---
 title: "Flexible eHS Real Time Power Electronics Simul. Toolbox (cRIO9068)"
 externalUrl: https://www.vipm.io/package/flexible_ehs_real_time_power_electronics_simul_toolbox_(crio9068)
+date: 2016-05-19
 summary: "Flexible eHS Real Time Power Electronics Simulation Toolbox (cRIO9068)  by OPAL-RT Technologies."
 showSummary: true
 showAuthor: false

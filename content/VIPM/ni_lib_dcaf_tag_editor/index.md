@@ -1,6 +1,7 @@
 ---
 title: "DCAF Tag Editor"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_tag_editor
+date: 2019-03-05
 summary: "**This package will also run the installers for GraphViz and PuTTY to your machine."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Jitter Analysis Toolkit"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_jitter_analysis_toolkit
+date: 2016-05-19
 summary: "The Jitter Analysis Toolkit provides a library of VIs optimized for performing high-throughput, automated jitter, eye diagram, and phase-noise measurements."
 showSummary: true
 showAuthor: false

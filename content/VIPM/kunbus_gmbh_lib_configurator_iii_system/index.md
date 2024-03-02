@@ -1,8 +1,8 @@
 ---
 title: "Configurator III (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_configurator_iii_system
-summary: "**KUNBUS Configurator III - PROFIBUS DP/PROFINET IO Master Configuration Tool**
-KUNBUS Configurator III is available to configure all KUNBUS PROFIBUS DP/PROFINET IO master components like PCI, PXI and PCIe boards as well as C SERIES Modules."
+date: 2019-06-20
+summary: "**KUNBUS Configurator III - PROFIBUS DP/PROFINET IO Master Configuration Tool**"
 showSummary: true
 showAuthor: false
 showEdit: false

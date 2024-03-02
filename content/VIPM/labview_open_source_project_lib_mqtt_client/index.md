@@ -1,8 +1,8 @@
 ---
 title: "MQTT Client"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_client
-summary: "LV-MQTT-Client
-https://github.com/LabVIEW-Open-Source/MQTT-Client."
+date: 2022-05-09
+summary: "LV-MQTT-Client"
 showSummary: true
 showAuthor: false
 showEdit: false

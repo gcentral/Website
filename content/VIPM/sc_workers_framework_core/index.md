@@ -1,6 +1,7 @@
 ---
 title: "Workers - Framework Core"
 externalUrl: https://www.vipm.io/package/sc_workers_framework_core
+date: 2022-07-07
 summary: "The Workers Framework Core provides the Workers palette API, development library, sample projects and addons for the Worker Library tool."
 showSummary: true
 showAuthor: false

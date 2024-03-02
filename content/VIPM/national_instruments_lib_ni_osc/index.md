@@ -1,6 +1,7 @@
 ---
 title: "NI Open Sound Control"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_osc
+date: 2016-05-19
 summary: "Open Sound Control is a messaging protocol originally designed for use in the music industry specifically for communicating gestures, parameters, and note sequences between platforms."
 showSummary: true
 showAuthor: false

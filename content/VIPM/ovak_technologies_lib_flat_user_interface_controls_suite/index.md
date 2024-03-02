@@ -1,6 +1,7 @@
 ---
 title: "Flat User Interface Controls Suite"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_flat_user_interface_controls_suite
+date: 2016-05-19
 summary: "The Flat User Interface Controls Suite by Ovak Technologies offers new aesthetic additions to the LabVIEW front panel controls palette."
 showSummary: true
 showAuthor: false

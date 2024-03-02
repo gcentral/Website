@@ -1,7 +1,8 @@
 ---
 title: "Icon Library Update Tool"
 externalUrl: https://www.vipm.io/package/ni_lib_icon_library
-summary: "This package adds a utiliy to the LabVIEW > Tools menu to synchronize glyphs available in the Icon Editor with the Icon Library at NI.com/IconLibrary."
+date: 2018-06-01
+summary: "This package adds a utiliy to the LabVIEW > Tools menu to synchronize glyphs available in the Icon Editor with the Icon Library at NI."
 showSummary: true
 showAuthor: false
 showEdit: false

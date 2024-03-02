@@ -1,6 +1,7 @@
 ---
 title: "Dual Port SPI Example for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_dual_port_spi_example_for_labview_fpga
+date: 2016-05-19
 summary: "SPI is a commonly used communication protocol for both integrated circuit communication and embedded sensors."
 showSummary: true
 showAuthor: false

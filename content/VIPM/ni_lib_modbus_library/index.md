@@ -1,6 +1,7 @@
 ---
 title: "NI Modbus Library"
 externalUrl: https://www.vipm.io/package/ni_lib_modbus_library
+date: 2018-06-29
 summary: "Modbus is a de facto standard for industrial communication which supports both serial- and TCP/IP-based communication."
 showSummary: true
 showAuthor: false

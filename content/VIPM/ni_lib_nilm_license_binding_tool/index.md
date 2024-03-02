@@ -1,7 +1,8 @@
 ---
 title: "NILM Library Binding Utility"
 externalUrl: https://www.vipm.io/package/ni_lib_nilm_license_binding_tool
-summary: "NI License Manager Library Binding Utility guides through binding a LabVIEW library to an NI License File (.lc)."
+date: 2019-07-29
+summary: "NI License Manager Library Binding Utility guides through binding a LabVIEW library to an NI License File (."
 showSummary: true
 showAuthor: false
 showEdit: false

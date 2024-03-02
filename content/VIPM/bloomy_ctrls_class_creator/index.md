@@ -1,9 +1,8 @@
 ---
 title: "Class Creator Utility"
 externalUrl: https://www.vipm.io/package/bloomy_ctrls_class_creator
-summary: "::Class Creator Utility v1.0::
- 
-The Class Creator Utility is a streamlined way of defining a new *.lvclass."
+date: 2016-05-19
+summary: "::Class Creator Utility v1."
 showSummary: true
 showAuthor: false
 showEdit: false

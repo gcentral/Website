@@ -1,6 +1,7 @@
 ---
 title: "Certification Authority"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_certification_authority
+date: 2020-10-23
 summary: "This package provides a Utility to generate self-signed certificates (root CA and server Trusted Certificate + private key) to be deployed in a local network."
 showSummary: true
 showAuthor: false

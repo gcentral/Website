@@ -1,7 +1,8 @@
 ---
 title: "OpenG Boolean Library"
 externalUrl: https://www.vipm.io/package/oglib_boolean
-summary: "The OpenG Boolean Library package contains several routines for operating on booleans.."
+date: 2018-03-02
+summary: "The OpenG Boolean Library package contains several routines for operating on booleans."
 showSummary: true
 showAuthor: false
 showEdit: false

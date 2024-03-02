@@ -1,6 +1,7 @@
 ---
 title: "SENT API"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_sent_api
+date: 2016-05-19
 summary: "The SENT driver API provides the NI LabVIEW FPGA code for the Single Edge Nibble Transmission (SENT) protocol communication engine."
 showSummary: true
 showAuthor: false

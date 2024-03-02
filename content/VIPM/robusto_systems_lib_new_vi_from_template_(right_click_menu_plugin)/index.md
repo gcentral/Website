@@ -1,6 +1,7 @@
 ---
 title: "New VI From Template (Right-Click Menu Plugin)"
 externalUrl: https://www.vipm.io/package/robusto_systems_lib_new_vi_from_template_(right_click_menu_plugin)
+date: 2023-01-05
 summary: "This package installs a right-click menu plugin to help create new VI's and CTL's from templates, and add them into a LabVIEW project, LabVIEW library (lvlib) or class (lvclass) more quickly and with fewer clicks."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "VIPM Community"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/robusto_systems_lib_new_vi_from_template_(right_click_menu_plugin)

@@ -1,6 +1,7 @@
 ---
 title: "Service Application Manager for LabVIEW"
 externalUrl: https://www.vipm.io/package/grovf_lib_service_application_manager_for_labview
+date: 2020-01-09
 summary: "Service Application Manager for LabVIEW toolkit integrates nssm Windows service helper, giving LabVIEW developers verified and easy to use way of interacting with Windows applications."
 showSummary: true
 showAuthor: false

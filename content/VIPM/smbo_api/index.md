@@ -1,9 +1,8 @@
 ---
 title: "SmBO API"
 externalUrl: https://www.vipm.io/package/smbo_api
-summary: "**Overview**
-
-SmBO-API  allows users to write and read time-series data to NoSQL SmBO database."
+date: 2018-03-23
+summary: "**Overview**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "DCAF J1939"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_j1939
+date: 2017-05-20
 summary: "This module will allow to talk to CAN devices using the J1939 protocol."
 showSummary: true
 showAuthor: false

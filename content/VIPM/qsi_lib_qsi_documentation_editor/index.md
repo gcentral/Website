@@ -1,16 +1,8 @@
 ---
 title: "QSI Documentation Editor"
 externalUrl: https://www.vipm.io/package/qsi_lib_qsi_documentation_editor
-summary: "The **QSI Documentation Editor** provides an easy way to edit the description field of:
-
-* VIs, 
-* Controls (*.ctl), 
-* Projects (*.lvproj), 
-* Libraries (*.lvlib), 
-* Classes (*.lvclass), 
-* Statechatrs (*.lvsc),
-* VI Templates (*.vit), and 
-* XControls (*.xctl)."
+date: 2016-05-19
+summary: "The **QSI Documentation Editor** provides an easy way to edit the description field of:"
 showSummary: true
 showAuthor: false
 showEdit: false

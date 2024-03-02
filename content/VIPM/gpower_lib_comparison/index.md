@@ -1,9 +1,8 @@
 ---
 title: "GPower Comparison"
 externalUrl: https://www.vipm.io/package/gpower_lib_comparison
-summary: "This toolset adds various comparison functions:
-
-- If data has changed from last call."
+date: 2017-02-07
+summary: "This toolset adds various comparison functions:"
 showSummary: true
 showAuthor: false
 showEdit: false

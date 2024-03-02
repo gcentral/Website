@@ -1,22 +1,8 @@
 ---
 title: "KUN 9883 (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_kun_9883_system
-summary: "**PROFIBUS DP Slave Interface for CompactRIO**
-for LabvIEW 2018 or later
-
-**Required Software**
- - NI LabVIEW 2018 or higher
- - NI Real time
- - LabVIEW FPGA Module regarding the used cRIO chassis
- - LabVIEW FPGA Compilation Tool regarding the used cRIO chassis
- - NI CompactRIO and Driver
- - KUN 9883 VI-Package from the NI Tools Network
-
-**Required Hardware**
- - KUN 9883 
- - cRIO Controller*/Chassis*
-
-*Supported FPGAs: Virtex 5, Spartan 3, Spartan 6, Zynq-7000, Kintex 7."
+date: 2020-03-03
+summary: "**PROFIBUS DP Slave Interface for CompactRIO**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Error Manager"
 externalUrl: https://www.vipm.io/package/robusto_systems_lib_error_manager
+date: 2023-09-18
 summary: "The Error Manager is a stand-alone, asynchronous LabVIEW module that can help log LabVIEW errors to file, display error details to the user, and display the chronological or inverse-chronological list of errors that occurred since the module started."
 showSummary: true
 showAuthor: false

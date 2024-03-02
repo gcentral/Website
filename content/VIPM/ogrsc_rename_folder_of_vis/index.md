@@ -1,7 +1,8 @@
 ---
 title: "OpenG Rename Folder of VIs Tool"
 externalUrl: https://www.vipm.io/package/ogrsc_rename_folder_of_vis
-summary: "Adds a 'Rename Folder of VIs...' option to the File menu.."
+date: 2011-11-21
+summary: "Adds a 'Rename Folder of VIs."
 showSummary: true
 showAuthor: false
 showEdit: false

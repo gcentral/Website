@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogfwk_opengoop-0.9"
 externalUrl: https://www.vipm.io/package/ogfwk_opengoop-0.9
-summary: "The OpenGOOP package is a utility for creating OpenG flavorded GOOP objects.."
+date: 2007-09-15
+summary: "The OpenGOOP package is a utility for creating OpenG flavorded GOOP objects."
 showSummary: true
 showAuthor: false
 showEdit: false

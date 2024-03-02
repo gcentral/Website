@@ -1,8 +1,8 @@
 ---
 title: "Magic Connector Linker"
 externalUrl: https://www.vipm.io/package/geniview_lib_magic_connector_linker
-summary: "<u>What is it?</u>
-Magic Connector Linker is a little LabVIEW add-on that speeds up arduous process of building connector pane."
+date: 2017-07-12
+summary: "<u>What is it?</u>"
 showSummary: true
 showAuthor: false
 showEdit: false

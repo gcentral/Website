@@ -1,7 +1,8 @@
 ---
 title: "OpenG Compare VI To Disk Tool"
 externalUrl: https://www.vipm.io/package/ogrsc_compare_vi_to_disk
-summary: "Adds a 'Compare to Disk...' option to the OpenG Tools menu, which opens the active VI and the copy on disk in the LabVIEW comparison tool."
+date: 2011-11-21
+summary: "Adds a 'Compare to Disk."
 showSummary: true
 showAuthor: false
 showEdit: false

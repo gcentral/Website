@@ -1,6 +1,7 @@
 ---
 title: "JSON Object Serialization"
 externalUrl: https://www.vipm.io/package/gcraftsman_lib_json_object_serialization
+date: 2017-03-31
 summary: "GCraftsman JSON Object Serializer is an extension of the JKI JSON Library."
 showSummary: true
 showAuthor: false

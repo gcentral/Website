@@ -1,6 +1,7 @@
 ---
 title: "IG Tiny TCP"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_tiny_tcp
+date: 2023-04-15
 summary: "Tiny TCP is a minimal library for performing point-to-point TCP messaging."
 showSummary: true
 showAuthor: false

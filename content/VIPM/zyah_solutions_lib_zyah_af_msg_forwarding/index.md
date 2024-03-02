@@ -1,6 +1,7 @@
 ---
 title: "Zyah AF Msg Forwarding"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_zyah_af_msg_forwarding
+date: 2023-09-22
 summary: "A utility to aid in automatic Actor Framework message forwarding using the AF Msg tree."
 showSummary: true
 showAuthor: false

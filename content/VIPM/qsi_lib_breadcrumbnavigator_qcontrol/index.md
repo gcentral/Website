@@ -1,6 +1,7 @@
 ---
 title: "BreadcrumbNavigator QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_breadcrumbnavigator_qcontrol
+date: 2023-05-29
 summary: "The BreadcrumbNavigator QControl is a QControl that inherits from and extends the String control."
 showSummary: true
 showAuthor: false
@@ -19,6 +20,7 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "QControl"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_breadcrumbnavigator_qcontrol

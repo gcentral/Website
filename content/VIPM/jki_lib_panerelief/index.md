@@ -1,6 +1,7 @@
 ---
 title: "PaneRelief"
 externalUrl: https://www.vipm.io/package/jki_lib_panerelief
+date: 2020-07-30
 summary: "This tool is launched from the Quick Drop (default shortcut ctl + a)."
 showSummary: true
 showAuthor: false

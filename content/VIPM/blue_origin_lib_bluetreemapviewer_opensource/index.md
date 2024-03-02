@@ -1,6 +1,7 @@
 ---
 title: "BlueTreeMapViewer (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluetreemapviewer_opensource
+date: 2023-01-02
 summary: "This package provides a user interace for viewing with and interacting with BlueTreeMap data structures."
 showSummary: true
 showAuthor: false

@@ -1,8 +1,8 @@
 ---
 title: "Magic Button Maker (Free)"
 externalUrl: https://www.vipm.io/package/geniview_lib_magic_button_maker_(free)
-summary: "<u>What is it?</u>
-Magic Button Maker is a little LabVIEW add-on that helps you to create buttons with custom icons."
+date: 2017-01-09
+summary: "<u>What is it?</u>"
 showSummary: true
 showAuthor: false
 showEdit: false

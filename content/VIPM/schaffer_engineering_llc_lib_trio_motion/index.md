@@ -1,6 +1,7 @@
 ---
 title: "Trio Motion"
 externalUrl: https://www.vipm.io/package/schaffer_engineering_llc_lib_trio_motion
+date: 2023-11-06
 summary: "Motion Software Toolkit to support Trio Motion Controllers to run multi-axis motion for stepper and servo applications using ActiveX communication with Trio Controllers."
 showSummary: true
 showAuthor: false

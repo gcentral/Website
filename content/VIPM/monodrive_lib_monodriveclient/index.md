@@ -1,10 +1,8 @@
 ---
 title: "monoDriveClient"
 externalUrl: https://www.vipm.io/package/monodrive_lib_monodriveclient
-summary: "<color=red>Note: This package requires administrator
-privileges for both LabVIEW and VI Package Manager.</color>
-
-Provides a LabVIEW interface to the monoDrive Autonomous Vehicle Simulator."
+date: 2021-04-09
+summary: "<color=red>Note: This package requires administrator"
 showSummary: true
 showAuthor: false
 showEdit: false

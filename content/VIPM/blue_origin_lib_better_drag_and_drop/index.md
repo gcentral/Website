@@ -1,13 +1,8 @@
 ---
 title: "Better Drag and Drop"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_better_drag_and_drop
-summary: "This package provides an improved drag and drop schema for:
-- Listbox
-- Multicolumn Listbox
-- Tree
-
-Notable advantages:
-- Use cursor position to select indent level when dropping items onto a tree control."
+date: 2023-01-02
+summary: "This package provides an improved drag and drop schema for:"
 showSummary: true
 showAuthor: false
 showEdit: false

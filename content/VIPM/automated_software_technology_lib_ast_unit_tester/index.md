@@ -1,6 +1,7 @@
 ---
 title: "AST Unit Tester"
 externalUrl: https://www.vipm.io/package/automated_software_technology_lib_ast_unit_tester
+date: 2022-03-24
 summary: "AST Unit Tester is a tool to perform quick and easy unit tests on LabVIEW code."
 showSummary: true
 showAuthor: false

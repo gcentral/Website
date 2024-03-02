@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "jki_lib_rcf_justify_text-1.0.1"
 externalUrl: https://www.vipm.io/package/jki_lib_rcf_justify_text-1.0.1
+date: 2009-07-08
 summary: "Justifies text of string controls, indicators, constants, and labels."
 showSummary: true
 showAuthor: false

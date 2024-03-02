@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "jki_lib_easyxml-2.0"
 externalUrl: https://www.vipm.io/package/jki_lib_easyxml-2.0
-summary: "Toolkit to easily flatten and unflatten LabVIEW data to and from XML.."
+date: 2010-03-19
+summary: "Toolkit to easily flatten and unflatten LabVIEW data to and from XML."
 showSummary: true
 showAuthor: false
 showEdit: false

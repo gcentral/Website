@@ -1,7 +1,8 @@
 ---
 title: "IG Gmail API"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_gmail_api
-summary: "Enables sending emails using the Gmail API (not SMTP) using IG OAuth2 to authorize sending an email from a google account.."
+date: 2023-10-17
+summary: "Enables sending emails using the Gmail API (not SMTP) using IG OAuth2 to authorize sending an email from a google account."
 showSummary: true
 showAuthor: false
 showEdit: false

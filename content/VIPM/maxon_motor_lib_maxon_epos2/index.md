@@ -1,6 +1,7 @@
 ---
 title: "Maxon EPOS2"
 externalUrl: https://www.vipm.io/package/maxon_motor_lib_maxon_epos2
+date: 2016-05-19
 summary: "This driver provides a reusable architecture and set of VIs for communicating to the maxon motor EPOS2 positioning controller over a CANopen interface."
 showSummary: true
 showAuthor: false

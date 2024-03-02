@@ -1,7 +1,8 @@
 ---
 title: "Cyclic Table Probes"
 externalUrl: https://www.vipm.io/package/drjdpowell_lib_cyclic_table_probes
-summary: "."
+date: 2020-07-09
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

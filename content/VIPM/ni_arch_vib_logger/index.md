@@ -1,6 +1,7 @@
 ---
 title: "NI cRIO Vibration Data Logger"
 externalUrl: https://www.vipm.io/package/ni_arch_vib_logger
+date: 2016-05-19
 summary: "Many cRIO applications for embedded data logging include common operations like communications, configuration, data acquisition, data logging, error logging, analysis and triggering."
 showSummary: true
 showAuthor: false

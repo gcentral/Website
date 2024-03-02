@@ -1,6 +1,7 @@
 ---
 title: "RTI DDS Toolkit"
 externalUrl: https://www.vipm.io/package/real-time_innovations_lvdds
+date: 2023-12-22
 summary: "Developing heterogeneous distributed systems is a complex challenge."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Open eHS Real-Time Power Electronics Simul Toolbox (NI PXIe-7679R)"
 externalUrl: https://www.vipm.io/package/opal_rt_technologies_lib_open_ehs_real_time_power_electronics_simul_toolbox_(ni_pxie_7679r)
+date: 2016-10-20
 summary: "Open eHS Real Time Power Electronics Simul."
 showSummary: true
 showAuthor: false

@@ -1,9 +1,8 @@
 ---
 title: "High Performance Demodulator Library for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/olymp_engineering_llc_lib_high_performance_demodulator
-summary: "High Performance Demodulator Library for LabVIEW FPGA 
-
-Single carrier modulations are widely used in modern wireless communication receivers for data transmission and reception."
+date: 2016-05-19
+summary: "High Performance Demodulator Library for LabVIEW FPGA "
 showSummary: true
 showAuthor: false
 showEdit: false

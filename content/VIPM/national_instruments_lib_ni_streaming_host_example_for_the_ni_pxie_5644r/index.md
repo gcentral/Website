@@ -1,6 +1,7 @@
 ---
 title: "NI Streaming Host Example for the NI PXIe-5644R/45R/46R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_streaming_host_example_for_the_ni_pxie_5644r
+date: 2016-05-19
 summary: "**This example replaces LabVIEW 2012 support with LabVIEW 2013 support."
 showSummary: true
 showAuthor: false

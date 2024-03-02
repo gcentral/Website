@@ -1,7 +1,8 @@
 ---
 title: "OpenG Large File Library"
 externalUrl: https://www.vipm.io/package/oglib_largefile
-summary: "The OpenG Large File Library package contains several routines for operating on files over 2GB.."
+date: 2018-03-02
+summary: "The OpenG Large File Library package contains several routines for operating on files over 2GB."
 showSummary: true
 showAuthor: false
 showEdit: false

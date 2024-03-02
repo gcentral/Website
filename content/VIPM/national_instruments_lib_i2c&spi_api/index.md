@@ -1,6 +1,7 @@
 ---
 title: "I2C&SPI API"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_i2c&spi_api
+date: 2016-05-19
 summary: "This driver includes NI LabVIEW host code and LabVIEW FPGA code for the Serial Peripheral Interface (SPI) and Inter-Integrated Circuit (I2C) protocol communication engine."
 showSummary: true
 showAuthor: false

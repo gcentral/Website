@@ -1,9 +1,8 @@
 ---
 title: "Sequence Builder"
 externalUrl: https://www.vipm.io/package/livewires_automation_ltd_sequence_builder
-summary: "IMPORTANT - READ BEFORE INSTALLING
-
-**  See how to access the components of the toolkit below."
+date: 2016-05-19
+summary: "IMPORTANT - READ BEFORE INSTALLING"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Jasper Display EDK Application Software"
 externalUrl: https://www.vipm.io/package/jasper_display_lib_jasper_display_edk_application_software
+date: 2017-03-06
 summary: "The **Jasper Display** offers Full HD resolutions of an array of 1920 x 1080 pixels SLM educational kits."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/jasper_display_lib_jasper_display_edk_application_software

@@ -1,6 +1,7 @@
 ---
 title: "SAS TDMS Header Read Write Anything"
 externalUrl: https://www.vipm.io/package/system_automation_solutions_llc_lib_sas_tdms_header_read_write_anything
+date: 2019-10-14
 summary: "Allows you to read or write clusters from tdms file headers."
 showSummary: true
 showAuthor: false

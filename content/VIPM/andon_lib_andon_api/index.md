@@ -1,6 +1,7 @@
 ---
 title: "AndOn API"
 externalUrl: https://www.vipm.io/package/andon_lib_andon_api
+date: 2018-05-02
 summary: "The AndOn API is an API developed in LabVIEW to provide a simplified component for developers that desire to communicate with the AndonApp portal."
 showSummary: true
 showAuthor: false

@@ -1,10 +1,8 @@
 ---
 title: "XLR8"
 externalUrl: https://www.vipm.io/package/data_ahead_gmbh_lib_xlr8
-summary: "**JKI Package Manager 2017 or newer is required to install XLR8**
-
-**DATA AHEAD XLR8**
-XLR8 is a LabVIEW API that offers a variety of read, write, and formatting functions for Microsoft Excel (R) files in the “xls” and 'xlsx' format, intended for the typical use in automated measurements and tests."
+date: 2023-05-03
+summary: "**JKI Package Manager 2017 or newer is required to install XLR8**"
 showSummary: true
 showAuthor: false
 showEdit: false

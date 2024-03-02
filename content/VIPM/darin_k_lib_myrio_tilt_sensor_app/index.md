@@ -1,6 +1,7 @@
 ---
 title: "myRIO Tilt Sensor App"
 externalUrl: https://www.vipm.io/package/darin_k_lib_myrio_tilt_sensor_app
+date: 2016-05-19
 summary: "This app runs on myRIO-1900 targets and demonstrates Pulse Width Modulation by controlling the onboard LED brightness in response to the tilt of the y-axis."
 showSummary: true
 showAuthor: false

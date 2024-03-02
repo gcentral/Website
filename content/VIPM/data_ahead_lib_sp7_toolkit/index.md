@@ -1,14 +1,8 @@
 ---
 title: "SP7"
 externalUrl: https://www.vipm.io/package/data_ahead_lib_sp7_toolkit
-summary: "**JKI Package Manager 2017 or higher is required to install SP7**
-
-**DATA AHEAD SP7**
-With SP7 you can communicate with a Siemens PLC via an easy-to-use LabVIEW API – even in real time environments
-
-- Multiple read and write functions 
-- Access over Ethernet 
-- No need for expensive OPC connections or complex Bus systems."
+date: 2021-02-01
+summary: "**JKI Package Manager 2017 or higher is required to install SP7**"
 showSummary: true
 showAuthor: false
 showEdit: false

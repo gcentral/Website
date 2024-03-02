@@ -1,6 +1,7 @@
 ---
 title: "OpenDSS Library x86"
 externalUrl: https://www.vipm.io/package/electric_power_research_institute_lib_opendss_library_x86
+date: 2017-02-09
 summary: "This library enables LabVIEW users to control OpenDSS using the Direct DLL interface (faster than the COM interface for this platform)."
 showSummary: true
 showAuthor: false

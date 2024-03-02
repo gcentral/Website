@@ -1,6 +1,7 @@
 ---
 title: "Workers SDK"
 externalUrl: https://www.vipm.io/package/sc_workers
+date: 2022-07-07
 summary: "Workers is an application framework for LabVIEW that combines the classic LabVIEW QMH template development style with LVOOP."
 showSummary: true
 showAuthor: false

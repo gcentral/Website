@@ -1,7 +1,8 @@
 ---
 title: "ZeroMQ Socket Library"
 externalUrl: https://www.vipm.io/package/labview-zmq
-summary: "LabVIEW bindings for ZeroMQ, the communication library that provides simple many-many messaging and other topologies.."
+date: 2022-10-17
+summary: "LabVIEW bindings for ZeroMQ, the communication library that provides simple many-many messaging and other topologies."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "FPGA IP (IPNet): LabVIEW FPGA Encryption Algorithms"
 externalUrl: https://www.vipm.io/package/ni_lib_fpga_ip_(ipnet)-_labview_fpga_encryption_algorithms
+date: 2016-05-19
 summary: "The Encryption Algorithms library is a part of the the LabVIEW FPGA IPNet and provides FGPA IP and examples related to adding encrpytion to FPGA applications using the TEA and XTEA algorithms as well as protection FPGA IP by locking the bitfile to specific hardware."
 showSummary: true
 showAuthor: false

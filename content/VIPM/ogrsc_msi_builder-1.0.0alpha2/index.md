@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "ogrsc_msi_builder-1.0.0alpha2"
 externalUrl: https://www.vipm.io/package/ogrsc_msi_builder-1.0.0alpha2
+date: 2010-02-17
 summary: "OpenG MSI Installer Builder."
 showSummary: true
 showAuthor: false

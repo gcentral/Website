@@ -1,6 +1,7 @@
 ---
 title: "Polygon Clipping"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_poly_clip
+date: 2020-04-17
 summary: "The VIs in this collection perform clipping (intersection, union, difference, xor) operations on polygon sets."
 showSummary: true
 showAuthor: false

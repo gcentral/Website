@@ -1,6 +1,7 @@
 ---
 title: "GDataBase for MySQL(tm)"
 externalUrl: https://www.vipm.io/package/saphir_lib_mysqlview
+date: 2016-05-19
 summary: "GdataBase for MySQL(tm) database adds capabilities to connect MySQL databases from any LabVIEW program."
 showSummary: true
 showAuthor: false

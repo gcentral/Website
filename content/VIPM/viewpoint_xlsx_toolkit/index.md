@@ -1,8 +1,8 @@
 ---
 title: "Viewpoint Xlsx Toolkit"
 externalUrl: https://www.vipm.io/package/viewpoint_xlsx_toolkit
-summary: "<size=24>**Viewpoint Xlsx Toolkit**</size>
-The Xlsx Toolkit by Viewpoint Systems provides a simple LabVIEW API to create native Microsoft Excel xlsx workbooks, without installing Microsoft Excel or using ActiveX /COM."
+date: 2020-10-20
+summary: "<size=24>**Viewpoint Xlsx Toolkit**</size>"
 showSummary: true
 showAuthor: false
 showEdit: false

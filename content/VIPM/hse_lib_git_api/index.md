@@ -1,6 +1,7 @@
 ---
 title: "Git API"
 externalUrl: https://www.vipm.io/package/hse_lib_git_api
+date: 2023-12-19
 summary: "A collection of LabVIEW VIs for using the git command line client."
 showSummary: true
 showAuthor: false

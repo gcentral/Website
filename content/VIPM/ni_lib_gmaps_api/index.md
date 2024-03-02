@@ -1,6 +1,7 @@
 ---
 title: "GMaps API"
 externalUrl: https://www.vipm.io/package/ni_lib_gmaps_api
+date: 2017-10-10
 summary: "GMaps API Toolkit is a programable interface for Google Maps in LabVIEW."
 showSummary: true
 showAuthor: false

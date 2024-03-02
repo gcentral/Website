@@ -1,6 +1,7 @@
 ---
 title: "IG Stream Base"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_stream_base
+date: 2022-11-12
 summary: "Base library for stream based operations and abstract base classes for managing connections that provide data streams."
 showSummary: true
 showAuthor: false

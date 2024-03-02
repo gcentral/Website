@@ -1,13 +1,8 @@
 ---
 title: "Haro3D"
 externalUrl: https://www.vipm.io/package/harotek_lib_haro3d
-summary: "***  This package must be installed with VIPM version 2014 or later ***
-
-Haro3D from HaroTek LLC
-
-www.harotek.com
-
-Kinect and Oculus VIs are only available on Windows 8 and later OS."
+date: 2018-01-25
+summary: "***  This package must be installed with VIPM version 2014 or later ***"
 showSummary: true
 showAuthor: false
 showEdit: false

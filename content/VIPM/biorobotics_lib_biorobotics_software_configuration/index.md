@@ -1,6 +1,7 @@
 ---
 title: "BioRobotics Software Configuration"
 externalUrl: https://www.vipm.io/package/biorobotics_lib_biorobotics_software_configuration
+date: 2019-02-14
 summary: "This is the Applications Manager for all Cleveland Clinic BioRobotics Lab Applications."
 showSummary: true
 showAuthor: false

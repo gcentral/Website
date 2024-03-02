@@ -1,6 +1,7 @@
 ---
 title: "Touchscreen Keyboard"
 externalUrl: https://www.vipm.io/package/cpe_systems_nz_ltd_lib_touchscreen_keyboard
+date: 2019-10-15
 summary: "Touchscreen Keyboard by CPE Systems NZ is an easy-to-use tool to add touchscreen capability to LabVIEW applications."
 showSummary: true
 showAuthor: false

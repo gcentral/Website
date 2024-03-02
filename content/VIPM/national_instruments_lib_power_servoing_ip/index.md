@@ -1,6 +1,7 @@
 ---
 title: "NI Power Servoing IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_power_servoing_ip
+date: 2016-05-19
 summary: "This IP is designed to level the output of an RF power amplifier by iteratively measuring its output power and adjusting the supplied stimulus."
 showSummary: true
 showAuthor: false

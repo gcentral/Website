@@ -1,6 +1,7 @@
 ---
 title: "JSONtext"
 externalUrl: https://www.vipm.io/package/jdp_science_jsontext
+date: 2024-01-22
 summary: "JSONtext is a library intended to make working with JSON in LabVIEW easy, fast and flexible."
 showSummary: true
 showAuthor: false

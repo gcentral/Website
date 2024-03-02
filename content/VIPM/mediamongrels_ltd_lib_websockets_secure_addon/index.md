@@ -1,6 +1,7 @@
 ---
 title: "WebSockets Secure Addon"
 externalUrl: https://www.vipm.io/package/mediamongrels_ltd_lib_websockets_secure_addon
+date: 2023-12-08
 summary: "This VI Package adds Secure WebSockets (wss://) support to the MediaMongrels Ltd WebSockets API."
 showSummary: true
 showAuthor: false

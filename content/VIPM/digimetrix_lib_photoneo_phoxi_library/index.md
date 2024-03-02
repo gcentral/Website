@@ -1,6 +1,7 @@
 ---
 title: "Photoneo PhoXi Library"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_photoneo_phoxi_library
+date: 2019-03-20
 summary: "With the Photoneo PhoXi library, you can easily integrate 3D scanning into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing."
 showSummary: true
 showAuthor: false

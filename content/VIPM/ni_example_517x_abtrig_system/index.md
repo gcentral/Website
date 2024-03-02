@@ -1,17 +1,8 @@
 ---
 title: "NI AB Trigger for PXIe-517xR Host (System)"
 externalUrl: https://www.vipm.io/package/ni_example_517x_abtrig_system
-summary: "**Required Hardware**
-PXIe-5170R (4Ch) or
-PXIe-5170R (8Ch) or
-PXIe-5171R (8Ch)
-
-**Required Software**
-LabVIEW 2014 or later
-NI-SCOPE 15.1 or later
-Instrument Design Libraries for Reconfigurable Oscilloscopes 14.0
-
-This example is based off the NI-SCOPE Configured Acquisition Example, and adds AB custom trigger functionality through the FPGA extension, in addition to the normal NI-SCOPE edge, window, immediate, etc."
+date: 2016-05-19
+summary: "**Required Hardware**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Pulse Train Generator on niUSRP"
 externalUrl: https://www.vipm.io/package/yea_engineering_lib_pulse_train_generator_on_niusrp
+date: 2017-07-18
 summary: "The Pulse Train Generator on niUSRP is developed for pulse sequence generation."
 showSummary: true
 showAuthor: false

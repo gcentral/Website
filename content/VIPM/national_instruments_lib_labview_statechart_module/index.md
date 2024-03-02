@@ -1,6 +1,7 @@
 ---
 title: "LabVIEW Statechart Module"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_labview_statechart_module
+date: 2019-04-09
 summary: "The LabVIEW Statechart Module provides a programming model that you can use to design applications at a higher level than was previously possible."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "oglib_portio-1.1"
 externalUrl: https://www.vipm.io/package/oglib_portio-1.1
+date: 2007-01-02
 summary: "The OpenG Port IO library supports direct access to hardware IO."
 showSummary: true
 showAuthor: false

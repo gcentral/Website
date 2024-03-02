@@ -1,6 +1,7 @@
 ---
 title: "HSE-ify DQMH Tool"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_ify_dqmh_tool
+date: 2023-12-19
 summary: "Scripting tools for the HSE Flavour of DQMH."
 showSummary: true
 showAuthor: false

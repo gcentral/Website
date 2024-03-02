@@ -1,7 +1,8 @@
 ---
 title: "SEA 802.11p Add-On for LabVIEW - RF-COMPLIANCE API"
 externalUrl: https://www.vipm.io/package/sea_80211p_lvapi_rfc
-summary: "The **SEA 802.11p Add-On for LabVIEW - RFC API** delivers a suite to build  V2X (Vehicle-To-Anything) related applications in LabVIEW."
+date: 2022-04-22
+summary: "The **SEA 802."
 showSummary: true
 showAuthor: false
 showEdit: false

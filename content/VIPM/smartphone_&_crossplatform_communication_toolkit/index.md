@@ -1,7 +1,8 @@
 ---
 title: "Smartphone & Cross-platform Communication Toolkit"
 externalUrl: https://www.vipm.io/package/smartphone_&_crossplatform_communication_toolkit
-summary: "With SCCT, you create open solutions capable to exchange data to wide range of different systems, from smart phones and Unix workstations, from one to many connections at the same time, without  changing  a  single  line  of  code.."
+date: 2017-02-09
+summary: "With SCCT, you create open solutions capable to exchange data to wide range of different systems, from smart phones and Unix workstations, from one to many connections at the same time, without  changing  a  single  line  of  code."
 showSummary: true
 showAuthor: false
 showEdit: false

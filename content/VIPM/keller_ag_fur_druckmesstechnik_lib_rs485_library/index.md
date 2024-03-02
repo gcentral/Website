@@ -1,6 +1,7 @@
 ---
 title: "KELLER RS485 Library"
 externalUrl: https://www.vipm.io/package/keller_ag_fur_druckmesstechnik_lib_rs485_library
+date: 2020-03-30
 summary: "This library implements the communication protocol of the digital pressure transmitters (X-Line, Series 30 and 40), pressure gauges and converters from KELLER AG für Druckmesstechnik."
 showSummary: true
 showAuthor: false

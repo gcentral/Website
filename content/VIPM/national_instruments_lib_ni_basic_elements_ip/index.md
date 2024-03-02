@@ -1,7 +1,8 @@
 ---
 title: "NI Basic Elements IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_basic_elements_ip
-summary: "This IP implements common basic FPGA operations for primitives.."
+date: 2016-05-19
+summary: "This IP implements common basic FPGA operations for primitives."
 showSummary: true
 showAuthor: false
 showEdit: false

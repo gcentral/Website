@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "oglib_lvzip-2.5.1"
 externalUrl: https://www.vipm.io/package/oglib_lvzip-2.5.1
+date: 2009-09-15
 summary: "The lvzip package contains several routines for operating on zip files."
 showSummary: true
 showAuthor: false

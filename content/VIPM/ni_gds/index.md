@@ -1,9 +1,8 @@
 ---
 title: "NI GOOP Development Suite"
 externalUrl: https://www.vipm.io/package/ni_gds
-summary: "NI GOOP Development Suite: Tools to Expand the Usability of the OO Features in LabVIEW
-
-IMPORTANT: Please restart LabVIEW following installation of this package.."
+date: 2017-03-02
+summary: "NI GOOP Development Suite: Tools to Expand the Usability of the OO Features in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

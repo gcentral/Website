@@ -1,6 +1,7 @@
 ---
 title: "Error Log"
 externalUrl: https://www.vipm.io/package/benjaminr_error_log
+date: 2022-02-19
 summary: "A set of classes to provide comprehensive error logging functionality."
 showSummary: true
 showAuthor: false

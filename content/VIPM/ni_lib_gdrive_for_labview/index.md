@@ -1,6 +1,7 @@
 ---
 title: "GDrive for LabVIEW"
 externalUrl: https://www.vipm.io/package/ni_lib_gdrive_for_labview
+date: 2016-08-23
 summary: "This toolkit allows users to upload/download files from their Google Drive."
 showSummary: true
 showAuthor: false

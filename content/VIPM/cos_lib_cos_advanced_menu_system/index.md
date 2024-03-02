@@ -1,6 +1,7 @@
 ---
 title: "COS_Advanced_Menu (System)"
 externalUrl: https://www.vipm.io/package/cos_lib_cos_advanced_menu_system
+date: 2023-05-23
 summary: "COS Advanced Menu is a  menu tool that can customize theme colors and set item symbols."
 showSummary: true
 showAuthor: false

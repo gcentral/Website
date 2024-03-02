@@ -1,6 +1,7 @@
 ---
 title: "RichTextBox QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_richtextbox_qcontrol
+date: 2023-05-29
 summary: "The RichTextBox is a QControl and requires the QControl Toolkit."
 showSummary: true
 showAuthor: false
@@ -19,6 +20,7 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "QControl"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_richtextbox_qcontrol

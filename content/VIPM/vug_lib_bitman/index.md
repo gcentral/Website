@@ -1,6 +1,7 @@
 ---
 title: "BitMan - Bitmap Manipulation Library"
 externalUrl: https://www.vipm.io/package/vug_lib_bitman
+date: 2016-05-19
 summary: "Bitman library is designed for image processing based on a specially-defined structure to store the image, and a system of filters."
 showSummary: true
 showAuthor: false

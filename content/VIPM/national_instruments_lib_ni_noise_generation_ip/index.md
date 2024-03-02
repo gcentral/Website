@@ -1,6 +1,7 @@
 ---
 title: "NI Noise Generation IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_noise_generation_ip
+date: 2016-05-19
 summary: "This IP provides blocks for generating uniform and AWGN noise types."
 showSummary: true
 showAuthor: false

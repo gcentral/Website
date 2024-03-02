@@ -1,6 +1,7 @@
 ---
 title: "OPAL-RT License Framework"
 externalUrl: https://www.vipm.io/package/opal_rt_licensing_framework
+date: 2019-04-11
 summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
 showSummary: true
 showAuthor: false

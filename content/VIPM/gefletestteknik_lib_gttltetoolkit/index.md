@@ -1,6 +1,7 @@
 ---
 title: "LTE RBS"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttltetoolkit
+date: 2018-01-30
 summary: "The GTT LTE RBS Toolkit is a toolkit for efficient LTE RBS test."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Simple XML"
 externalUrl: https://www.vipm.io/package/ni_lib_simple_xml
+date: 2016-07-22
 summary: "This package contains a library of VIs that abstracts the DOM-based XML API in LabVIEW for high-level operations."
 showSummary: true
 showAuthor: false

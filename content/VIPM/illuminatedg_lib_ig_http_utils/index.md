@@ -1,6 +1,7 @@
 ---
 title: "IG HTTP Utils"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_http_utils
+date: 2023-10-16
 summary: "Currently only includes functionality intended for use in a HTTP server."
 showSummary: true
 showAuthor: false

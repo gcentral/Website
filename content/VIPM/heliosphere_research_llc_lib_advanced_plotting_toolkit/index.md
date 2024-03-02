@@ -1,6 +1,7 @@
 ---
 title: "Advanced Plotting Toolkit"
 externalUrl: https://www.vipm.io/package/heliosphere_research_llc_lib_advanced_plotting_toolkit
+date: 2023-07-20
 summary: "The Advanced Plotting Toolkit is an add-on package for LabVIEW™ that lets you create professional-quality graphs and plots directly from the block diagram."
 showSummary: true
 showAuthor: false

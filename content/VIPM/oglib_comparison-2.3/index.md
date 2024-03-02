@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_comparison-2.3"
 externalUrl: https://www.vipm.io/package/oglib_comparison-2.3
-summary: "The comparison package contains several routines for comparing data.."
+date: 2018-03-02
+summary: "The comparison package contains several routines for comparing data."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,7 +1,8 @@
 ---
 title: "NI PFT Channelizer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_pftchannelizerip
-summary: "."
+date: 2016-05-19
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

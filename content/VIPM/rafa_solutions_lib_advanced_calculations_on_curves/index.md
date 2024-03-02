@@ -1,6 +1,7 @@
 ---
 title: "Advanced Calculations on Curves"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_advanced_calculations_on_curves
+date: 2016-05-19
 summary: "Advanced Calculations on Curves package represents a set of VIs that can be very useful in applications with graph measurements and analysis."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "i3 Twitter"
 externalUrl: https://www.vipm.io/package/i3_twitter
+date: 2016-05-19
 summary: "The i3 Twitter Toolkit Includes support for posting statuses, posting statuses with pictures, reading the user's tweets, reading user's mentions, and search Twitter based on a query."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Open eHS Real Time Power Electronics Simul. Toolbox (cRIO903x)"
 externalUrl: https://www.vipm.io/package/open_ehs_real_time_power_electronics_simul_toolbox_(crio903x)
+date: 2016-05-20
 summary: "Open eHS Real Time Power Electronics Simul."
 showSummary: true
 showAuthor: false

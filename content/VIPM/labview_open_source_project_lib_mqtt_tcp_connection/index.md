@@ -1,10 +1,8 @@
 ---
 title: "MQTT TCP Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_tcp_connection
-summary: "LV-MQTT-TCP-Connection
-https://github.com/LabVIEW-Open-Source/MQTT-Connection-TCP
-
-This package consists of an extension of the MQTT Connection base class for extending the MQTT framework with a TCP connection support."
+date: 2022-05-09
+summary: "LV-MQTT-TCP-Connection"
 showSummary: true
 showAuthor: false
 showEdit: false

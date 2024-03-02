@@ -1,6 +1,7 @@
 ---
 title: "AutoSerial"
 externalUrl: https://www.vipm.io/package/alab_technologies_lib_autoserial
+date: 2016-09-20
 summary: "The AutoSerial toolkit is built to automate manual human interactions with any serial device."
 showSummary: true
 showAuthor: false

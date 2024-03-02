@@ -1,7 +1,8 @@
 ---
 title: "LAVA Palette"
 externalUrl: https://www.vipm.io/package/lava_rsc_lava_palette
-summary: "LAVA Palette."
+date: 2016-05-19
+summary: "LAVA Palette"
 showSummary: true
 showAuthor: false
 showEdit: false

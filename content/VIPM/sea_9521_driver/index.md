@@ -1,6 +1,7 @@
 ---
 title: "SEA 9521 BiSS-C/SSI Interface Module"
 externalUrl: https://www.vipm.io/package/sea_9521_driver
+date: 2019-05-10
 summary: "This driver software (RIO module support) enables the operation of the **SEA 9521** cRIO BiSS-C/SSI Interface module inside a NI CompactRIO (FPGA-based) chassis."
 showSummary: true
 showAuthor: false

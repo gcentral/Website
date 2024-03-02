@@ -1,7 +1,8 @@
 ---
 title: "JUnit Results Library"
 externalUrl: https://www.vipm.io/package/ni_lib_junit_results_api
-summary: "Initial release.."
+date: 2017-05-19
+summary: "Initial release."
 showSummary: true
 showAuthor: false
 showEdit: false

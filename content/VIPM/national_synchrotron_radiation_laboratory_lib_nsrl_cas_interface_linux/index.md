@@ -1,9 +1,8 @@
 ---
 title: "NSRL CAS Interface"
 externalUrl: https://www.vipm.io/package/national_synchrotron_radiation_laboratory_lib_nsrl_cas_interface_linux
-summary: "**Overview**
-
-NSRL CAS Interface is a user-friendly, lightweight and high performance interface between LabVIEW  and EPICS."
+date: 2016-05-19
+summary: "**Overview**"
 showSummary: true
 showAuthor: false
 showEdit: false

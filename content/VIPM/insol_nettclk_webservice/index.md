@@ -1,7 +1,8 @@
 ---
 title: "NetTClk WebService"
 externalUrl: https://www.vipm.io/package/insol_nettclk_webservice
-summary: "Network TClk Driver is network-working TClk driver i.e."
+date: 2016-05-19
+summary: "Network TClk Driver is network-working TClk driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

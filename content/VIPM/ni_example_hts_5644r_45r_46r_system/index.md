@@ -1,6 +1,7 @@
 ---
 title: "NI Hardware Test Sequencer Host Example for the NI PXIe-5644R-45R-46R (System)"
 externalUrl: https://www.vipm.io/package/ni_example_hts_5644r_45r_46r_system
+date: 2016-05-19
 summary: "This example implements the NI Hardware Test Sequencer IP on the user-programmable FPGA."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "LabVIEW Composition"
 externalUrl: https://www.vipm.io/package/pnr_lib_labview_composition
+date: 2022-01-21
 summary: "This library provides functions to compose and decompose objects, clusters, maps and sets in LabVIEW - effectively breaking encapsulation by making private data accessible."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "LabVIEW gRPC Servicer"
 externalUrl: https://www.vipm.io/package/ni_lib_labview_grpc_servicer
-summary: "This contains the iService parent from which all the service can be inheritted and the servicer API to establish the gRPC communication and start the server."
+date: 2024-02-14
+summary: "This contains the iService parent from which all the service can be inheritted and the servicer API to establish the gRPC communication and start the server"
 showSummary: true
 showAuthor: false
 showEdit: false
