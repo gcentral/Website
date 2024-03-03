@@ -151,6 +151,7 @@ function executeQuery(term) {
     results.forEach(function (value, key) {
 	  // Determine the URL: use externalurl if it exists, otherwise use permalink
       const url = value.item.externalurl ? value.item.externalurl : value.item.permalink;
+	  const target = value.item.externalurl ? "_blank" : "_self";
 
       // Check if the date exists and format it accordingly
       const dateDisplay = value.item.date ? `<span class="px-2 text-primary-500">&middot;</span>${value.item.date}` : '';
@@ -158,7 +159,7 @@ function executeQuery(term) {
       resultsHTML =
         resultsHTML +
         `<li class="mb-2">
-          <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" href="${url}" tabindex="0">
+          <a class="flex items-center px-3 py-2 rounded-md appearance-none bg-neutral-100 dark:bg-neutral-700 focus:bg-primary-100 hover:bg-primary-100 dark:hover:bg-primary-900 dark:focus:bg-primary-900 focus:outline-dotted focus:outline-transparent focus:outline-2" href="${url}" target="${target}" tabindex="0">
 
             <div class="grow">
               <div class="-mb-1 text-lg font-bold">${value.item.title}</div>
