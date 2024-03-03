@@ -1,6 +1,7 @@
 ---
 title: "DQMH Project Template"
 externalUrl: https://www.vipm.io/package/delacor_lib_qmh_project_template
+date: 2024-02-23
 summary: "This package installs the DQMH Project Template in the Getting Started>>Create Project window."
 showSummary: true
 showAuthor: false

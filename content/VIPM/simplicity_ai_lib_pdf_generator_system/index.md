@@ -1,9 +1,8 @@
 ---
 title: "Custom PDF Generator (System)"
 externalUrl: https://www.vipm.io/package/simplicity_ai_lib_pdf_generator_system
-summary: "Overview:
-
-The Simplicity AI Custom PDF Generator for LabVIEW is a toolkit containing easy to use block diagram functions for generating PDF documents in this almost universally readable, highly portable file format."
+date: 2016-05-19
+summary: "Overview:"
 showSummary: true
 showAuthor: false
 showEdit: false

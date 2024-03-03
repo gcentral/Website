@@ -1,6 +1,7 @@
 ---
 title: "NI I2C Host Example for the PXIe-5644/45R/46R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_i2c_host_example_for_the_pxie_5644_45r
+date: 2017-01-30
 summary: "**This example replaces LabVIEW 2012 support with LabVIEW 2013 support."
 showSummary: true
 showAuthor: false

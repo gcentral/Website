@@ -1,8 +1,8 @@
 ---
 title: "3D-MVL"
 externalUrl: https://www.vipm.io/package/imaginglab_3d_mvl
-summary: "The 3D-MVL is a set of 3D machine vision tools to obtain complete, true, 3D calibrated data for ultrafast
-shape analysis and measurements for in-line inspection on your manufacturing line."
+date: 2016-05-19
+summary: "The 3D-MVL is a set of 3D machine vision tools to obtain complete, true, 3D calibrated data for ultrafast"
 showSummary: true
 showAuthor: false
 showEdit: false

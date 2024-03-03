@@ -1,7 +1,8 @@
 ---
 title: "OpenG Locate File In Project Tool"
 externalUrl: https://www.vipm.io/package/ogedit_file_locate_in_project
-summary: "Adds a 'Locate in Project' option to the File menu."
+date: 2011-11-21
+summary: "Adds a 'Locate in Project' option to the File menu"
 showSummary: true
 showAuthor: false
 showEdit: false

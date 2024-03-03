@@ -1,6 +1,7 @@
 ---
 title: "CuLab - GPU Accelerated Toolkit"
 externalUrl: https://www.vipm.io/package/ngene_culab_gpu_accelerated_toolkit
+date: 2023-10-25
 summary: "**CuLab** is an intuitive toolkit specifically designed for LabVIEW users, simplifying the acceleration of complex computations on **Nvidia GPUs**."
 showSummary: true
 showAuthor: false

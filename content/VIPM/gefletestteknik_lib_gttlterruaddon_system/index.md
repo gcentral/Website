@@ -1,6 +1,7 @@
 ---
 title: "LTE RRU (System)"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttlterruaddon_system
+date: 2016-05-19
 summary: "GTT LTE RRU is an an add-on to the GTT LTE RBS Toolkit for Remote Radio Unit testing with CPRI functionality."
 showSummary: true
 showAuthor: false

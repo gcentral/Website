@@ -1,6 +1,7 @@
 ---
 title: "JKI SMO Template (Timed Loop)"
 externalUrl: https://www.vipm.io/package/jki_smo_timedloop_templates
+date: 2016-08-09
 summary: "This package provides timed loop templates to get started with the JKI State Machine Objects (SMO) framework."
 showSummary: true
 showAuthor: false

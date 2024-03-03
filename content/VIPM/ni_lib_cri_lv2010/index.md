@@ -1,6 +1,7 @@
 ---
 title: "NI CompactRIO Information (CRI) Library"
 externalUrl: https://www.vipm.io/package/ni_lib_cri_lv2010
+date: 2016-05-19
 summary: "The development of advanced and dynamic CompactRIO (cRIO) applications sometimes requires the ability to detect the current configuration of a CompactRIO system."
 showSummary: true
 showAuthor: false

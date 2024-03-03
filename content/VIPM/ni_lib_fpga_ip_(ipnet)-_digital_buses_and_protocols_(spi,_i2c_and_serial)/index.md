@@ -1,6 +1,7 @@
 ---
 title: "FPGA IP (IPNet): Digital Buses and Protocols (SPI, I2C and Serial)"
 externalUrl: https://www.vipm.io/package/ni_lib_fpga_ip_(ipnet)-_digital_buses_and_protocols_(spi,_i2c_and_serial)
+date: 2016-05-19
 summary: "The Digital Buses and Protocols library is a part of the the LabVIEW FPGA IPNet and provides FGPA IP and examples related to communicating via digital buses and protocols like SPI, I2C and Serial."
 showSummary: true
 showAuthor: false

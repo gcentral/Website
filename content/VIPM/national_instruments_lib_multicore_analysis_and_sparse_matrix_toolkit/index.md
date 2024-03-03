@@ -1,6 +1,7 @@
 ---
 title: "Multicore Analysis and Sparse Matrix Toolkit"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_multicore_analysis_and_sparse_matrix_toolkit
+date: 2016-05-19
 summary: "The LabVIEW Multicore Analysis and Sparse Matrix Toolkit enables you to create applications that leverage multicore technologies for computing performance-sensitive mathematics and analysis algorithms."
 showSummary: true
 showAuthor: false

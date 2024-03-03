@@ -1,6 +1,7 @@
 ---
 title: "NI ShellRT"
 externalUrl: https://www.vipm.io/package/ni_shellrt
+date: 2016-09-01
 summary: "NI ShellRT allows a quick access to a shell on a remote NI LinuxRT target from the LabVIEW project window."
 showSummary: true
 showAuthor: false

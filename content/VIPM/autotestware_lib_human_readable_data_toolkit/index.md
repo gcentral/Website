@@ -1,6 +1,7 @@
 ---
 title: "Human Readable Data Toolkit"
 externalUrl: https://www.vipm.io/package/autotestware_lib_human_readable_data_toolkit
+date: 2016-05-19
 summary: "The JKI VI Package Manager (VIPM) 2014 or newer is required to install the Autotestware Human Readable Data Toolkit."
 showSummary: true
 showAuthor: false

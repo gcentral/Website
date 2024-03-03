@@ -1,6 +1,7 @@
 ---
 title: "DQMH"
 externalUrl: https://www.vipm.io/package/delacor_lib_dqmh_toolkit
+date: 2024-02-23
 summary: "The Delacor Queued Message Handler (short: DQMH®) toolkit is a freely available reference design (also called a template or framework) for LabVIEW."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "OpenG Array Library"
 externalUrl: https://www.vipm.io/package/oglib_array
-summary: "The OpenG Array Library package contains several routines for operating on array data.."
+date: 2018-03-09
+summary: "The OpenG Array Library package contains several routines for operating on array data."
 showSummary: true
 showAuthor: false
 showEdit: false

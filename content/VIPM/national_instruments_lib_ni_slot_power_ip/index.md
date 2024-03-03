@@ -1,6 +1,7 @@
 ---
 title: "NI Slot Power IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_slot_power_ip
+date: 2016-05-19
 summary: "This IP provides FPGA IP and a Host API for taking time slot power measurements."
 showSummary: true
 showAuthor: false

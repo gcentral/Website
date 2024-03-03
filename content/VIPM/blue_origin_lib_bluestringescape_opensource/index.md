@@ -1,6 +1,7 @@
 ---
 title: "BlueStringEscape (OpenSource)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluestringescape_opensource
+date: 2023-01-02
 summary: "This small utility package provides a tool for escaping and un-escaping strings."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_picture-2.1"
 externalUrl: https://www.vipm.io/package/oglib_picture-2.1
-summary: "The picture package contains routines for operating on picture controls.."
+date: 2018-03-02
+summary: "The picture package contains routines for operating on picture controls."
 showSummary: true
 showAuthor: false
 showEdit: false

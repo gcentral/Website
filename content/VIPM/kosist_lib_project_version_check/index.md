@@ -1,6 +1,7 @@
 ---
 title: "Project Version Check"
 externalUrl: https://www.vipm.io/package/kosist_lib_project_version_check
+date: 2021-01-09
 summary: "This toolkit shows warning message to user about opening of project in higher LabVIEW version than it was initialially saved."
 showSummary: true
 showAuthor: false

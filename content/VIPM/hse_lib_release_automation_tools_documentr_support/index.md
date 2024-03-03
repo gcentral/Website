@@ -1,6 +1,7 @@
 ---
 title: "Release Automation Tools Documentr Template"
 externalUrl: https://www.vipm.io/package/hse_lib_release_automation_tools_documentr_support
+date: 2023-09-05
 summary: "An asciidoc template for the RAT documentr tool."
 showSummary: true
 showAuthor: false

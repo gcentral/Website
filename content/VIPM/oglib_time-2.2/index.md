@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_time-2.2"
 externalUrl: https://www.vipm.io/package/oglib_time-2.2
-summary: "The time package contains several routines related software timing.."
+date: 2011-06-25
+summary: "The time package contains several routines related software timing."
 showSummary: true
 showAuthor: false
 showEdit: false

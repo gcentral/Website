@@ -1,6 +1,7 @@
 ---
 title: "MGI Application Control"
 externalUrl: https://www.vipm.io/package/mgi_lib_application_control
+date: 2016-09-08
 summary: "The MGI Application Control package contains VIs useful for controlling an application's behavior."
 showSummary: true
 showAuthor: false

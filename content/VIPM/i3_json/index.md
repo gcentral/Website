@@ -1,6 +1,7 @@
 ---
 title: "i3 JSON"
 externalUrl: https://www.vipm.io/package/i3_json
+date: 2016-05-19
 summary: "The i3 JSON Toolkit is used to parse and generate arbitrary JSON data in LabVIEW."
 showSummary: true
 showAuthor: false

@@ -1,17 +1,8 @@
 ---
 title: "Quick Drop Import-Export Tool"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_quick_drop
-summary: "Quick Drop Import/Export: LabVIEW add-on
-
-Vendor: Bitlis-MEN
-Supported Language(s): LabVIEW 2015 or later
-Source Code Available: No
-
-Original Release Date:  23-Feb-2016
-Current Revision Date: 18-Aug-2016
-
-Desription:
-This tool is to be used in LabVIEW Tools menu\\Bitlis-MEN Tools."
+date: 2017-04-05
+summary: "Quick Drop Import/Export: LabVIEW add-on"
 showSummary: true
 showAuthor: false
 showEdit: false

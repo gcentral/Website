@@ -1,17 +1,8 @@
 ---
 title: "cRIO PB Master/Slave (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pbms_system
-summary: "**cRIO PROFIBUS DP Master and DP Slave**
-for LabVIEW 2018 or later
-
-**Required Software**
-Before using this driver it is needed to install the following software components:
-   - LabVIEW RT
-   - FPGA
-   - NI-RIO
-
-**Help**
-The Installation Instructions manual and the Getting Started manual can be found in the LabVIEW Help menu under *KUNBUS GmbH -> cRIO PBMS -> Help*."
+date: 2019-06-24
+summary: "**cRIO PROFIBUS DP Master and DP Slave**"
 showSummary: true
 showAuthor: false
 showEdit: false

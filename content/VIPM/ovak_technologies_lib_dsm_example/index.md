@@ -1,6 +1,7 @@
 ---
 title: "DSM  Framework Example"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_dsm_example
+date: 2016-05-19
 summary: "The DSM framework is a software library, which consists of a set of classes."
 showSummary: true
 showAuthor: false

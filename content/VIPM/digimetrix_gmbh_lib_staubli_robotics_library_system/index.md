@@ -1,6 +1,7 @@
 ---
 title: "Staubli Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_staubli_robotics_library_system
+date: 2021-03-11
 summary: "With the Staubli library, you can easily integrate robotics into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing - eliminating complex robotics programming expertise."
 showSummary: true
 showAuthor: false

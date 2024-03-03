@@ -1,7 +1,8 @@
 ---
 title: "DCAF UI Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_ui_toolkit
-summary: "This package includes common standardized UI elements for use in DCAF modules."
+date: 2017-05-20
+summary: "This package includes common standardized UI elements for use in DCAF modules"
 showSummary: true
 showAuthor: false
 showEdit: false

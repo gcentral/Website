@@ -1,9 +1,8 @@
 ---
 title: "InstaCoverage Pro (System)"
 externalUrl: https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_pro_system
-summary: "**<color=red>The InstaCoverage 3.0 Pro licence is compatible with this version of InstaCoverage.</color>**
-
-InstaCoverage Pro is an advanced, flexible unit testing tool for LabVIEW."
+date: 2020-11-09
+summary: "**<color=red>The InstaCoverage 3."
 showSummary: true
 showAuthor: false
 showEdit: false

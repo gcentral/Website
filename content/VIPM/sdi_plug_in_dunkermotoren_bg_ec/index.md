@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Dunkermotoren BG EC"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_dunkermotoren_bg_ec
+date: 2017-10-12
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Dunkermotoren BG EC EtherCAT servo drives."
 showSummary: true
 showAuthor: false

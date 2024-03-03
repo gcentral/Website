@@ -1,6 +1,7 @@
 ---
 title: "Turck Ethernet/IP"
 externalUrl: https://www.vipm.io/package/kirschenhofer_maschinen_gmbh_lib_ethernet_ip
+date: 2021-10-01
 summary: "Tools for Ethernet IP communication for the modules from Hans Turck GmbH & Co."
 showSummary: true
 showAuthor: false

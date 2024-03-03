@@ -1,16 +1,8 @@
 ---
 title: "NI Frequency Mask Trigger Host Example for the NI 5644R-45R"
 externalUrl: https://www.vipm.io/package/ni_example_freq_mask_trigger_5644r_45r
-summary: "**Required NI Software**
-NI LabVIEW 2013 or later
-NI-RFSA 14.1
-NI PXIe-5644R/5645R/5646R Instrument Design Libraries 14.0.0
-
-**Supported NI Hardware**
-NI PXIe-5644R
-NI PXIe-5646R
-
-The NI Frequency Mask Trigger example uses 50% overlapping, length 1024 FFTs to continuously convert IQ data to the spectral data on an NI 5644R or NI 5645R FPGA."
+date: 2016-05-19
+summary: "**Required NI Software**"
 showSummary: true
 showAuthor: false
 showEdit: false

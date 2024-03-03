@@ -1,6 +1,7 @@
 ---
 title: "MGI Graph"
 externalUrl: https://www.vipm.io/package/mgi_lib_graph
+date: 2016-08-30
 summary: "This package contains VIs that operate with Graph or Chart References."
 showSummary: true
 showAuthor: false

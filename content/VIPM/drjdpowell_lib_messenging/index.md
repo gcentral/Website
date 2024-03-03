@@ -1,9 +1,8 @@
 ---
 title: "Messenger Library"
 externalUrl: https://www.vipm.io/package/drjdpowell_lib_messenging
-summary: "<u>Advanced messaging made simple</u>
-
-A library for passing messages between parallel processes."
+date: 2023-11-29
+summary: "<u>Advanced messaging made simple</u>"
 showSummary: true
 showAuthor: false
 showEdit: false

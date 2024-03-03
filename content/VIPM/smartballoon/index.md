@@ -1,6 +1,7 @@
 ---
 title: "NI SmartBalloon"
 externalUrl: https://www.vipm.io/package/smartballoon
+date: 2017-02-20
 summary: "SmartBalloon is a simple turn-key library to display notifications in a corner of the screen."
 showSummary: true
 showAuthor: false

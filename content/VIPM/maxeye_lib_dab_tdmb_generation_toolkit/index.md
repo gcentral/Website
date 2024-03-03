@@ -1,7 +1,8 @@
 ---
 title: "DAB TDMB Generation Toolkit"
 externalUrl: https://www.vipm.io/package/maxeye_lib_dab_tdmb_generation_toolkit
-summary: "The MAXEYE T-DMB/DAB Signal generation toolkit contains VIs that can be used for generating signals with National Instruments hardware or generate signals in simulation mode as per the T-DMB/DAB Standards ETSI EN 300401 v1.4.1, ETSI TS 102 427 v1.1.1."
+date: 2017-05-10
+summary: "The MAXEYE T-DMB/DAB Signal generation toolkit contains VIs that can be used for generating signals with National Instruments hardware or generate signals in simulation mode as per the T-DMB/DAB Standards ETSI EN 300401 v1."
 showSummary: true
 showAuthor: false
 showEdit: false

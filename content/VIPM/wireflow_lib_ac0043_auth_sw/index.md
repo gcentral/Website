@@ -1,6 +1,7 @@
 ---
 title: "WF-SecuritySuite: Authentication"
 externalUrl: https://www.vipm.io/package/wireflow_lib_ac0043_auth_sw
+date: 2016-05-19
 summary: "This is the authenitcation layer for the WireFlow security dongles."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "Zyah Auto Update Utility"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_zyah_auto_update_utility
-summary: "Adds a class utility to the palettes that has APIs for helping with automatic NI Package updates from within your build EXEs.."
+date: 2023-01-24
+summary: "Adds a class utility to the palettes that has APIs for helping with automatic NI Package updates from within your build EXEs."
 showSummary: true
 showAuthor: false
 showEdit: false

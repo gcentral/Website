@@ -1,6 +1,7 @@
 ---
 title: "Communicable State Machine(CSM)"
 externalUrl: https://www.vipm.io/package/nevstop_lib_communicable_state_machine
+date: 2024-01-31
 summary: "Communicable State Machine(CSM) is a LabVIEW application framework that builds upon JKI State Machine(JKISM)."
 showSummary: true
 showAuthor: false

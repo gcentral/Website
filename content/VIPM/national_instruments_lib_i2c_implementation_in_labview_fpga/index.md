@@ -1,6 +1,7 @@
 ---
 title: "I2C Implementation in LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_i2c_implementation_in_labview_fpga
+date: 2016-05-19
 summary: "I2C is a synchronous protocol based on a two wire bus."
 showSummary: true
 showAuthor: false

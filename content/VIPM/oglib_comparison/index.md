@@ -1,7 +1,8 @@
 ---
 title: "OpenG Comparison Library"
 externalUrl: https://www.vipm.io/package/oglib_comparison
-summary: "The OpenG Comparison Library package contains several routines for comparing data.."
+date: 2018-03-02
+summary: "The OpenG Comparison Library package contains several routines for comparing data."
 showSummary: true
 showAuthor: false
 showEdit: false

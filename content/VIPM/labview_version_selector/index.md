@@ -1,10 +1,8 @@
 ---
 title: "LabVIEW-Version-Selector"
 externalUrl: https://www.vipm.io/package/labview_version_selector
-summary: "LabVIEW Version Selector
-===================================
-
-Automatically Select the correct LabVIEW version to open LabVIEW files."
+date: 2022-12-01
+summary: "LabVIEW Version Selector"
 showSummary: true
 showAuthor: false
 showEdit: false

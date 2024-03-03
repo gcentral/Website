@@ -1,6 +1,7 @@
 ---
 title: "Hooovahh File IO"
 externalUrl: https://www.vipm.io/package/hooovahh_file_io
+date: 2020-12-16
 summary: "This package contains VIs which perform operations involving the file system or the path data type."
 showSummary: true
 showAuthor: false

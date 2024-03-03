@@ -1,6 +1,7 @@
 ---
 title: "GPower All Toolsets"
 externalUrl: https://www.vipm.io/package/gpower_lib_all
+date: 2017-02-07
 summary: "Placeholder for all the GPower toolsets."
 showSummary: true
 showAuthor: false

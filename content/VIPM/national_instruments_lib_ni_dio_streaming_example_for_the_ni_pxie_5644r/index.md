@@ -1,6 +1,7 @@
 ---
 title: "NI DIO Streaming Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_dio_streaming_example_for_the_ni_pxie_5644r
+date: 2016-05-19
 summary: "This example provides a simple source synchronous data transfer interface that is capable of streaming data to another DIO device at up to 125 MHz."
 showSummary: true
 showAuthor: false

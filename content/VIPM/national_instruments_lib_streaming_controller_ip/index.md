@@ -1,6 +1,7 @@
 ---
 title: "NI Streaming Controller IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_streaming_controller_ip
+date: 2016-05-19
 summary: "Some applications require offloading the data from the FPGA in the VST to another device."
 showSummary: true
 showAuthor: false

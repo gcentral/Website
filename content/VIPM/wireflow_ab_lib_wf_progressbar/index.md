@@ -1,6 +1,7 @@
 ---
 title: "WF ProgressBar"
 externalUrl: https://www.vipm.io/package/wireflow_ab_lib_wf_progressbar
+date: 2016-05-19
 summary: "This module gives the user access to an easy way of displaying progress."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogpatch_ni_motion6x_bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_ni_motion6x_bugfix-1.0
-summary: "Bug Fixes For NI Motion 6.x (For version 7.x use 'ogpatch_ni_motion7x_bugfix')."
+date: 2007-03-06
+summary: "Bug Fixes For NI Motion 6."
 showSummary: true
 showAuthor: false
 showEdit: false

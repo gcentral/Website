@@ -1,10 +1,8 @@
 ---
 title: "GI DAQ Library"
 externalUrl: https://www.vipm.io/package/gantner_instruments_gmbh_lib_gi
-summary: "The driver package offers 
--	HighSpeedPort data communication to Gantner-Instruments Q.series Controller via Ethernet (online read/write and buffered), 
--	Buffered data communication to GI.bench buffers on localhost or remote via Ethernet, as well as 
--	binary file decoding of UDBF files (Gantner Binary data file format)."
+date: 2021-01-28
+summary: "The driver package offers "
 showSummary: true
 showAuthor: false
 showEdit: false

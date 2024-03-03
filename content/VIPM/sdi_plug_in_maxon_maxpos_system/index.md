@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Maxon Motor MAXPOS (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_maxon_maxpos_system
+date: 2018-06-27
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Maxon Motor MAXPOS EtherCAT Servo Drives."
 showSummary: true
 showAuthor: false

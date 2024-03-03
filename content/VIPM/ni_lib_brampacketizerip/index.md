@@ -1,6 +1,7 @@
 ---
 title: "NI BRAM Packetizer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_brampacketizerip
+date: 2016-05-19
 summary: "The DRAM interface on NI FPGA products is typically much wider than the data being processed."
 showSummary: true
 showAuthor: false

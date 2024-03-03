@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_variantconfig-2.0"
 externalUrl: https://www.vipm.io/package/oglib_variantconfig-2.0
-summary: "The variantconfig package contains tools for writing and reading variant data to and from INI files.."
+date: 2018-03-02
+summary: "The variantconfig package contains tools for writing and reading variant data to and from INI files."
 showSummary: true
 showAuthor: false
 showEdit: false

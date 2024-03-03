@@ -1,10 +1,8 @@
 ---
 title: "MQTT Secured TCP Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_securedtcp_connection
-summary: "LV-MQTT-Secured-TCP-Connection
-https://github.com/LabVIEW-Open-Source/MQTT-Connection-SecuredTCP
-
-This package consists of an extension of the MQTT TCP Connection base class for Secured TCP connections with TLS 1.2."
+date: 2022-05-09
+summary: "LV-MQTT-Secured-TCP-Connection"
 showSummary: true
 showAuthor: false
 showEdit: false

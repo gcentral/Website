@@ -1,7 +1,8 @@
 ---
 title: "NI Linux RT Errno"
 externalUrl: https://www.vipm.io/package/ni_lib_ni_linux_rt_errno
-summary: "Many Linux system functions use the standard Linux System Errors defined in errno.h for error handling."
+date: 2017-06-02
+summary: "Many Linux system functions use the standard Linux System Errors defined in errno."
 showSummary: true
 showAuthor: false
 showEdit: false

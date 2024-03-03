@@ -1,6 +1,7 @@
 ---
 title: "Property Inspector Free"
 externalUrl: https://www.vipm.io/package/abcdef_property_inspector_free
+date: 2021-06-28
 summary: "The Property Inspector Free Tool allows powerful filtering, searching, sorting and editing of 41 VI properties including VI Description, Data Size and Allow Debugging."
 showSummary: true
 showAuthor: false

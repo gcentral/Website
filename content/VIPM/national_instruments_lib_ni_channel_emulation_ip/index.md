@@ -1,6 +1,7 @@
 ---
 title: "NI Channel Emulation IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_channel_emulation_ip
+date: 2016-05-19
 summary: "This IP emulates an over-the-air (OTA) channel for a wireless communication link."
 showSummary: true
 showAuthor: false

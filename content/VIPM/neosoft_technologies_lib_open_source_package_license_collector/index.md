@@ -1,6 +1,7 @@
 ---
 title: "Open Source Package License Collector"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lib_open_source_package_license_collector
+date: 2023-11-01
 summary: "This example is a pre-build VI to get all of the VIPM packages installed on the machine and extract open-source license copyright files."
 showSummary: true
 showAuthor: false

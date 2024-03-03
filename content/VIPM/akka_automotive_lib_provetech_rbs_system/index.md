@@ -1,6 +1,7 @@
 ---
 title: "PROVEtech:RBS (System)"
 externalUrl: https://www.vipm.io/package/akka_automotive_lib_provetech_rbs_system
+date: 2021-01-28
 summary: "**Start LabVIEW and VI Package Manager with administrator privileges."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "WF 3132 Multiplexer"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3132_multiplexer
+date: 2018-04-06
 summary: "Driver for the WF 3132 C-series Multiplexer module from WireFlow."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Face Detection"
 externalUrl: https://www.vipm.io/package/mplv_lib_face_detection
+date: 2019-10-17
 summary: "This VI represents an advanced face detector."
 showSummary: true
 showAuthor: false

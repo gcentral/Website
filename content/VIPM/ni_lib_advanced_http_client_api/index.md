@@ -1,6 +1,7 @@
 ---
 title: "NI Advanced HTTP Client API"
 externalUrl: https://www.vipm.io/package/ni_lib_advanced_http_client_api
+date: 2023-08-24
 summary: "This API is intended to be a replacement for the HTTP Client API (Data Communication > Protocols > HTTP Client) that ships with LabVIEW."
 showSummary: true
 showAuthor: false

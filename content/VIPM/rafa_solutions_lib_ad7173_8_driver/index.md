@@ -1,6 +1,7 @@
 ---
 title: "AD7173-8 Driver"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_ad7173_8_driver
+date: 2022-03-31
 summary: "AD7173-8 ADC driver library includes VIs for control of AD7173-8 Analog-to-Digital converter (ADC) from Analog Devices, Inc."
 showSummary: true
 showAuthor: false

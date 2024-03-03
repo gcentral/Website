@@ -1,6 +1,7 @@
 ---
 title: "NI LabVIEW Scripting"
 externalUrl: https://www.vipm.io/package/ni_labs_lib_labview_scripting
+date: 2016-05-19
 summary: "LabVIEW VI Scripting helps you programmatically generate, edit, and inspect LabVIEW code."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "ALOHA (System)"
 externalUrl: https://www.vipm.io/package/s5s_aloha_system
+date: 2016-05-19
 summary: "ALOHA is is a modular application framework."
 showSummary: true
 showAuthor: false

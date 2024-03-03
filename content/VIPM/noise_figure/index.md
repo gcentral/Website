@@ -1,11 +1,8 @@
 ---
 title: "Noise Figure"
 externalUrl: https://www.vipm.io/package/noise_figure
-summary: "Product Name: Noise Figure measurement Y-method Toolkit
-
-Manufacturer:  10X Engineering LLC , NI Alliance Partner
-                         Armenia Yerevan, 0051, 123 Hovsep Emin Street  
-                          www.10x.am   Tel."
+date: 2016-05-19
+summary: "Product Name: Noise Figure measurement Y-method Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "FTDI Driver API for Serial Communication Protocols (SPI, I2C)"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_ftdi_driver_api_for_serial_communication_protocols_(spi_i2c)
+date: 2017-07-05
 summary: "The API provides high-level building block to communicate with FTDI Multi-Protocol Synchronous Serial Engine (MPSSE) based on D2XX driver and LibFT4222 library."
 showSummary: true
 showAuthor: false

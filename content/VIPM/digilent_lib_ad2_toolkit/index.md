@@ -1,6 +1,7 @@
 ---
 title: "AD2 Toolkit"
 externalUrl: https://www.vipm.io/package/digilent_lib_ad2_toolkit
+date: 2017-03-29
 summary: "Instrument driver VI library for Digilent instrumentation products (Analog Discovery 2, Electronics Explorer)."
 showSummary: true
 showAuthor: false

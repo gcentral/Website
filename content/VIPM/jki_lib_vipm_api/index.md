@@ -1,6 +1,7 @@
 ---
 title: "VIPM API"
 externalUrl: https://www.vipm.io/package/jki_lib_vipm_api
+date: 2022-10-08
 summary: "The VIPM VI-based API is a collection of VIs that allow you to command and control VIPM (VI Package Manager)."
 showSummary: true
 showAuthor: false

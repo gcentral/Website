@@ -1,6 +1,7 @@
 ---
 title: "WF 3169 Battery Stack Monitor Driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf_3169_battery_stack_monitor_driver
+date: 2019-02-21
 summary: "Driver for the WF 3169 C-series Battery Stack Monitor module from WireFlow."
 showSummary: true
 showAuthor: false

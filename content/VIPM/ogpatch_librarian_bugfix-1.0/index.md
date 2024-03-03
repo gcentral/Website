@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogpatch_librarian_bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_librarian_bugfix-1.0
-summary: "Fixes a race condition in Copy From Folder To Folder."
+date: 2007-03-06
+summary: "Fixes a race condition in Copy From Folder To Folder"
 showSummary: true
 showAuthor: false
 showEdit: false

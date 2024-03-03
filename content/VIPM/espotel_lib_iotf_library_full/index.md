@@ -1,10 +1,8 @@
 ---
 title: "IoT Foundation"
 externalUrl: https://www.vipm.io/package/espotel_lib_iotf_library_full
-summary: "LabVIEW-IOTFoundation
-=====================
-
-LabVIEW library for IBM IOT Foundation."
+date: 2016-05-19
+summary: "LabVIEW-IOTFoundation"
 showSummary: true
 showAuthor: false
 showEdit: false

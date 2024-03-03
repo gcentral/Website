@@ -1,6 +1,7 @@
 ---
-title: ""
+title: "oglib_file-3.0.1"
 externalUrl: https://www.vipm.io/package/oglib_file-3.0.1
+date: 2010-02-19
 summary: "The file package contains several routines for operating on files."
 showSummary: true
 showAuthor: false

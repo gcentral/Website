@@ -1,6 +1,7 @@
 ---
 title: "Raima Database API for LabVIEW"
 externalUrl: https://www.vipm.io/package/raima_database_api
+date: 2016-05-19
 summary: "Wait! If you haven't started VIPM as an Administrator, you may need to."
 showSummary: true
 showAuthor: false

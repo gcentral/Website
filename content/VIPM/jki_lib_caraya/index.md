@@ -1,6 +1,7 @@
 ---
 title: "Caraya Unit Test Framework"
 externalUrl: https://www.vipm.io/package/jki_lib_caraya
+date: 2024-01-01
 summary: "Caraya Unit Test Framework is an open source unit testing framework for LabVIEW."
 showSummary: true
 showAuthor: false

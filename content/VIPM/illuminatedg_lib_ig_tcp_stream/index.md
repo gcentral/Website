@@ -1,6 +1,7 @@
 ---
 title: "IG TCP Stream"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_tcp_stream
+date: 2022-11-12
 summary: "Provides a TCP implementation over *IG Stream Base*."
 showSummary: true
 showAuthor: false

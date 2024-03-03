@@ -1,6 +1,7 @@
 ---
 title: "QuickDrop AlignElements"
 externalUrl: https://www.vipm.io/package/mnprojects_lib_quickdrop_alignelements
+date: 2022-03-07
 summary: "A LabVIEW Quick-Drop (QD) plug-in for aligning and distributing elements on afrontpanel or blockdiagram."
 showSummary: true
 showAuthor: false

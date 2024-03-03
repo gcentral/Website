@@ -1,14 +1,8 @@
 ---
 title: "Ball Balancing Table Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_inc_lib_ball_balacing_table_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW
-**Required software modules:** NI-VISA, NI-Softmotion, MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module
-**Hardware Requirements:** Ball Balancing Table System (It contains NI myRIO, ACROME Power Distribution Unit, RC Servo Motors, Steel Ball and Touch Screen)
-
-**Original Release Date:** 06-12-2017
-**Current Revision Date:**29-03-2018
-VI Package Manager 2017 is required to install the package."
+date: 2018-04-03
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

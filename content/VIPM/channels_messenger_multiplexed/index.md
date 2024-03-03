@@ -1,6 +1,7 @@
 ---
 title: "Multiplexed Messenger Channel"
 externalUrl: https://www.vipm.io/package/channels_messenger_multiplexed
+date: 2023-01-31
 summary: "The Multiplexed Messenger Channel is similar to the Messenger Channel in that it is a multi-writer, multi-reader queue, but it is actually an array of such queues."
 showSummary: true
 showAuthor: false

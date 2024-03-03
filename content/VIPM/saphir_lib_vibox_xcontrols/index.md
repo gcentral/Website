@@ -1,8 +1,8 @@
 ---
 title: "ViBox - XControls"
 externalUrl: https://www.vipm.io/package/saphir_lib_vibox_xcontrols
-summary: "XTab :
-This control allows you to display unlimited number of page in a tab like way."
+date: 2016-05-19
+summary: "XTab :"
 showSummary: true
 showAuthor: false
 showEdit: false

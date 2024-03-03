@@ -1,6 +1,7 @@
 ---
 title: "HSE Logger"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_logger
+date: 2024-02-26
 summary: "A flexible and extensible logging system inspired by the Python logging module."
 showSummary: true
 showAuthor: false

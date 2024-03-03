@@ -1,6 +1,7 @@
 ---
 title: "PL Inficon VGC"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_inficon_vgc
+date: 2022-07-14
 summary: "LabVIEW instrument driver for Inficon VGC series vacuum gauge controllers."
 showSummary: true
 showAuthor: false

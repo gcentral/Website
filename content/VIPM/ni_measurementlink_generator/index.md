@@ -1,7 +1,8 @@
 ---
 title: "MeasurementLink Generator"
 externalUrl: https://www.vipm.io/package/ni_measurementlink_generator
-summary: "This is the MeasurementLink Plug-in Generator package.."
+date: 2024-02-14
+summary: "This is the MeasurementLink Plug-in Generator package."
 showSummary: true
 showAuthor: false
 showEdit: false

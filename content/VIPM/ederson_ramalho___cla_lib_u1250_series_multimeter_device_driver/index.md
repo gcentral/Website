@@ -1,6 +1,7 @@
 ---
 title: "U1250 Series Multimeter Device Driver"
 externalUrl: https://www.vipm.io/package/ederson_ramalho___cla_lib_u1250_series_multimeter_device_driver
+date: 2021-04-05
 summary: "This package is a device driver for Keysight U1250 Series handheld digital multimeters."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "iRobot Create"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_irobot_create
-summary: "The simple serial interface to the iRobot Create allows the robot to be easily controlled from a desktop computer or an embedded controller.."
+date: 2016-05-19
+summary: "The simple serial interface to the iRobot Create allows the robot to be easily controlled from a desktop computer or an embedded controller."
 showSummary: true
 showAuthor: false
 showEdit: false

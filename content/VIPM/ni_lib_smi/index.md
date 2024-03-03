@@ -1,6 +1,7 @@
 ---
 title: "System Management and Information (SMI)"
 externalUrl: https://www.vipm.io/package/ni_lib_smi
+date: 2016-09-16
 summary: "The System Management and Information (SMI) library provides functions for the detection of network devices and the management of NI RIO hardware."
 showSummary: true
 showAuthor: false

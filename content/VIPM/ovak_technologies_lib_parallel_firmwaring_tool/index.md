@@ -1,6 +1,7 @@
 ---
 title: "Parallel Firmwaring Tool"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_parallel_firmwaring_tool
+date: 2017-07-25
 summary: "The Parallel Firmwaring Tool solves the problem of parallel imaging of National Instruments Real-Time controllers both on VxWorks and NI Linux-RT Operating systems."
 showSummary: true
 showAuthor: false

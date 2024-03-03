@@ -1,6 +1,7 @@
 ---
 title: "Kinesthesia Toolkit for Microsoft Kinect"
 externalUrl: https://www.vipm.io/package/kinesthesia_lib_kinesthesia_toolkit
+date: 2016-05-19
 summary: "Kinesthesia Toolkit was initially developed as part of a project at the University of Leeds Mechanical Engineering Department."
 showSummary: true
 showAuthor: false

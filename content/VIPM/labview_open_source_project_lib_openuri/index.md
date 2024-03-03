@@ -1,7 +1,8 @@
 ---
 title: "OpenURI"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_openuri
-summary: "."
+date: 2023-12-30
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

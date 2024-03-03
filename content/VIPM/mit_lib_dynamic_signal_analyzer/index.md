@@ -1,6 +1,7 @@
 ---
 title: "Dynamic Signal Analyzer"
 externalUrl: https://www.vipm.io/package/mit_lib_dynamic_signal_analyzer
+date: 2018-05-21
 summary: "Provides an easy-to-use framework for determining transfer functions of real-time controlled systems."
 showSummary: true
 showAuthor: false

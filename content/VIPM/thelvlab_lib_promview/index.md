@@ -1,9 +1,8 @@
 ---
 title: "PromVIEW"
 externalUrl: https://www.vipm.io/package/thelvlab_lib_promview
-summary: "PromVIEW is a client library written in LabVIEW to expose metrics to Prometheus (https://www.prometheus.io)
-
-PromVIEW provides the basic functions to instrument your LabVIEW code by creating metrics and collectors, and it can also be used to create an exporter through the *Tools > PromVIEW > Create Exposition Web Service...* menu."
+date: 2021-04-08
+summary: "PromVIEW is a client library written in LabVIEW to expose metrics to Prometheus (https://www."
 showSummary: true
 showAuthor: false
 showEdit: false

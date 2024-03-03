@@ -1,6 +1,7 @@
 ---
 title: "Event Source Actor"
 externalUrl: https://www.vipm.io/package/ni_esa
+date: 2018-06-26
 summary: "This package contains a palette and an Event Source Actor class, which adds capabilities to your Actor Oriented applications."
 showSummary: true
 showAuthor: false

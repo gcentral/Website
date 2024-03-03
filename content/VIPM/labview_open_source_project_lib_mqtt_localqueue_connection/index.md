@@ -1,10 +1,8 @@
 ---
 title: "MQTT LocalQueue Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_localqueue_connection
-summary: "LV-MQTT-LocalQueue-Connection
-https://github.com/LabVIEW-Open-Source/MQTT-Connection-LocalQueue
-
-This package is an example for how to create a new specific connection package based on the abstract Connection class."
+date: 2022-05-09
+summary: "LV-MQTT-LocalQueue-Connection"
 showSummary: true
 showAuthor: false
 showEdit: false

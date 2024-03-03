@@ -1,7 +1,8 @@
 ---
 title: "NI Streaming 5840 Host (System)"
 externalUrl: https://www.vipm.io/package/ni_example_streaming5840_system
-summary: "This example uses an FPGA Extensions Bitfile to extend the DMA streaming capability of the PXIe-5840 Vector Signal Transceiver to 1.25 GHz of RF bandwidth."
+date: 2017-01-30
+summary: "This example uses an FPGA Extensions Bitfile to extend the DMA streaming capability of the PXIe-5840 Vector Signal Transceiver to 1."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,7 +1,8 @@
 ---
 title: "NetRFSA"
 externalUrl: https://www.vipm.io/package/insol_netrfsa
-summary: "Network RFSA Driver is network-working RFSA driver i.e."
+date: 2016-05-19
+summary: "Network RFSA Driver is network-working RFSA driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

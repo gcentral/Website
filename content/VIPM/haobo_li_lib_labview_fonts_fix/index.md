@@ -1,8 +1,8 @@
 ---
 title: "LabVIEW Fonts Fix"
 externalUrl: https://www.vipm.io/package/haobo_li_lib_labview_fonts_fix
-summary: "# LabVIEWFontsFix
-Tookit for Fix LabVIEW Fonts BUG In Asia CJK Language Windows, Apply To LabVIEW version later than 2011."
+date: 2022-12-05
+summary: "# LabVIEWFontsFix"
 showSummary: true
 showAuthor: false
 showEdit: false

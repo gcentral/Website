@@ -1,6 +1,7 @@
 ---
 title: "HOG Object Detector"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_hog_object_detector
+date: 2020-04-15
 summary: "The VIs in this collection can train and execute a HOG (Histogram of Oriented Gradients) object detector."
 showSummary: true
 showAuthor: false

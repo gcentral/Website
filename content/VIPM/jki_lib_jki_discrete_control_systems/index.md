@@ -1,6 +1,7 @@
 ---
 title: "JKI Discrete Control Systems"
 externalUrl: https://www.vipm.io/package/jki_lib_jki_discrete_control_systems
+date: 2021-03-03
 summary: "Implements useful tools for control systems like controllers, simulators, and filters using a discrete control approach."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "Interface for Actor INI"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_interface_for_actor_ini
-summary: "Adds the missing AddActorInterface INI file enabling the 'Interface for Actor' menu option within LabVIEW.."
+date: 2022-09-23
+summary: "Adds the missing AddActorInterface INI file enabling the 'Interface for Actor' menu option within LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false

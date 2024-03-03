@@ -1,6 +1,7 @@
 ---
 title: "OpenSerializer"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_serializer
+date: 2022-01-19
 summary: "Serializer is a package serving as base class for serialization and deserialization of LabVIEW Data."
 showSummary: true
 showAuthor: false

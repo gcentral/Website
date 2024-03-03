@@ -1,6 +1,7 @@
 ---
 title: "IG Stream Messaging Examples"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_stream_messaging_examples
+date: 2022-11-12
 summary: "Provides 2 client/server example applications, one with a very simple mechanism that uses functional globals and no classes (aside from the library) and another that is a more full-featured chat application that shares user lists, connect and disconnect events, and minimal administration features on the server."
 showSummary: true
 showAuthor: false

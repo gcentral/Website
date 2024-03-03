@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_largefile-1.4"
 externalUrl: https://www.vipm.io/package/oglib_largefile-1.4
-summary: "The largefile package contains several routines for operating on files over 2GB.."
+date: 2007-01-09
+summary: "The largefile package contains several routines for operating on files over 2GB."
 showSummary: true
 showAuthor: false
 showEdit: false

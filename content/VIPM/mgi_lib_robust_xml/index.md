@@ -1,8 +1,8 @@
 ---
 title: "MGI Robust XML"
 externalUrl: https://www.vipm.io/package/mgi_lib_robust_xml
-summary: "Robust XML: Improving Compatibility of the LabVIEW XML Schema
-At Moore Good Ideas, we're obviously proponents of our  Read/Write Anything VIs that serialize arbitrary data into *.ini style files."
+date: 2016-09-08
+summary: "Robust XML: Improving Compatibility of the LabVIEW XML Schema"
 showSummary: true
 showAuthor: false
 showEdit: false

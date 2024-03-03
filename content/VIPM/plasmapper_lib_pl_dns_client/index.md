@@ -1,6 +1,7 @@
 ---
 title: "PL DNS Client"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_dns_client
+date: 2023-01-31
 summary: "DNS client library for LabVIEW."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Toolbox"
 externalUrl: https://www.vipm.io/package/lvh_toolbox
+date: 2016-05-19
 summary: "The MakerHub Toolbox contains useful vis, and tools to aid in the LabVIEW development process."
 showSummary: true
 showAuthor: false

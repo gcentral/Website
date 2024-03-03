@@ -1,6 +1,7 @@
 ---
 title: "lavag_lib_User_Interface_XControls_waveform_xcontrol"
 externalUrl: https://www.vipm.io/package/lavag_lib_user_interface_xcontrole_waveform_xcontrol
+date: 2023-04-19
 summary: "Provides a drop in function generator that lets the user construct and view a waveform on screen."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "PL Utility"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_utility
+date: 2023-06-28
 summary: "Utility library for LabVIEW."
 showSummary: true
 showAuthor: false

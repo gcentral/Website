@@ -1,7 +1,8 @@
 ---
 title: "NetModInst"
 externalUrl: https://www.vipm.io/package/insol_netmodinst
-summary: "Network ModInst Driver is network-working ModInst driver i.e."
+date: 2016-05-19
+summary: "Network ModInst Driver is network-working ModInst driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

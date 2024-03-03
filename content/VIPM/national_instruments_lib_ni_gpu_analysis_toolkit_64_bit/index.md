@@ -1,6 +1,7 @@
 ---
 title: "NI GPU Analysis Toolkit 64-bit"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_gpu_analysis_toolkit_64_bit
+date: 2016-05-19
 summary: "The LabVIEW GPU Analysis Toolkit provides VIs for offloading FFT and BLAS operations to a graphics processing unit (GPU) device."
 showSummary: true
 showAuthor: false

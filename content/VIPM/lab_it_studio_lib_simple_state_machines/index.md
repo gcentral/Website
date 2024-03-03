@@ -1,7 +1,8 @@
 ---
 title: "Simple State Machines"
 externalUrl: https://www.vipm.io/package/lab_it_studio_lib_simple_state_machines
-summary: "Simple state machine templates with minumum subVI's.."
+date: 2022-07-27
+summary: "Simple state machine templates with minumum subVI's."
 showSummary: true
 showAuthor: false
 showEdit: false

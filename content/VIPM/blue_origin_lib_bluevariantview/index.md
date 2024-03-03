@@ -1,7 +1,8 @@
 ---
 title: "BlueVariantView"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluevariantview
-summary: "Recurses through any LabVIEW data and outputs a colorized tree control."
+date: 2022-04-20
+summary: "Recurses through any LabVIEW data and outputs a colorized tree control"
 showSummary: true
 showAuthor: false
 showEdit: false

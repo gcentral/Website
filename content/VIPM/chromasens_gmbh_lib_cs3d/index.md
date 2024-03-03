@@ -1,6 +1,7 @@
 ---
 title: "Chromasens 3D Camera Toolkit"
 externalUrl: https://www.vipm.io/package/chromasens_gmbh_lib_cs3d
+date: 2016-05-19
 summary: "Chromasens GmbH has developed a new kind of process for colour 3D surface measurement based on its self-developed, trilinear CCD line scan camera technology."
 showSummary: true
 showAuthor: false

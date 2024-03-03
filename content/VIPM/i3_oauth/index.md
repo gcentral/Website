@@ -1,7 +1,8 @@
 ---
 title: "i3 OAuth"
 externalUrl: https://www.vipm.io/package/i3_oauth
-summary: "i3 OAuth is an implementation of the OAuth 1.0a protocol specified by the RFC 5849 standard."
+date: 2016-05-19
+summary: "i3 OAuth is an implementation of the OAuth 1."
 showSummary: true
 showAuthor: false
 showEdit: false

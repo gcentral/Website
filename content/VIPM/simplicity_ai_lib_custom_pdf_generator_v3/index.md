@@ -1,11 +1,8 @@
 ---
 title: "Custom PDF Generator V3"
 externalUrl: https://www.vipm.io/package/simplicity_ai_lib_custom_pdf_generator_v3
-summary: "**<color=red>Upgrading from an earlier major version? Version 3 is a major upgrade, so please scroll down to read the Upgrade Notes section BEFORE installing it!</color>**
-
-**Overview:**
-
-The Custom PDF Generator is your toolkit for easily creating high quality documents directly from your LabVIEW programs."
+date: 2021-05-07
+summary: "**<color=red>Upgrading from an earlier major version? Version 3 is a major upgrade, so please scroll down to read the Upgrade Notes section BEFORE installing it!</color>**"
 showSummary: true
 showAuthor: false
 showEdit: false

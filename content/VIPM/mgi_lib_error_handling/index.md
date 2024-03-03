@@ -1,6 +1,7 @@
 ---
 title: "MGI Error Handling"
 externalUrl: https://www.vipm.io/package/mgi_lib_error_handling
+date: 2016-09-08
 summary: "This package contains VIs that operate with error cluster data."
 showSummary: true
 showAuthor: false

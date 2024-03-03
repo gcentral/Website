@@ -1,6 +1,7 @@
 ---
 title: "IG WebSocket & TCP Messaging Example"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_websocket_&_tcp_messaging_example
+date: 2022-11-12
 summary: "This example is a simple Stopwatch app that demonstrates WebSocket messaging and the ability to combine multiple stream types with a single messaging manager."
 showSummary: true
 showAuthor: false

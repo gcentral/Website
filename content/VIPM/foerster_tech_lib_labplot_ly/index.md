@@ -1,7 +1,8 @@
 ---
 title: "LabPlot.ly"
 externalUrl: https://www.vipm.io/package/foerster_tech_lib_labplot_ly
-summary: "LabPlot.ly lets you plot your data to Plot.ly and display them in a browser."
+date: 2020-11-18
+summary: "LabPlot."
 showSummary: true
 showAuthor: false
 showEdit: false

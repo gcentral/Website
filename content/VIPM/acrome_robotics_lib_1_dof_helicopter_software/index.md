@@ -1,14 +1,8 @@
 ---
 title: "1-DOF Helicopter Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_1_dof_helicopter_software
-summary: "**Vendor:** ACROME Robotics
-**Supported Language(s):** LabVIEW (2015 SP1 or later)
-**Required software modules:** NI-VISA, NI-Softmotion, MyRIO Toolkit, NI-FPGA Module, NI-RealTime Module,NI-Control and Design Simulation Module (2015 SP1 or later)
-**Hardware Requirements:** 1-DOF Helicopter System (It contains NI myRIO, ACROME Power Distribution Unit, Brushless DC Motor, Incremental Rotary Encoder, Electronic Speed Controller(ESC) and Mechanics of the System(Beam, Base of the System,Balancing Block)
-
-**Original Release Date:** 08-08-2018
-**Current Revision Date:**09-08-2018
-VI Package Manager 2017 is required to install the package."
+date: 2018-08-13
+summary: "**Vendor:** ACROME Robotics"
 showSummary: true
 showAuthor: false
 showEdit: false

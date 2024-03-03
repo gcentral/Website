@@ -1,6 +1,7 @@
 ---
 title: "MGI Cluster"
 externalUrl: https://www.vipm.io/package/mgi_lib_cluster
+date: 2016-08-30
 summary: "This package contains VIs that operate with cluster data."
 showSummary: true
 showAuthor: false

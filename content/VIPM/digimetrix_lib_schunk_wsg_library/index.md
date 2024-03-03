@@ -1,6 +1,7 @@
 ---
 title: "Schunk WSG Library"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_schunk_wsg_library
+date: 2017-09-22
 summary: "This library provides an interface to Schunk WSG Intellegent Gripper."
 showSummary: true
 showAuthor: false

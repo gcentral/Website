@@ -1,6 +1,7 @@
 ---
 title: "Bookmark Project Provider (System)"
 externalUrl: https://www.vipm.io/package/greylock_technology_lib_bookmark_project_provider_system
+date: 2023-09-19
 summary: "The Bookmark Project Provider is designed to make it relatively easy to add bookmarks or free text label comments to one or more VIs from the LabVIEW Project window without having to open the VI, navigate to its block diagram and adding the comment."
 showSummary: true
 showAuthor: false

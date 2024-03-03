@@ -1,6 +1,7 @@
 ---
 title: "Wi-SUN Measurement Suite (System)"
 externalUrl: https://www.vipm.io/package/wi_sun_measurement_suite_system
+date: 2018-11-13
 summary: "SUNs enable multiple applications to operate over shared network resources, providing monitoring and control of a utility system."
 showSummary: true
 showAuthor: false

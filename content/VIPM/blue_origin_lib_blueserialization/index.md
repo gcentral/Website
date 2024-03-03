@@ -1,7 +1,8 @@
 ---
 title: "BlueSerialization"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueserialization
-summary: "."
+date: 2022-11-18
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

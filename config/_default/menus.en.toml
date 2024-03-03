@@ -10,62 +10,11 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "About"
-  pageRef = "visionandmission"
-  weight = 10
-  
-[[main]]
-  name = "Vision and Mission"
-  parent = "About"
-  pageRef = "visionandmission"
-  weight = 16
 
-[[main]]
-  name = "Board of Directors"
-  parent = "About"
-  pageRef = "boardofdirectors"
-  weight = 30
-
-[[main]]
-  name = "GIE Committee"
-  parent = "About"
-  pageRef = "giecommittee"
-  weight = 40 
-
-[[main]]
-  name = "Sponsor"
-  pageRef = "sponsor"
-  weight = 15
-  
-[[main]]
-  name = "How to Sponsor"
-  parent = "Sponsor"
-  pageRef = "howtosponsor"
-  weight = 10
-
-[[main]]
-  name = "Meet our Sponsors"
-  parent = "Sponsor"
-  pageRef = "meetoursponsors"
-  weight = 20
-  
-[[main]]
-  name = "How to Donate"
-  parent = "Sponsor"
-  pageRef = "howtodonate"
-  weight = 30
-  
-[[main]]
-  name = "Buy GCentral Merch"
-  parent = "Sponsor"
-  url = "https://gcentral-2.creator-spring.com"
-  weight = 50 
-  
 [[main]]
   name = "Initiatives"
   pageRef = "initiatives"
-  weight = 20
+  weight = 10
   
 [[main]]
   name = "Community Training Image"
@@ -123,7 +72,59 @@
 [[main]]
   name = "Posts"
   pageref = "posts"
-  weight = 40
+  weight = 80
+  
+[[main]]
+  name = "Sponsor"
+  pageRef = "sponsor"
+  weight = 90
+  
+[[main]]
+  name = "How to Sponsor"
+  parent = "Sponsor"
+  pageRef = "howtosponsor"
+  weight = 10
+
+[[main]]
+  name = "Meet our Sponsors"
+  parent = "Sponsor"
+  pageRef = "meetoursponsors"
+  weight = 20
+  
+[[main]]
+  name = "How to Donate"
+  parent = "Sponsor"
+  pageRef = "howtodonate"
+  weight = 30
+  
+[[main]]
+  name = "Buy GCentral Merch"
+  parent = "Sponsor"
+  url = "https://gcentral-2.creator-spring.com"
+  weight = 50 
+  
+[[main]]
+  name = "About"
+  pageRef = "visionandmission"
+  weight = 100
+  
+[[main]]
+  name = "Vision and Mission"
+  parent = "About"
+  pageRef = "visionandmission"
+  weight = 16
+
+[[main]]
+  name = "Board of Directors"
+  parent = "About"
+  pageRef = "boardofdirectors"
+  weight = 30
+
+[[main]]
+  name = "GIE Committee"
+  parent = "About"
+  pageRef = "giecommittee"
+  weight = 40 
 
 #[[main]]
 #  name = "Test"

@@ -1,7 +1,8 @@
 ---
 title: "HTTP Client Extensions"
 externalUrl: https://www.vipm.io/package/jki_lib_http_client_extensions
-summary: "."
+date: 2021-05-06
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

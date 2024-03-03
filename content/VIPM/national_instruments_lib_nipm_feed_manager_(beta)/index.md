@@ -1,6 +1,7 @@
 ---
 title: "NIPM Feed Manager"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_nipm_feed_manager_(beta)
+date: 2018-12-20
 summary: "The NIPM Feed Manager provides a GUI to manage feeds for NI Package Manager packages."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_nipm_feed_manager_(beta)

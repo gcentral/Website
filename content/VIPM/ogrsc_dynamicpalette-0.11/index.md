@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_dynamicpalette-0.11"
 externalUrl: https://www.vipm.io/package/ogrsc_dynamicpalette-0.11
-summary: "The OpenG Dynamic Palette View creates palette syncronized directories within ./user.lib/_Dynamic_Palette_View/."
+date: 2011-11-21
+summary: "The OpenG Dynamic Palette View creates palette syncronized directories within ."
 showSummary: true
 showAuthor: false
 showEdit: false

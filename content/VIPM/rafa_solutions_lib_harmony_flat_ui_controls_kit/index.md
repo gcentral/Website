@@ -1,9 +1,8 @@
 ---
 title: "Harmony UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_harmony_flat_ui_controls_kit
-summary: "Harmony UI Controls Kit Library
-
-Harmony UI Controls Kit is a modern controls library that allows to create numerous different professional user interfaces that will satisfy even the most pretentious users."
+date: 2016-05-19
+summary: "Harmony UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

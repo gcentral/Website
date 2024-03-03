@@ -1,6 +1,7 @@
 ---
 title: "NI N Channel DDC IP"
 externalUrl: https://www.vipm.io/package/ni_lib_nchddc_ip
+date: 2016-05-19
 summary: "This package installs IP for performing digital down conversion on up to 128 interleaved channels."
 showSummary: true
 showAuthor: false

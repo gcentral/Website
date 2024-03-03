@@ -1,6 +1,7 @@
 ---
 title: "NI LabVIEW FPGA Floating-Point Library"
 externalUrl: https://www.vipm.io/package/ni_lib_lv_fpga_floating_point_library
+date: 2017-12-20
 summary: "Floating point math operations on FPGAs are important for many control and simulation applications."
 showSummary: true
 showAuthor: false

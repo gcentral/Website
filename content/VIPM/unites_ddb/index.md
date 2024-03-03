@@ -1,6 +1,7 @@
 ---
 title: "Unites DDB"
 externalUrl: https://www.vipm.io/package/unites_ddb
+date: 2022-11-18
 summary: "Minimalistic dashboard for DQMH and other tools."
 showSummary: true
 showAuthor: false

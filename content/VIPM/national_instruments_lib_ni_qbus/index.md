@@ -1,6 +1,7 @@
 ---
 title: "NI Qbus"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_qbus
+date: 2016-05-19
 summary: "NI Qbus is a LabVIEW based messaging API."
 showSummary: true
 showAuthor: false

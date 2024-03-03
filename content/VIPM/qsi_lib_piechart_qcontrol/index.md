@@ -1,6 +1,7 @@
 ---
 title: "PieChart QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_piechart_qcontrol
+date: 2023-05-26
 summary: "The PieChart is a QControl and requires the QControl Toolkit."
 showSummary: true
 showAuthor: false
@@ -19,6 +20,7 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "QControl"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_piechart_qcontrol

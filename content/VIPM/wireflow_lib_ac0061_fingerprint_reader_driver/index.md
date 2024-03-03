@@ -1,6 +1,7 @@
 ---
 title: "WF Fingerprint Reader"
 externalUrl: https://www.vipm.io/package/wireflow_lib_ac0061_fingerprint_reader_driver
+date: 2017-11-01
 summary: "This is the driver for the WireFlow fingerprint reader."
 showSummary: true
 showAuthor: false

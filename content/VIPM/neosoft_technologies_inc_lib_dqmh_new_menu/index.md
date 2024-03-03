@@ -1,7 +1,8 @@
 ---
 title: "DQMH New... Menu"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_inc_lib_dqmh_new_menu
-summary: "This package allows adding the DQMH scripters into the LabVIEW File -> New..."
+date: 2021-10-30
+summary: "This package allows adding the DQMH scripters into the LabVIEW File -> New."
 showSummary: true
 showAuthor: false
 showEdit: false

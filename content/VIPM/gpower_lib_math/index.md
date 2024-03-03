@@ -1,7 +1,8 @@
 ---
 title: "GPower Math"
 externalUrl: https://www.vipm.io/package/gpower_lib_math
-summary: "Library for discrete math, percentage calculations, and statistics.."
+date: 2016-05-19
+summary: "Library for discrete math, percentage calculations, and statistics."
 showSummary: true
 showAuthor: false
 showEdit: false

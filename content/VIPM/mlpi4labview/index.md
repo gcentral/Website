@@ -1,7 +1,8 @@
 ---
 title: "MLPI for LabVIEW"
 externalUrl: https://www.vipm.io/package/mlpi4labview
-summary: "The MLPI (Motion Logic Programming Interface) is a programming interface for high level programming languages (C/C++/C#/Java/LabVIEW/..)."
+date: 2016-05-19
+summary: "The MLPI (Motion Logic Programming Interface) is a programming interface for high level programming languages (C/C++/C#/Java/LabVIEW/."
 showSummary: true
 showAuthor: false
 showEdit: false

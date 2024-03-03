@@ -1,6 +1,7 @@
 ---
 title: "Mitsubishi Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_mitsubishi_robotics_library_system
+date: 2019-03-06
 summary: "With the Mitsubishi library, you can easily integrate robotics into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing – eliminating complex robotics programming expertise."
 showSummary: true
 showAuthor: false

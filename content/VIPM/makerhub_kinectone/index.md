@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Interface for Microsoft Kinect One"
 externalUrl: https://www.vipm.io/package/makerhub_kinectone
+date: 2016-05-19
 summary: "Use LabVIEW to get Color, Depth, Infrared and Skeletal information from the Kinect One."
 showSummary: true
 showAuthor: false

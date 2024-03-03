@@ -1,7 +1,8 @@
 ---
 title: "EAL for LabVIEW"
 externalUrl: https://www.vipm.io/package/eal4labview
-summary: "The EAL (Easy Automation Library) is a programming interface for high level programming languages (C/C++/C#/Java/LabVIEW/..)."
+date: 2018-05-07
+summary: "The EAL (Easy Automation Library) is a programming interface for high level programming languages (C/C++/C#/Java/LabVIEW/."
 showSummary: true
 showAuthor: false
 showEdit: false

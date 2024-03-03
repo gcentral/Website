@@ -1,11 +1,8 @@
 ---
 title: "Rename LVOOP Labels"
 externalUrl: https://www.vipm.io/package/lava_rsc_rename_lvoop_labels
-summary: "This package is Open Source
-This package is a LAVA distribution - visit 'http://bit.ly/team_lava' to learn more about Team LAVA
-Visit 'http://bit.ly/rename_lvoop_labels' for this package's support forum
-
-This package contains a Plugin which renames a Class Member VI's Top Left and Top Right Connector Pane inputs to 'Class Name In' for control and 'Class Name Out' for indicator."
+date: 2016-05-19
+summary: "This package is Open Source"
 showSummary: true
 showAuthor: false
 showEdit: false

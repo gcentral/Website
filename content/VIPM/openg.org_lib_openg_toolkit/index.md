@@ -1,7 +1,8 @@
 ---
 title: "OpenG Toolkit"
 externalUrl: https://www.vipm.io/package/openg.org_lib_openg_toolkit
-summary: "The OpenG Toolkit package installs the OpenG Libraries 4.0: Application Control, Array, Boolean, Buttons Comparison, Dictionary, Error, File, LabVIEW Data, LabVIEW ZIP, Large File, MD5, Message Queue, Numeric, Picture, Port IO, String, Time and Variant Configuration File."
+date: 2011-08-11
+summary: "The OpenG Toolkit package installs the OpenG Libraries 4."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,10 +1,8 @@
 ---
 title: "PL BlackBox Modbus Client"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_blackbox_modbus_client
-summary: "BlackBox Modbus Client Library for LabVIEW
-
-Features
-Full functionaltity of the BlackBox Modbus protocol (https://github.com/plasmapper/blackbox/tree/main/modbus.md)."
+date: 2022-12-24
+summary: "BlackBox Modbus Client Library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

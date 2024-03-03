@@ -1,6 +1,7 @@
 ---
 title: "NeosoftSyslogLibrary"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lib_neosoftsysloglibrary
+date: 2021-04-06
 summary: "Neosoft Syslog Library is a set of VI to use syslog messaging  in your application."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Slot Power Host Example for the NI PXIe-5644R/45R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_slot_power_host_example_for_the_ni_pxie_5644r_45r
+date: 2016-05-19
 summary: "This example demonstrates how to use a modified instrument driver bitfile for RFSA/RFSG using a NI PXIe-5644R or 5645R Vector Signal Transceiver to take time slot average power measurements."
 showSummary: true
 showAuthor: false

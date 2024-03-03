@@ -1,6 +1,7 @@
 ---
 title: "Amulet Display API (System)"
 externalUrl: https://www.vipm.io/package/amulet_technologies_lib_amulet_communications_api_system
+date: 2016-05-19
 summary: "This package installs all of the functions needed to communicate with an Amulet Color Display Module into the LabVIEW Connectivity palette."
 showSummary: true
 showAuthor: false

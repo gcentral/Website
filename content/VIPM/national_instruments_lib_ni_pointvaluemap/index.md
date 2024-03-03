@@ -1,6 +1,7 @@
 ---
 title: "NI PointValueMap"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_pointvaluemap
+date: 2016-05-19
 summary: "Processes commonly need to read properties that other processes write."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Project Filter and Edit"
 externalUrl: https://www.vipm.io/package/abcdef_project_filter_and_edit
+date: 2016-05-19
 summary: "The Project Filter and Edit Tool allows batch editing of several VI properites including VI Description and Allow Debugging."
 showSummary: true
 showAuthor: false

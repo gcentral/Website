@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_appcontrol-2.8"
 externalUrl: https://www.vipm.io/package/oglib_appcontrol-2.8
-summary: "The appcontrol package contains several routines application control.."
+date: 2008-03-13
+summary: "The appcontrol package contains several routines application control."
 showSummary: true
 showAuthor: false
 showEdit: false

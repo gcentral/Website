@@ -1,7 +1,8 @@
 ---
 title: "Symplify (System)"
 externalUrl: https://www.vipm.io/package/synovus_solutions_inc_lib_symplify_system
-summary: "Symplify™ platform is Synovus' standard software libraries written in LabVIEW that include advanced visualization, debugging, data logging and easy-to-use and scalable templates.."
+date: 2021-09-24
+summary: "Symplify™ platform is Synovus' standard software libraries written in LabVIEW that include advanced visualization, debugging, data logging and easy-to-use and scalable templates."
 showSummary: true
 showAuthor: false
 showEdit: false

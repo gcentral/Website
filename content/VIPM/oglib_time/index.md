@@ -1,7 +1,8 @@
 ---
 title: "OpenG Time Library"
 externalUrl: https://www.vipm.io/package/oglib_time
-summary: "The OpenG Time Library package contains several routines related to software timing.."
+date: 2018-03-02
+summary: "The OpenG Time Library package contains several routines related to software timing."
 showSummary: true
 showAuthor: false
 showEdit: false

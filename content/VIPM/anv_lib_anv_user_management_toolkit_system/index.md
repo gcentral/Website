@@ -1,6 +1,7 @@
 ---
 title: "ANV User Management Toolkit (System)"
 externalUrl: https://www.vipm.io/package/anv_lib_anv_user_management_toolkit_system
+date: 2020-07-07
 summary: "ANV User Management Toolkit (ANV UMT) is a toolkit, which helps developers with tasks related to management of users in LabVIEW."
 showSummary: true
 showAuthor: false

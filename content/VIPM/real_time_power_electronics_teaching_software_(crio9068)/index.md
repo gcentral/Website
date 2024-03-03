@@ -1,6 +1,7 @@
 ---
 title: "Real Time Power Electronics Teaching Software (cRIO9068)"
 externalUrl: https://www.vipm.io/package/real_time_power_electronics_teaching_software_(crio9068)
+date: 2016-05-19
 summary: "Real Time Power Electronics Teaching Software (cRIO9068) provides real-time simulation of DC-DC, AC-DC, DC-AC and AC-AC converters for educational purposes in power electronic laboratories."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Expression Scanner"
 externalUrl: https://www.vipm.io/package/grovf_lib_expression_scanner
+date: 2019-01-08
 summary: "Expression Scanner toolkit was developed to be used in LabVIEW FPGA environment for expression scanning in a streaming data."
 showSummary: true
 showAuthor: false

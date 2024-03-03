@@ -1,6 +1,7 @@
 ---
 title: "Offline Map API"
 externalUrl: https://www.vipm.io/package/insol_lib_offline_map_api
+date: 2022-03-31
 summary: "Offline Map API is a toolkit that works with a map in **offline mode**."
 showSummary: true
 showAuthor: false

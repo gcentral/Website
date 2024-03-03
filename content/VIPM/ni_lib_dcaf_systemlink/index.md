@@ -1,7 +1,8 @@
 ---
 title: "DCAF SystemLink Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_systemlink
-summary: "This module interacts with the Tags from SystemLink for versions 2017 and 2017.5."
+date: 2019-06-25
+summary: "This module interacts with the Tags from SystemLink for versions 2017 and 2017."
 showSummary: true
 showAuthor: false
 showEdit: false

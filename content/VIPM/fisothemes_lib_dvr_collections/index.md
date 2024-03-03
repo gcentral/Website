@@ -1,6 +1,7 @@
 ---
 title: "DVR Collections"
 externalUrl: https://www.vipm.io/package/fisothemes_lib_dvr_collections
+date: 2023-05-31
 summary: "This toolkit contains VIMs that allow you to work with DVR versions of LabVIEW maps, sets, variant attributes, and arrays as if they were generics."
 showSummary: true
 showAuthor: false

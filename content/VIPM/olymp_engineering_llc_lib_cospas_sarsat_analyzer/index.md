@@ -1,9 +1,8 @@
 ---
 title: "COSPAS-SARSAT Analyzer"
 externalUrl: https://www.vipm.io/package/olymp_engineering_llc_lib_cospas_sarsat_analyzer
-summary: "COSPAS-SARSAT Analyzer
-
-OLYMP Engineering COSPAS Decoding Toolkit for LabVIEW extends the built-in analysis capability of the LabVIEW graphical development environment with functions and tools for COSPAS signal analysis, visualization, and the processing of long and short message formats."
+date: 2016-05-19
+summary: "COSPAS-SARSAT Analyzer"
 showSummary: true
 showAuthor: false
 showEdit: false

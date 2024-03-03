@@ -1,6 +1,7 @@
 ---
 title: "Mat File Toolkit"
 externalUrl: https://www.vipm.io/package/evalumation,_llc_lib_mat_file_toolkit
+date: 2016-05-19
 summary: "Read and Write Mat files that are compatible with MATLAB."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "JKI TCP Server"
 externalUrl: https://www.vipm.io/package/jki_lib_tcp_server
-summary: "JKI TCP Server for LabVIEW."
+date: 2023-03-15
+summary: "JKI TCP Server for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "Newton API Standard Control Option for LabVIEW"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_newton_api_standard_control_option_for_labview
+date: 2020-01-24
 summary: "Newton API for LabVIEW is a library of LabVIEW Virtual Instruments (VI) allowing control and monitoring of Newton controller from custom applications build in LabVIEW graphical programming environment."
 showSummary: true
 showAuthor: false

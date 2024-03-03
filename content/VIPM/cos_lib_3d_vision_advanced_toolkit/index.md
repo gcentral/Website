@@ -1,6 +1,7 @@
 ---
 title: "3D_Vision_Advanced_Toolkit"
 externalUrl: https://www.vipm.io/package/cos_lib_3d_vision_advanced_toolkit
+date: 2021-03-11
 summary: "The 3D Vision Advanced Toolkit includes  Point Cloud Processing Toolkit,  Triangular Mesh Processing Toolkit based on Half Edge data structure and 3D Picture Library."
 showSummary: true
 showAuthor: false

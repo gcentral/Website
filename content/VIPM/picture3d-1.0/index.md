@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "picture3d-1.0"
 externalUrl: https://www.vipm.io/package/picture3d-1.0
-summary: "."
+date: 2022-06-24
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

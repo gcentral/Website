@@ -1,6 +1,7 @@
 ---
 title: "VI Analyzer Project Provider"
 externalUrl: https://www.vipm.io/package/greylock_technology_lib_vi_analyzer_project_provider
+date: 2021-11-26
 summary: "The VI Analyzer Project Provider is designed to make it very easy to run VI Analyzer configurations on one or more VIs directly from the LabVIEW project."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "StellaGNSS Toolkit"
 externalUrl: https://www.vipm.io/package/m3_systems_lib_stellagnss_toolkit
+date: 2019-12-26
 summary: "M3 Systems's Stella NGC Toolkit product is a GNSS simulator which generates RF signals, thereby simulating a complete set of navigation satellite constellation signals (GPS, GLONASS, Galileo)."
 showSummary: true
 showAuthor: false

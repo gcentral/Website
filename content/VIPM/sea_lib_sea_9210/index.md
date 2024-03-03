@@ -1,7 +1,8 @@
 ---
 title: "SEA 9210"
 externalUrl: https://www.vipm.io/package/sea_lib_sea_9210
-summary: "**1.** Driver software for the **SEA 9210** Multifunction I/O module only."
+date: 2016-05-19
+summary: "**1."
 showSummary: true
 showAuthor: false
 showEdit: false

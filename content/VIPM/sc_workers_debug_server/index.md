@@ -1,6 +1,7 @@
 ---
 title: "Workers - Debug Server"
 externalUrl: https://www.vipm.io/package/sc_workers_debug_server
+date: 2022-07-07
 summary: "The Workers Debug Server contains a Windows executable application that is used to observe behavior at run-time within Workers applications."
 showSummary: true
 showAuthor: false

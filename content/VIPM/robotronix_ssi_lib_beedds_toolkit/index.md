@@ -1,7 +1,8 @@
 ---
 title: "BeeDDS Toolkit 2.0"
 externalUrl: https://www.vipm.io/package/robotronix_ssi_lib_beedds_toolkit
-summary: "This toolkit allows to communicate with the Sistemi Software Integrati DDS server to exchange data around the network.."
+date: 2016-05-19
+summary: "This toolkit allows to communicate with the Sistemi Software Integrati DDS server to exchange data around the network."
 showSummary: true
 showAuthor: false
 showEdit: false

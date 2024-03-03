@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Interface for Leap Motion Controller"
 externalUrl: https://www.vipm.io/package/lvh_leap
+date: 2016-05-19
 summary: "The Interface for Leap Motion Controller by MakerHub provides an easy-to-use LabVIEW API for the Leap Motion Controller."
 showSummary: true
 showAuthor: false

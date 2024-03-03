@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Parker Compax3 (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_parker_compax3_system
+date: 2018-01-12
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Parker Compax3 EtherCAT servo drives."
 showSummary: true
 showAuthor: false

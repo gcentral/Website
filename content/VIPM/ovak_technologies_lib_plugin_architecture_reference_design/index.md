@@ -1,6 +1,7 @@
 ---
 title: "Plugin Architecture Reference Design"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_plugin_architecture_reference_design
+date: 2017-11-06
 summary: "Plugin Architecture Reference Design Toolkit is created to provide a development system for LabVIEW embedded developers."
 showSummary: true
 showAuthor: false

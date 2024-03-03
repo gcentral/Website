@@ -1,6 +1,7 @@
 ---
 title: "MGI File"
 externalUrl: https://www.vipm.io/package/mgi_lib_file
+date: 2016-09-08
 summary: "This package contains VIs that relate to reading and writing of files and directory locations."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "Instrument Control Module (System)"
 externalUrl: https://www.vipm.io/package/occ_lib_instrument_control_module_system
-summary: "."
+date: 2021-06-17
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,9 +1,8 @@
 ---
 title: "Space - Industrial UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_space_industrial_ui_controls_kit
-summary: "Space - Industrial UI Controls Kit Library
-
-Space - Industrial UI Controls Kit is a modern controls library that allows to create numerous different industrial user interfaces that will satisfy even the most pretentious users."
+date: 2016-05-19
+summary: "Space - Industrial UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

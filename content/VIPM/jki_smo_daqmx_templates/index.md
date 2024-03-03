@@ -1,6 +1,7 @@
 ---
 title: "JKI SMO Template (DAQmx)"
 externalUrl: https://www.vipm.io/package/jki_smo_daqmx_templates
+date: 2016-09-24
 summary: "This package provides DAQmx templates to get started with the JKI State Machine Objects (SMO) framework."
 showSummary: true
 showAuthor: false

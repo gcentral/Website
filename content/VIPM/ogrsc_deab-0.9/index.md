@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_deab-0.9"
 externalUrl: https://www.vipm.io/package/ogrsc_deab-0.9
-summary: "The DEAB package contains a utility building Development Environment Apps.."
+date: 2011-11-21
+summary: "The DEAB package contains a utility building Development Environment Apps."
 showSummary: true
 showAuthor: false
 showEdit: false

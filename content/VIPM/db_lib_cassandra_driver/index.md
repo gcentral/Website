@@ -1,6 +1,7 @@
 ---
 title: "Cassandra-driver"
 externalUrl: https://www.vipm.io/package/db_lib_cassandra_driver
+date: 2016-05-19
 summary: "These files implement parts of the binary protocol v3 for Cassandra in LabVIEW."
 showSummary: true
 showAuthor: false

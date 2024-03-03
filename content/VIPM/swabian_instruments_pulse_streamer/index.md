@@ -1,6 +1,7 @@
 ---
 title: "Pulse Streamer"
 externalUrl: https://www.vipm.io/package/swabian_instruments_pulse_streamer
+date: 2023-06-05
 summary: "API for Swabian Instruments' Pulse Streamer 8/2."
 showSummary: true
 showAuthor: false

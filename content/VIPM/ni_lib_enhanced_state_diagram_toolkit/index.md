@@ -1,6 +1,7 @@
 ---
 title: "Enhanced State Diagram Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_enhanced_state_diagram_toolkit
+date: 2019-10-01
 summary: "Note: This product is the Enhanced State Diagram Toolkit."
 showSummary: true
 showAuthor: false

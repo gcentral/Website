@@ -1,9 +1,8 @@
 ---
 title: "Approval Tests"
 externalUrl: https://www.vipm.io/package/sas_lib_approval_tests
-summary: "Approval Testing For LabVIEW
-
-This is a project to implement approval testing in LabVIEW."
+date: 2024-02-26
+summary: "Approval Testing For LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "QuVI - Quantum Circuit Toolkit"
 externalUrl: https://www.vipm.io/package/murtaza_vefadar_lib_quvi___quantum_circuit_toolkit
+date: 2022-09-19
 summary: "This toolkit, based on the Quantum Circuit Model, is an attempt to bring quantum programming to LabVIEW."
 showSummary: true
 showAuthor: false
@@ -19,7 +20,6 @@ draft: true
 tags:
  - "VIPM"
  - "VIPM Community"
- - "OOP"
 ---
 
 Redirecting to https://www.vipm.io/package/murtaza_vefadar_lib_quvi___quantum_circuit_toolkit

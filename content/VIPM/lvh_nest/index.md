@@ -1,6 +1,7 @@
 ---
 title: "MakerHub Interface for Nest Thermostat"
 externalUrl: https://www.vipm.io/package/lvh_nest
+date: 2016-05-19
 summary: "The MakerHub Interface for the Nest Thermostate makes it easy to monitor and control your home's current temperature as well as the target temperature."
 showSummary: true
 showAuthor: false

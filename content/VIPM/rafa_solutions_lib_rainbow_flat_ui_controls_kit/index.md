@@ -1,9 +1,8 @@
 ---
 title: "Rainbow Flat UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_rainbow_flat_ui_controls_kit
-summary: "Rainbow Flat UI Controls Kit Library
-
-Rainbowl UI Controls Kit is a modern controls library that allows to create numerous different Windows 10 style user interfaces that will satisfy even the most meticulous users."
+date: 2016-05-19
+summary: "Rainbow Flat UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

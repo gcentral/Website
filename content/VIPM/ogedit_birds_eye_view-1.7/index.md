@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogedit_birds_eye_view-1.7"
 externalUrl: https://www.vipm.io/package/ogedit_birds_eye_view-1.7
-summary: "The Bird's Eye View utility allows panning and zooming of VIs block diagram and front panel.."
+date: 2007-03-21
+summary: "The Bird's Eye View utility allows panning and zooming of VIs block diagram and front panel."
 showSummary: true
 showAuthor: false
 showEdit: false

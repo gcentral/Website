@@ -1,6 +1,7 @@
 ---
 title: "ViBox - Probes (System)"
 externalUrl: https://www.vipm.io/package/saphir_lib_vibox_probes_system
+date: 2016-05-19
 summary: "This package provides you useful probes."
 showSummary: true
 showAuthor: false

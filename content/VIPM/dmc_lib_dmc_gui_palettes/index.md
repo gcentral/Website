@@ -1,6 +1,7 @@
 ---
 title: "DMC GUI Suite"
 externalUrl: https://www.vipm.io/package/dmc_lib_dmc_gui_palettes
+date: 2020-06-16
 summary: "The official DMC LabVIEW GUI palette, featuring flat UI controls and indicators to improve UI design and development efficiency."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/dmc_lib_dmc_gui_palettes

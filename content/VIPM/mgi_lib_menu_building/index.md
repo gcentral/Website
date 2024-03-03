@@ -1,6 +1,7 @@
 ---
 title: "MGI Menu Building"
 externalUrl: https://www.vipm.io/package/mgi_lib_menu_building
+date: 2016-09-08
 summary: "The MGI Menu Building Package enables quick building of menus for both the main menu bar as well as a tray icon menu."
 showSummary: true
 showAuthor: false

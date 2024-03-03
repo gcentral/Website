@@ -1,6 +1,7 @@
 ---
 title: "jki_labs_tool_vi_tester"
 externalUrl: https://www.vipm.io/package/jki_labs_tool_vi_tester-1.1.2.164
+date: 2010-12-01
 summary: "JKI VI Tester is a unit test framework for LabVIEW based on xUnit test framework patterns."
 showSummary: true
 showAuthor: false

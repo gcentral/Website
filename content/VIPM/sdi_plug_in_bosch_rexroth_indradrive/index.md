@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Bosch Rexroth IndraDrive"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_bosch_rexroth_indradrive
+date: 2017-11-06
 summary: "NI SoftMotion Plug-in for Bosch Rexroth IndraDrive EtherCAT Servo Drives."
 showSummary: true
 showAuthor: false

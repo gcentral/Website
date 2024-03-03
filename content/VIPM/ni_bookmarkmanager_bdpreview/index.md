@@ -1,6 +1,7 @@
 ---
 title: "NI Bookmark Manager with Block Diagram Preview"
 externalUrl: https://www.vipm.io/package/ni_bookmarkmanager_bdpreview
+date: 2016-05-19
 summary: "One of the many new features in LabVIEW 2013 is the ability to bookmark tasks, or to-do items, using hashtags (#) in labels and block diagram comments."
 showSummary: true
 showAuthor: false

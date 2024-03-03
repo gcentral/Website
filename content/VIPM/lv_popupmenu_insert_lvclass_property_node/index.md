@@ -1,10 +1,8 @@
 ---
 title: "Insert LVClass Property Node"
 externalUrl: https://www.vipm.io/package/lv_popupmenu_insert_lvclass_property_node
-summary: "LabVIEW shortcut menu plug-In to insert LVClass Property Node (Read or Write) or display dialog to choose which property to create with which access (Read, Write, Read and Write)
-
-## Installation
-- Download the Insert LVClass Property Node.vip."
+date: 2022-02-28
+summary: "LabVIEW shortcut menu plug-In to insert LVClass Property Node (Read or Write) or display dialog to choose which property to create with which access (Read, Write, Read and Write)"
 showSummary: true
 showAuthor: false
 showEdit: false

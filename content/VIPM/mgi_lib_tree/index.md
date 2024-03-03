@@ -1,6 +1,7 @@
 ---
 title: "MGI Tree"
 externalUrl: https://www.vipm.io/package/mgi_lib_tree
+date: 2016-08-30
 summary: "This package contains VIs that aid in working with Tree Controls."
 showSummary: true
 showAuthor: false

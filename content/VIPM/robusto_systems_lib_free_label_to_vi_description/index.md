@@ -1,7 +1,8 @@
 ---
 title: "Free Label To VI Description (Right-Click Menu Plugin)"
 externalUrl: https://www.vipm.io/package/robusto_systems_lib_free_label_to_vi_description
-summary: "This is a right-click menu (a.k.a."
+date: 2023-04-11
+summary: "This is a right-click menu (a."
 showSummary: true
 showAuthor: false
 showEdit: false

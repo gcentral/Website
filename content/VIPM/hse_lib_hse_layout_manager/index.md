@@ -1,7 +1,8 @@
 ---
 title: "HSE Layout Manager"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_layout_manager
-summary: "A layout system for LabVIEW frontpanel objects (controls) inspired by Qt5 (https://doc.qt.io/qt-5/layout.html)."
+date: 2020-12-10
+summary: "A layout system for LabVIEW frontpanel objects (controls) inspired by Qt5 (https://doc."
 showSummary: true
 showAuthor: false
 showEdit: false

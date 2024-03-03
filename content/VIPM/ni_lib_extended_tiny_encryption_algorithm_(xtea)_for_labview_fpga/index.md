@@ -1,6 +1,7 @@
 ---
 title: "Extended Tiny Encryption Algorithm (XTEA) for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/ni_lib_extended_tiny_encryption_algorithm_(xtea)_for_labview_fpga
+date: 2016-05-19
 summary: "The Extended Tiny Encryption Algorithm (XTEA) is a block cipher encryption algorithm that is very simple to implement, has fast execution time, and takes minimal storage space."
 showSummary: true
 showAuthor: false

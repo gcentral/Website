@@ -1,6 +1,7 @@
 ---
 title: "NI Log IP"
 externalUrl: https://www.vipm.io/package/ni_lib_log_ip
+date: 2016-05-19
 summary: "This IP provides an FPGA block for computing 20*Log(x) using a lookup table on the FPGA."
 showSummary: true
 showAuthor: false

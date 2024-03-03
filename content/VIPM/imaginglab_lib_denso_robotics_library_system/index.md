@@ -1,6 +1,7 @@
 ---
 title: "Denso Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/imaginglab_lib_denso_robotics_library_system
+date: 2016-05-19
 summary: "With this library you can program a single LabVIEW application that integrates all aspects of machine control and automation from part handling and robot control to advanced measurements and machine vision."
 showSummary: true
 showAuthor: false

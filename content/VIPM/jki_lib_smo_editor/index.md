@@ -1,7 +1,8 @@
 ---
 title: "JKI SMO Editor"
 externalUrl: https://www.vipm.io/package/jki_lib_smo_editor
-summary: "."
+date: 2019-04-25
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

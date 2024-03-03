@@ -1,6 +1,7 @@
 ---
 title: "NXG Controls"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_inc_nxg_controls
+date: 2022-12-02
 summary: "This package allows developpers to use the NXG style controls and indicators to create front panels with the same style as LabVIEW NXG."
 showSummary: true
 showAuthor: false

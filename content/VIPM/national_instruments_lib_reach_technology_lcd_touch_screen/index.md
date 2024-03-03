@@ -1,6 +1,7 @@
 ---
 title: "Reach Technology LCD Touch Screen"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_reach_technology_lcd_touch_screen
+date: 2016-05-19
 summary: "Reach Technology builds a wide range of color touch screen displays with an RS232 communication interface."
 showSummary: true
 showAuthor: false

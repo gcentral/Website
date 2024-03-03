@@ -1,6 +1,7 @@
 ---
 title: "NI Cloud Toolkit for AWS"
 externalUrl: https://www.vipm.io/package/ni_cloud_toolkit_for_aws
+date: 2017-12-05
 summary: "The NI Cloud Toolkit for AWS allows you to write LabVIEW code to interface with various Amazon Web Services."
 showSummary: true
 showAuthor: false

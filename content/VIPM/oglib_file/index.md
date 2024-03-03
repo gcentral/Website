@@ -1,7 +1,8 @@
 ---
 title: "OpenG File Library"
 externalUrl: https://www.vipm.io/package/oglib_file
-summary: "The OpenG File Library package contains several routines for operating on files.."
+date: 2018-03-02
+summary: "The OpenG File Library package contains several routines for operating on files."
 showSummary: true
 showAuthor: false
 showEdit: false

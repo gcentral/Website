@@ -1,6 +1,7 @@
 ---
 title: "NI Priority Encoder IP"
 externalUrl: https://www.vipm.io/package/ni_lib_priorityencoder
+date: 2017-03-01
 summary: "This package provides an FPGA library for performing a SCTL compatible search of a boolean array akin to the host 'Search 1D Array' function."
 showSummary: true
 showAuthor: false

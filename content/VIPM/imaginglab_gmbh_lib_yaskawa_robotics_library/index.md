@@ -1,6 +1,7 @@
 ---
 title: "Yaskawa Motoman Robotics Library"
 externalUrl: https://www.vipm.io/package/imaginglab_gmbh_lib_yaskawa_robotics_library
+date: 2016-05-19
 summary: "With this library you can program a single LabVIEW application that integrates all aspects of machine control and automation from part handling and robot control to advanced measurements and machine vision."
 showSummary: true
 showAuthor: false

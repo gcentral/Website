@@ -1,6 +1,7 @@
 ---
 title: "Fanuc Robotics Library"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_fanuc_robotics_library
+date: 2021-03-25
 summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
 showSummary: true
 showAuthor: false

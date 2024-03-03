@@ -1,7 +1,8 @@
 ---
 title: "TSN Community VIs"
 externalUrl: https://www.vipm.io/package/tsn_community_lib_tsn_community_vis
-summary: "."
+date: 2020-06-25
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

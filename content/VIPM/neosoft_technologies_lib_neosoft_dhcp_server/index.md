@@ -1,6 +1,7 @@
 ---
 title: "Neosoft DHCP Server"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lib_neosoft_dhcp_server
+date: 2024-01-23
 summary: "This toolkit implements a DHCP server in the form of a DQMH module."
 showSummary: true
 showAuthor: false

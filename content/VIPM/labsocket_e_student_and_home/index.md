@@ -1,6 +1,7 @@
 ---
 title: "LabSocket-E Student and Home Edition"
 externalUrl: https://www.vipm.io/package/labsocket_e_student_and_home
+date: 2018-03-12
 summary: "LabSocket-Embedded ('LabSocket-E') enables remote access from desktop or mobile web browsers to LabVIEW applications operating on National Instruments Real-Time platforms such as CompactRIO, Single-Board RIO, myRIO and PXI devices, without browser plugins or a client run-time engine."
 showSummary: true
 showAuthor: false

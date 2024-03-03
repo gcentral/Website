@@ -1,7 +1,8 @@
 ---
 title: "OpenCLV"
 externalUrl: https://www.vipm.io/package/raptorview_openclv
-summary: "Initial release of OpenCL implementation in Labview."
+date: 2016-05-19
+summary: "Initial release of OpenCL implementation in Labview"
 showSummary: true
 showAuthor: false
 showEdit: false

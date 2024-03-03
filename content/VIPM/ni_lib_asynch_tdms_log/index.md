@@ -1,6 +1,7 @@
 ---
 title: "Asynchronous TDMS Logger"
 externalUrl: https://www.vipm.io/package/ni_lib_asynch_tdms_log
+date: 2016-05-19
 summary: "This is a library of functions of the asynchronous TDMS logger."
 showSummary: true
 showAuthor: false

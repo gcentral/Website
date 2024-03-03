@@ -1,6 +1,7 @@
 ---
 title: "NI Spectrogram IP Host"
 externalUrl: https://www.vipm.io/package/ni_lib_spectrogram_ip_host
+date: 2016-05-19
 summary: "This package provides the host library required for controlling a bitfile which contains the NI Spectrogram IP block."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "GPower VI Launcher"
 externalUrl: https://www.vipm.io/package/gpower_lib_vilauncher
+date: 2016-05-19
 summary: "This toolset simplifies the task of launching a VI dynamically and optionally transferring startup data to it."
 showSummary: true
 showAuthor: false

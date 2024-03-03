@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_error-2.1"
 externalUrl: https://www.vipm.io/package/oglib_error-2.1
-summary: "The error package contains several routines related to error handling.."
+date: 2011-06-25
+summary: "The error package contains several routines related to error handling."
 showSummary: true
 showAuthor: false
 showEdit: false

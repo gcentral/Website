@@ -1,8 +1,8 @@
 ---
 title: "LabVIEW gRPC Library"
 externalUrl: https://www.vipm.io/package/ni_lib_labview_grpc_library
-summary: "This Library provides gRPC support for LabVIEW
-https://github.com/ni/grpc-labview."
+date: 2024-02-14
+summary: "This Library provides gRPC support for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false

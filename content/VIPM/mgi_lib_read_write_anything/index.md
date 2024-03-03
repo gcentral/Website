@@ -1,6 +1,7 @@
 ---
 title: "MGI Read/Write Anything"
 externalUrl: https://www.vipm.io/package/mgi_lib_read_write_anything
+date: 2016-09-08
 summary: "Almost every application needs to save information in files, and the question we developers face is what file format to use."
 showSummary: true
 showAuthor: false

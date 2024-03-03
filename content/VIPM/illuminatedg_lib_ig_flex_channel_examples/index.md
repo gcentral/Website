@@ -1,6 +1,7 @@
 ---
 title: "IG Flex Channel Examples"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_flex_channel_examples
+date: 2022-03-01
 summary: "Provides more real-world usage of the Flex Channel template with multiple data types and demonstrates the multiple reader endpoint types."
 showSummary: true
 showAuthor: false

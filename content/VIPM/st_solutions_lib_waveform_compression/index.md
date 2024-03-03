@@ -1,6 +1,7 @@
 ---
 title: "Waveform Compression"
 externalUrl: https://www.vipm.io/package/st_solutions_lib_waveform_compression
+date: 2016-06-24
 summary: "The purpose of this toolkit is to reduce the amount of memory that is required to store waveforms and save more drive space."
 showSummary: true
 showAuthor: false

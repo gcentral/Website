@@ -1,6 +1,7 @@
 ---
 title: "Summer of LabVIEW - Maze"
 externalUrl: https://www.vipm.io/package/summer_of_labview_maze
+date: 2024-02-19
 summary: "Summer of LabVIEW is a program run by DNatt and DBomm initially to grow excitement and experience with LabVIEW development within NI."
 showSummary: true
 showAuthor: false

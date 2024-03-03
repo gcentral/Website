@@ -1,7 +1,8 @@
 ---
 title: "Kinova MICO USB"
 externalUrl: https://www.vipm.io/package/kinova_mico2_usb
-summary: "."
+date: 2022-04-26
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

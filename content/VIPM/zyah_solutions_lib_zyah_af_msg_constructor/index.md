@@ -1,7 +1,8 @@
 ---
 title: "Zyah AF Msg Constructor"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_zyah_af_msg_constructor
-summary: "Adds right-click menu options to AF Msgs to create and rescript a message class with an additional 'Construct' method.."
+date: 2021-11-01
+summary: "Adds right-click menu options to AF Msgs to create and rescript a message class with an additional 'Construct' method."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,9 +1,8 @@
 ---
 title: "ADC Drivers FPGA Library"
 externalUrl: https://www.vipm.io/package/rafasolutions_lib_adc_drivers_toolkit
-summary: "ADC Drivers FPGA Library
-
-ADC Drivers FPGA Library includes drivers for the following analog-to-digital (ADC) converters."
+date: 2022-03-23
+summary: "ADC Drivers FPGA Library"
 showSummary: true
 showAuthor: false
 showEdit: false

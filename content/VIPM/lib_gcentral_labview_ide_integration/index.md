@@ -1,9 +1,8 @@
 ---
 title: "GCentral/LabVIEW IDE Integration"
 externalUrl: https://www.vipm.io/package/lib_gcentral_labview_ide_integration
-summary: "This package installs GCentral's LabVIEW IDE integration, which includes:
-
-* Website launch from the help menu.."
+date: 2020-10-27
+summary: "This package installs GCentral's LabVIEW IDE integration, which includes:"
 showSummary: true
 showAuthor: false
 showEdit: false

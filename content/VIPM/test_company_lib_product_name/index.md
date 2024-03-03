@@ -1,7 +1,8 @@
 ---
 title: "Product Name"
 externalUrl: https://www.vipm.io/package/test_company_lib_product_name
-summary: "."
+date: 2018-05-09
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

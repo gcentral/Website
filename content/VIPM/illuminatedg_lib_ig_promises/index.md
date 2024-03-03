@@ -1,6 +1,7 @@
 ---
 title: "IG Promises"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_promises
+date: 2023-10-27
 summary: "Provides a Promise/Future implementation for LabVIEW."
 showSummary: true
 showAuthor: false

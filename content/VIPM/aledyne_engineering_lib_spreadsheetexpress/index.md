@@ -1,7 +1,8 @@
 ---
 title: "Spreadsheet Express"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_spreadsheetexpress
-summary: "A toolkit of .vis that allows for programmatic control and interaction of Excel using ActiveX."
+date: 2016-05-19
+summary: "A toolkit of ."
 showSummary: true
 showAuthor: false
 showEdit: false

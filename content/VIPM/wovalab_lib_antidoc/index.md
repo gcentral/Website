@@ -1,6 +1,7 @@
 ---
 title: "AntiDoc"
 externalUrl: https://www.vipm.io/package/wovalab_lib_antidoc
+date: 2023-07-11
 summary: "This tool generates different kind of documentation based on the add-on installed."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_compare_vi_to_disk-1.1"
 externalUrl: https://www.vipm.io/package/ogrsc_compare_vi_to_disk-1.1
-summary: "Adds a 'Compare to Disk...' option to the Tools menu, which opens the active VI and the copy on disk in the LabVIEW comparison tool."
+date: 2011-11-21
+summary: "Adds a 'Compare to Disk."
 showSummary: true
 showAuthor: false
 showEdit: false

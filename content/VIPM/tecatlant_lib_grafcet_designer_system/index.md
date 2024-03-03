@@ -1,6 +1,7 @@
 ---
 title: "Grafcet Designer (System)"
 externalUrl: https://www.vipm.io/package/tecatlant_lib_grafcet_designer_system
+date: 2016-05-19
 summary: "This Add-on for LabVIEW 2010 and later allows to edit and execute **Sequantial Function Chart** (or SFC or **GRAFCET**) in LabVIEW Diagrams."
 showSummary: true
 showAuthor: false

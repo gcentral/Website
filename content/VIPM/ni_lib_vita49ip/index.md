@@ -1,6 +1,7 @@
 ---
 title: "NI VITA49 IP"
 externalUrl: https://www.vipm.io/package/ni_lib_vita49ip
+date: 2016-05-19
 summary: "This package installs IP for injecting a header that implements a small subset of the VITA49 standard into an IQ stream."
 showSummary: true
 showAuthor: false

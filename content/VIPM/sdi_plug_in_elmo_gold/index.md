@@ -1,6 +1,7 @@
 ---
 title: "SDI Plug-in - Elmo Gold"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_elmo_gold
+date: 2018-01-12
 summary: "SoftMotion Drive Interface (SDI) Plug-in for Elmo Gold EtherCAT motor drives."
 showSummary: true
 showAuthor: false

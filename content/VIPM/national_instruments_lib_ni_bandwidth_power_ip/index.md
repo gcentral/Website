@@ -1,6 +1,7 @@
 ---
 title: "NI Bandwidth Power IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_bandwidth_power_ip
+date: 2016-05-19
 summary: "This IP is meant to be a drop in solution for quickly calculating the power of the full bandwidth of the input signal."
 showSummary: true
 showAuthor: false

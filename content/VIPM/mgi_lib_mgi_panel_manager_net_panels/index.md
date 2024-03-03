@@ -1,6 +1,7 @@
 ---
 title: "MGI Panel Manager - .NET Panels"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_panel_manager_net_panels
+date: 2018-03-30
 summary: "This is an extension to the MGI panel manager that provides two new panel types."
 showSummary: true
 showAuthor: false

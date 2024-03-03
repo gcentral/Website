@@ -1,7 +1,8 @@
 ---
 title: "Data Manipulation"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_data_manipulation
-summary: "Data Manipulation is a collection of low-level data manipulation methods for interacting directly with type descriptors and variants to process flattened data efficiently.."
+date: 2023-12-30
+summary: "Data Manipulation is a collection of low-level data manipulation methods for interacting directly with type descriptors and variants to process flattened data efficiently."
 showSummary: true
 showAuthor: false
 showEdit: false

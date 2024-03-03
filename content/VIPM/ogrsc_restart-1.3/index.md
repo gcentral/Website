@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_restart-1.3"
 externalUrl: https://www.vipm.io/package/ogrsc_restart-1.3
-summary: "Restart LabVIEW Resource."
+date: 2007-02-17
+summary: "Restart LabVIEW Resource"
 showSummary: true
 showAuthor: false
 showEdit: false

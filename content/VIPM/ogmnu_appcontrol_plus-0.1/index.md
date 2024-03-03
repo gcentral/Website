@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogmnu_appcontrol_plus-0.1"
 externalUrl: https://www.vipm.io/package/ogmnu_appcontrol_plus-0.1
-summary: "The additional appcontrol package adds new primitives to the Application Control palette."
+date: 2018-03-02
+summary: "The additional appcontrol package adds new primitives to the Application Control palette"
 showSummary: true
 showAuthor: false
 showEdit: false

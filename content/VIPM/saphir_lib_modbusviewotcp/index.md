@@ -1,6 +1,7 @@
 ---
 title: "GModBus over TCP"
 externalUrl: https://www.vipm.io/package/saphir_lib_modbusviewotcp
+date: 2016-05-19
 summary: "This toolkit allows you to implement ModBus protocol over TCP in you LabVIEW application."
 showSummary: true
 showAuthor: false

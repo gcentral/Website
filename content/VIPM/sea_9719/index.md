@@ -1,7 +1,8 @@
 ---
 title: "SEA 802.11p - cRIO Drivers (SEA 9719)"
 externalUrl: https://www.vipm.io/package/sea_9719
-summary: "**1.** Driver software for the **SEA 9719 - 802.11p Communication Module** only."
+date: 2017-05-17
+summary: "**1."
 showSummary: true
 showAuthor: false
 showEdit: false

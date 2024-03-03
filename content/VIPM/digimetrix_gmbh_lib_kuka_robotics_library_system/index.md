@@ -1,6 +1,7 @@
 ---
 title: "Kuka Robotics Library KR C4 (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_kuka_robotics_library_system
+date: 2016-11-10
 summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
 showSummary: true
 showAuthor: false

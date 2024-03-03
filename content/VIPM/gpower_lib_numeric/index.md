@@ -1,7 +1,8 @@
 ---
 title: "GPower Numeric"
 externalUrl: https://www.vipm.io/package/gpower_lib_numeric
-summary: "Library for numeric rounding, truncation, counters, integer & fractional part extraction, random numbers, and numeric constants.."
+date: 2017-02-07
+summary: "Library for numeric rounding, truncation, counters, integer & fractional part extraction, random numbers, and numeric constants."
 showSummary: true
 showAuthor: false
 showEdit: false

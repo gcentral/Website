@@ -1,17 +1,8 @@
 ---
 title: "cRIO PB Slave"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pbas
-summary: "**PROFIBUS DP Slave Interface for CompactRIO**
-for LabvIEW 2018 or later
-
-**Required Software**
-Before using this driver it is needed to install the following software components:
-   - LabVIEW RT
-   - FPGA
-   - NI-RIO
-
-**Help**
-The Installation Instructions manual and the Getting Started manual can be found *LabVIEW -> Help -> KUNBUS GmbH -> cRIO PBAS*."
+date: 2019-02-05
+summary: "**PROFIBUS DP Slave Interface for CompactRIO**"
 showSummary: true
 showAuthor: false
 showEdit: false

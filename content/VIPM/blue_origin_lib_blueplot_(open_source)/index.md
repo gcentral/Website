@@ -1,6 +1,7 @@
 ---
 title: "BluePlot (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueplot_(open_source)
+date: 2023-02-12
 summary: "A plotting UI optimized for real-time display of circularly buffered data."
 showSummary: true
 showAuthor: false

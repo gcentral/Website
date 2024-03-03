@@ -1,6 +1,7 @@
 ---
 title: "AnimateX"
 externalUrl: https://www.vipm.io/package/10x_engineering_lib_animatex
+date: 2018-01-31
 summary: "AnimateX is the first animation kit for NI LabVIEW users, developed by 10X Engineering."
 showSummary: true
 showAuthor: false
@@ -20,6 +21,7 @@ tags:
  - "VIPM"
  - "NI LabVIEW Tools Network"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/10x_engineering_lib_animatex

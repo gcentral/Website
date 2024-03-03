@@ -1,6 +1,7 @@
 ---
 title: "PL HFP Generator"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_hfp_generator
+date: 2022-11-09
 summary: "LabVIEW instrument driver for HFP Plasma G20 and GK series RF generators."
 showSummary: true
 showAuthor: false

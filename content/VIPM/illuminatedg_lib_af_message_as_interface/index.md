@@ -1,7 +1,8 @@
 ---
 title: "IG AF Message as Interface"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_af_message_as_interface
-summary: "Change the base Message.lvclass in Actor Framework to an Interface."
+date: 2023-07-04
+summary: "Change the base Message."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Waveform Match Trigger Example for the NI 5171R"
 externalUrl: https://www.vipm.io/package/ni_example_waveform_match_5171r
+date: 2016-05-19
 summary: "This example implements waveform match trigger on the NI 5171R user-programmable FPGA."
 showSummary: true
 showAuthor: false

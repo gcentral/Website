@@ -1,8 +1,8 @@
 ---
 title: "Viewpoint Docx Toolkit"
 externalUrl: https://www.vipm.io/package/viewpoint_systems_docx_toolkit
-summary: "<size=24>**Viewpoint Docx Toolkit**</size>
-The Docx Toolkit by Viewpoint Systems provides a simple LabVIEW API to create native Microsoft Word docx documents, without installing Microsoft Word or using ActiveX/COM."
+date: 2018-12-19
+summary: "<size=24>**Viewpoint Docx Toolkit**</size>"
 showSummary: true
 showAuthor: false
 showEdit: false

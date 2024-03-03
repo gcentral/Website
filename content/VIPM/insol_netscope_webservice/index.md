@@ -1,7 +1,8 @@
 ---
 title: "NetScope WebService"
 externalUrl: https://www.vipm.io/package/insol_netscope_webservice
-summary: "Network Scope Driver is network-working Scope driver i.e."
+date: 2016-05-19
+summary: "Network Scope Driver is network-working Scope driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

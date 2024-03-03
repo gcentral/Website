@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_array-2.6"
 externalUrl: https://www.vipm.io/package/oglib_array-2.6
-summary: "The array package contains several routines for operating on array data.."
+date: 2007-03-28
+summary: "The array package contains several routines for operating on array data."
 showSummary: true
 showAuthor: false
 showEdit: false

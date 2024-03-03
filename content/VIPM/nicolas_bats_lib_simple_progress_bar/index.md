@@ -1,7 +1,8 @@
 ---
 title: "Simple Progress Bar"
 externalUrl: https://www.vipm.io/package/nicolas_bats_lib_simple_progress_bar
-summary: "."
+date: 2020-05-16
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

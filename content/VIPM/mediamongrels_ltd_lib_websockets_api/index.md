@@ -1,7 +1,8 @@
 ---
 title: "WebSockets"
 externalUrl: https://www.vipm.io/package/mediamongrels_ltd_lib_websockets_api
-summary: "This library implements WebSockets Client and Server functionality for communicating between LabVIEW applications and between a LabVIEW Application and a WebSockets Client (e.g."
+date: 2023-12-12
+summary: "This library implements WebSockets Client and Server functionality for communicating between LabVIEW applications and between a LabVIEW Application and a WebSockets Client (e."
 showSummary: true
 showAuthor: false
 showEdit: false

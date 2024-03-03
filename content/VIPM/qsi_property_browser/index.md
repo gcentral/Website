@@ -1,6 +1,7 @@
 ---
 title: "QSI Property Browser"
 externalUrl: https://www.vipm.io/package/qsi_property_browser
+date: 2021-05-19
 summary: "The Property Browser is a floating window that can be running in the background during development."
 showSummary: true
 showAuthor: false

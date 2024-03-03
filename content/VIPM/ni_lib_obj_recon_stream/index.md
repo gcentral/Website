@@ -1,6 +1,7 @@
 ---
 title: "Variant Reconnecting Stream"
 externalUrl: https://www.vipm.io/package/ni_lib_obj_recon_stream
+date: 2016-05-19
 summary: "The Variant Reconnecting Stream provides you with the functionality of a 1:1, bidirectional, reconnecting network working with LV Variants."
 showSummary: true
 showAuthor: false

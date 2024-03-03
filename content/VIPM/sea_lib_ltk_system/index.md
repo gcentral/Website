@@ -1,8 +1,8 @@
 ---
 title: "LTK Localization Toolkit for LabVIEW (System)"
 externalUrl: https://www.vipm.io/package/sea_lib_ltk_system
-summary: "<color=blue>IMPORTANT NOTES:</color>
-<color=blue>1."
+date: 2020-09-22
+summary: "<color=blue>IMPORTANT NOTES:</color>"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "NI Power Spectrum IP"
 externalUrl: https://www.vipm.io/package/ni_lib_power_spectrum_ip
+date: 2016-05-19
 summary: "This IP provides building blocks for creating overlapped FFTs."
 showSummary: true
 showAuthor: false

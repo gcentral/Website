@@ -1,6 +1,7 @@
 ---
 title: "NI BlinkProcess"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_blinkprocess
+date: 2016-05-19
 summary: "This process controls the blink behavior of the USER1 LED on the front panel of a CompactRIO controller."
 showSummary: true
 showAuthor: false

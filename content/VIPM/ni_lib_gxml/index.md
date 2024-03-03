@@ -1,6 +1,7 @@
 ---
 title: "NI GXML"
 externalUrl: https://www.vipm.io/package/ni_lib_gxml
+date: 2016-05-19
 summary: "The LabVIEW reference library VIs allow you to convert an arbitrary LabVIEW data structure to and from a human-readable XML string (or file)."
 showSummary: true
 showAuthor: false

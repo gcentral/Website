@@ -1,6 +1,7 @@
 ---
 title: "MGI Class Method Browser"
 externalUrl: https://www.vipm.io/package/mgi_lib_class_method_browser
+date: 2017-05-16
 summary: "In visual studio (like many other IDEs) there is an extremely helpful auto complete functionality."
 showSummary: true
 showAuthor: false

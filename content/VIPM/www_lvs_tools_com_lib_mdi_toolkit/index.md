@@ -1,6 +1,7 @@
 ---
 title: "MDI Toolkit"
 externalUrl: https://www.vipm.io/package/www_lvs_tools_com_lib_mdi_toolkit
+date: 2017-06-22
 summary: "The **MDI Toolkit** enables developers to create Multiple Document Interface (MDI) applications quickly and easily on Windows platforms."
 showSummary: true
 showAuthor: false

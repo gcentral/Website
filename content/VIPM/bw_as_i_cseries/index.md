@@ -1,6 +1,7 @@
 ---
 title: "B+W AS-i"
 externalUrl: https://www.vipm.io/package/bw_as_i_cseries
+date: 2018-08-30
 summary: "The AS-i API controls an AS-i network as an AS-i Master."
 showSummary: true
 showAuthor: false

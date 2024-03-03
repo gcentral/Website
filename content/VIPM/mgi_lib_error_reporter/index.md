@@ -1,6 +1,7 @@
 ---
 title: "MGI Error Reporter"
 externalUrl: https://www.vipm.io/package/mgi_lib_error_reporter
+date: 2016-09-08
 summary: "This package contains VIs that logs and reports error occurrences."
 showSummary: true
 showAuthor: false

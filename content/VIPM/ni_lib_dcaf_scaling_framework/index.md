@@ -1,7 +1,8 @@
 ---
 title: "DCAF Scaling Framework"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_scaling_framework
-summary: "Scaling support for DCAF."
+date: 2017-09-28
+summary: "Scaling support for DCAF"
 showSummary: true
 showAuthor: false
 showEdit: false

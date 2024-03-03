@@ -1,6 +1,7 @@
 ---
 title: "NI Disk Streaming Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_disk_streaming_example_for_the_ni_pxie_5644r
+date: 2016-05-19
 summary: "The NI PXIe-5644R is capable of bidirectional DMA at rates over 700 MB/s."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "AM-9898 HART Interface Toolkit"
 externalUrl: https://www.vipm.io/package/am_9898_hart_interface_module_toolkit
+date: 2016-05-19
 summary: "Includes the FPGA and Real-Time toolkit for the Amtec Solutions Group (ASG) AM-9898 HART Interface module."
 showSummary: true
 showAuthor: false

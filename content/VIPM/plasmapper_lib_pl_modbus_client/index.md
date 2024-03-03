@@ -1,6 +1,7 @@
 ---
 title: "PL Modbus Client"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_modbus_client
+date: 2022-11-29
 summary: "Modbus client library for LabVIEW."
 showSummary: true
 showAuthor: false

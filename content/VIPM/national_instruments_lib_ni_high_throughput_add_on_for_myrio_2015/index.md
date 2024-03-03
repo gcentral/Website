@@ -1,6 +1,7 @@
 ---
 title: "NI High Throughput Add-On for myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_high_throughput_add_on_for_myrio_2015
+date: 2016-05-19
 summary: "With the NI High Throughput Add-On for myRIO, you can create applications on the myRIO using the high-throughput FPGA personality."
 showSummary: true
 showAuthor: false

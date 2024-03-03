@@ -1,8 +1,8 @@
 ---
 title: "UI Control Suite: NI Themed Custom Control Suite"
 externalUrl: https://www.vipm.io/package/ni_lib_ui_control_suite-_ni_themed_custom_control_suite
-summary: "Description
-This Custom Control Suite with a ni.com theme features new additions to the LabVIEW front panel control palette."
+date: 2016-05-19
+summary: "Description"
 showSummary: true
 showAuthor: false
 showEdit: false

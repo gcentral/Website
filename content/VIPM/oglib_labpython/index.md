@@ -1,6 +1,7 @@
 ---
 title: "OpenG LabPython Library"
 externalUrl: https://www.vipm.io/package/oglib_labpython
+date: 2011-12-20
 summary: "The LabPython package contains several routines for interfacing to Python."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "Simple DVR Timer API"
 externalUrl: https://www.vipm.io/package/ni_lib_simple_dvr_timer_api
+date: 2016-05-19
 summary: "This is a palette that allows you to create DVR based timers in you application."
 showSummary: true
 showAuthor: false

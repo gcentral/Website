@@ -1,9 +1,8 @@
 ---
 title: "ZAlign"
 externalUrl: https://www.vipm.io/package/zuehlke_engineering_lib_zalign
-summary: "Overview:
-*****
-This QuickDrop PlugIn allows the fast and clean arrangement of Fornt Panel elements."
+date: 2020-12-10
+summary: "Overview:"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -22,6 +21,7 @@ tags:
  - "VIPM"
  - "VIPM Community"
  - "UI"
+ - "GUI"
 ---
 
 Redirecting to https://www.vipm.io/package/zuehlke_engineering_lib_zalign

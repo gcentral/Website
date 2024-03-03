@@ -1,6 +1,7 @@
 ---
 title: "Dark Sky Weather Data for LabVIEW"
 externalUrl: https://www.vipm.io/package/ni_lib_dark_sky_weather_for_labview
+date: 2017-10-06
 summary: "The Dark Sky API is one of the most powerful weather APIs available."
 showSummary: true
 showAuthor: false

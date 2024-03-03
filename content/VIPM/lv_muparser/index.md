@@ -1,7 +1,8 @@
 ---
 title: "muParser Expression Parser API"
 externalUrl: https://www.vipm.io/package/lv_muparser
-summary: "This package provides a simple API for calling the muParser Fast Math Expression Parser (https://beltoforion.de/en/muparser/)."
+date: 2024-01-10
+summary: "This package provides a simple API for calling the muParser Fast Math Expression Parser (https://beltoforion."
 showSummary: true
 showAuthor: false
 showEdit: false

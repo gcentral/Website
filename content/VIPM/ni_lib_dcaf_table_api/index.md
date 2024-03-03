@@ -1,7 +1,8 @@
 ---
 title: "DCAF Table API"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_table_api
-summary: "."
+date: 2016-07-27
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

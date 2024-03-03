@@ -1,6 +1,7 @@
 ---
 title: "NI LabVIEW LINX Toolkit"
 externalUrl: https://www.vipm.io/package/ni_labview_linx_toolkit
+date: 2020-06-01
 summary: "The NI LabVIEW LINX Toolkit adds support for Arduino, Raspberry Pi, and BeagleBone embedded platforms."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "WF 3154 Fault Injection"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3154_fault_injection
+date: 2018-05-04
 summary: "Driver for the WF 3154 C-series Fault Injection module from WireFlow."
 showSummary: true
 showAuthor: false

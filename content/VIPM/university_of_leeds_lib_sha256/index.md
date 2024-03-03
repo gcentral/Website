@@ -1,6 +1,7 @@
 ---
 title: "SHA256"
 externalUrl: https://www.vipm.io/package/university_of_leeds_lib_sha256
+date: 2020-04-11
 summary: "This library implements a native LabVIEDW implementation of the SHA256 encryption and signing algorithm."
 showSummary: true
 showAuthor: false

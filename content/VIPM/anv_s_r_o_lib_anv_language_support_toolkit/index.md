@@ -1,7 +1,8 @@
 ---
 title: "ANV Language Support Toolkit"
 externalUrl: https://www.vipm.io/package/anv_s_r_o_lib_anv_language_support_toolkit
-summary: "."
+date: 2020-10-13
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

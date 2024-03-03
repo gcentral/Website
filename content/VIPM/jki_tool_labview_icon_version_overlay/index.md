@@ -1,8 +1,8 @@
 ---
 title: "LabVIEW Icon Version Overlay"
 externalUrl: https://www.vipm.io/package/jki_tool_labview_icon_version_overlay
-summary: "= About =
-This package applies a four digit year overlay (e.g."
+date: 2014-12-12
+summary: "= About ="
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "ANNAPI"
 externalUrl: https://www.vipm.io/package/annhub_lv_api
+date: 2019-07-26
 summary: "LabVIEW Application Programming Interface (API) to use with Artificial Neural Network Hub (ANNHUB) software."
 showSummary: true
 showAuthor: false

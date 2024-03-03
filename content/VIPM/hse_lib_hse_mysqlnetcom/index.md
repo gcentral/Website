@@ -1,6 +1,7 @@
 ---
 title: "MySQLNetCom"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_mysqlnetcom
+date: 2022-10-05
 summary: "An open-source MySQL/MariaDB driver for LabVIEW using pure TCP/IP primitives."
 showSummary: true
 showAuthor: false

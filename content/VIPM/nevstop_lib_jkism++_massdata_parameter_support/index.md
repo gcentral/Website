@@ -1,7 +1,8 @@
 ---
 title: "JKISM++ MassData Parameter Support"
 externalUrl: https://www.vipm.io/package/nevstop_lib_jkism++_massdata_parameter_support
-summary: "."
+date: 2023-09-28
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

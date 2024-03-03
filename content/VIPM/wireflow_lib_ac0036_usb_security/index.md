@@ -1,6 +1,7 @@
 ---
 title: "WF-SecuritySuite: WF USB Security Dongle"
 externalUrl: https://www.vipm.io/package/wireflow_lib_ac0036_usb_security
+date: 2016-05-19
 summary: "This is the driver and user software to use the WireFlow USB dongle."
 showSummary: true
 showAuthor: false

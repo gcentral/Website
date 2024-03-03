@@ -1,8 +1,8 @@
 ---
 title: "UI Control Suite: Metallic Theme"
 externalUrl: https://www.vipm.io/package/ni_lib_ui_control_suite-_metallic_theme
-summary: "Description
-This Custom Control Suite with a metallic theme features new additions to the LabVIEW front panel control palette."
+date: 2016-05-19
+summary: "Description"
 showSummary: true
 showAuthor: false
 showEdit: false

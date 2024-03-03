@@ -1,7 +1,8 @@
 ---
 title: "dotNET Cryptography Library"
 externalUrl: https://www.vipm.io/package/mediamongrels_ltd_lib_dotnet_cryptography_library
-summary: "A LabVIEW wrapper for the .NET Cryptography library."
+date: 2023-12-08
+summary: "A LabVIEW wrapper for the ."
 showSummary: true
 showAuthor: false
 showEdit: false

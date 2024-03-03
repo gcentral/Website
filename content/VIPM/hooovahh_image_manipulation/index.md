@@ -1,7 +1,8 @@
 ---
 title: "Hooovahh Image Manipulation"
 externalUrl: https://www.vipm.io/package/hooovahh_image_manipulation
-summary: "This package contains a set of VIs which can manipulate images, or assist in displaying images.."
+date: 2023-01-30
+summary: "This package contains a set of VIs which can manipulate images, or assist in displaying images."
 showSummary: true
 showAuthor: false
 showEdit: false

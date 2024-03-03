@@ -1,6 +1,7 @@
 ---
 title: "SQL Injection Prevention System"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_sql_injection_prevention_system
+date: 2017-01-20
 summary: "The purpose of this toolkit is to detect some types of SQL injection."
 showSummary: true
 showAuthor: false

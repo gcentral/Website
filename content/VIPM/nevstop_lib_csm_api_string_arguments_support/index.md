@@ -1,6 +1,7 @@
 ---
 title: "CSM API String Arguments Support"
 externalUrl: https://www.vipm.io/package/nevstop_lib_csm_api_string_arguments_support
+date: 2024-01-31
 summary: "The purpose of this library is to enhance the API parameters for Communicable State Machine (CSM)."
 showSummary: true
 showAuthor: false

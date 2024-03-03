@@ -1,6 +1,7 @@
 ---
 title: "NI Simple Messaging (STM) Library"
 externalUrl: https://www.vipm.io/package/ni_lib_stm
+date: 2017-01-09
 summary: "The Simple Messaging Reference Library (STM) can enhance the performance, usability, maintainability and scalability of a distributed system."
 showSummary: true
 showAuthor: false

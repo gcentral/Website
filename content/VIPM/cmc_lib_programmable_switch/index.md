@@ -1,6 +1,7 @@
 ---
 title: "Programmable Switch for NI myRIO"
 externalUrl: https://www.vipm.io/package/cmc_lib_programmable_switch
+date: 2016-05-19
 summary: "The Programmable Switch for NI myRIO project demonstrates how to use the NI myRIO to wirelessly control a switch via your smartphone or any UDP-enabled device."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "NI License Manager API for LabVIEW"
 externalUrl: https://www.vipm.io/package/ni_lib_nilm_api
+date: 2020-02-03
 summary: "NI License Manager (NILM) is NI's solution for protecting, licensing and activating software that is built on the NI Platform."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "Faulhaber RS232"
 externalUrl: https://www.vipm.io/package/faulhaber_rs232
-summary: "."
+date: 2022-08-17
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

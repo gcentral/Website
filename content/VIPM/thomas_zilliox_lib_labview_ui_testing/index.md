@@ -1,6 +1,7 @@
 ---
 title: "LabVIEW UI Testing"
 externalUrl: https://www.vipm.io/package/thomas_zilliox_lib_labview_ui_testing
+date: 2024-02-25
 summary: "The aim of that package is to create LabVIEW User Interface testing through scripts through pyTest."
 showSummary: true
 showAuthor: false

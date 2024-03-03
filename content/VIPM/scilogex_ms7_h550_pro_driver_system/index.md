@@ -1,7 +1,8 @@
 ---
 title: "SCILOGEX-MS7-H550-Pro_Driver (System)"
 externalUrl: https://www.vipm.io/package/scilogex_ms7_h550_pro_driver_system
-summary: "This product offers a LabVIEW API to control a SCILOGEX-MS7-H550-Pro hotplate stirrer through a serial port (RS-232)."
+date: 2020-11-24
+summary: "This product offers a LabVIEW API to control a SCILOGEX-MS7-H550-Pro hotplate stirrer through a serial port (RS-232)"
 showSummary: true
 showAuthor: false
 showEdit: false

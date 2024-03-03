@@ -1,6 +1,7 @@
 ---
 title: "Logger"
 externalUrl: https://www.vipm.io/package/field_rnd_services_logger
+date: 2021-05-31
 summary: "A simple logging utility similar to the Log4j library but for LabVIEW."
 showSummary: true
 showAuthor: false

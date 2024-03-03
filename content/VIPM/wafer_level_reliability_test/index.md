@@ -1,6 +1,7 @@
 ---
 title: "Wafer-Level Reliability Test"
 externalUrl: https://www.vipm.io/package/wafer_level_reliability_test
+date: 2018-11-29
 summary: "WLR Test toolkit along with National Instruments PXI SMU modules is intended for semiconductor device reliability estimation, at the extreme ends of the device’s specifications (usually voltage and temperature)."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "AR Drone Toolkit"
 externalUrl: https://www.vipm.io/package/lvh_ar_drone_toolkit
-summary: "Toolkit for controlling the AR Drone 1.0 and 2.0 from LabVIEW."
+date: 2016-05-19
+summary: "Toolkit for controlling the AR Drone 1."
 showSummary: true
 showAuthor: false
 showEdit: false

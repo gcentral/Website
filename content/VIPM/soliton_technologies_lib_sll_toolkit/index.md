@@ -1,11 +1,8 @@
 ---
 title: "SLL Toolkit"
 externalUrl: https://www.vipm.io/package/soliton_technologies_lib_sll_toolkit
-summary: "Available in **Functions Palette -> Addons -> SLL Toolkit** and in **LabVIEW Tools menu -> SLL Toolkit.**
-
-**Requires VIPM 2017 or greater.**
-
-This contains SLL Queued State Machine (QSM) and collection of various useful general purpose reusable VIs spanning across String, File IO, Scripting, TCP IP and other categories."
+date: 2024-02-13
+summary: "Available in **Functions Palette -> Addons -> SLL Toolkit** and in **LabVIEW Tools menu -> SLL Toolkit."
 showSummary: true
 showAuthor: false
 showEdit: false

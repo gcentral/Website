@@ -1,6 +1,7 @@
 ---
 title: "Third Party Licensing & Activation Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_tplat
+date: 2023-03-14
 summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_boolean-2.0"
 externalUrl: https://www.vipm.io/package/oglib_boolean-2.0
-summary: "The boolean package contains several routines for operating on Booleans.."
+date: 2018-03-02
+summary: "The boolean package contains several routines for operating on Booleans."
 showSummary: true
 showAuthor: false
 showEdit: false

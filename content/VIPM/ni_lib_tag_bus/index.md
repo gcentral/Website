@@ -1,7 +1,8 @@
 ---
 title: "NI Tag Bus"
 externalUrl: https://www.vipm.io/package/ni_lib_tag_bus
-summary: "."
+date: 2017-05-20
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

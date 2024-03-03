@@ -1,6 +1,7 @@
 ---
 title: "SMDP Protocol"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_smdp_protocol
+date: 2016-12-02
 summary: "Sycon Multi Drop Protocol (SMDP) Toolkit is a library of VIs for data communication between Master and Slave devices using the SMDP protocol."
 showSummary: true
 showAuthor: false

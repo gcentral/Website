@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_numeric-2.1"
 externalUrl: https://www.vipm.io/package/oglib_numeric-2.1
-summary: "The numeric package contains several routines for operating on numeric data.."
+date: 2011-06-25
+summary: "The numeric package contains several routines for operating on numeric data."
 showSummary: true
 showAuthor: false
 showEdit: false

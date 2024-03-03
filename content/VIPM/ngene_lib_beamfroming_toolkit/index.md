@@ -1,6 +1,7 @@
 ---
 title: "Beamforming and Direction Finding Toolkit"
 externalUrl: https://www.vipm.io/package/ngene_lib_beamfroming_toolkit
+date: 2019-12-05
 summary: "**Beamforming and Direction Finding Toolkit (BFDOA)** is a LabVIEW add-on that helps to apply standard beamforming algorithms over a waveforms from phase synchronous array of sensors to spatially filter (steer array directivity) or find DOA (Direction of Arrival) of incident signals."
 showSummary: true
 showAuthor: false

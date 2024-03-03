@@ -1,6 +1,7 @@
 ---
 title: "X-Modules for myRIO"
 externalUrl: https://www.vipm.io/package/stratom_x_modules_for_myrio
+date: 2016-05-19
 summary: "Shared library for Stratom, Inc."
 showSummary: true
 showAuthor: false

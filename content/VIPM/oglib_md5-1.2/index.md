@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "oglib_md5-1.2"
 externalUrl: https://www.vipm.io/package/oglib_md5-1.2
-summary: "An MD5 Digest implementation.."
+date: 2011-06-25
+summary: "An MD5 Digest implementation."
 showSummary: true
 showAuthor: false
 showEdit: false

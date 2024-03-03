@@ -1,6 +1,7 @@
 ---
 title: "Advanced Encryption Standard (AES) for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/ni_lib_advanced_encryption_standard_(aes)_for_labview_fpga
+date: 2016-05-19
 summary: "Advanced Encryption Standard (AES), or Rijndael as it can also be referred to, is a block cipher that has been received as the standard for encryption by the United States government."
 showSummary: true
 showAuthor: false

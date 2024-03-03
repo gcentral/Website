@@ -1,6 +1,7 @@
 ---
 title: "Custom Flat Buttons UI Controls"
 externalUrl: https://www.vipm.io/package/10x_engineering_lib_custom_flat_buttons_ui_controls
+date: 2019-02-21
 summary: "When it comes to LabVIEW application development, the devil is in the details."
 showSummary: true
 showAuthor: false

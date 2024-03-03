@@ -1,7 +1,8 @@
 ---
 title: "Graphical Screen Editor for SEA Displays"
 externalUrl: https://www.vipm.io/package/sea_lib_graphical_screen_editor
-summary: "**1.**Graphical Screen Editor for **SEA 4912** (2.4') and **SEA 4914** (4.3') display modules only."
+date: 2016-05-19
+summary: "**1."
 showSummary: true
 showAuthor: false
 showEdit: false

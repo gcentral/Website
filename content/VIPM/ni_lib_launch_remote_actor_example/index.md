@@ -1,7 +1,8 @@
 ---
 title: "NI Launch Remote Actor Example"
 externalUrl: https://www.vipm.io/package/ni_lib_launch_remote_actor_example
-summary: "An example of using the Launch Remote Actor package.."
+date: 2016-08-25
+summary: "An example of using the Launch Remote Actor package."
 showSummary: true
 showAuthor: false
 showEdit: false

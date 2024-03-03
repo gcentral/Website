@@ -1,6 +1,7 @@
 ---
 title: "Python Integration Toolkit - Standard Edition"
 externalUrl: https://www.vipm.io/package/enthought_inc_lib_python_integration_toolkit
+date: 2017-12-13
 summary: "The Python Integration Toolkit provides a seamless bridge between Python and LabVIEW."
 showSummary: true
 showAuthor: false

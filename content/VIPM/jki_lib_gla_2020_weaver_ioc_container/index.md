@@ -1,6 +1,7 @@
 ---
 title: "gla_2020 weaver ioc container"
 externalUrl: https://www.vipm.io/package/jki_lib_gla_2020_weaver_ioc_container
+date: 2020-11-06
 summary: "This package contains code example for the gla_2020 'weaver: a generic dependency injection container for LabVIEW' presentation."
 showSummary: true
 showAuthor: false

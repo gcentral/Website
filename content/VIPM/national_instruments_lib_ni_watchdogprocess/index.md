@@ -1,6 +1,7 @@
 ---
 title: "NI WatchdogProcess"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_watchdogprocess
+date: 2016-10-11
 summary: "This process uses the NI Software Watchdog library in conjunction with the RT  hardware watchdog to make sure that all of the processes register with it are still operating in a timely manner."
 showSummary: true
 showAuthor: false

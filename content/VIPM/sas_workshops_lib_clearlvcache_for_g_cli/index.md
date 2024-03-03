@@ -1,7 +1,8 @@
 ---
 title: "Clear LabVIEW Cache For G-CLI"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_clearlvcache_for_g_cli
-summary: "Tool for clearing the LabVIEW cache via G CLI."
+date: 2024-01-30
+summary: "Tool for clearing the LabVIEW cache via G CLI"
 showSummary: true
 showAuthor: false
 showEdit: false

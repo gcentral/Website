@@ -1,6 +1,7 @@
 ---
 title: "Hooovahh Array VIMs"
 externalUrl: https://www.vipm.io/package/hooovahh_array_vims
+date: 2023-11-02
 summary: "This package contains Array functions converted into VIMs, primarily taken from the OpenG Array package."
 showSummary: true
 showAuthor: false

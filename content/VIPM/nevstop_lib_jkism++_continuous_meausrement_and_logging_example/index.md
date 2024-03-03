@@ -1,7 +1,8 @@
 ---
 title: "JKISM++ Continuous Meausrement and Logging Example"
 externalUrl: https://www.vipm.io/package/nevstop_lib_jkism++_continuous_meausrement_and_logging_example
-summary: "."
+date: 2023-09-28
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

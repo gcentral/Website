@@ -1,13 +1,8 @@
 ---
 title: "FTDI Driver for I2C SPI GPIO"
 externalUrl: https://www.vipm.io/package/aj_lv_ftdi_driver_for_i2c_spi_gpio
-summary: "**<u><color=ffb703>FTDI Driver for I2C SPI GPIO </color></u>**
-
-This VI package aims to provide the necessary modules to access FTDI FT4222 as I2C Master, I2C Slave, SPI Master, SPI Slave, GPIO Read, GPIO Write, Interrupts
-
-For any queries email to <color=blue>mail@digiajay.com</color>
-
-**Installation Note**  If any error happens during installation, then retry installing by running VIPM in admin mode."
+date: 2018-12-20
+summary: "**<u><color=ffb703>FTDI Driver for I2C SPI GPIO </color></u>**"
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,6 +1,7 @@
 ---
 title: "NI I2C IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_i2c_ip
+date: 2016-05-19
 summary: "Inter-Integrated Circuit (I2C) buses are commonly used to communicate between a controller (master) device and a target (slave) device."
 showSummary: true
 showAuthor: false

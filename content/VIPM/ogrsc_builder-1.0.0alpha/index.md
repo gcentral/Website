@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogrsc_builder-1.0.0alpha"
 externalUrl: https://www.vipm.io/package/ogrsc_builder-1.0.0alpha
-summary: "OpenG's Software Builder.."
+date: 2007-03-06
+summary: "OpenG's Software Builder."
 showSummary: true
 showAuthor: false
 showEdit: false

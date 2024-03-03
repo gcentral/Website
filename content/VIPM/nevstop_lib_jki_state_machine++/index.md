@@ -1,7 +1,8 @@
 ---
 title: "JKISM++"
 externalUrl: https://www.vipm.io/package/nevstop_lib_jki_state_machine++
-summary: "."
+date: 2023-09-27
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

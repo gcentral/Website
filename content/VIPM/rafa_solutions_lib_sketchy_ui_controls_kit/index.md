@@ -1,9 +1,8 @@
 ---
 title: "Sketchy UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_sketchy_ui_controls_kit
-summary: "Sketchy UI Controls Kit Library
-
-Sketchy UI Controls Kit offers a hand-drawn set of controls that give an opportunity to create unique, doodle-styled LabVIEW interfaces and applications."
+date: 2018-10-10
+summary: "Sketchy UI Controls Kit Library"
 showSummary: true
 showAuthor: false
 showEdit: false

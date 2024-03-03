@@ -1,6 +1,7 @@
 ---
 title: "S7NetCom"
 externalUrl: https://www.vipm.io/package/hse_lib_s7netcom
+date: 2022-09-29
 summary: "An open-source LabVIEW implementation of the S7 PLC network protocol using pure TCP/IP primitives, for talking to SIMATIC PLCs (and others) via Ethernet."
 showSummary: true
 showAuthor: false

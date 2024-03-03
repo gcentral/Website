@@ -1,6 +1,7 @@
 ---
 title: "Kawasaki Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_kawasaki_robotics_library_system
+date: 2021-09-27
 summary: "**Note:** This installer requires VI Package Manager and LabVIEW to be run with Administrator privileges."
 showSummary: true
 showAuthor: false

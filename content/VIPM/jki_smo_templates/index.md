@@ -1,6 +1,7 @@
 ---
 title: "JKI SMO Template (Basics)"
 externalUrl: https://www.vipm.io/package/jki_smo_templates
+date: 2016-08-04
 summary: "This package provides templates to get started withthe JKI State Machine Objects (SMO) framework."
 showSummary: true
 showAuthor: false

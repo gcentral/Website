@@ -1,6 +1,7 @@
 ---
 title: "COS Azure Kinect Sensor&Body Tracking"
 externalUrl: https://www.vipm.io/package/cos_lib_cos_azure_kinect_sensor&body_tracking
+date: 2022-10-24
 summary: "COS Azure Kinect Sensor&Body Tracking for LabVIEW current version encapsulates the depth, vision and imu sensor control and  real-time human body 32 joint point tracking."
 showSummary: true
 showAuthor: false

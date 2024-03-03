@@ -1,6 +1,7 @@
 ---
 title: "OPAL-RT SCTL Math Toolkit"
 externalUrl: https://www.vipm.io/package/opal_rt_sctl_math_toolkit
+date: 2018-08-20
 summary: "The OPAL-RT SCTL Math Toolkit contains FPGA VIs that are designed to perform mathematical operations at very high execution rates up to 200MHz in single-cycle timed loops."
 showSummary: true
 showAuthor: false

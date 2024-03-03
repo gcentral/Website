@@ -1,6 +1,7 @@
 ---
 title: "BACnet_IP Protocol for LabVIEW"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_bacnet_ip_protocol_for_labview
+date: 2016-07-13
 summary: "<size=16> ** BACnet ** is a standard data communication protocol for Building Automation and Control Networks."
 showSummary: true
 showAuthor: false

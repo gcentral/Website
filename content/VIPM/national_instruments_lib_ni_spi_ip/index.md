@@ -1,9 +1,8 @@
 ---
 title: "NI SPI IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_spi_ip
-summary: "**This VI must be placed in a single-cycle timed loop for guaranteed behavior.**
-
-Serial Peripheral Interface (SPI) buses are commonly used to communicate between a controller (master) device and a target (slave) device."
+date: 2016-05-19
+summary: "**This VI must be placed in a single-cycle timed loop for guaranteed behavior."
 showSummary: true
 showAuthor: false
 showEdit: false

@@ -1,8 +1,8 @@
 ---
 title: "Dynamic VI Handler"
 externalUrl: https://www.vipm.io/package/dynamic_vi_handler
-summary: "**Dynamic VI Handler is a collection of VIs to programmatically**
-- Load, run, handle, and release VIs on demand."
+date: 2017-05-08
+summary: "**Dynamic VI Handler is a collection of VIs to programmatically**"
 showSummary: true
 showAuthor: false
 showEdit: false

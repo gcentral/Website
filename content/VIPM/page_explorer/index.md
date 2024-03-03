@@ -1,6 +1,7 @@
 ---
 title: "Page Explorer"
 externalUrl: https://www.vipm.io/package/page_explorer
+date: 2021-10-31
 summary: "It is a tool launched with LabVIEW."
 showSummary: true
 showAuthor: false

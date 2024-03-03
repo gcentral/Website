@@ -1,6 +1,7 @@
 ---
 title: "LV-CLI Common Steps"
 externalUrl: https://www.vipm.io/package/ni_lib_lv_cli_common_steps
+date: 2017-08-07
 summary: "Installs common continuous integration steps for use with the LabVIEW-CLI toolkit from Wiresmith Technologies."
 showSummary: true
 showAuthor: false

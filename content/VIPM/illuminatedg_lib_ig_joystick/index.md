@@ -1,6 +1,7 @@
 ---
 title: "IG Joystick"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_joystick
+date: 2021-10-28
 summary: "Provides easier axis, button, and POV mapping."
 showSummary: true
 showAuthor: false

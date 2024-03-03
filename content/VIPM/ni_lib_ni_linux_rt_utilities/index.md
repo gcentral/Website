@@ -1,6 +1,7 @@
 ---
 title: "NI Linux RT Utilities"
 externalUrl: https://www.vipm.io/package/ni_lib_ni_linux_rt_utilities
+date: 2017-06-02
 summary: "This library and acts as a base library for maintaining common type definitions for use with other Linux-based LabVIEW libraries, and provides a set of common utilities that are useful on a Linux RT system."
 showSummary: true
 showAuthor: false

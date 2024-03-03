@@ -1,6 +1,7 @@
 ---
 title: "CI 9120"
 externalUrl: https://www.vipm.io/package/cogito_instruments_lib_ci_9120
+date: 2017-10-17
 summary: "This package will deploy drivers for the Cogito Instruments CI 9120 module, as well as an example."
 showSummary: true
 showAuthor: false

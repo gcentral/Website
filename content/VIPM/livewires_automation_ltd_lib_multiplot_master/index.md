@@ -1,6 +1,7 @@
 ---
 title: "Multiplot Master"
 externalUrl: https://www.vipm.io/package/livewires_automation_ltd_lib_multiplot_master
+date: 2016-05-19
 summary: "For mastering the display of multiple analogue signals."
 showSummary: true
 showAuthor: false

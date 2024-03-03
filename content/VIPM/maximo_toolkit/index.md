@@ -1,6 +1,7 @@
 ---
 title: "Maximo Toolkit"
 externalUrl: https://www.vipm.io/package/maximo_toolkit
+date: 2017-09-01
 summary: "The Maximo Toolkit allows you to connect LabVIEW to your own **IBM Maximo** instance."
 showSummary: true
 showAuthor: false

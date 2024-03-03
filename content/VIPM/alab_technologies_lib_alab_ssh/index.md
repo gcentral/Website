@@ -1,6 +1,7 @@
 ---
 title: "ALAB SSH"
 externalUrl: https://www.vipm.io/package/alab_technologies_lib_alab_ssh
+date: 2019-04-30
 summary: "ALAB-SSH implements the Secure Shell (SSH) which is a cryptographic network protocol for operating network services securely over an unsecured network."
 showSummary: true
 showAuthor: false

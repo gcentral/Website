@@ -1,10 +1,8 @@
 ---
 title: "Cryptographic Functions"
 externalUrl: https://www.vipm.io/package/lvos_lib_cryptography
-summary: "Native hashing algorithms in this package:
-
-MD5    (RFC1321)
-SHA-1 (RFC 3174)."
+date: 2024-01-01
+summary: "Native hashing algorithms in this package:"
 showSummary: true
 showAuthor: false
 showEdit: false

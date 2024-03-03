@@ -1,6 +1,7 @@
 ---
 title: "Torus Fit (System)"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_torus_fit_system
+date: 2019-12-19
 summary: "This VI fits a torus to a set of 3D points."
 showSummary: true
 showAuthor: false

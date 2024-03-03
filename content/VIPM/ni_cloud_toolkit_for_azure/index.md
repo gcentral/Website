@@ -1,6 +1,7 @@
 ---
 title: "NI Cloud Toolkit for Azure"
 externalUrl: https://www.vipm.io/package/ni_cloud_toolkit_for_azure
+date: 2018-01-12
 summary: "The NI Cloud Toolkit for Azure allows you to write LabVIEW code to interface with various Microsoft Azure Services."
 showSummary: true
 showAuthor: false

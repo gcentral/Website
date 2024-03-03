@@ -1,7 +1,8 @@
 ---
 title: "NetRFSG"
 externalUrl: https://www.vipm.io/package/insol_netrfsg
-summary: "Network RFSG Driver is network-working RFSG driver i.e."
+date: 2016-05-19
+summary: "Network RFSG Driver is network-working RFSG driver i."
 showSummary: true
 showAuthor: false
 showEdit: false

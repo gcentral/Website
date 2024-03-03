@@ -1,8 +1,8 @@
 ---
 title: "LabbitMQ"
 externalUrl: https://www.vipm.io/package/distrio_labbitmq
-summary: "**LabVIEW library for RabbitMQ**
-LabbitMQ is a library for connecting to the RabbitMQ server 3.6.2 with the Advanced Message Queuing Protocol."
+date: 2016-07-07
+summary: "**LabVIEW library for RabbitMQ**"
 showSummary: true
 showAuthor: false
 showEdit: false

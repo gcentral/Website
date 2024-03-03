@@ -1,6 +1,7 @@
 ---
 title: "JSON API"
 externalUrl: https://www.vipm.io/package/lava_lib_json_api
+date: 2020-11-17
 summary: "An API to read and write JSON strings."
 showSummary: true
 showAuthor: false

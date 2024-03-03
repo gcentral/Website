@@ -1,6 +1,7 @@
 ---
 title: "myRIO LED PWM Sample Project"
 externalUrl: https://www.vipm.io/package/darin_k_lib_myrio_led_pwm_sample_project
+date: 2016-05-19
 summary: "This project works on the myRIO 1900 and should compile directly on the myRIO 1950 (requires FPGA module)."
 showSummary: true
 showAuthor: false

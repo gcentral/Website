@@ -1,7 +1,8 @@
 ---
 title: "MakerHub Interface for Adept"
 externalUrl: https://www.vipm.io/package/lvh_adept
-summary: "LabVIEW API for interfacing with Digilent FPGA boards.."
+date: 2016-05-19
+summary: "LabVIEW API for interfacing with Digilent FPGA boards."
 showSummary: true
 showAuthor: false
 showEdit: false

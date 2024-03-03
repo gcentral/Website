@@ -1,6 +1,7 @@
 ---
 title: "DVR Helper"
 externalUrl: https://www.vipm.io/package/euv_tech_lib_dvr_helper
+date: 2021-03-01
 summary: "Fast and easy way to create accessors for DVR based classes."
 showSummary: true
 showAuthor: false

@@ -1,10 +1,8 @@
 ---
 title: "GPower Array"
 externalUrl: https://www.vipm.io/package/gpower_lib_array
-summary: "The GPower Array toolset complements the built-in array functions, specifically;
-
-- Remove specific elements from an array:
-Remove all duplicates within an array, remove all instances of a specific element, or filter an array by a substring/regular expression or by a numeric range."
+date: 2017-02-07
+summary: "The GPower Array toolset complements the built-in array functions, specifically;"
 showSummary: true
 showAuthor: false
 showEdit: false

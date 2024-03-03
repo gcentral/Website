@@ -1,6 +1,7 @@
 ---
 title: "MGI Spline"
 externalUrl: https://www.vipm.io/package/mgi_lib_spline
+date: 2016-08-30
 summary: "This package contains VIs that aid in working with cubic splines."
 showSummary: true
 showAuthor: false

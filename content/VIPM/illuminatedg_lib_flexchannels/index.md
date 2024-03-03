@@ -1,6 +1,7 @@
 ---
 title: "IG FlexChannels"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_flexchannels
+date: 2022-03-04
 summary: "Adds a new Channel template to the create channel dialog in LabVIEW."
 showSummary: true
 showAuthor: false

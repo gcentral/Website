@@ -1,9 +1,8 @@
 ---
 title: "DAC Drivers FPGA Library"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_dac_drivers_fpga_library
-summary: "DAC Drivers FPGA IP Library
-
-DAC Drivers FPGA Library includes drivers for the following digital-to-analog (DAC) converters."
+date: 2016-05-19
+summary: "DAC Drivers FPGA IP Library"
 showSummary: true
 showAuthor: false
 showEdit: false

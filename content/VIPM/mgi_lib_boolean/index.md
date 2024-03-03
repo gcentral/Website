@@ -1,6 +1,7 @@
 ---
 title: "MGI Boolean"
 externalUrl: https://www.vipm.io/package/mgi_lib_boolean
+date: 2016-08-30
 summary: "This package contains VIs that operate with boolean data."
 showSummary: true
 showAuthor: false

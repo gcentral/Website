@@ -1,7 +1,8 @@
 ---
 title: "KD Tree"
 externalUrl: https://www.vipm.io/package/sklein_lib_kd_tree
-summary: "A wrapper around the flann library for nearest neighbor analysis in huge datasets."
+date: 2023-10-31
+summary: "A wrapper around the flann library for nearest neighbor analysis in huge datasets"
 showSummary: true
 showAuthor: false
 showEdit: false

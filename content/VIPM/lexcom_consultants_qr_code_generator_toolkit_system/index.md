@@ -1,6 +1,7 @@
 ---
 title: "Lexcom Consultants QR Code Generator Toolkit (System)"
 externalUrl: https://www.vipm.io/package/lexcom_consultants_qr_code_generator_toolkit_system
+date: 2020-07-07
 summary: "This package requires administrative privileges to install."
 showSummary: true
 showAuthor: false

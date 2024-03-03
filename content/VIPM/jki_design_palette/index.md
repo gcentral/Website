@@ -1,6 +1,7 @@
 ---
 title: "JKI Design Palette"
 externalUrl: https://www.vipm.io/package/jki_design_palette
+date: 2020-05-20
 summary: "A powerful visual controls palette for LabVIEW."
 showSummary: true
 showAuthor: false

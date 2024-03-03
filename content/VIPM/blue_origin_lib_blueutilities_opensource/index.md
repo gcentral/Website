@@ -1,6 +1,7 @@
 ---
 title: "BlueUtilities (OpenSource)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueutilities_opensource
+date: 2023-01-02
 summary: "This package only exists to create a targetable palette for small utility packages."
 showSummary: true
 showAuthor: false

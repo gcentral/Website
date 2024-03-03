@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogpatch_template_bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_template_bugfix-1.0
-summary: "Fixes a bug where template browser does not ignore directories and files prefixed with an underscore.."
+date: 2007-03-06
+summary: "Fixes a bug where template browser does not ignore directories and files prefixed with an underscore."
 showSummary: true
 showAuthor: false
 showEdit: false

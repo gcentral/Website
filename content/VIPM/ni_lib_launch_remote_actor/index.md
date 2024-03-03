@@ -1,7 +1,8 @@
 ---
 title: "NI Launch Remote Actor"
 externalUrl: https://www.vipm.io/package/ni_lib_launch_remote_actor
-summary: "You can now cause an actor to launch on a remote system just by replacing the normal Launch Actor.vi with a new Remote Launch Actor.vi."
+date: 2016-08-25
+summary: "You can now cause an actor to launch on a remote system just by replacing the normal Launch Actor."
 showSummary: true
 showAuthor: false
 showEdit: false

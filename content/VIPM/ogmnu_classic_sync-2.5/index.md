@@ -1,7 +1,8 @@
 ---
-title: ""
+title: "ogmnu_classic_sync-2.5"
 externalUrl: https://www.vipm.io/package/ogmnu_classic_sync-2.5
-summary: "The classic_sync package installs the classic queue and notifier palettes."
+date: 2007-03-06
+summary: "The classic_sync package installs the classic queue and notifier palettes"
 showSummary: true
 showAuthor: false
 showEdit: false

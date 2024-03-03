@@ -1,6 +1,7 @@
 ---
 title: "HSL Tools"
 externalUrl: https://www.vipm.io/package/ims_lib_hsl_tools
+date: 2016-05-19
 summary: "HSL Tools convert from the RGB colorspace to the HSL color space and back."
 showSummary: true
 showAuthor: false

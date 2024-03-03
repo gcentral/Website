@@ -1,7 +1,8 @@
 ---
 title: "ROS for LabVIEW Software"
 externalUrl: https://www.vipm.io/package/ros_for_labview
-summary: "This is a set of VIs for communicating with ROS applications."
+date: 2016-05-19
+summary: "ROS for LabVIEW(TM) Software"
 showSummary: true
 showAuthor: false
 showEdit: false

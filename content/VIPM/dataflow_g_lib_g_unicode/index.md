@@ -1,6 +1,7 @@
 ---
 title: "G-Unicode"
 externalUrl: https://www.vipm.io/package/dataflow_g_lib_g_unicode
+date: 2023-08-30
 summary: "A LabVIEW library for displaying Unicode, manipulating Unicode strings, and performing file I/O on Unicode paths."
 showSummary: true
 showAuthor: false

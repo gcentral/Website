@@ -1,9 +1,8 @@
 ---
 title: "CSM Continuous Meausrement and Logging Example"
 externalUrl: https://www.vipm.io/package/nevstop_lib_csm_continuous_meausrement_and_logging_example
-summary: "**CSM-Continuous-Measurement-and-Logging**
-
-Showcases the example of Continuous Measurement and Logging with CSM, It's much more simple,intuitive and graceful."
+date: 2024-01-31
+summary: "**CSM-Continuous-Measurement-and-Logging**"
 showSummary: true
 showAuthor: false
 showEdit: false

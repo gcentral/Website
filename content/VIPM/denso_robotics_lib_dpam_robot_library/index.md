@@ -1,13 +1,8 @@
 ---
 title: "DENSO Robot Library"
 externalUrl: https://www.vipm.io/package/denso_robotics_lib_dpam_robot_library
-summary: "========================================================================
-**DENSO Robot Library: ** LabVIEW Driver for RC8
-========================================================================
-
-** Description **
-
-The DENSO Robot Library provides an easy way to interface between LabVIEW and the DENSO Robotics hardware*."
+date: 2020-09-15
+summary: "========================================================================"
 showSummary: true
 showAuthor: false
 showEdit: false

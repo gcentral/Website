@@ -1,6 +1,7 @@
 ---
 title: "ScanX"
 externalUrl: https://www.vipm.io/package/10x_engineering_lib_scanx
+date: 2018-02-12
 summary: "ScanX is a general-purpose LabVIEW add-on that enables an interface to work with Scanner devices."
 showSummary: true
 showAuthor: false

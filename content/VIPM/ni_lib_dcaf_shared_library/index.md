@@ -1,7 +1,8 @@
 ---
 title: "DCAF Shared Library Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_shared_library
-summary: "."
+date: 2017-05-20
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

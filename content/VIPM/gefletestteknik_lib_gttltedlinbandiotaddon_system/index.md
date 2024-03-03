@@ -1,6 +1,7 @@
 ---
 title: "LTE DL Inband-IoT (System)"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttltedlinbandiotaddon_system
+date: 2017-05-16
 summary: "GTT LTE DL Inband-IoT is an an add-on to the GTT LTE RBS Toolkit that enables demodulation of LTE NBIoT signal for GTT LTE RBS Toolkit and decoding of NBIoT signal for GTT LTE DL BER/BLER Add-on."
 showSummary: true
 showAuthor: false

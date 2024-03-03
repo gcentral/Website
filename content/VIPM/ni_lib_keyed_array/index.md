@@ -1,7 +1,8 @@
 ---
 title: "NI Keyed Array Library"
 externalUrl: https://www.vipm.io/package/ni_lib_keyed_array
-summary: "Tools library for using a Keyed Array (Name Value Pair) data structure.."
+date: 2016-05-19
+summary: "Tools library for using a Keyed Array (Name Value Pair) data structure."
 showSummary: true
 showAuthor: false
 showEdit: false

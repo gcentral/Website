@@ -1,6 +1,7 @@
 ---
 title: "LabVIEW TwinCAT ADS"
 externalUrl: https://www.vipm.io/package/fisothemes_lib_labview_twincat_ads
+date: 2023-10-29
 summary: "Easy to use Unofficial LabVIEW TwinCAT API for communicating with Beckhoff PLCs via ADS."
 showSummary: true
 showAuthor: false

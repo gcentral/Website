@@ -1,7 +1,8 @@
 ---
 title: "JKI Serialization"
 externalUrl: https://www.vipm.io/package/jki_lib_serialization
-summary: "."
+date: 2016-08-03
+summary: ""
 showSummary: true
 showAuthor: false
 showEdit: false

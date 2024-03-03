@@ -1,9 +1,8 @@
 ---
 title: "Panther Dashboard for DQMH"
 externalUrl: https://www.vipm.io/package/pantherlab_lib_panther_dashboard
-summary: "<size=24>**Panther Dashboard for DQMH**</size>
-
-Panther Dashboard for DQMH is an open-source LabVIEW tool designed to improve the developer experience for DQMH projects."
+date: 2024-02-18
+summary: "<size=24>**Panther Dashboard for DQMH**</size>"
 showSummary: true
 showAuthor: false
 showEdit: false

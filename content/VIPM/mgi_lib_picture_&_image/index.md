@@ -1,6 +1,7 @@
 ---
 title: "MGI Picture & Image"
 externalUrl: https://www.vipm.io/package/mgi_lib_picture_&_image
+date: 2016-08-31
 summary: "This package contains VIs that operate with image or picture data or references."
 showSummary: true
 showAuthor: false

@@ -1,6 +1,7 @@
 ---
 title: "MGI User Interface"
 externalUrl: https://www.vipm.io/package/mgi_lib_user_interface
+date: 2016-09-08
 summary: "The MGI User Interface package contains VIs that show dialogs to the user."
 showSummary: true
 showAuthor: false

@@ -1,7 +1,8 @@
 ---
 title: "LV-WebSockets"
 externalUrl: https://www.vipm.io/package/ls_instruments_ag_lib_lv_websockets
-summary: "This library is a fork of v1.6.0.22 of the WebSokets library by MediaMongrels Ltd."
+date: 2023-11-22
+summary: "This library is a fork of v1."
 showSummary: true
 showAuthor: false
 showEdit: false
