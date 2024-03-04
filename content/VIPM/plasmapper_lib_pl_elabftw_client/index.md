@@ -2,7 +2,7 @@
 title: "PL eLabFTW Client"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_elabftw_client
 date: 2022-08-01
-summary: "eLabFTW client library for LabVIEW."
+summary: "eLabFTW client library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

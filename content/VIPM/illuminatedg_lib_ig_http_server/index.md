@@ -2,7 +2,7 @@
 title: "IG HTTP Server"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_http_server
 date: 2023-10-16
-summary: "HTTP Web Server for LabVIEW applications."
+summary: "HTTP Web Server implemented with 100% LabVIEW. Includes HTTPS, Form handling, Sessions, WebSocket Upgrades, and more."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -2,7 +2,7 @@
 title: "GPower VI Register"
 externalUrl: https://www.vipm.io/package/gpower_lib_viregister
 date: 2017-02-07
-summary: "A VI Register combines the performance and simplicity in use of a local variable with the scope of a global variable – without any bindings beyond the block diagram."
+summary: "The VI Register LabVIEW toolset is an intra-process data sharing technology like local or global variables."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/gpower_lib_viregister

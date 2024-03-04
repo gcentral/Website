@@ -2,7 +2,7 @@
 title: "MGI Bezier"
 externalUrl: https://www.vipm.io/package/mgi_lib_bezier
 date: 2016-08-30
-summary: "This package contains VIs useful when working with Bezier curves."
+summary: "VIs releated to Bezier curves"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

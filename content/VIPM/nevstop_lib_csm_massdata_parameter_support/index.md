@@ -2,7 +2,7 @@
 title: "CSM MassData Parameter Support"
 externalUrl: https://www.vipm.io/package/nevstop_lib_csm_massdata_parameter_support
 date: 2023-12-25
-summary: "Addon for Mass Data Argument support of CSM."
+summary: "MassData Arguments Support for Communicable State Machine(CSM)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

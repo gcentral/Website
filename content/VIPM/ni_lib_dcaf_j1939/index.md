@@ -2,7 +2,7 @@
 title: "DCAF J1939"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_j1939
 date: 2017-05-20
-summary: "This module will allow to talk to CAN devices using the J1939 protocol."
+summary: "Allows interaction with XNET Modules using J1939"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DCAF"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_dcaf_j1939

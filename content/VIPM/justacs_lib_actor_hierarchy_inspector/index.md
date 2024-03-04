@@ -2,7 +2,7 @@
 title: "Actor Hierarchy Inspector"
 externalUrl: https://www.vipm.io/package/justacs_lib_actor_hierarchy_inspector
 date: 2023-07-18
-summary: "The Actor Hierarchy Inspector displays the hierarchy of your Actor Framework project in real time."
+summary: "Displays an actor hierarchy in real time. Users can open the front panel and block diagram of an actor, or stop the actor."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "Actor Framework"
+ - "NI"
+ - "VIPM Community"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/justacs_lib_actor_hierarchy_inspector

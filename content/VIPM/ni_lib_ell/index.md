@@ -2,7 +2,7 @@
 title: "NI Event Logger Library"
 externalUrl: https://www.vipm.io/package/ni_lib_ell
 date: 2016-05-19
-summary: "The Event Logger Library provides a way to log user defined events to a log file."
+summary: "Event Logger Library (ELL) provides a way to easily log user defined events to a file."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

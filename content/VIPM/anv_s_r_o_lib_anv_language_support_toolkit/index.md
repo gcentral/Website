@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JSON"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

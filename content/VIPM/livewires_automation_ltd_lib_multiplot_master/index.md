@@ -2,7 +2,7 @@
 title: "Multiplot Master"
 externalUrl: https://www.vipm.io/package/livewires_automation_ltd_lib_multiplot_master
 date: 2016-05-19
-summary: "For mastering the display of multiple analogue signals."
+summary: "Tools to expand the capabilities of your multiplot charts and graphs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

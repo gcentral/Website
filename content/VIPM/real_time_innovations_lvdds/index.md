@@ -2,7 +2,7 @@
 title: "RTI DDS Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/real_time_innovations_lvdds
 date: 2016-05-19
-summary: "Developing heterogeneous distributed systems is a complex challenge."
+summary: "RTI DDS Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/real_time_innovations_lvdds

@@ -2,7 +2,7 @@
 title: "Configurator III (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_configurator_iii_system
 date: 2019-06-20
-summary: "**KUNBUS Configurator III - PROFIBUS DP/PROFINET IO Master Configuration Tool**"
+summary: "KUNBUS Configurator III - PROFIBUS DP/PROFINET IO Master Configuration Tool"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

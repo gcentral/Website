@@ -2,7 +2,7 @@
 title: "PL Eltochpribor RRG"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_eltochpribor_rrg
 date: 2022-12-01
-summary: "LabVIEW instrument driver for Eltochpribor RRG series mass flow controlers."
+summary: "LabVIEW instrument driver for Eltochpribor RRG series mass flow controlers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/plasmapper_lib_pl_eltochpribor_rrg

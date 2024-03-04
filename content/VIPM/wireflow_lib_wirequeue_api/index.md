@@ -2,7 +2,7 @@
 title: "WF WireQueue-MQTT"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wirequeue_api
 date: 2023-06-01
-summary: "Please note that this package requires **VIPM 2014 or later** for installation and requires VIPM to be run with **'administrator'** rights."
+summary: "LabVIEW API for MQTT, with or without TLS encryption."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

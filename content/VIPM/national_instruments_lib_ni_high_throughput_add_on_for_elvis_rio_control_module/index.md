@@ -2,7 +2,7 @@
 title: "NI High Throughput Add-On for ELVIS RIO Control Module"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_high_throughput_add_on_for_elvis_rio_control_module
 date: 2016-08-03
-summary: "With the NI High Throughput Add-On for ELVIS RIO Control Module, you can create applications on the NI ELVIS RIO Control Module using the high-throughput FPGA personality."
+summary: "High Throughput Add-on for NI ELVIS RIO Control Module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

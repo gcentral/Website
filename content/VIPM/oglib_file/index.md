@@ -2,7 +2,7 @@
 title: "OpenG File Library"
 externalUrl: https://www.vipm.io/package/oglib_file
 date: 2018-03-02
-summary: "The OpenG File Library package contains several routines for operating on files."
+summary: "OpenG File Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

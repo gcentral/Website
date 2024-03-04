@@ -2,7 +2,7 @@
 title: "CLAUDIE_xlsx"
 externalUrl: https://www.vipm.io/package/atesystem_lib_claudie_xlsx
 date: 2017-08-21
-summary: "LabVIEW CLAUDIE xlsx 1."
+summary: "VI addon for creating and manipulation with xlsx data."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

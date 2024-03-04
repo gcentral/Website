@@ -2,7 +2,7 @@
 title: "Yaskawa Motoman Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/imaginglab_gmbh_lib_yaskawa_robotics_library_system
 date: 2016-05-19
-summary: "With this library you can program a single LabVIEW application that integrates all aspects of machine control and automation from part handling and robot control to advanced measurements and machine vision."
+summary: "Easy-to-use graphical functions for commanding and controlling Yaskawa Motoman robotics directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/imaginglab_gmbh_lib_yaskawa_robotics_library_system

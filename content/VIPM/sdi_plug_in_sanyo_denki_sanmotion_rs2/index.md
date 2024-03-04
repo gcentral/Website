@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Sanyo Denki SANMOTION RS2"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_sanyo_denki_sanmotion_rs2
 date: 2018-03-30
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Sanyo Denki SANMOTION RS2 EtherCAT servo drives."
+summary: "SoftMotion Drive Interface (SDI) Plug-in for Sanyo Denki SANMOTION RS2 servo drives."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_sanyo_denki_sanmotion_rs2

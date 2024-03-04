@@ -2,7 +2,7 @@
 title: "ALAB SSH"
 externalUrl: https://www.vipm.io/package/alab_technologies_lib_alab_ssh
 date: 2019-04-30
-summary: "ALAB-SSH implements the Secure Shell (SSH) which is a cryptographic network protocol for operating network services securely over an unsecured network."
+summary: "Implements SSH and SCP client for LabVIEW using Renci SSH.NET."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/alab_technologies_lib_alab_ssh

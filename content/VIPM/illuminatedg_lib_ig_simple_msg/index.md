@@ -2,7 +2,7 @@
 title: "IG Stream Messaging"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_simple_msg
 date: 2022-11-12
-summary: "Provides a messaging layer overtop of a stream implementation based on *IG Stream Base*."
+summary: "Simple Messaging layer based on IG Stream Base, can be used with any comms based on IG Stream Base"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/illuminatedg_lib_ig_simple_msg

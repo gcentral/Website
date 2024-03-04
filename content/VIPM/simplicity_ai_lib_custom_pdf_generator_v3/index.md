@@ -2,7 +2,7 @@
 title: "Custom PDF Generator V3"
 externalUrl: https://www.vipm.io/package/simplicity_ai_lib_custom_pdf_generator_v3
 date: 2021-05-07
-summary: "**<color=red>Upgrading from an earlier major version? Version 3 is a major upgrade, so please scroll down to read the Upgrade Notes section BEFORE installing it!</color>**"
+summary: "Feature Packed Custom PDF Generator for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -37,35 +38,35 @@ The Custom PDF Generator is your toolkit for easily creating high quality docume
 
 **Full List of Features:**
 
-*<u>Documentation & Installation</u>*
+*Documentation & Installation*
 Automatic Installation Using VI Package Manager
 Detailed Help File with Hyperlinks
 Example Programs Covering All Major Features
 Downloadable Getting Started Guide
 Context Help for All VIs
 
-*<u>Graphics</u>*
+*Graphics*
 Embed LabVIEW Front Panel and Control Images
 Embed Graphics Images (BMP, JPEG, PNG)
 Watermarking of Pages (Full version only)
 
-*<u>Layout</u>*
+*Layout*
 Automatic Creation Date in Footer
 Automatic Page Numbering in Footer
 
-*<u>Licensing</u>*
+*Licensing*
 Each License enables use on 1 development PC
 Each License enables use in unlimited deployed executables
 
-*<u>Navigation</u>*
+*Navigation*
 Define Chapters, Sections and Custom Bookmarks
 Internal and External Document Links
 
-*<u>Protection</u>*
+*Protection*
 PDF/A-1b for Standardised Long Term Archiving
 Add Password Encryption to PDFs
 
-*<u>Table</u>*
+*Table*
 Embed Tables in Documents
 Simple Table VI for Getting Started Quickly
 Table Builder for Complete Control
@@ -74,12 +75,12 @@ Column Spanning for Table Cells
 Header Rows
 Set a Range of Formatting Options for Columns, Rows or Cells
 
-*<u>Text</u>*
+*Text*
 Multiple Font Support with Corresponding Style Formatting
 Unicode Character Support
 Write LabVIEW Strings Directly into PDF
 
-*<u>Support</u>*
+*Support*
 Please email all support requests to **pdf.support@simplicityai.com**
 
 

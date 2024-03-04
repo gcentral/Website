@@ -2,7 +2,7 @@
 title: "Simple Licensing Toolkit"
 externalUrl: https://www.vipm.io/package/10x_engineering_lib_simple_licensing_toolkit
 date: 2019-02-14
-summary: "Note: This installer requires LabVIEW and VIPM to be run with Administrator privileges."
+summary: "Simple Licensing Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

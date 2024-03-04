@@ -2,7 +2,7 @@
 title: "IconExpress"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_iconexpress
 date: 2016-05-19
-summary: "A toolkit of ."
+summary: "Read icons from any file as LabVIEW image datatype"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

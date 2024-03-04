@@ -2,7 +2,7 @@
 title: "BioRobotics Common Tools"
 externalUrl: https://www.vipm.io/package/biorobotics_lib_biorobotics_common_tools
 date: 2019-05-30
-summary: "This package includes the common tools used in BioRobotics Laboratory Applications."
+summary: "Common tools used in BioRobotics Laboratory Applications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/biorobotics_lib_biorobotics_common_tools

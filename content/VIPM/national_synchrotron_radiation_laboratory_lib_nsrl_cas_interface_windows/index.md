@@ -2,7 +2,7 @@
 title: "NSRL CAS Interface"
 externalUrl: https://www.vipm.io/package/national_synchrotron_radiation_laboratory_lib_nsrl_cas_interface_windows
 date: 2016-05-19
-summary: "**Overview**"
+summary: "NSRL CAS Interface is a Channel Access Server  interface between LabVIEW  and EPICS."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

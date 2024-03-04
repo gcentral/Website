@@ -2,7 +2,7 @@
 title: "Event Source Actor"
 externalUrl: https://www.vipm.io/package/ni_esa
 date: 2018-06-26
-summary: "This package contains a palette and an Event Source Actor class, which adds capabilities to your Actor Oriented applications."
+summary: "Add event generation, registering and publisher subscriber communication to you actors."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "OOP"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_esa

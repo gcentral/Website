@@ -2,7 +2,7 @@
 title: "Cyclic Table Probes"
 externalUrl: https://www.vipm.io/package/drjdpowell_lib_cyclic_table_probes
 date: 2020-07-09
-summary: ""
+summary: "Cyclic table implementation for use in custom probes."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

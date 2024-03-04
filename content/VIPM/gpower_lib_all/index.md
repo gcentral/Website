@@ -2,7 +2,7 @@
 title: "GPower All Toolsets"
 externalUrl: https://www.vipm.io/package/gpower_lib_all
 date: 2017-02-07
-summary: "Placeholder for all the GPower toolsets."
+summary: "All GPower toolsets."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

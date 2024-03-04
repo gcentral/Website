@@ -2,7 +2,7 @@
 title: "JDP Science Common Utilities"
 externalUrl: https://www.vipm.io/package/jdp_science_lib_common_utilities
 date: 2022-12-02
-summary: "Common small utility subVIs uses by multiple JDP Science (drjdpowell) Libraries."
+summary: "Common Utilities used by JDP Science packages"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

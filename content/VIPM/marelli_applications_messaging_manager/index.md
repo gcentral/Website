@@ -2,7 +2,7 @@
 title: "Applications Messaging Manager"
 externalUrl: https://www.vipm.io/package/marelli_applications_messaging_manager
 date: 2022-01-19
-summary: "For feedback or ideeas for improvement please contact **<u><color=blue>alex."
+summary: "The AMM provides a simple and intuitive way of building modular and scalable software."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "Actor Framework"
+ - "VIPM Community"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/marelli_applications_messaging_manager
@@ -30,7 +32,7 @@ Vendor: Marelli
 Author(s): Alex Bugnar (alex.bugnar@marelli.com)
  
 Full Description:
-For feedback or ideeas for improvement please contact **<u><color=blue>alex.bugnar@marelli.com</color></u>**
+For feedback or ideeas for improvement please contact **<color=blue>alex.bugnar@marelli.com</color>**
 
 **What it does:**
 

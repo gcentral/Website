@@ -2,7 +2,7 @@
 title: "NetScope WebService"
 externalUrl: https://www.vipm.io/package/insol_netscope_webservice
 date: 2016-05-19
-summary: "Network Scope Driver is network-working Scope driver i."
+summary: "Network Scope Driver is a driver library to configure and run the radio - measuring equipment such as National Instruments digitizers."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -36,4 +37,4 @@ Rrequirements: LabVIEW 2013 RTE, VIPM 2014.
 
 Find NetSCOPE WebService Documentation in LabVIEW Help Menu.
 
-* For the technical support contact us through * <u> info@insol.am  </u>
+* For the technical support contact us through *  info@insol.am

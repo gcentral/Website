@@ -2,7 +2,7 @@
 title: "LabPack"
 externalUrl: https://www.vipm.io/package/field_rnd_services_labpack
 date: 2017-11-17
-summary: "A library for encoding and decoding MessagePack data."
+summary: "A library for encoding and decoding MessagePack data"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

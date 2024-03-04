@@ -1,8 +1,8 @@
 ---
 title: "Communicable State Machine(CSM)"
 externalUrl: https://www.vipm.io/package/nevstop_lib_communicable_state_machine
-date: 2024-01-31
-summary: "Communicable State Machine(CSM) is a LabVIEW application framework that builds upon JKI State Machine(JKISM)."
+date: 2024-03-03
+summary: "LabVIEW Application Framework extended from JKI State Machine(JKISM)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/nevstop_lib_communicable_state_machine
@@ -29,10 +31,10 @@ Vendor: NEVSTOP
 Author(s): NEVSTOP
  
 Full Description:
-Communicable State Machine(CSM) is a LabVIEW application framework that builds upon JKI State Machine(JKISM). It follows the pattern of JKISM and extends the keywords to describe message communication between modules, including concepts such as Sync-Message, Async-Message, Subscription/Unsubscription of status - essential elements for creating reusable code modules. For more information, please visit the CSM wiki: <https://nevstop-lab.github.io/CSM-Wiki/>
+Communicable State Machine(CSM) is a LabVIEW application framework that builds upon JKI State Machine(JKISM). It follows the pattern of JKISM and extends the keywords to describe message communication between modules, including concepts such as Sync-Message, Async-Message, Subscription/Unsubscription of status - essential elements for creating reusable code modules. For more information, please visit the CSM wiki: https://nevstop-lab.github.io/CSM-Wiki/
 
-- For instructions on JKI State Machine(JKISM), visit: <http://jki.net/state-machine/>
-- For information on NEVSTOP-LAB, visit: <https://github.com/NEVSTOP-LAB>
+- For instructions on JKI State Machine(JKISM), visit: http://jki.net/state-machine
+- For information on NEVSTOP-LAB, visit: https://github.com/NEVSTOP-LAB
 
 **Hightlights:**
 

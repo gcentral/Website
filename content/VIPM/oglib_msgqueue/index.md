@@ -2,7 +2,7 @@
 title: "OpenG Message Queue Library"
 externalUrl: https://www.vipm.io/package/oglib_msgqueue
 date: 2018-03-02
-summary: "The OpenG Message Queue Library generates a response notifier to reply to messages."
+summary: "OpenG Message Queue Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

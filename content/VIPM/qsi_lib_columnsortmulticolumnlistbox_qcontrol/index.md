@@ -2,7 +2,7 @@
 title: "ColumnSortMulticolumnListbox QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_columnsortmulticolumnlistbox_qcontrol
 date: 2023-06-12
-summary: "This QControl provides sorting on each column of a Multicolumn Listbox by clicking on the column header."
+summary: "This QControl provides sorting on each column of a Multicolumn Listbox by clicking on the column header. It also shows in the column header an arrow indicator showing the sorted column and sort direction."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
+ - "MGI"
  - "OOP"
  - "QControl"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_columnsortmulticolumnlistbox_qcontrol

@@ -2,7 +2,7 @@
 title: "GraphBuilder"
 externalUrl: https://www.vipm.io/package/graphbuilder
 date: 2024-01-09
-summary: "<color=green>GraphBuilder</color> allows you to add 'Nodes' (aka vertices) and 'Edges' to create directed graphs."
+summary: "Toolkit to create, perform several algorithms and render directed graphs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

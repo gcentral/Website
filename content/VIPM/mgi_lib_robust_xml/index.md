@@ -2,7 +2,7 @@
 title: "MGI Robust XML"
 externalUrl: https://www.vipm.io/package/mgi_lib_robust_xml
 date: 2016-09-08
-summary: "Robust XML: Improving Compatibility of the LabVIEW XML Schema"
+summary: "Robust XML is a tool, in some ways similar to Read/Write Anything, that handles class data to human-readable XML"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/mgi_lib_robust_xml

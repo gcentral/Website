@@ -2,7 +2,7 @@
 title: "Opto Imaging Modules"
 externalUrl: https://www.vipm.io/package/opto_france_lib_optoimagingmodules
 date: 2022-08-02
-summary: "**Opto Imaging Modules Package**"
+summary: "Opto Imaging Modules Package gives access to the library in charge of image acquisition and control of different hardware devices."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/opto_france_lib_optoimagingmodules

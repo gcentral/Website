@@ -2,7 +2,7 @@
 title: "RIOsys-9002 API"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_riosys_9002
 date: 2018-07-12
-summary: "RIOsys-9002 API: LabVIEW add-on"
+summary: "API for RIOsys modules"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

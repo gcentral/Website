@@ -2,7 +2,7 @@
 title: "Cryptographic Functions"
 externalUrl: https://www.vipm.io/package/lvos_lib_cryptography
 date: 2024-01-01
-summary: "Native hashing algorithms in this package:"
+summary: "Fast, Native Cryptographic and Hashing Function"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

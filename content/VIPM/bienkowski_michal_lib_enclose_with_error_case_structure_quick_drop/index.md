@@ -2,7 +2,7 @@
 title: "Enclose With Error Case Structure Quick Drop"
 externalUrl: https://www.vipm.io/package/bienkowski_michal_lib_enclose_with_error_case_structure_quick_drop
 date: 2020-06-14
-summary: ""
+summary: "Quick Drop plugin to enclose selected code with an Error Case Structure"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

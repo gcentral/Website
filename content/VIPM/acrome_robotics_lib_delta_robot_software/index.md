@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/acrome_robotics_lib_delta_robot_software

@@ -1,8 +1,8 @@
 ---
-title: "ogrsc_deab-0.9"
+title: "Ogrsc deab-0.9"
 externalUrl: https://www.vipm.io/package/ogrsc_deab-0.9
 date: 2011-11-21
-summary: "The DEAB package contains a utility building Development Environment Apps."
+summary: "LabVIEW Development Environment App Builder"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

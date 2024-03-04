@@ -2,7 +2,7 @@
 title: "Interface for Actor INI"
 externalUrl: https://www.vipm.io/package/zyah_solutions_lib_interface_for_actor_ini
 date: 2022-09-23
-summary: "Adds the missing AddActorInterface INI file enabling the 'Interface for Actor' menu option within LabVIEW."
+summary: "Interface for Actor INI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

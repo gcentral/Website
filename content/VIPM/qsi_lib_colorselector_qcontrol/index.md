@@ -2,7 +2,7 @@
 title: "ColorSelector QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_colorselector_qcontrol
 date: 2023-05-29
-summary: "The ColorSelector QControl is a QControl that inherits from and extends the Cluster Control."
+summary: "Select colors from the front panel with native LabVIEW selector. Includes many color conversion VIs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "QControl"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_colorselector_qcontrol

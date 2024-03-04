@@ -2,7 +2,7 @@
 title: "AD7173-8 Driver"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_ad7173_8_driver
 date: 2022-03-31
-summary: "AD7173-8 ADC driver library includes VIs for control of AD7173-8 Analog-to-Digital converter (ADC) from Analog Devices, Inc."
+summary: "AD7173-8 ADC LabVIEW Driver"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

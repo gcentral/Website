@@ -2,7 +2,7 @@
 title: "SWD Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_swd_toolkit_for_labview
 date: 2020-04-03
-summary: "Serial Wire Debug (SWD) is digital serial communication protocol."
+summary: "Serial Wire Debug Protocol Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "real-time"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/rafa_solutions_lib_swd_toolkit_for_labview

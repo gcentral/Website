@@ -2,7 +2,7 @@
 title: "SmBO API"
 externalUrl: https://www.vipm.io/package/smbo_api
 date: 2018-03-23
-summary: "**Overview**"
+summary: "API for SmBO DB  historical database for IoT"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

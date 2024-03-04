@@ -2,7 +2,7 @@
 title: "XLR8"
 externalUrl: https://www.vipm.io/package/data_ahead_gmbh_lib_xlr8
 date: 2023-05-03
-summary: "**JKI Package Manager 2017 or newer is required to install XLR8**"
+summary: "XLR8 is a tool to read and write Microsoft Excel(R) files at high performance with full file compatibility, utilizing Microsoft .NET 2.0 technology."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/data_ahead_gmbh_lib_xlr8

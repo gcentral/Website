@@ -2,7 +2,7 @@
 title: "ABB Robotics Library"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_abb_robotics_library
 date: 2019-02-27
-summary: "With the ABB library, you can easily integrate robots into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing - eliminating complex robotics programming expertise."
+summary: "Easy-to-use graphical functions for commanding and controlling ABBi robots directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_gmbh_lib_abb_robotics_library

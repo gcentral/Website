@@ -2,7 +2,7 @@
 title: "NI Hardware Test Sequencer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_hts
 date: 2016-05-19
-summary: "The NI Hardware Test Sequencer IP provides a framework for performing real-time test execution on a LabVIEW FPGA user-programmable FPGA with minimal host interaction."
+summary: "The NI Hardware Test Sequencer IP provides a framework for sequencing basic hardware test actions an an FPGA with minimal host interaction."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_hts

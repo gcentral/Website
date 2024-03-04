@@ -2,7 +2,7 @@
 title: "Structure Error Handler"
 externalUrl: https://www.vipm.io/package/ni_lib_seh
 date: 2017-07-22
-summary: "The Structured Error Handler (SEH) library provides tools for handling errors in an organized fashion."
+summary: "A library to aid with error handling in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_seh

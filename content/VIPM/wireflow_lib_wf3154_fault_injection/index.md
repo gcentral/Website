@@ -2,7 +2,7 @@
 title: "WF 3154 Fault Injection"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3154_fault_injection
 date: 2018-05-04
-summary: "Driver for the WF 3154 C-series Fault Injection module from WireFlow."
+summary: "WF 3154 Fault Injection"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

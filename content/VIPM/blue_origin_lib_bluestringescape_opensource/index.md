@@ -2,7 +2,7 @@
 title: "BlueStringEscape (OpenSource)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluestringescape_opensource
 date: 2023-01-02
-summary: "This small utility package provides a tool for escaping and un-escaping strings."
+summary: "A small library for escaping and un-escaping strings.  Primarily intended for escaping strings written to and read from TDMS files for different operating systems"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/blue_origin_lib_bluestringescape_opensource

@@ -2,7 +2,7 @@
 title: "ZE DQMH Provider for the Project Explorer"
 externalUrl: https://www.vipm.io/package/zuehlke_engineering_dqmh_provider_for_the_project_explorer
 date: 2021-01-20
-summary: "This package adds the functionality to access the DQMH functionality not only in the top tool bar of LabVIEW, but also directly by clicking on the DQMH library in the project explorer."
+summary: "This package provides access to DQMH functionality via right-click in the LabVIEW Project Explorer"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/zuehlke_engineering_dqmh_provider_for_the_project_explorer

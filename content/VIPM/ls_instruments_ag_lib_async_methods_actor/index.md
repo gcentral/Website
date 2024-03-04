@@ -2,7 +2,7 @@
 title: "Async Methods Actor"
 externalUrl: https://www.vipm.io/package/ls_instruments_ag_lib_async_methods_actor
 date: 2023-11-20
-summary: "An Actor-based library that implements an infrastructure for launching async methods."
+summary: "A library that extends the Actor Framework to allow for async method execution"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
- - "OOP"
  - "Actor Framework"
+ - "OOP"
+ - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/ls_instruments_ag_lib_async_methods_actor

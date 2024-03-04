@@ -2,7 +2,7 @@
 title: "Unites DDB"
 externalUrl: https://www.vipm.io/package/unites_ddb
 date: 2022-11-18
-summary: "Minimalistic dashboard for DQMH and other tools."
+summary: "Dashboard for DQMH and other tools. Easy access to DQMH tools."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/unites_ddb

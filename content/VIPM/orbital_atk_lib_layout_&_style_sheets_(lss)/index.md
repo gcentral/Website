@@ -2,7 +2,7 @@
 title: "Layout & Style Sheets (LSS) for LabVIEW UI"
 externalUrl: https://www.vipm.io/package/orbital_atk_lib_layout_&_style_sheets_(lss)
 date: 2017-07-20
-summary: "This LabVIEW Add On is designed to quickly stylize a user interface using a language formatted similar to the Cascading Style Sheets used to stylize webpages."
+summary: "Use CSS like statements to control the style of your LabVIEW UI without creating references or property nodes!"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/orbital_atk_lib_layout_&_style_sheets_(lss)

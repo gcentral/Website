@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/hse_lib_gitlab_api

@@ -1,8 +1,8 @@
 ---
-title: "ogmnu_classic_sync-2.4"
+title: "Ogmnu classic sync-2.4"
 externalUrl: https://www.vipm.io/package/ogmnu_classic_sync-2.4
 date: 2018-03-02
-summary: "The classic_sync package installs the classic queue and notifier palettes"
+summary: "OpenG Classic Sync Menu"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

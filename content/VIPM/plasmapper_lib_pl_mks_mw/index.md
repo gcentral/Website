@@ -2,7 +2,7 @@
 title: "PL MKS MW"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_mks_mw
 date: 2022-07-16
-summary: "LabVIEW instrument driver for MKS MW series matching networks."
+summary: "LabVIEW instrument driver for MKS MW Series matching networks"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

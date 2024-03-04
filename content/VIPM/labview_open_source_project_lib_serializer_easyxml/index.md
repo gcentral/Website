@@ -2,7 +2,7 @@
 title: "OpenSerializer easyXML"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_serializer_easyxml
 date: 2020-11-03
-summary: ""
+summary: "easyXML Serializer"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_project_lib_serializer_easyxml

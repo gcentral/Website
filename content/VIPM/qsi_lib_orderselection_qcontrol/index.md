@@ -2,7 +2,7 @@
 title: "OrderSelection QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_orderselection_qcontrol
 date: 2023-06-19
-summary: "This QControl presents the user with a horizontal list of items that they can then drag and drop items to reorder them."
+summary: "This QControl implements an easy user interface to help the user change the order of a list."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "QControl"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_orderselection_qcontrol

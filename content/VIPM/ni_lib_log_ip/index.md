@@ -2,7 +2,7 @@
 title: "NI Log IP"
 externalUrl: https://www.vipm.io/package/ni_lib_log_ip
 date: 2016-05-19
-summary: "This IP provides an FPGA block for computing 20*Log(x) using a lookup table on the FPGA."
+summary: "This package provides FPGA IP for computing the logarithm of a scalar.  Its intended use is for converting the output of an FFT from RMS V to dB."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

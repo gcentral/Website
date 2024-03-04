@@ -2,7 +2,7 @@
 title: "NI Instruction Sequencer + SPI Host Example for the NI PXIe-5644R/45R/46R (System)"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_instruction_sequencer_and_spi_for_the_ni_pxie_5644_45r_system
 date: 2016-05-19
-summary: "**This example replaces LabVIEW 2012 support with LabVIEW 2013 support."
+summary: "This example uses NI-RFSA and NI-RFSG instrument driver FPGA extensions, along with the instruction sequencer and SPI IP to create FPGA personalities for the NI PXIe-5644R and NI PXIe-5645R that have the ability to issue sequences of SPI commands for hardware-timed DUT control."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

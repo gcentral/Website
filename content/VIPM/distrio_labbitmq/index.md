@@ -2,7 +2,7 @@
 title: "LabbitMQ"
 externalUrl: https://www.vipm.io/package/distrio_labbitmq
 date: 2016-07-07
-summary: "**LabVIEW library for RabbitMQ**"
+summary: "LabVIEW library for RabbitMQ"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "LUnit"
 externalUrl: https://www.vipm.io/package/astemes_lib_lunit
 date: 2024-01-29
-summary: "LUnit is a LabVIEW **Unit Testing Framework** built on the xUnit unit testing model and inspired by JKI VI Tester."
+summary: "Unit testing framework for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JKI"
+ - "NI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/astemes_lib_lunit

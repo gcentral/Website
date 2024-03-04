@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Bosch Rexroth IndraDrive (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_bosch_rexroth_indradrive_system
 date: 2017-11-06
-summary: "NI SoftMotion Plug-in for Bosch Rexroth IndraDrive EtherCAT Servo Drives."
+summary: "SoftMotion Drive Interface (SDI) Plug-in for Bosch Rexroth IndraDrive servo drives."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_bosch_rexroth_indradrive_system

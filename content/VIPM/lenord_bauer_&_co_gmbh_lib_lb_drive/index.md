@@ -2,7 +2,7 @@
 title: "LB Drive"
 externalUrl: https://www.vipm.io/package/lenord_bauer_&_co_gmbh_lib_lb_drive
 date: 2019-10-23
-summary: "LB Drive is a library of VIs to control compact positioning drives with Modbus TCP interface manufactured by Lenord+Bauer."
+summary: "Control LB Drive systems over Modbus."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "motion"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/lenord_bauer_&_co_gmbh_lib_lb_drive

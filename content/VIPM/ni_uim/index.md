@@ -2,7 +2,7 @@
 title: "UIM"
 externalUrl: https://www.vipm.io/package/ni_uim
 date: 2018-06-26
-summary: "This tool is designed to help programmers capture and apply complex UI configurations to any LV VI, both edit and run-time."
+summary: "User Interface Manager - Capture properties of UI controls and apply them later, from file or memory"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_uim

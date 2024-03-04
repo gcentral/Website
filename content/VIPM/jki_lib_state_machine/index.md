@@ -2,7 +2,7 @@
 title: "JKI State Machine"
 externalUrl: https://www.vipm.io/package/jki_lib_state_machine
 date: 2019-01-25
-summary: "The JKI State Machine™ is a template you can use for quickly creating your own LabVIEW applications."
+summary: "JKI State Machine"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

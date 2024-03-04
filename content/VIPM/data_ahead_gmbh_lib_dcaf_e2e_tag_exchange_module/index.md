@@ -16,12 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "Actor Framework"
- - "UI"
+ - "DCAF"
+ - "GUI"
+ - "I/O"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/data_ahead_gmbh_lib_dcaf_e2e_tag_exchange_module

@@ -2,7 +2,7 @@
 title: "DB String Data Extension"
 externalUrl: https://www.vipm.io/package/mendel_university_in_brno_lib_db_string_data_extension
 date: 2023-10-19
-summary: "The extension of the original ***LV Database Connectivity Toolkit*** is modifying the basic CRUD operations by converting 2D database data from the RecordSet object."
+summary: "An extension of the original LV Database Connectivity Toolkit converting 2D database data from the RecordSet object into 2D string arrays."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

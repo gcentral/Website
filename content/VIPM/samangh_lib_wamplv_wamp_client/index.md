@@ -2,7 +2,7 @@
 title: "wamplv WAMP Client"
 externalUrl: https://www.vipm.io/package/samangh_lib_wamplv_wamp_client
 date: 2023-08-30
-summary: "A LabVIEW-based client for the Web Application Messaging Protocol (WAMP)."
+summary: "Client for the Web Applications Messaging Protocol (WAMP)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/samangh_lib_wamplv_wamp_client

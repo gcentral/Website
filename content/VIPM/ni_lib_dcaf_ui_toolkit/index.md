@@ -16,12 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "Actor Framework"
- - "UI"
+ - "DCAF"
+ - "GUI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_dcaf_ui_toolkit

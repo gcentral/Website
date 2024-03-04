@@ -2,7 +2,7 @@
 title: "Property Inspector"
 externalUrl: https://www.vipm.io/package/abcdef_property_inspector
 date: 2022-09-19
-summary: "The **Property Inspector** Utility reads your project and allows filtering, searching, sorting and batch editing of VI properties including Description, Data Size, Reentrancy, In memory and Allow Debugging."
+summary: "This utility allows filtering, searching, sorting and batch editing of 44 VI properites and metrics"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "GUI"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/abcdef_property_inspector

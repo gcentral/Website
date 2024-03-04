@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_dual_port_spi_example_for_labview_fpga

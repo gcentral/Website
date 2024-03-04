@@ -2,7 +2,7 @@
 title: "Sequence Builder (System)"
 externalUrl: https://www.vipm.io/package/livewires_automation_ltd_sequence_builder_system
 date: 2016-05-19
-summary: "IMPORTANT - READ BEFORE INSTALLING"
+summary: "Easy configuration of sequences for your process or test system."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -36,7 +37,7 @@ IMPORTANT - READ BEFORE INSTALLING
 **  Close and restart LabVIEW after installation. **
 
 
-**<u>Easy Configuration of Sequences for Your Process or Test System.</u>**
+**Easy Configuration of Sequences for Your Process or Test System.**
 
 Many applications require a configurable 'sequence' or 'recipe' of multiple steps.  Writing a good 'sequence manager' is a sizeable task.  *Sequence Builder* does it all for you and gives you the routines for saving and loading your sequences.  Also included are 2 examples of how to incorporate the routines in your application and each of these examples makes a good template for a new sequence-based program.
 

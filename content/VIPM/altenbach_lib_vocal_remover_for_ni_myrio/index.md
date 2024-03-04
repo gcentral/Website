@@ -2,7 +2,7 @@
 title: "Vocal remover for NI myRIO"
 externalUrl: https://www.vipm.io/package/altenbach_lib_vocal_remover_for_ni_myrio
 date: 2016-05-19
-summary: "This app runs on the NI myRIO-1900 target."
+summary: "A myRIO demo application that demonstrates simple audio processing"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

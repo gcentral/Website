@@ -2,7 +2,7 @@
 title: "NI P2P for PXIe-517xR Host Example (System)"
 externalUrl: https://www.vipm.io/package/ni_example_517x_p2p_system
 date: 2016-05-19
-summary: "**Required Hardware**"
+summary: "This package provides host example code demonstrating how to configure and use the NI-SCOPE Reconfigurable Oscilloscope P2P FPGA Extension, and how to perform de-interlaving on the FlexRIO peer."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

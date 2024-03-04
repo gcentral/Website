@@ -2,7 +2,7 @@
 title: "JOb Framework Library (SLA-1)"
 externalUrl: https://www.vipm.io/package/logic_lib_job_framework_library_sla1
 date: 2018-02-09
-summary: "The JOb Framework Library (JOb) provides a platform for rapid object-oriented development of general Windows applications."
+summary: "Framework library for rapid application development, encouraging modular and consistent designs across developers and projects."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

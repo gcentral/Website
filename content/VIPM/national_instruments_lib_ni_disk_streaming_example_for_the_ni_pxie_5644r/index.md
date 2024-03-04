@@ -2,7 +2,7 @@
 title: "NI Disk Streaming Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_disk_streaming_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "The NI PXIe-5644R is capable of bidirectional DMA at rates over 700 MB/s."
+summary: "To record and play back the full RF bandwidth of the NI PXIe-5644R, this example uses NI-RIO zero-copy FIFOs and asynchronous TDMS file I/O to log up to 80 MHz of bandwidth to disk for hours, then play it back."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

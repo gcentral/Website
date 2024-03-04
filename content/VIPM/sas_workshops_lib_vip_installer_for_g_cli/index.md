@@ -2,7 +2,7 @@
 title: "VIP Installer For G CLI"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_vip_installer_for_g_cli
 date: 2024-02-22
-summary: "Tool for Installing VI Packages via the CLI."
+summary: "Tool for Building VI packages via G CLI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

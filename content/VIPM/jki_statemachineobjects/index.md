@@ -2,7 +2,7 @@
 title: "JKI State Machine Objects (SMO)"
 externalUrl: https://www.vipm.io/package/jki_statemachineobjects
 date: 2022-01-10
-summary: "The JKI State Machine Objects (SMO) for LabVIEW is an easy-to-use yet powerful object-oriented framework, based on the JKI State Machine."
+summary: "JKI State Machine Objects is an easy-to-use yet powerful object-oriented framework for LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JKI"
+ - "NI"
  - "VIPM Community"
 ---
 

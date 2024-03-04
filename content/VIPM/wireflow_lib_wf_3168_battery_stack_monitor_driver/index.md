@@ -2,7 +2,7 @@
 title: "WF 3168 Battery Stack Monitor Driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf_3168_battery_stack_monitor_driver
 date: 2018-11-06
-summary: "Driver for the WF 3168 C-series Battery Stack Monitor module from WireFlow."
+summary: "CompactRIO FPGA driver for WF-3168 C-series module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

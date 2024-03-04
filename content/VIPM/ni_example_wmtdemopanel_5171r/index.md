@@ -2,7 +2,7 @@
 title: "NI Waveform Match Trigger Demo Panel for 5171R"
 externalUrl: https://www.vipm.io/package/ni_example_wmtdemopanel_5171r
 date: 2016-05-19
-summary: "**Instructions**"
+summary: "This example installs an interactive panel for drawing waveform mask trigger patterns by hand or from file."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

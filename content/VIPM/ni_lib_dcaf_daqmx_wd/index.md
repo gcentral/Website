@@ -2,7 +2,7 @@
 title: "DCAF DAQmx Watchdog"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_daqmx_wd
 date: 2018-04-06
-summary: "Configures the DAQmx watchdog on a single DAQmx device."
+summary: "Configures the DAQmx watchdog on a single DAQmx device"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "Actor Framework"
+ - "DCAF"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_dcaf_daqmx_wd

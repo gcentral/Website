@@ -2,7 +2,7 @@
 title: "Timer"
 externalUrl: https://www.vipm.io/package/ni_timer
 date: 2018-06-15
-summary: "This tool allows users to easily create multiple timers for controlling the timing of their code, measuring or benchmarking."
+summary: "By reference timer functionality obtainable by name."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

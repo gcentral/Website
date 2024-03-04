@@ -1,8 +1,8 @@
 ---
-title: "ogpatch_librarian_bugfix-1.0"
+title: "Ogpatch librarian bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_librarian_bugfix-1.0
 date: 2007-03-06
-summary: "Fixes a race condition in Copy From Folder To Folder"
+summary: "Bugfix for Librarian VIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

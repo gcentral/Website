@@ -2,7 +2,7 @@
 title: "OpenG Time Library"
 externalUrl: https://www.vipm.io/package/oglib_time
 date: 2018-03-02
-summary: "The OpenG Time Library package contains several routines related to software timing."
+summary: "OpenG Time Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

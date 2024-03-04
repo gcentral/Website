@@ -2,7 +2,7 @@
 title: "Noise Figure"
 externalUrl: https://www.vipm.io/package/noise_figure
 date: 2016-05-19
-summary: "Product Name: Noise Figure measurement Y-method Toolkit"
+summary: "This application required to make an automated noise figure measurement using a spectrum analyzer and the 'Y Factor' technique. It calculates the noise figure and gain of the DUT along with the measurement."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

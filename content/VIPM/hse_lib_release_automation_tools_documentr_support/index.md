@@ -2,7 +2,7 @@
 title: "Release Automation Tools Documentr Template"
 externalUrl: https://www.vipm.io/package/hse_lib_release_automation_tools_documentr_support
 date: 2023-09-05
-summary: "An asciidoc template for the RAT documentr tool."
+summary: "An asciidoc template for the HSE RAT Documentr tool"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

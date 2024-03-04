@@ -2,7 +2,7 @@
 title: "Logger"
 externalUrl: https://www.vipm.io/package/field_rnd_services_logger
 date: 2021-05-31
-summary: "A simple logging utility similar to the Log4j library but for LabVIEW."
+summary: "A simple logging utility similar to Log4j but for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

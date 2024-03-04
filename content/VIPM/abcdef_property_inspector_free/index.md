@@ -2,7 +2,7 @@
 title: "Property Inspector Free"
 externalUrl: https://www.vipm.io/package/abcdef_property_inspector_free
 date: 2021-06-28
-summary: "The Property Inspector Free Tool allows powerful filtering, searching, sorting and editing of 41 VI properties including VI Description, Data Size and Allow Debugging."
+summary: "This utility allows filtering, searching, sorting and batch editing of 41 VI properites and metrics"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "GUI"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/abcdef_property_inspector_free

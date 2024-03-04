@@ -2,7 +2,7 @@
 title: "Hooovahh File IO"
 externalUrl: https://www.vipm.io/package/hooovahh_file_io
 date: 2020-12-16
-summary: "This package contains VIs which perform operations involving the file system or the path data type."
+summary: "Various File I/O functions"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
+ - "OpenG"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "Epoch Date & Time"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_epoch_datetime
 date: 2023-07-04
-summary: "Epoch Date & Time is a unified time library for LabVIEW"
+summary: "Unified Date and Time LIbrary"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

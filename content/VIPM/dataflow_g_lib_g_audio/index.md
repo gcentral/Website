@@ -2,7 +2,7 @@
 title: "G-Audio"
 externalUrl: https://www.vipm.io/package/dataflow_g_lib_g_audio
 date: 2022-07-16
-summary: "A cross-platform LabVIEW library for audio device playback and capture, and for reading and writing audio files."
+summary: "A LabVIEW audio library."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

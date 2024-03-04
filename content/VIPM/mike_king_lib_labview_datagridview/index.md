@@ -2,7 +2,7 @@
 title: "DataGrid for LabVIEW"
 externalUrl: https://www.vipm.io/package/mike_king_lib_labview_datagridview
 date: 2016-06-20
-summary: "A very useful and easy to use data grid to replace LabVIEW's tables and multicolumn listboxes."
+summary: "A LabVIEW table replacement using dotNet DataGridView for simple and easy use in LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

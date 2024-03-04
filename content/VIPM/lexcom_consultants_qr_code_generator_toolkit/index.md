@@ -2,7 +2,7 @@
 title: "Lexcom Consultants QR Code Generator Toolkit"
 externalUrl: https://www.vipm.io/package/lexcom_consultants_qr_code_generator_toolkit
 date: 2020-07-07
-summary: "This package requires administrative privileges to install."
+summary: "QR Code Generator Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/lexcom_consultants_qr_code_generator_toolkit

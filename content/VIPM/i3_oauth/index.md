@@ -2,7 +2,7 @@
 title: "i3 OAuth"
 externalUrl: https://www.vipm.io/package/i3_oauth
 date: 2016-05-19
-summary: "i3 OAuth is an implementation of the OAuth 1."
+summary: "OAuth Toolkit from the Interactive Internet Interface"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/i3_oauth

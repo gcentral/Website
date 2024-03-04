@@ -2,7 +2,7 @@
 title: "NI RFFE Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_rffe_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "The MIPI RF Front End (RFFE) specification was developed to form a standard bus protocol for devices in a radio frequency signal path to minimize noise coupled into the devices from digital signals and to solve high configuration speed requirements for MIMO applications."
+summary: "This example implements MIPI RF front end (RFFE) communication through the DIO port on the NI PXIe-5644R, including support for both master and slave functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_rffe_example_for_the_ni_pxie_5644r

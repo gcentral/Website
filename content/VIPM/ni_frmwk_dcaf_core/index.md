@@ -16,9 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DCAF"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Newton API Standard DAQ Option for LabVIEW"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_newton_api_standard_daq_option_for_labview
 date: 2020-01-24
-summary: "Newton API for LabVIEW is a library of LabVIEW Virtual Instruments (VI) allowing control and monitoring of Newton controller from custom applications build in LabVIEW graphical programming environment."
+summary: "Newton API Standard DAQ Option for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "SecureLogin"
 externalUrl: https://www.vipm.io/package/ims_lib_securelogin
 date: 2016-05-19
-summary: "Secure Login is a user authentication and management framework that allows you to easily implement highly secure user control for any project."
+summary: "User authentication framework"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

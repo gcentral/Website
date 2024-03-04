@@ -2,7 +2,7 @@
 title: "WF-SecuritySuite: Authentication"
 externalUrl: https://www.vipm.io/package/wireflow_lib_ac0043_auth_sw
 date: 2016-05-19
-summary: "This is the authenitcation layer for the WireFlow security dongles."
+summary: "Authentication layer for WireFlow SW protection dongled"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -31,4 +32,4 @@ Author(s): WireFlow
 Full Description:
 This is the authenitcation layer for the WireFlow security dongles.
 
-N.B. Requires <u>VIPM 2014</u> for installations
+N.B. Requires VIPM 2014 for installations

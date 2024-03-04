@@ -2,7 +2,7 @@
 title: "MGI Monitored Actor"
 externalUrl: https://www.vipm.io/package/mgi_lib_monitored_actor
 date: 2016-11-04
-summary: "Monitored Actors aim to take the headache out of debugging Actor based implementations."
+summary: "This is an extension to the actor framework that aids debugging"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

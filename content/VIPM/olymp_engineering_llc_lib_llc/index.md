@@ -2,7 +2,7 @@
 title: "LLC"
 externalUrl: https://www.vipm.io/package/olymp_engineering_llc_lib_llc
 date: 2016-05-19
-summary: "**LossLess Coding Library for LabVIEW FPGA**"
+summary: "LLC Library for FPGA"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Live HDF5"
 externalUrl: https://www.vipm.io/package/lvhdf5
 date: 2021-02-10
-summary: "The Live HDF5 toolkit provides a full-featured interface between LabVIEW and the HDF5 file format."
+summary: "Provides a full-featured interface between LabVIEW and the HDF5 scientific data format"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

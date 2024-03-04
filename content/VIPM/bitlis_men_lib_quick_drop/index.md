@@ -2,7 +2,7 @@
 title: "Quick Drop Import-Export Tool"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_quick_drop
 date: 2017-04-05
-summary: "Quick Drop Import/Export: LabVIEW add-on"
+summary: "A tool for importing and exporting LabVIEW quick drop configurations"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/bitlis_men_lib_quick_drop

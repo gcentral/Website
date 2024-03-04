@@ -2,7 +2,7 @@
 title: "NI RTSA Example Host"
 externalUrl: https://www.vipm.io/package/ni_example_rtsa_for_7976r
 date: 2018-10-15
-summary: "This package install host example code for deploying an RTSA personality to several NI Kintex 7 user programmable FPGA targets."
+summary: "This package installs a host example for controlling the NI RTSA FPGA bitfile."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

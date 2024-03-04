@@ -2,7 +2,7 @@
 title: "NI PFT IP"
 externalUrl: https://www.vipm.io/package/ni_lib_pft_ip
 date: 2016-05-19
-summary: "The pipelined frequency transform (PFT) is a fixed sequence of frequency shifts and halfband resampling stages used to split an incoming complex data stream into multiple channels."
+summary: "The pipelined frequency transform (PFT) is a fixed sequence of frequency shifts and halfband resampling stages used to split an incoming complex data stream into multiple channels"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Oscilloscope & Function Generator for NI myRIO"
 externalUrl: https://www.vipm.io/package/cmc_lib_oscope_fgen
 date: 2016-05-19
-summary: "Oscilloscope & Function Generator for NI myRIO turns your computer and myRIO into a fully functional 2 Channel, 250kHz Oscilloscope and 2 Channel Function Generator."
+summary: "Turns your computer and NI myRIO into a 2 Channel, 250kHz Oscilloscope and 2 Channel Function Generator."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

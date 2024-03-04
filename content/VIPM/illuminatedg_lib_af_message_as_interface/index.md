@@ -2,7 +2,7 @@
 title: "IG AF Message as Interface"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_af_message_as_interface
 date: 2023-07-04
-summary: "Change the base Message."
+summary: "Changes the base Message.lvclass to a LabVIEW Interface and updates the message tooling."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "Actor Framework"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/illuminatedg_lib_af_message_as_interface

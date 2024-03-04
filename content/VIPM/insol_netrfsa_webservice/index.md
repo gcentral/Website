@@ -2,7 +2,7 @@
 title: "NetRFSA WebService"
 externalUrl: https://www.vipm.io/package/insol_netrfsa_webservice
 date: 2016-05-19
-summary: "Network RFSA Driver is network-working RFSA driver i."
+summary: "Network RFSA Driver is a driver library to configure and run the radio - measuring equipment such as Vector Signal Analyzer ."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -36,4 +37,4 @@ Requirements: LabVIEW 2013 RTE.
 
 Find NetRFSA WebService Documentation in LabVIEW Help Menu.
 
-* For the technical support contact us through * <u> net.drivers@insol.am  </u>
+* For the technical support contact us through *  net.drivers@insol.am

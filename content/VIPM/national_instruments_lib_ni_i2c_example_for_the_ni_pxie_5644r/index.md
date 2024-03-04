@@ -2,7 +2,7 @@
 title: "NI I2C Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_i2c_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "Inter-Integrated Circuit (I2C) buses are commonly used to communicate between a controller (master) device and a target (slave) device."
+summary: "This example implements inter-integrated circuit (I2C) communication through the DIO port on the NI PXIe-5644R, including support for both master and slave functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_i2c_example_for_the_ni_pxie_5644r

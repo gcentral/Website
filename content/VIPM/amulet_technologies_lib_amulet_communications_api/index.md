@@ -2,7 +2,7 @@
 title: "Amulet Display API"
 externalUrl: https://www.vipm.io/package/amulet_technologies_lib_amulet_communications_api
 date: 2016-05-19
-summary: "This package installs all of the functions needed to communicate with an Amulet Color Display Module into the LabVIEW Connectivity palette."
+summary: "Functions and Examples for use with any Amulet Color Display Module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/amulet_technologies_lib_amulet_communications_api

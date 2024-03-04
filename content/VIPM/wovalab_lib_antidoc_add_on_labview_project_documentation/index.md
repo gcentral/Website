@@ -2,7 +2,7 @@
 title: "Antidoc Add-on - LabVIEW project documentation"
 externalUrl: https://www.vipm.io/package/wovalab_lib_antidoc_add_on_labview_project_documentation
 date: 2023-07-11
-summary: "This package installs an add-on to Antidoc to generate the code documentation of your LabVIEW projects."
+summary: "Antidoc add-on generating the documentation of lvproj code source"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

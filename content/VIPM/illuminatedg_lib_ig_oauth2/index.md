@@ -2,7 +2,7 @@
 title: "IG OAuth2"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_oauth2
 date: 2023-10-16
-summary: "Provides native LabVIEW OAuth2 implementation, currently only for the Authorization Code Flow with full application client credentials."
+summary: "Native LabVIEW OAuth2 authentication flow"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -2,7 +2,7 @@
 title: "G CLI"
 externalUrl: https://www.vipm.io/package/wiresmith_technology_lib_g_cli
 date: 2023-04-13
-summary: "G CLI (formerly LabVIEW CLI)  is a package that supports the client side of a two way command line interface."
+summary: "A library to support a more advanced command line interface from LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

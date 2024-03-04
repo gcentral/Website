@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_fpga_ip_(ipnet)-_digital_buses_and_protocols_(spi,_i2c_and_serial)

@@ -2,7 +2,7 @@
 title: "Wi-SUN Measurement Suite"
 externalUrl: https://www.vipm.io/package/wi_sun_measurement_suite
 date: 2018-11-13
-summary: "SUNs enable multiple applications to operate over shared network resources, providing monitoring and control of a utility system."
+summary: "MaxEye Technologies provides generation and analysis functions in LabVIEW for generating and analyzing the IEEE 802.15.4 standard complaint signals using National Instruments Vector Signal Generators (NI VSG) and Vector Signal Analyzers (NI VSA) or Vector Signal Transceivers (NI VST)."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "GPower Timing"
 externalUrl: https://www.vipm.io/package/gpower_lib_timing
 date: 2019-07-31
-summary: "This toolset offers:"
+summary: "Delays and measurements of elapsed and remaining time."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/gpower_lib_timing

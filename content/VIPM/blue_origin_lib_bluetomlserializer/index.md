@@ -2,7 +2,7 @@
 title: "BlueTOMLSerializer"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_bluetomlserializer
 date: 2021-08-05
-summary: ""
+summary: "TOML plugin for Blue Serializer"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/blue_origin_lib_bluetomlserializer

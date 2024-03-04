@@ -2,7 +2,7 @@
 title: "NI Frequency Mask Trigger Host Example for the NI 5644R-45R"
 externalUrl: https://www.vipm.io/package/ni_example_freq_mask_trigger_5644r_45r
 date: 2016-05-19
-summary: "**Required NI Software**"
+summary: "This example provides an NI 5644R-45R FPGA personality for performing frequency mask triggering.  The frequency mask is definable at run-time."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "SEA LTE-V Add-On for LabVIEW - MONITORING+CEM API"
 externalUrl: https://www.vipm.io/package/sea_ltev_lvapi_mon+cem
 date: 2022-03-04
-summary: "The **SEA LTE-V Add-On for LabVIEW - MONITORING API** delivers a suite to build V2X (Vehicle-To-Anything) related applications in LabVIEW based on LTE technlogies (3GPP TS 36."
+summary: "LTE-V (3GPP TS 36.300 version 14.2.0 Release 14)  LabVIEW Add-On (MON, Channel Emulation) for V2X communications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/sea_ltev_lvapi_mon+cem

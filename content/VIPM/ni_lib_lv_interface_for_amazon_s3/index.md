@@ -2,7 +2,7 @@
 title: "LabVIEW Interface for Amazon S3"
 externalUrl: https://www.vipm.io/package/ni_lib_lv_interface_for_amazon_s3
 date: 2016-05-19
-summary: "This toolkit provides an interface to Amazon's S3 (Simple Storage Service) service."
+summary: "LabVIEW Interface for Amazon S3 Cloud Storage service"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "LV-WinSCP"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lv_winscp
 date: 2022-11-03
-summary: "This package allows taking advantage of WinSCP capabilities to perform file transfers between a PC and distant targets."
+summary: "LabVIEW wrapper on top of WinSCP .NET API"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/neosoft_technologies_lv_winscp

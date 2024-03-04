@@ -2,7 +2,7 @@
 title: "NB-IoT Inband Toolkit"
 externalUrl: https://www.vipm.io/package/zox_tech_lib_nb_iot_inband_toolkit
 date: 2018-05-31
-summary: "NB-IoT UP-Link Inband can be used to generate the NB-IoT inband signal and analyze it for almost test items."
+summary: "NB-IoT Inband toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

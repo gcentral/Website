@@ -2,7 +2,7 @@
 title: "VIPM API"
 externalUrl: https://www.vipm.io/package/jki_lib_vipm_api
 date: 2022-10-08
-summary: "The VIPM VI-based API is a collection of VIs that allow you to command and control VIPM (VI Package Manager)."
+summary: "Programmatic VI-based API for VIPM"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JKI"
  - "VIPM Community"
 ---
 
@@ -33,7 +35,7 @@ The VIPM VI-based API is a collection of VIs that allow you to command and contr
 
 The VIPM 2020 API VIs only work with **VIPM 2020 Pro or Community Edition** (or newer). It will not work with VIPM Free Edition. Also, In order for the API to work, you must have the main VIPM application running. It can be minimized, but it must be running.
 
-For help with the VIPM API, please visit: <u>support.vipm.io</u>
+For help with the VIPM API, please visit: support.vipm.io
 
 List of Functions:
 

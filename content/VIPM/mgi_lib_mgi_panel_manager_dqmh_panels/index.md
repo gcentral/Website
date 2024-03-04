@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "DQMH"
+ - "MGI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/mgi_lib_mgi_panel_manager_dqmh_panels

@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "motion"
 ---
 
 Redirecting to https://www.vipm.io/package/schaffer_engineering_llc_lib_trio_motion

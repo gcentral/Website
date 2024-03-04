@@ -2,7 +2,7 @@
 title: "myRIO Audio Analyzer"
 externalUrl: https://www.vipm.io/package/original_code_consulting_lib_myrio_audio_analyzer
 date: 2016-05-19
-summary: "The MyRIO Audio Analyzer App is an exmaple program for the MyRIO hardware that acquires and filters two channels of audio data."
+summary: "MyRIO Audio Analyzer example application"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

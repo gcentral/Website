@@ -2,7 +2,7 @@
 title: "Averna Notify Icon"
 externalUrl: https://www.vipm.io/package/averna_lib_notify_icon
 date: 2016-05-19
-summary: "Averna’s Notify Icon enables you to create a notification icon on the taskbar of the Windows OS."
+summary: "Create a notification icon on the taskbar menu of windows os"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

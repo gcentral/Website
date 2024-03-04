@@ -2,7 +2,7 @@
 title: "DQMH CLI Module Validation"
 externalUrl: https://www.vipm.io/package/dqmh_consortium_lib_dqmh_cli_module_validation
 date: 2023-10-27
-summary: "Provide a G CLI custom step to run DQMH(R) module validator tool via command line interface."
+summary: "DQMH(R) module validator tool via command line interface."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/dqmh_consortium_lib_dqmh_cli_module_validation

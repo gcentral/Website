@@ -2,7 +2,7 @@
 title: "COS Azure Kinect Sensor"
 externalUrl: https://www.vipm.io/package/cos_lib_cos_azure_kinect_sensor
 date: 2022-04-06
-summary: "COS Azure Kinect Sensor for LabVIEW current version encapsulates the depth, vision and imu sensor control."
+summary: "LabVIEW library to control Azure Kinect Sensor"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/cos_lib_cos_azure_kinect_sensor

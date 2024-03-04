@@ -2,7 +2,7 @@
 title: "Ball Balancing Table Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_inc_lib_ball_balacing_table_software
 date: 2018-04-03
-summary: "**Vendor:** ACROME Robotics"
+summary: "LabVIEW based open-source Ball Balancing Table Software makes it possible that students can modify the controller structure."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,17 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "real-time"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/acrome_robotics_inc_lib_ball_balacing_table_software

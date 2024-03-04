@@ -2,7 +2,7 @@
 title: "Z-Wave Measurement Suite"
 externalUrl: https://www.vipm.io/package/maxeye_technologies_private_limited_lib_z_wave_measurement_suite
 date: 2017-06-14
-summary: "Z-Wave is a low-power, low-cost wireless technology enabling consumer-grade products with networked features."
+summary: "MaxEye Technologies provides generation and analysis functions in LabVIEW for generating and analyzing the ITU-T G.9959 standard complaint signals using National Instruments Vector Signal Generators (NI VSG) and Vector Signal Analyzers (NI VSA) or Vector Signal Transceivers (NI VST)."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Automatic Differentiation"
 externalUrl: https://www.vipm.io/package/slo_systems_lib_automatic_differentiation
 date: 2021-02-10
-summary: "This library presents an implementation of dual numbers and forward-mode automatic differentiation."
+summary: "Implementation of dual numbers and forward-mode automatic differentiation"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
@@ -26,7 +26,7 @@ Redirecting to https://www.vipm.io/package/slo_systems_lib_automatic_differentia
 
 Vendor: SLO Systems
 
-Author(s):  
+Author(s): 
  
 Full Description:
 This library presents an implementation of dual numbers and forward-mode automatic differentiation.

@@ -2,7 +2,7 @@
 title: "QSI Documentation Editor"
 externalUrl: https://www.vipm.io/package/qsi_lib_qsi_documentation_editor
 date: 2016-05-19
-summary: "The **QSI Documentation Editor** provides an easy way to edit the description field of:"
+summary: "Add-on tool to speed documentation of LabVIEW source code."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "BlueSerializationProviderShared"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueserializationprovidershared
 date: 2021-08-05
-summary: "This code is shared between the BlueSerialzer core and BlueSerializer project provider."
+summary: "code shared between project provider and serializer core"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/blue_origin_lib_blueserializationprovidershared

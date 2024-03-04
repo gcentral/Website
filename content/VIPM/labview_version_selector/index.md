@@ -2,7 +2,7 @@
 title: "LabVIEW-Version-Selector"
 externalUrl: https://www.vipm.io/package/labview_version_selector
 date: 2022-12-01
-summary: "LabVIEW Version Selector"
+summary: "Select the correct LabVIEW version for project."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "OpenG"
  - "VIPM Community"
 ---
 

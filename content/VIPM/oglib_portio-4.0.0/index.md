@@ -2,7 +2,7 @@
 title: "OpenG Port IO"
 externalUrl: https://www.vipm.io/package/oglib_portio-4.0.0
 date: 2018-03-02
-summary: "The OpenG Port IO library supports direct access to hardware IO and physical memory."
+summary: "OpenG Port IO Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "OpenG"
  - "VIPM Community"
 ---
 

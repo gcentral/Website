@@ -2,7 +2,7 @@
 title: "TTM"
 externalUrl: https://www.vipm.io/package/toolsforsmartminds_ttm
 date: 2016-05-19
-summary: "Tedious Task Manager is a productivity tool that executes parametric, programmable scripts."
+summary: "Tedious Task Manager"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

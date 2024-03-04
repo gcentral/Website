@@ -2,7 +2,7 @@
 title: "Robust CSV"
 externalUrl: https://www.vipm.io/package/lava_lib_robust_csv
 date: 2024-01-02
-summary: "This package contains VIs for reading and writing to CSV files that follow the CSV format outlined in RFC-4180 (see http://tools."
+summary: "API for reading and writing CSV files using the format described in RFC-4180."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

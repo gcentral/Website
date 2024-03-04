@@ -1,8 +1,8 @@
 ---
-title: "ogpatch_notifier_bugfix-1.0"
+title: "Ogpatch notifier bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_notifier_bugfix-1.0
 date: 2007-03-06
-summary: "Fixes a memory leak caused by notifier name caching in compatibility VIs"
+summary: "Bugfix for Classic Notifier Compatibility VIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

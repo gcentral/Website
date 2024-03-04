@@ -2,7 +2,7 @@
 title: "NI Streaming Host Example for the NI PXIe-5644R/45R/46R (System)"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_streaming_host_example_for_the_ni_pxie_5644r_system
 date: 2016-05-19
-summary: "**This example replaces LabVIEW 2012 support with LabVIEW 2013 support."
+summary: "This example streams data from the host VI to the output port of the NI PXIe-5644R and streams data from the input port of the NI PXIe-5644R to the host VI. This example also provides a template for setting up peer-to-peer streaming with another device."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

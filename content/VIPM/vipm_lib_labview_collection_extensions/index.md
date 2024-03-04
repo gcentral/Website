@@ -2,7 +2,7 @@
 title: "Collection Extensions (Sets and Maps) for LabVIEW"
 externalUrl: https://www.vipm.io/package/vipm_lib_labview_collection_extensions
 date: 2024-01-12
-summary: "A library of extensions to the LabVIEW native map and set VIs and functions."
+summary: "Map and Set Extensions for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_i2c_implementation_in_labview_fpga

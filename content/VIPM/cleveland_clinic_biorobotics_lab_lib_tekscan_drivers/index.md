@@ -2,7 +2,7 @@
 title: "Tekscan Drivers"
 externalUrl: https://www.vipm.io/package/cleveland_clinic_biorobotics_lab_lib_tekscan_drivers
 date: 2019-05-30
-summary: "Tekscan products are used for pressure aquisition."
+summary: "Tekscan Contact Mechanics Drivers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
- - "UI"
  - "GUI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
+ - "OpenG"
+ - "real-time"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/cleveland_clinic_biorobotics_lab_lib_tekscan_drivers

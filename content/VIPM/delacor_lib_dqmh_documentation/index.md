@@ -2,7 +2,7 @@
 title: "DQMH Documentation"
 externalUrl: https://www.vipm.io/package/delacor_lib_dqmh_documentation
 date: 2024-02-23
-summary: "This package installs the DQMH Documentation in the LabVIEW Help menu >> DQMH Consortium >> DQMH."
+summary: "This package installs the DQMH Documentation in the LabVIEW Help menu >> DQMH Consortium >> DQMH"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/delacor_lib_dqmh_documentation

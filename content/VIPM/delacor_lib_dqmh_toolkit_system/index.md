@@ -2,7 +2,7 @@
 title: "DQMH (System)"
 externalUrl: https://www.vipm.io/package/delacor_lib_dqmh_toolkit_system
 date: 2021-06-10
-summary: "This package installs all the packages needed for the Delacor QMH toolkit:"
+summary: "This package installs all the packages needed for the Delacor QMH toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "DQMH"
+ - "NI"
+ - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/delacor_lib_dqmh_toolkit_system

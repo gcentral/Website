@@ -2,7 +2,7 @@
 title: "Colorful UI Controls Palette"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_colorful_ui_controls_palette
 date: 2016-08-19
-summary: "Colorful UI Controls Palette:LabVIEW add-on"
+summary: "Colorful UI Controls Palette for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/bitlis_men_lib_colorful_ui_controls_palette

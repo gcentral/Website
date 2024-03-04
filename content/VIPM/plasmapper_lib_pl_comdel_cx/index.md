@@ -2,7 +2,7 @@
 title: "PL Comdel CX"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_comdel_cx
 date: 2022-07-14
-summary: "LabVIEW instrument driver for Comdel CX series RF generators"
+summary: "LabVIEW instrument driver for Comdel CX Series RF generators"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/plasmapper_lib_pl_comdel_cx

@@ -2,7 +2,7 @@
 title: "OPAL-RT MATLAB Interface"
 externalUrl: https://www.vipm.io/package/opal_rt_matlab_interface
 date: 2019-04-11
-summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
+summary: "Facilitates the process of calling of MATLAB code in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

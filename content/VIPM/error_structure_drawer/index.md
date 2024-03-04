@@ -2,7 +2,7 @@
 title: "Error Structure Drawer"
 externalUrl: https://www.vipm.io/package/error_structure_drawer
 date: 2023-12-07
-summary: "A LabVIEW Quick-Drop plug-in for implementing the common LabVIEW error handling functionality: it creates an error control and terminal if needed, wires them into the connector pane, aligns block diagram terminals, and optionally creates an error structure around existing elements on the block diagram."
+summary: "A LabVIEW Quick-Drop (QD) plug-in for drawing an error structure on the block diagram."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

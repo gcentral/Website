@@ -2,7 +2,7 @@
 title: "RXX"
 externalUrl: https://www.vipm.io/package/ims_lib_rxx
 date: 2016-05-19
-summary: "Manage your requirements from your front panel."
+summary: "VI Requirements Mangement Tool"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

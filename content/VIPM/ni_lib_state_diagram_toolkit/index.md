@@ -2,7 +2,7 @@
 title: "LabVIEW State Diagram Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_state_diagram_toolkit
 date: 2017-04-21
-summary: "The LabVIEW State Diagram Toolkit assists in large scale application development by providing a visual editor in which you can build state machines in LabVIEW using a state-specific notation."
+summary: "A visual editor for creating and debugging state machines in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -33,4 +34,4 @@ The LabVIEW State Diagram Toolkit assists in large scale application development
 
 The manual is installed with the toolkit in <font=Courier>labview\\manuals</font>.
 
-Support questions may be posted in the LabVIEW discussion forum at <u>http://forums.ni.com/t5/LabVIEW/bd-p/170</u>.
+Support questions may be posted in the LabVIEW discussion forum at http://forums.ni.com/t5/LabVIEW/bd-p/170.

@@ -2,7 +2,7 @@
 title: "IG ExecAnchor"
 externalUrl: https://www.vipm.io/package/illuminated_g_lib_ig_execanchor
 date: 2023-10-13
-summary: "A simple mechanism to either have an event automatically generated when a launching execution hierarchy goes idle or provide the ability to poll the calling execution hierarchy's status."
+summary: "A simple API for firing and event or polling the status of a calling execution hierarchy going idle."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

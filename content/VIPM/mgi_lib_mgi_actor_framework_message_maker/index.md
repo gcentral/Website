@@ -2,7 +2,7 @@
 title: "MGI Actor Framework Message Maker"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_actor_framework_message_maker
 date: 2016-09-15
-summary: "An enhanced Actor Framework Message Maker!"
+summary: "Improved Actor Framework Message Maker"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "Actor Framework"
+ - "MGI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/mgi_lib_mgi_actor_framework_message_maker

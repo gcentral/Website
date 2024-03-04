@@ -2,7 +2,7 @@
 title: "LV-TOML"
 externalUrl: https://www.vipm.io/package/lv_toml
 date: 2022-11-21
-summary: "LV-TOML is an open source LabVIEW library for parsing and composing TOML files."
+summary: "LabVIEW library for parsing and composing TOML files"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -2,7 +2,7 @@
 title: "NAO SDK for NI LabVIEW"
 externalUrl: https://www.vipm.io/package/synergy_techforce_lib_nao_sdk_for_ni_labview
 date: 2016-05-19
-summary: "NAO is the most widely used humanoid robot for academic purposes worldwide."
+summary: "Tool Suite for Controlling Aldebaran Robot NAO"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/synergy_techforce_lib_nao_sdk_for_ni_labview

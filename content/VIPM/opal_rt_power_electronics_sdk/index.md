@@ -2,7 +2,7 @@
 title: "OPAL-RT Power Electronics SDK"
 externalUrl: https://www.vipm.io/package/opal_rt_power_electronics_sdk
 date: 2019-04-11
-summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
+summary: "FPGA-based real-time simulation tools, combining the performance of high-fidelity digital simulators with very low communication latency to provide power electronics engineers with a state-of-the-art HIL platform for the development and testing of control and protection systems"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/opal_rt_power_electronics_sdk

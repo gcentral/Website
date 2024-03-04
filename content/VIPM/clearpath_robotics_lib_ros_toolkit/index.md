@@ -2,7 +2,7 @@
 title: "ROS Toolkit"
 externalUrl: https://www.vipm.io/package/clearpath_robotics_lib_ros_toolkit
 date: 2016-05-19
-summary: "This package allows arbitrary ROS messages to be sent, service calls to be made, and predefined ROS messages to be parsed."
+summary: "A tool which provides ROS-LabVIEW interoperability"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/clearpath_robotics_lib_ros_toolkit

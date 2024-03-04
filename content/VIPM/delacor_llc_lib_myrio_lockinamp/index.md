@@ -2,7 +2,7 @@
 title: "myRIO LockInAmp"
 externalUrl: https://www.vipm.io/package/delacor_llc_lib_myrio_lockinamp
 date: 2016-05-19
-summary: "Lock-In Amplifier implementation with myRIO."
+summary: "Lock-In Amplifier implementation with myRIO. Example shows heart rate measurements.  Supports myRIO-1900"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

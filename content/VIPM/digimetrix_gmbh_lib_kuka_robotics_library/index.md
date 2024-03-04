@@ -2,7 +2,7 @@
 title: "Kuka Robotics Library KR C4"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_kuka_robotics_library
 date: 2016-11-10
-summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
+summary: "Easy-to-use graphical functions for commanding and controlling KUKA robotics directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,17 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "motion"
+ - "protocol"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_gmbh_lib_kuka_robotics_library

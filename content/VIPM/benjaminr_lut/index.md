@@ -2,7 +2,7 @@
 title: "LookUp Table API"
 externalUrl: https://www.vipm.io/package/benjaminr_lut
 date: 2022-02-19
-summary: "The Look up tabel (LUT) consists on a LabVIEW variant, that stores the data."
+summary: "LookUp Table API"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

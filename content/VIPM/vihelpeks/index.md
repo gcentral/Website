@@ -2,7 +2,7 @@
 title: "VI Helpeks"
 externalUrl: https://www.vipm.io/package/vihelpeks
 date: 2016-05-19
-summary: "VI Helpeks is a utility used to build HTML help for VIs and palettes in the style of NI LabVIEW Help."
+summary: "Utility to generate HTML help for LabVIEW VIs and Palettes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

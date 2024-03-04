@@ -2,7 +2,7 @@
 title: "XDSC Components"
 externalUrl: https://www.vipm.io/package/anomoref_lib_xdsc_components
 date: 2016-05-19
-summary: "**XDSC UI."
+summary: "XDSC Components Installer"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/anomoref_lib_xdsc_components

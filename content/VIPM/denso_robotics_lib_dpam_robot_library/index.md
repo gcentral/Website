@@ -2,7 +2,7 @@
 title: "DENSO Robot Library"
 externalUrl: https://www.vipm.io/package/denso_robotics_lib_dpam_robot_library
 date: 2020-09-15
-summary: "========================================================================"
+summary: "DENSO Robot Library : LabVIEW Driver for RC8"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/denso_robotics_lib_dpam_robot_library

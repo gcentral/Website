@@ -2,7 +2,7 @@
 title: "DCAF LED Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_led
 date: 2017-05-20
-summary: ""
+summary: "Controls the built-in LED on RT targets"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DCAF"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

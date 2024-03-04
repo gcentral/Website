@@ -2,7 +2,7 @@
 title: "PL ISTEQ TroSpec"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_isteq_trospec
 date: 2022-12-21
-summary: "LabVIEW instrument driver for ISTEQ TroSpec spectrometers."
+summary: "LabVIEW instrument driver for ISTEQ TroSpec spectrometers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

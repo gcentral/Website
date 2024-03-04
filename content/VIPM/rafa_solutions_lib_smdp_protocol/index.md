@@ -2,7 +2,7 @@
 title: "SMDP Protocol"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_smdp_protocol
 date: 2016-12-02
-summary: "Sycon Multi Drop Protocol (SMDP) Toolkit is a library of VIs for data communication between Master and Slave devices using the SMDP protocol."
+summary: "SMDP protocol LabVIEW Library."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/rafa_solutions_lib_smdp_protocol

@@ -2,7 +2,7 @@
 title: "GPower Math"
 externalUrl: https://www.vipm.io/package/gpower_lib_math
 date: 2016-05-19
-summary: "Library for discrete math, percentage calculations, and statistics."
+summary: "Mathematical and numeric toolset."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

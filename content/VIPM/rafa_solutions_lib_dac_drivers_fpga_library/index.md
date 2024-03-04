@@ -2,7 +2,7 @@
 title: "DAC Drivers FPGA Library"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_dac_drivers_fpga_library
 date: 2016-05-19
-summary: "DAC Drivers FPGA IP Library"
+summary: "FPGA IP Library of Digital-to-Analog Converter Drivers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/rafa_solutions_lib_dac_drivers_fpga_library

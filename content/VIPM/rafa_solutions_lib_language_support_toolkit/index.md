@@ -2,7 +2,7 @@
 title: "Language Support Toolkit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_language_support_toolkit
 date: 2016-05-19
-summary: "Language Support Toolkit is a combination of main elements that should be used to add multilingual option to applications and VIs."
+summary: "Language Support Toolkit combines main elements for adding multilingual option to applications and VIs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

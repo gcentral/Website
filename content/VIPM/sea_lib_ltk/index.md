@@ -2,7 +2,7 @@
 title: "LTK Localization Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/sea_lib_ltk
 date: 2020-09-22
-summary: "<color=blue>IMPORTANT NOTES:</color>"
+summary: "Create and Distribute Multi-Language LabVIEW Applications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

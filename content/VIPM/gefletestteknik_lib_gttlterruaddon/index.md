@@ -2,7 +2,7 @@
 title: "LTE RRU"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttlterruaddon
 date: 2016-05-19
-summary: "GTT LTE RRU is an an add-on to the GTT LTE RBS Toolkit for Remote Radio Unit testing with CPRI functionality."
+summary: "LTE RRU add-on to LTE RBS toolkit by Gefle Testteknik"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

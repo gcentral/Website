@@ -2,7 +2,7 @@
 title: "GraviFetch"
 externalUrl: https://www.vipm.io/package/john_von_neumann_university_lib_gravifetch
 date: 2022-12-19
-summary: "The toolkit allows the users to import ."
+summary: "Gravitational Wave Handler Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

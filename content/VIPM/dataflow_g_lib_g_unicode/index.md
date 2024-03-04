@@ -2,7 +2,7 @@
 title: "G-Unicode"
 externalUrl: https://www.vipm.io/package/dataflow_g_lib_g_unicode
 date: 2023-08-30
-summary: "A LabVIEW library for displaying Unicode, manipulating Unicode strings, and performing file I/O on Unicode paths."
+summary: "A LabVIEW library for displaying and manipulating Unicode strings, and for file I/O with Unicode paths."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "I/O"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

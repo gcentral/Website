@@ -2,7 +2,7 @@
 title: "CalcExpress"
 externalUrl: https://www.vipm.io/package/calcexpress
 date: 2016-05-19
-summary: "CalcExpress Toolkit is a set of VIs and utilities to perform textual scripts and evaluate formulas."
+summary: "CalcExpress"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

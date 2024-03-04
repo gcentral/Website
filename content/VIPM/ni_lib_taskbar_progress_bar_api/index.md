@@ -2,7 +2,7 @@
 title: "LabVIEW Taskbar Progress bar API"
 externalUrl: https://www.vipm.io/package/ni_lib_taskbar_progress_bar_api
 date: 2016-05-19
-summary: "This simple LabVIEW API enables the use of the Progress bar embedded in the Windows 7 Taskbar buttons using three simple VIs."
+summary: "LabVIEW API to use the Progress bar embedded in the Windows 7 Taskbar buttons."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "MGI Error Handling"
 externalUrl: https://www.vipm.io/package/mgi_lib_error_handling
 date: 2016-09-08
-summary: "This package contains VIs that operate with error cluster data."
+summary: "VIs that operate with an error cluster"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "G2CPU GPU and CPU HPC Toolkit Community Edition (System)"
 externalUrl: https://www.vipm.io/package/natan_biesmans_lib_g2cpu_community_system
 date: 2023-12-06
-summary: "** Please make sure VIPM is running with Administrator privliges!!!**"
+summary: "G2CPU GPU and CPU high performance computing toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

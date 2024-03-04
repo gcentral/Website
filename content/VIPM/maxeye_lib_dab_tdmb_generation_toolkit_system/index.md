@@ -2,7 +2,7 @@
 title: "DAB TDMB Generation Toolkit (System)"
 externalUrl: https://www.vipm.io/package/maxeye_lib_dab_tdmb_generation_toolkit_system
 date: 2017-05-10
-summary: "The MAXEYE T-DMB/DAB Signal generation toolkit contains VIs that can be used for generating signals with National Instruments hardware or generate signals in simulation mode as per the T-DMB/DAB Standards ETSI EN 300401 v1."
+summary: "MaxEye Technologies provides generation functions in LabVIEW for generating the standard complaint signals for various digital video broadcasting standards. This guide explains how to use the DAB-TDMB signal generation toolkit using the programming examples."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

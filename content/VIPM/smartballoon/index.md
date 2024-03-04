@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -33,5 +34,5 @@ SmartBalloon is a simple turn-key library to display notifications in a corner o
 
 VIPM 2014 or later must be used in order to install this package.
 
-<u>Support Information :</u>
+Support Information :
 - Please report any valuable bug or feedback here : https://decibel.ni.com/content/docs/DOC-48039

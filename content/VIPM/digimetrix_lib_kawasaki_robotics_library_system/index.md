@@ -2,7 +2,7 @@
 title: "Kawasaki Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_kawasaki_robotics_library_system
 date: 2021-09-27
-summary: "**Note:** This installer requires VI Package Manager and LabVIEW to be run with Administrator privileges."
+summary: "Easy-to-use graphical functions for commanding and controlling Kawasaki robots directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_lib_kawasaki_robotics_library_system

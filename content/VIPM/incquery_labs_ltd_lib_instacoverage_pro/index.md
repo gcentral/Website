@@ -2,7 +2,7 @@
 title: "InstaCoverage Pro"
 externalUrl: https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_pro
 date: 2020-11-09
-summary: "**<color=red>The InstaCoverage 3."
+summary: "A Fast Unit Testing and Code Coverage Tool for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_pro

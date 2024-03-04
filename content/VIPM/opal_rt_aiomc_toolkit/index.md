@@ -2,7 +2,7 @@
 title: "OPAL-RT Analog IO Mapping and Conditioning Toolkit"
 externalUrl: https://www.vipm.io/package/opal_rt_aiomc_toolkit
 date: 2019-04-11
-summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
+summary: "OPAL-RT Analog IO Mapping and Conditioning toolkit compatible with LabVIEW FPGA allowing for optimized connection to Analog input and output channels"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

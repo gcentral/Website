@@ -2,7 +2,7 @@
 title: "LabJack Utilities"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_labjack_utilities
 date: 2016-05-19
-summary: "This package is a set of utilities for configuration and measurement using LabJack's UD series of devices, the U3, U6, and UE9, on USB and Ethernet interfaces."
+summary: "Drivers, VIs, and applications for LabJack UD devices (U3, U6, U9)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Sprinkler Controller for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_sprinkler_controller
 date: 2016-05-19
-summary: "**Sprinkler Controller for NI myRIO**"
+summary: "Sprinkler Controller for NI myRIO"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_sprinkler_controller

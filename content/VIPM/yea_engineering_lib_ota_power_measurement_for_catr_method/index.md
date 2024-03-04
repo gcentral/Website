@@ -2,7 +2,7 @@
 title: "OTA Power Measurement Toolkit for CATR method"
 externalUrl: https://www.vipm.io/package/yea_engineering_lib_ota_power_measurement_for_catr_method
 date: 2020-07-23
-summary: "'OTA Power Measurement Toolkit for CATR Method' is a set of functions that allow to perform Effective Isotropic Radiated Power (EIRP), Total Radiated Power (TRP) and  Sensitivity Measurements in Over-the-Air (OTA) Test Setup using Compact Antenna Test Range (CATR) Method according to 3GPP 38."
+summary: "'OTA Power Measurement Toolkit for CATR Method' is a set of functions that allow to perform Effective Isotropic Radiated Power (EIRP), Total Radiated Power (TRP) and  Sensitivity Measurements in Over-the-Air (OTA) Test Setup using Compact Antenna Test Range (CATR) Method according to 3GPP 38.810 Specification. The Toolkit is designed to be used along RFmx SpecAn functions to convert Power Measurement values of RFmx to account for gains and losses due to Free Space, CATR Mirror, Probe Antenna and Cables in the OTA Test Setup."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

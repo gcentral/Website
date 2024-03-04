@@ -2,7 +2,7 @@
 title: "GModBus over Serial Line"
 externalUrl: https://www.vipm.io/package/saphir_lib_modbusviewosl
 date: 2016-05-19
-summary: "This toolkit allows you to implement ModBus protocol over serial line in you LabVIEW application."
+summary: "Implement ModBus protocol over serial line in your LabVIEW application"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/saphir_lib_modbusviewosl

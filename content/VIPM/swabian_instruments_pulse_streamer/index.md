@@ -2,7 +2,7 @@
 title: "Pulse Streamer"
 externalUrl: https://www.vipm.io/package/swabian_instruments_pulse_streamer
 date: 2023-06-05
-summary: "API for Swabian Instruments' Pulse Streamer 8/2."
+summary: "Pulse Streamer client for LabView"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
  - "VIPM Community"
 ---
 

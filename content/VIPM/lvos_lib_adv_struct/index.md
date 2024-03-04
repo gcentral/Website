@@ -2,7 +2,7 @@
 title: "Advanced Structures"
 externalUrl: https://www.vipm.io/package/lvos_lib_adv_struct
 date: 2024-01-14
-summary: "Circular Buffer including Queues (FIFO) and Stacks (FILO)"
+summary: "Advanced Structures"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

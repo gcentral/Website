@@ -2,7 +2,7 @@
 title: "Human Readable Data Toolkit"
 externalUrl: https://www.vipm.io/package/autotestware_lib_human_readable_data_toolkit
 date: 2016-05-19
-summary: "The JKI VI Package Manager (VIPM) 2014 or newer is required to install the Autotestware Human Readable Data Toolkit."
+summary: "Converts LabVIEW Data Objects into Human Readable Data.   Parses HRD back into LabVIEW Data Objects."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

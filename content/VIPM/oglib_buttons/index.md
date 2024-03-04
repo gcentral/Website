@@ -2,7 +2,7 @@
 title: "OpenG Buttons Library"
 externalUrl: https://www.vipm.io/package/oglib_buttons
 date: 2018-03-02
-summary: "The OpenG Buttons Library package contains various button controls."
+summary: "OpenG Buttons Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

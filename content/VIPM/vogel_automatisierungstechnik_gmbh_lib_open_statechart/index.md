@@ -2,7 +2,7 @@
 title: "open_StateChart"
 externalUrl: https://www.vipm.io/package/vogel_automatisierungstechnik_gmbh_lib_open_statechart
 date: 2016-05-19
-summary: "**open StateChart for LabVIEW**"
+summary: "open StateChart"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

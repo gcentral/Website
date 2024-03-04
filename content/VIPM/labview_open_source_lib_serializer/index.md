@@ -2,7 +2,7 @@
 title: "OpenSerializer"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_serializer
 date: 2022-01-19
-summary: "Serializer is a package serving as base class for serialization and deserialization of LabVIEW Data."
+summary: "Serializer classes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_lib_serializer

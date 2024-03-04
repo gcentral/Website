@@ -2,7 +2,7 @@
 title: "Digilent LINX (Control Arduino, Raspberry Pi, BeagleBone and more)"
 externalUrl: https://www.vipm.io/package/lvh_linx
 date: 2016-06-02
-summary: "LINX provides easy to use VIs for controlling common embeddded platforms like Arduino and chipKIT and enables developers to deploy LabVIEW applications to run on BeagleBone Black, Raspberry Pi and myRIO."
+summary: "Interact with the world using LabVIEW to control embedded platforms like Arduino, chipKIT, myRIO, BeagleBone Black, and Raspberry Pi 2/3."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

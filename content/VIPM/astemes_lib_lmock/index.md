@@ -2,7 +2,7 @@
 title: "LMock"
 externalUrl: https://www.vipm.io/package/astemes_lib_lmock
 date: 2023-08-31
-summary: "LMock is a mocking framework used for automatically generating and maintaining mock classes."
+summary: "Automated test double generation"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

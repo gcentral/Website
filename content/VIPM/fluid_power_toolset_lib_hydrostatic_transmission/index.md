@@ -2,7 +2,7 @@
 title: "Hydrostatic Transmission"
 externalUrl: https://www.vipm.io/package/fluid_power_toolset_lib_hydrostatic_transmission
 date: 2016-05-19
-summary: "This is a free subset of the Fluid Power Toolset for LabVIEW."
+summary: "Subset Hydrostatic Transmission to model hydrauic drives with pumps and motors"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

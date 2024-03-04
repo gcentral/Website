@@ -2,7 +2,7 @@
 title: "lava_lib_LabVIEW_API_scripting_tools"
 externalUrl: https://www.vipm.io/package/lava_lib_labview_api_scripting_tools
 date: 2020-06-24
-summary: "This is a LabVIEW 8."
+summary: "A LabVIEW 8.6.1 Library of VIs to help with scripting."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "OpenG"
  - "VIPM Community"
 ---
 

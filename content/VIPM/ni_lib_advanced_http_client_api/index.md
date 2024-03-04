@@ -1,8 +1,8 @@
 ---
 title: "NI Advanced HTTP Client API"
 externalUrl: https://www.vipm.io/package/ni_lib_advanced_http_client_api
-date: 2023-08-24
-summary: "This API is intended to be a replacement for the HTTP Client API (Data Communication > Protocols > HTTP Client) that ships with LabVIEW."
+date: 2024-03-03
+summary: "Updated HTTP Client API that provides PATCH functionality, multithreading safe operations, and other enhancements over the built-in HTTP Client API"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

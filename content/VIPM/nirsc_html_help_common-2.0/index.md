@@ -1,5 +1,5 @@
 ---
-title: "nirsc_html_help_common-2.0"
+title: "Nirsc html help common-2.0"
 externalUrl: https://www.vipm.io/package/nirsc_html_help_common-2.0
 date: 2020-05-16
 summary: "common files for OpenG help documentation"
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
+ - "OpenG"
  - "VIPM Community"
 ---
 

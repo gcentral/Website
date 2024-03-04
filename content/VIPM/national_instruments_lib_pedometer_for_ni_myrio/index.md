@@ -2,7 +2,7 @@
 title: "Pedometer for NI myRIO"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_pedometer_for_ni_myrio
 date: 2016-05-19
-summary: "The Pedometer for NI myRIO runs on the 1900 and 1950 models."
+summary: "The Pedometer for NI myRIO app tranforms the myRIO into a handheld pedometer that counts your steps and calculates your average step length."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

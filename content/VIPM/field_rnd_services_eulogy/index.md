@@ -2,7 +2,7 @@
 title: "Eulogy"
 externalUrl: https://www.vipm.io/package/field_rnd_services_eulogy
 date: 2019-11-28
-summary: "You just inherited a large project that has been under continuous development for years, and now you are tasked with improving performance and adding functionality while maintaining compatibility."
+summary: "A dead simple LabVIEW add-on and toolkit for refactoring legacy code"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/field_rnd_services_eulogy

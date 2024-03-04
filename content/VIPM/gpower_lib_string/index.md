@@ -2,7 +2,7 @@
 title: "GPower String"
 externalUrl: https://www.vipm.io/package/gpower_lib_string
 date: 2016-08-23
-summary: "This toolset offers a set of string functions to complement the built-in ones."
+summary: "Additional string functions."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Tag Engine"
 externalUrl: https://www.vipm.io/package/tag_engine
 date: 2024-02-05
-summary: "This library aims to provide a tag variable engine to LabVIEW, similar to what would be found in most SCADA application development environments."
+summary: "Tag Variable Engine for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "VIPM Community"
 ---
 

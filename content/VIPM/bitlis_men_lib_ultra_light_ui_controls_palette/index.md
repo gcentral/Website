@@ -2,7 +2,7 @@
 title: "Ultra Light UI Controls Palette"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_ultra_light_ui_controls_palette
 date: 2016-08-19
-summary: "Ultra Light UI Controls Pallete: LabVIEW add-on"
+summary: "Ultra Light UI Controls Pallete for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/bitlis_men_lib_ultra_light_ui_controls_palette

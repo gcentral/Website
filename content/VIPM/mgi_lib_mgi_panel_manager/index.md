@@ -2,7 +2,7 @@
 title: "MGI Panel Manager"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_panel_manager
 date: 2018-03-30
-summary: "This package helps you quickly and easily build complex, multi-panel user interfaces."
+summary: "MGI Panel Management Framework"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/mgi_lib_mgi_panel_manager

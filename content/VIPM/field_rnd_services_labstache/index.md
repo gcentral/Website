@@ -2,7 +2,7 @@
 title: "Labstache"
 externalUrl: https://www.vipm.io/package/field_rnd_services_labstache
 date: 2020-04-15
-summary: "Labstache is a pure LabVIEW library for working with logic-less Mustache templates."
+summary: "A toolkit for rendering logic-free Mustache templates"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

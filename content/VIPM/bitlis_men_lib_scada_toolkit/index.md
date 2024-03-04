@@ -2,7 +2,7 @@
 title: "SCADA Toolkit"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_scada_toolkit
 date: 2017-09-20
-summary: "SCADA Toolkit: LabVIEW add-on"
+summary: "SCADA Development Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/bitlis_men_lib_scada_toolkit

@@ -1,8 +1,8 @@
 ---
-title: "RM-26999"
+title: "RM"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_rm_26999
 date: 2023-02-13
-summary: "This API is used for the RM-26999."
+summary: "API for RM-26999 High Voltage Rack Mount Terminal Block"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

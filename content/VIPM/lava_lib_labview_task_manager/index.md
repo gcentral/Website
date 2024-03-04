@@ -2,7 +2,7 @@
 title: "LabVIEW Task Manager"
 externalUrl: https://www.vipm.io/package/lava_lib_labview_task_manager
 date: 2021-05-28
-summary: "**<color=0000FF><size=14>LabVIEW Task Manager<color=000000></size> is a debugging tool for use during development."
+summary: "A debugging tool for LabVIEW; lists all VIs in memory, with several abilities to monitor and interact with them."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
  - "VIPM Community"
 ---
 

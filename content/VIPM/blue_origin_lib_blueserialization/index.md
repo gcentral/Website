@@ -2,7 +2,7 @@
 title: "BlueSerialization"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blueserialization
 date: 2022-11-18
-summary: ""
+summary: "BlueSerializer core"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/blue_origin_lib_blueserialization

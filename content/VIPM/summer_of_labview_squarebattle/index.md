@@ -2,7 +2,7 @@
 title: "SoL SquareBattle"
 externalUrl: https://www.vipm.io/package/summer_of_labview_squarebattle
 date: 2023-07-09
-summary: "Installs a new Summer of LabVIEW Project Template that can be used to create new SquareBattle Teams."
+summary: "Reimplementation of Endigit's SquareBattle game. Participants create teams to wage battle with each other."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "Summer of LabVIEW"
  - "VIPM Community"
 ---
 

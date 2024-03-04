@@ -2,7 +2,7 @@
 title: "Dynamic VI Handler"
 externalUrl: https://www.vipm.io/package/dynamic_vi_handler
 date: 2017-05-08
-summary: "**Dynamic VI Handler is a collection of VIs to programmatically**"
+summary: "Load, Run, Handle, and Release VIs on demand. Join separately developed VIs to a Dynamic System."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "OpenG"
 ---
 
 Redirecting to https://www.vipm.io/package/dynamic_vi_handler

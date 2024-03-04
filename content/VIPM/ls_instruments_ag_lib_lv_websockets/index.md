@@ -2,7 +2,7 @@
 title: "LV-WebSockets"
 externalUrl: https://www.vipm.io/package/ls_instruments_ag_lib_lv_websockets
 date: 2023-11-22
-summary: "This library is a fork of v1."
+summary: "A library implementing the WebSocket protocol including support for resource names"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ls_instruments_ag_lib_lv_websockets

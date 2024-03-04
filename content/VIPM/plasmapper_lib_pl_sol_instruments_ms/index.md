@@ -2,7 +2,7 @@
 title: "PL SOL Instruments MS"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_sol_instruments_ms
 date: 2022-11-23
-summary: "LabVIEW instrument driver for SOL Instruments (Solar TII) MS series monochromator-spectrographs."
+summary: "LabVIEW instrument driver for SOL Instruments MS series monochromator-spectrographs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/plasmapper_lib_pl_sol_instruments_ms

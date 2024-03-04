@@ -2,7 +2,7 @@
 title: "UI Tools"
 externalUrl: https://www.vipm.io/package/lava_lib_ui_tools
 date: 2020-11-14
-summary: "This package contains tools for designing user interfaces."
+summary: "Tools for user interface development"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/lava_lib_ui_tools

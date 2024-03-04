@@ -2,7 +2,7 @@
 title: "NI LabVIEW Scripting"
 externalUrl: https://www.vipm.io/package/ni_labs_lib_labview_scripting
 date: 2016-05-19
-summary: "LabVIEW VI Scripting helps you programmatically generate, edit, and inspect LabVIEW code."
+summary: "LabVIEW Scripting for 8.6 and 2009"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_labs_lib_labview_scripting
@@ -41,4 +43,4 @@ Scripting is a free add-on, but you must activate it after installation. The ser
 4.	Select **Automatically activate through a secure Internet connection** and click **Next**. Enter the serial number, L12S86758, and click **Next**.
 5.	Follow the remaining steps in the NI Activation Wizard.
 
-You can find details and help for VI Scripting at <color=blue><u>http://decibel.ni.com/content/groups/labview-apis</u></color>.
+You can find details and help for VI Scripting at <color=blue>http://decibel.ni.com/content/groups/labview-apis</color>.

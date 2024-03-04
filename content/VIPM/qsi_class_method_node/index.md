@@ -2,7 +2,7 @@
 title: "Class Method Node"
 externalUrl: https://www.vipm.io/package/qsi_class_method_node
 date: 2021-05-25
-summary: "The **Class Method Node** acts like an *Invoke Node* but it accepts Classes and DVRs (By-Reference Classes) instead of VI Server references."
+summary: "The Class Method Node acts like an Invoke Node but it accepts Classes and DVRs (By-Reference Classes) instead of VI Server references."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

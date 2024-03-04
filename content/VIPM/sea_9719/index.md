@@ -2,7 +2,7 @@
 title: "SEA 802.11p - cRIO Drivers (SEA 9719)"
 externalUrl: https://www.vipm.io/package/sea_9719
 date: 2017-05-17
-summary: "**1."
+summary: "Drivers for SEA 9719 - IEEE 802.11p Communication Module for vehicle-to-anything (V2X) communications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/sea_9719

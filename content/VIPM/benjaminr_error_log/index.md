@@ -2,7 +2,7 @@
 title: "Error Log"
 externalUrl: https://www.vipm.io/package/benjaminr_error_log
 date: 2022-02-19
-summary: "A set of classes to provide comprehensive error logging functionality."
+summary: "Library for error handling in LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/benjaminr_error_log
@@ -37,7 +38,7 @@ The **Error Log** library takes a modular approach and offers several categories
 - **Handler** is set of methods to effectively output (write/display) log records. Handler filters out log records based on their Level.
 - **Serializer** specifies the layout of log records in the final output.
 
-<u>Levels</u>: 
+Levels: 
 - **DEBUG** : Detailed information, typically of interest only when diagnosing problems.
 - **INFO** : Confirmation that things are working as expected.
 - **WARNING** : An indication that something unexpected happened. The application is still working as expected.

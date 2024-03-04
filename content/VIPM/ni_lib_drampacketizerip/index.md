@@ -2,7 +2,7 @@
 title: "NI DRAM Packetizer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_drampacketizerip
 date: 2016-05-19
-summary: "Some data transmission protocols, such as VITA49, require that each data packet contain only samples from one channel."
+summary: "The NI DRAM Packetizer IP library provides a 4-wire compliant FPGA block for packetizing incoming data using the onboard DRAM of an NI FlexRIO."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_drampacketizerip

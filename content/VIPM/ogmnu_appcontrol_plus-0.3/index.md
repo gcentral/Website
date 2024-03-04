@@ -1,8 +1,8 @@
 ---
-title: "ogmnu_appcontrol_plus-0.3"
+title: "Ogmnu appcontrol plus-0.3"
 externalUrl: https://www.vipm.io/package/ogmnu_appcontrol_plus-0.3
 date: 2018-03-02
-summary: "The additional appcontrol package adds new primitives to the Application Control palette"
+summary: "Application Control Plus"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

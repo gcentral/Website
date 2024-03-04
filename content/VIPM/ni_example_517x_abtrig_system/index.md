@@ -2,7 +2,7 @@
 title: "NI AB Trigger for PXIe-517xR Host (System)"
 externalUrl: https://www.vipm.io/package/ni_example_517x_abtrig_system
 date: 2016-05-19
-summary: "**Required Hardware**"
+summary: "This package provides host example code demonstrating how to configure and use the NI-SCOPE Reconfigurable Oscilloscope AB Trigger FPGA Extension."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

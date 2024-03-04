@@ -2,7 +2,7 @@
 title: "JSON Pretty Printer"
 externalUrl: https://www.vipm.io/package/felipefoz_lib_json_pretty_printer
 date: 2023-11-01
-summary: "**JSON Pretty Printer **"
+summary: "Utility to pretty print (or minify) your JSON String and make it more human readable."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
 ---
 

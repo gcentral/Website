@@ -2,7 +2,7 @@
 title: "PL SOL Instruments Camera"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_sol_instruments_camera
 date: 2022-07-16
-summary: "LabVIEW instrument driver for SOL Instruments (Proscan) cameras."
+summary: "LabVIEW instrument driver for SOL Instruments (Proscan) cameras"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "camera"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/plasmapper_lib_pl_sol_instruments_camera

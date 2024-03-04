@@ -2,7 +2,7 @@
 title: "Neosoft DHCP Server"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lib_neosoft_dhcp_server
 date: 2024-01-23
-summary: "This toolkit implements a DHCP server in the form of a DQMH module."
+summary: "Basic DHCP server with a built-in API"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/neosoft_technologies_lib_neosoft_dhcp_server
@@ -54,4 +54,4 @@ It also does NOT support unicast IP address delivery based on MAC address. The I
 Therefore, some devices may NOT be able to successfully obtain an IP with this DHCP server implementation.
  
 A standalone version (exe) can be found on the Neosoft Technologies website: 
-<u>www.neosoft.ca</u>
+www.neosoft.ca

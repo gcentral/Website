@@ -2,7 +2,7 @@
 title: "BACnet Protocol for LabVIEW"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_bacnet_protocol_for_labview
 date: 2016-05-19
-summary: "Toolkit gives ability for NI equipment work as a BACnet MS/TP slave device in the building control systems."
+summary: "Toolkit gives ability for NI equipment work as slave device in the building control systems."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ovak_technologies_lib_bacnet_protocol_for_labview

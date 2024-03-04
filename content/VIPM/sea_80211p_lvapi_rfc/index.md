@@ -2,7 +2,7 @@
 title: "SEA 802.11p Add-On for LabVIEW - RF-COMPLIANCE API"
 externalUrl: https://www.vipm.io/package/sea_80211p_lvapi_rfc
 date: 2022-04-22
-summary: "The **SEA 802."
+summary: "IEEE 802.11p LabVIEW Add-On (RF-COMPLIANCE) for V2X communications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/sea_80211p_lvapi_rfc

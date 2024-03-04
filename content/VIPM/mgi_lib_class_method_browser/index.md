@@ -2,7 +2,7 @@
 title: "MGI Class Method Browser"
 externalUrl: https://www.vipm.io/package/mgi_lib_class_method_browser
 date: 2017-05-16
-summary: "In visual studio (like many other IDEs) there is an extremely helpful auto complete functionality."
+summary: "Quick drop plugin to help find methods for OO Development."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "OOP"
 ---
 
 Redirecting to https://www.vipm.io/package/mgi_lib_class_method_browser

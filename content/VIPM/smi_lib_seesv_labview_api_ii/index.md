@@ -2,7 +2,7 @@
 title: "SeeSV LabVIEW API II"
 externalUrl: https://www.vipm.io/package/smi_lib_seesv_labview_api_ii
 date: 2017-02-13
-summary: "SeeSV API II acquires image and signal in real time by a portable sound camera."
+summary: "SeeSV API II acquires image and signal in real time by a portable sound camera. Also, it offers analyze function."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/smi_lib_seesv_labview_api_ii

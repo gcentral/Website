@@ -2,7 +2,7 @@
 title: "NI Bandwidth Power IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_bandwidth_power_ip
 date: 2016-05-19
-summary: "This IP is meant to be a drop in solution for quickly calculating the power of the full bandwidth of the input signal."
+summary: "This IP utilizes the user programmable FPGA found on many NI products (such as the NI PXIe-5644/45R Vector Signal Transceivers and the FlexRIO line) to quickly and efficiently calculate the power over the full bandwidth of an input IQ signal. This is an important measurement for many kinds of signal analysis."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

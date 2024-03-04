@@ -2,7 +2,7 @@
 title: "G-Image"
 externalUrl: https://www.vipm.io/package/dataflow_g_lib_g_image
 date: 2023-08-03
-summary: "A cross-platform LabVIEW library for loading, saving, and processing images."
+summary: "A LabVIEW image library."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -2,7 +2,7 @@
 title: "Visual Components Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/imaginglab_gmbh_lib_visual_components_robotics_library_system
 date: 2016-05-19
-summary: "With this library you can program a single LabVIEW application that integrates all aspects of machine control and automation simulation from part handling and robot control to advanced path generation and collision detection."
+summary: "Easy-to-use graphical functions for commanding and controlling any virtual robots inside Visual Components 3D Create Software  directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/imaginglab_gmbh_lib_visual_components_robotics_library_system

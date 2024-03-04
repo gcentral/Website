@@ -2,7 +2,7 @@
 title: "Blue Formatter For LabVIEW"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_blue_formatter_for_labview
 date: 2024-02-01
-summary: "An autoformatter for LabVIEW inspired by Python's Black, LabVIEW's own Nattify and Felipe Silva's experiments."
+summary: "Blue - Like Black, but for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

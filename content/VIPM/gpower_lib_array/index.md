@@ -2,7 +2,7 @@
 title: "GPower Array"
 externalUrl: https://www.vipm.io/package/gpower_lib_array
 date: 2017-02-07
-summary: "The GPower Array toolset complements the built-in array functions, specifically;"
+summary: "Additional array functions."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

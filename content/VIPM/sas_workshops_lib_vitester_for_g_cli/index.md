@@ -2,7 +2,7 @@
 title: "VITester For G-CLI"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_vitester_for_g_cli
 date: 2024-02-20
-summary: "Tool for running VI Tester tests via G CLI"
+summary: "Tool for running VI Tester tests via G-CLI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

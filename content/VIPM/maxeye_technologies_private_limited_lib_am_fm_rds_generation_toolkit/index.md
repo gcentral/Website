@@ -2,7 +2,7 @@
 title: "AM FM RDS TMC Generation Toolkit"
 externalUrl: https://www.vipm.io/package/maxeye_technologies_private_limited_lib_am_fm_rds_generation_toolkit
 date: 2017-07-06
-summary: "The MAXEYE AM FM RDS Signal generation toolkit contains VIs that can be used for generating signals with National Instruments hardware or generate signals in simulation mode as per the AM FM RDS Standard IEC 62106:1999."
+summary: "MaxEye Technologies provides generation functions in LabVIEW for generating the standard complaint signals for various digital video broadcasting standards. This toolkit explains how to use the AM FM RDS signal generation toolkit using the programming examples."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

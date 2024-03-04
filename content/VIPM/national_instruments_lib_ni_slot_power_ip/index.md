@@ -2,7 +2,7 @@
 title: "NI Slot Power IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_slot_power_ip
 date: 2016-05-19
-summary: "This IP provides FPGA IP and a Host API for taking time slot power measurements."
+summary: "Time slot power measurements are important in cellular calibration and many communications standards, such as GSM, CDMA, and LTE. These measurements involve a power in band measurement after passing the signal through a Resolution Bandwidth Filter. In this IP, this filter can be None, Flat, Gaussian, or a Root Raised Cosine filter. Then, the signal's power is measured in discrete slots. These slots can be long to give a representative average power over time, or made smaller to get a more granular signal power over time measurement."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_slot_power_ip

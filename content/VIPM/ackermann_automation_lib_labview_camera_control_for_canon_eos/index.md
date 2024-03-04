@@ -2,7 +2,7 @@
 title: "Camera Control For Canon EOS"
 externalUrl: https://www.vipm.io/package/ackermann_automation_lib_labview_camera_control_for_canon_eos
 date: 2020-11-18
-summary: "The 'Camera Control for Canon EOS' is a  library for control of Canon EOS cameras via USB."
+summary: "Full control of Canon EOS cameras"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/ackermann_automation_lib_labview_camera_control_for_canon_eos

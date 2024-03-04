@@ -2,7 +2,7 @@
 title: "SEA 9510 EnDat Interface Module"
 externalUrl: https://www.vipm.io/package/sea_9510_driver
 date: 2019-05-10
-summary: "This driver software (RIO module support) enables the operation of the **SEA 9510** cRIO EnDat Interface module inside a NI CompactRIO (FPGA-based) chassis."
+summary: "Driver software for SEA 9510 EnDat Encoder Interface modules."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

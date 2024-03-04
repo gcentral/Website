@@ -1,8 +1,8 @@
 ---
-title: "jki_tool_tortoisesvn-2.0.1.135"
+title: "Jki tool tortoisesvn-2.0.1.135"
 externalUrl: https://www.vipm.io/package/jki_tool_tortoisesvn-2.0.1.135
 date: 2009-06-22
-summary: "The JKI TortoiseSVN Tool for LabVIEW adds a TortoiseSVN submenu to the Tools menu, allowing access to common TSVN operations from within LabVIEW."
+summary: "Adds a TortoiseSVN submenu to the LabVIEW Tools menu."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

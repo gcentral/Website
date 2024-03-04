@@ -2,7 +2,7 @@
 title: "ANT+ Toolkit"
 externalUrl: https://www.vipm.io/package/inu_solutions_lib_ant+_toolkit_for_labview
 date: 2022-04-19
-summary: "This toolkit allows LabVIEW to communicate with ANT+ devices using an ANT dongle (such as the ANTUSB-m) as described in the 'ANT Message Protocol and Usage' document and its dependencies."
+summary: "Toolkit for using the ANT+ Protocol in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "NI String Tools Library"
 externalUrl: https://www.vipm.io/package/ni_lib_string
 date: 2016-05-19
-summary: "Basic set of string manipulation VIs"
+summary: "Collection of string VIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

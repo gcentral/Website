@@ -2,7 +2,7 @@
 title: "NetDCPower"
 externalUrl: https://www.vipm.io/package/insol_netdcpower
 date: 2016-05-19
-summary: "Network DCPower Driver is network-working DCPower driver i."
+summary: "Network DCPower Driver is a driver library to configure and run the National Instruments power supplies and SMUs ."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -39,4 +40,4 @@ Find NetDCPower Documentation in LabVIEW Help Menu.
 
 Requires VIPM 2014.
 
-* For The Technical support you can contact us through * <u> info@insol.am </u>
+* For The Technical support you can contact us through *  info@insol.am

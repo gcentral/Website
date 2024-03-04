@@ -2,7 +2,7 @@
 title: "IG Relative Build Paths"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_relative_build_paths
 date: 2024-01-05
-summary: "Changes how LabVIEW decides to save relative paths so that relative paths can be used in build specs more often."
+summary: "Saves build spec paths relatively more often."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "Panther Dashboard for DQMH"
 externalUrl: https://www.vipm.io/package/pantherlab_lib_panther_dashboard
 date: 2024-02-18
-summary: "<size=24>**Panther Dashboard for DQMH**</size>"
+summary: "Panther Dashboard for DQMH"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "GUI"
+ - "JKI"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/pantherlab_lib_panther_dashboard

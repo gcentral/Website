@@ -2,7 +2,7 @@
 title: "Multimedia for LabVIEW"
 externalUrl: https://www.vipm.io/package/kv_lib_m4labview
 date: 2016-05-19
-summary: "This version contains Windows 32bit and Windows 64bit version of m4LabVIEW "
+summary: "LabVIEW API for FFmpeg libraries"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/kv_lib_m4labview

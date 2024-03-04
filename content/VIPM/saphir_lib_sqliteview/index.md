@@ -2,7 +2,7 @@
 title: "GDataBase for SQLite"
 externalUrl: https://www.vipm.io/package/saphir_lib_sqliteview
 date: 2016-05-19
-summary: "This toolkit allows you to manage 'small, fast and reliable' SQLite 3 database."
+summary: "Access SQLite database in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

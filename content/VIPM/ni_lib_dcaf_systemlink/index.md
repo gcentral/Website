@@ -2,7 +2,7 @@
 title: "DCAF SystemLink Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_systemlink
 date: 2019-06-25
-summary: "This module interacts with the Tags from SystemLink for versions 2017 and 2017."
+summary: "Allows single point adquisition usign SystemLink"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DCAF"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

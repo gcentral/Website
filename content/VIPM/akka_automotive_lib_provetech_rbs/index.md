@@ -2,7 +2,7 @@
 title: "PROVEtech:RBS"
 externalUrl: https://www.vipm.io/package/akka_automotive_lib_provetech_rbs
 date: 2021-01-28
-summary: "**Start LabVIEW and VI Package Manager with administrator privileges."
+summary: "Full AUTOSAR V4.x Bus Communication Simulation in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/akka_automotive_lib_provetech_rbs

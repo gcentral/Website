@@ -2,7 +2,7 @@
 title: "CSM Continuous Meausrement and Logging Example"
 externalUrl: https://www.vipm.io/package/nevstop_lib_csm_continuous_meausrement_and_logging_example
 date: 2024-01-31
-summary: "**CSM-Continuous-Measurement-and-Logging**"
+summary: "DAQ framework & Modules based on Communicable State Machine(CSM)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

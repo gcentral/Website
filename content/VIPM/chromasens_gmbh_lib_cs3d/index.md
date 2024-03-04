@@ -2,7 +2,7 @@
 title: "Chromasens 3D Camera Toolkit"
 externalUrl: https://www.vipm.io/package/chromasens_gmbh_lib_cs3d
 date: 2016-05-19
-summary: "Chromasens GmbH has developed a new kind of process for colour 3D surface measurement based on its self-developed, trilinear CCD line scan camera technology."
+summary: "Chromasens 3D Camera Toolkit For LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/chromasens_gmbh_lib_cs3d

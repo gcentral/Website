@@ -2,7 +2,7 @@
 title: "WebPager - Put Front Panels Online"
 externalUrl: https://www.vipm.io/package/vfp_soft_com_webpager-0.63.4
 date: 2016-12-29
-summary: "WebPager at first glance is somewhat similar to Remote Panels."
+summary: "WebPager allows accessing LabVIEW front panel(s) from a browser with little modifications in the LabVIEW block diagram. WebPager puts front panel into the web-page as a pure HTML interface - no browser plugins, no LabVIEW Run-time Engine. Only standard web-technologies - HTML5, CSS3, JavaScript. WebPager also provides API for programmatic access of its functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/vfp_soft_com_webpager-0.63.4

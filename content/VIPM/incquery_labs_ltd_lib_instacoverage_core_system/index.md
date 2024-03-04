@@ -2,7 +2,7 @@
 title: "InstaCoverage Core (System)"
 externalUrl: https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_core_system
 date: 2020-06-22
-summary: "InstaCoverage is an easy-to-use and flexible unit testing tool for LabVIEW."
+summary: "A Fast Unit Testing Tool for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/incquery_labs_ltd_lib_instacoverage_core_system

@@ -2,7 +2,7 @@
 title: "Polygon Clipping (System)"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_poly_clip_system
 date: 2020-04-17
-summary: "The VIs in this collection perform clipping (intersection, union, difference, xor) operations on polygon sets."
+summary: "Computes clipping and offset operations on polygon sets."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "JKI Flat UI Controls 2.0"
 externalUrl: https://www.vipm.io/package/jki_flat_ui_controls_2_0
 date: 2019-09-05
-summary: "The JKI Flat UI Controls 2."
+summary: "JKI Flat UI Controls 2.0. To use, select 'Tools >> JKI Design Palette' from the LV menu."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JKI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_flat_ui_controls_2_0

@@ -2,7 +2,7 @@
 title: "NI RFFE IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_rffe_ip
 date: 2016-05-19
-summary: "The MIPI RF Front End (RFFE) specification was developed to form a standard bus protocol for devices in a radio frequency signal path to minimize noise coupled into the devices from digital signals and to solve high configuration speed requirements for MIMO applications."
+summary: "This IP implements MIPI RF front end (RFFE) communication, including support for both master and slave functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_rffe_ip

@@ -2,7 +2,7 @@
 title: "Astronics ri2461e"
 externalUrl: https://www.vipm.io/package/astronics_test_systems_inc_lib_astronics_ri2461e
 date: 2016-05-19
-summary: "Instrument driver for the Racal Instruments 2461 PXI Frequency / Time Interval Counter."
+summary: "Instrument driver for the Racal Instruments 2461 PXI Frequency / Time Interval Counter"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

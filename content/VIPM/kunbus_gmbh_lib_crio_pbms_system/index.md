@@ -2,7 +2,7 @@
 title: "cRIO PB Master/Slave (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pbms_system
 date: 2019-06-24
-summary: "**cRIO PROFIBUS DP Master and DP Slave**"
+summary: "cRIO PROFIBUS Master/Slave"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

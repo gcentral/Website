@@ -2,7 +2,7 @@
 title: "Better Drag and Drop"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_better_drag_and_drop
 date: 2023-01-02
-summary: "This package provides an improved drag and drop schema for:"
+summary: "An improved drag/drop schema for listboxes and tree controls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "OOP"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/blue_origin_lib_better_drag_and_drop

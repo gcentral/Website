@@ -2,7 +2,7 @@
 title: "OpenG Rename Folder of VIs Tool"
 externalUrl: https://www.vipm.io/package/ogrsc_rename_folder_of_vis
 date: 2011-11-21
-summary: "Adds a 'Rename Folder of VIs."
+summary: "Rename Folder of VIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

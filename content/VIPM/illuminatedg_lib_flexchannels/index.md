@@ -2,7 +2,7 @@
 title: "IG FlexChannels"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_flexchannels
 date: 2022-03-04
-summary: "Adds a new Channel template to the create channel dialog in LabVIEW."
+summary: "New Channel template where readers determine mechanism: lossy, lossless, or event-driven and lossless readers can be restartable."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/illuminatedg_lib_flexchannels

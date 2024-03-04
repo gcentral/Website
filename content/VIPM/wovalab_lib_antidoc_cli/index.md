@@ -2,7 +2,7 @@
 title: "Antidoc CLI"
 externalUrl: https://www.vipm.io/package/wovalab_lib_antidoc_cli
 date: 2023-07-20
-summary: "This package installs a CLI tool to generate documentation with a Windows terminal."
+summary: "Provide a Command Line Interface to execute Antidoc from a Terminal application"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

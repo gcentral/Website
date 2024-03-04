@@ -2,7 +2,7 @@
 title: "UI Item Select (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_ui_item_select_opensource
 date: 2023-01-02
-summary: "This package adds selectable checkboxes to symbol-supported controls."
+summary: "Easy item selection UI for trees and listboxes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
  - "VIPM Community"
 ---
 

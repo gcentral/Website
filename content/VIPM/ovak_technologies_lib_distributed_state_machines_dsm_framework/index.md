@@ -2,7 +2,7 @@
 title: "Distributed State Machines (DSM) Framework"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_distributed_state_machines_dsm_framework
 date: 2016-05-19
-summary: "The DSM framework is a software library, which consists of a set of classes."
+summary: "DSM framewrork is a template for creating LV applications."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

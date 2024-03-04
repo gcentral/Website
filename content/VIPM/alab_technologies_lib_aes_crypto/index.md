@@ -2,7 +2,7 @@
 title: "AES Crypto"
 externalUrl: https://www.vipm.io/package/alab_technologies_lib_aes_crypto
 date: 2019-05-06
-summary: "Implements the Advanced Encryption Standard (AES) by National Institute of Standards and Technology (NIST) publication 197 natively in LabVIEW."
+summary: "Implements the Advanced Encryption Standard (AES) in LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

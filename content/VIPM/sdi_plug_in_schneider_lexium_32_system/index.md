@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Schneider Lexium 32 (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_schneider_lexium_32_system
 date: 2018-04-04
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Schneider Lexium 32 EtherCAT servo drives."
+summary: "SoftMotion Drive Interface (SDI) Plug-in for Schneider Lexium 32 servo drives."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_schneider_lexium_32_system

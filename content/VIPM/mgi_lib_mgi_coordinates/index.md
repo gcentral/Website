@@ -2,7 +2,7 @@
 title: "MGI Coordinates"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_coordinates
 date: 2016-08-30
-summary: "This package contains VIs that aid in working with x,y,z and x,y coordinates."
+summary: "VIs that aid in working with x,y,z and x,y coordinates"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

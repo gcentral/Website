@@ -2,7 +2,7 @@
 title: "Calendar QControl"
 externalUrl: https://www.vipm.io/package/qsi_lib_calendar_qcontrol
 date: 2023-05-26
-summary: "The Calendar QControl is a QControl which inherits from and extends the Cluster control."
+summary: "LabVIEW native Calendar control."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "QControl"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_lib_calendar_qcontrol

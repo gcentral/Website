@@ -16,17 +16,19 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/scilogex_ms7_h550_pro_driver_system
 
 Vendor: Neosoft Technologies
 
-Author(s):  
+Author(s): 
  
 Full Description:
 This product offers a LabVIEW API to control a SCILOGEX-MS7-H550-Pro hotplate stirrer through a serial port (RS-232)

@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
  - "VIPM Community"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/rims_lib_hdlc

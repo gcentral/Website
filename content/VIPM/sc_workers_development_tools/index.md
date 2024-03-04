@@ -2,7 +2,7 @@
 title: "Workers - Development Tools"
 externalUrl: https://www.vipm.io/package/sc_workers_development_tools
 date: 2022-12-30
-summary: "The Workers Development Tools provides developers with a range of scripting tools to assist the development of Workers applications using the Workers Framework Core package."
+summary: "The Workers Development Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "NIPM API"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_nipm_api_(beta)
 date: 2020-04-30
-summary: "Use the NIPM API to programmatically perform NI Package Manager tasks (e."
+summary: "LabVIEW API for NI Package Manager"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

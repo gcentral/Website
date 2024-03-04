@@ -2,7 +2,7 @@
 title: "GSM-WCDMA RBS (System)"
 externalUrl: https://www.vipm.io/package/gefle_testteknik_lib_gsm_wcdma_rbs_system
 date: 2016-05-19
-summary: "The GTT GSM-WCDMA RBS Toolkit is a toolkit for efficient GSM-WCDMA RBS test."
+summary: "An efficient GSM and WCDMA RBS tester by Gefle Testteknik."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

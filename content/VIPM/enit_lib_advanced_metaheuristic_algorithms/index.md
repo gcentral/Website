@@ -2,7 +2,7 @@
 title: "Advanced Metaheuristics Algorithms"
 externalUrl: https://www.vipm.io/package/enit_lib_advanced_metaheuristic_algorithms
 date: 2018-01-29
-summary: "The Advanced Metaheuristics Algorithms (AMA) Toolkit for LabVIEW is a suite of software tools, example programs, and utilities for global optimization problems and statistical analysis."
+summary: "The Advanced Metaheuristics Algorithms (AMA) Toolkit for LabVIEW is a suite of software tools, example programs, and utilities for Global optimization problems and statistical analysis."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

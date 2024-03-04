@@ -2,7 +2,7 @@
 title: "OpenG Compare VI To Disk Tool"
 externalUrl: https://www.vipm.io/package/ogrsc_compare_vi_to_disk
 date: 2011-11-21
-summary: "Adds a 'Compare to Disk."
+summary: "Compare VI To Disk"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

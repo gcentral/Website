@@ -2,7 +2,7 @@
 title: "JKI JSON"
 externalUrl: https://www.vipm.io/package/jki_lib_json_serialization
 date: 2017-02-24
-summary: "JKI JSON is a serialization and deserialization library for serializing LabVIEW data into JSON strings and deserializing JSON strings into LabVIEW data."
+summary: "JSON serialization and deserialization library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "JSON"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_lib_json_serialization

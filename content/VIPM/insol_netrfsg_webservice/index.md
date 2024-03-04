@@ -2,7 +2,7 @@
 title: "NetRFSG WebService"
 externalUrl: https://www.vipm.io/package/insol_netrfsg_webservice
 date: 2016-05-19
-summary: "Network RFSG Driver is network-working RFSG driver i."
+summary: "Network RFSG Driver is a driver library to configure and run the radio - measuring equipment such as Vector Signal Generator ."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -36,4 +37,4 @@ Requirements: LabVIEW 2013 RTE.
 
 Find NetRFSG WebService Documentation in LabVIEW Help Menu.
 
-* For the technical support contact us through * <u> net.drivers@insol.am  </u>
+* For the technical support contact us through *  net.drivers@insol.am

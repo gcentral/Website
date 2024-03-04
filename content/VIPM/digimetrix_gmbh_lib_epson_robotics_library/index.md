@@ -2,7 +2,7 @@
 title: "Epson Robotics Library"
 externalUrl: https://www.vipm.io/package/digimetrix_gmbh_lib_epson_robotics_library
 date: 2017-09-21
-summary: "With the EPSON library, you can easily integrate robotics into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing - eliminating complex robotics programming expertise."
+summary: "Easy-to-use graphical functions for commanding and controlling EPSON robotics directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_gmbh_lib_epson_robotics_library

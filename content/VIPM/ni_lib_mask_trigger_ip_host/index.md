@@ -2,7 +2,7 @@
 title: "NI Mask Trigger IP Host"
 externalUrl: https://www.vipm.io/package/ni_lib_mask_trigger_ip_host
 date: 2016-05-19
-summary: "The NI Mask Trigger IP block provides the ability to compare point by point values of an indexed record against a mask, and give notification when the record exceeds the mask."
+summary: "This package provides the host library required to control an FPGA bitfile that contains the NI Mask Trigger IP"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

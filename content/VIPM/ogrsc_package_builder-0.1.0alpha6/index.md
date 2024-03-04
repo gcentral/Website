@@ -1,5 +1,5 @@
 ---
-title: "ogrsc_package_builder-0.1.0alpha6"
+title: "Ogrsc package builder-0.1.0alpha6"
 externalUrl: https://www.vipm.io/package/ogrsc_package_builder-0.1.0alpha6
 date: 2010-02-17
 summary: "OpenG Package Builder"
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

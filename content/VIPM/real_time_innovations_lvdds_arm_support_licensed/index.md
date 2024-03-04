@@ -2,7 +2,7 @@
 title: "RTI DDS Toolkit for LabVIEW (ARM-support)"
 externalUrl: https://www.vipm.io/package/real_time_innovations_lvdds_arm_support_licensed
 date: 2016-05-19
-summary: "RTI DDS Toolkit for LabVIEW is built on the Data Distribution Service (DDS) standard, the leading data-centric publish/subscribe (DCPS) messaging standard for integrating distributed real-time applications."
+summary: "Support files for armv7-based boards. Tested on cRIO-9068."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/real_time_innovations_lvdds_arm_support_licensed

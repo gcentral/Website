@@ -2,7 +2,7 @@
 title: "NI GOOP Development Suite"
 externalUrl: https://www.vipm.io/package/ni_gds
 date: 2017-03-02
-summary: "NI GOOP Development Suite: Tools to Expand the Usability of the OO Features in LabVIEW"
+summary: "NI GOOP Development Suite"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
  - "OOP"
 ---

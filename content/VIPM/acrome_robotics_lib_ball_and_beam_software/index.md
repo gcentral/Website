@@ -2,7 +2,7 @@
 title: "Ball and Beam Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_ball_and_beam_software
 date: 2019-02-15
-summary: "**Vendor:** ACROME Robotics"
+summary: "LabVIEW based open-source Ball and Beam Software makes it possible that students can modify the controller structure."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/acrome_robotics_lib_ball_and_beam_software

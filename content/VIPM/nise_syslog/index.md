@@ -2,7 +2,7 @@
 title: "NI Syslog Library"
 externalUrl: https://www.vipm.io/package/nise_syslog
 date: 2016-09-20
-summary: "The Syslog protocol is a simple UDP communication standard for sending messages from distributed systems and processes to a central collector for logging and later analysis."
+summary: "Syslog diagnostic network communication protocol library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/nise_syslog

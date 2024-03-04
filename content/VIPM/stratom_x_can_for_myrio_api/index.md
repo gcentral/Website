@@ -2,7 +2,7 @@
 title: "X-CAN for myRIO (API)"
 externalUrl: https://www.vipm.io/package/stratom_x_can_for_myrio_api
 date: 2016-05-19
-summary: "**X-CAN** for myRIO software API library."
+summary: "X-CAN for myRIO software API library that provides CAN write and read functionality to the myRIO device."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/stratom_x_can_for_myrio_api

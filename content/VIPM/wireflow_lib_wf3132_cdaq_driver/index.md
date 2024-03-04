@@ -2,7 +2,7 @@
 title: "WF3132_cDAQ driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3132_cdaq_driver
 date: 2018-09-14
-summary: "**Please note that this package requires <u>VIPM 2014</u> for installation and requires VIPM to be run with <u>administrator</u> rights."
+summary: "cDAQ driver for the WireFlow WF3132 Multiplexer module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -29,10 +30,10 @@ Vendor: WireFlow
 Author(s): WireFlow
  
 Full Description:
-**Please note that this package requires <u>VIPM 2014</u> for installation and requires VIPM to be run with <u>administrator</u> rights. To do this, close LabVIEW and VIPM, then start VIPM by right-clicking and select 'Run as administrator'**
+**Please note that this package requires VIPM 2014 for installation and requires VIPM to be run with administrator rights. To do this, close LabVIEW and VIPM, then start VIPM by right-clicking and select 'Run as administrator'**
 
 This is the LabVIEW driver for the WF-3132 Multiplexer module.
 Using this driver it is possible to access and use the WF 3132 multiplexer module in a cDAQ chassie (2:nd generation)
 
-<u>Requirements</u>
+Requirements
 Requires DAQmx (version >= 14.1)

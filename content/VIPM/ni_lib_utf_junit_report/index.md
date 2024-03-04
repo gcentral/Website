@@ -2,7 +2,7 @@
 title: "UTF JUnit Report"
 externalUrl: https://www.vipm.io/package/ni_lib_utf_junit_report
 date: 2017-05-19
-summary: "Generates a JUnit-compatible report file from LabVIEW Unit Test Framework results."
+summary: "Generates a JUnit-compatible report file from LabVIEW Unit Test Framework results"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_rs-232_interface_reference_example_for_labview_fpga

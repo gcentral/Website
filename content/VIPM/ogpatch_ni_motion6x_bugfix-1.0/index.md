@@ -1,8 +1,8 @@
 ---
-title: "ogpatch_ni_motion6x_bugfix-1.0"
+title: "Ogpatch ni motion6x bugfix-1.0"
 externalUrl: https://www.vipm.io/package/ogpatch_ni_motion6x_bugfix-1.0
 date: 2007-03-06
-summary: "Bug Fixes For NI Motion 6."
+summary: "NI Motion 6.x bug fixes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
+ - "OpenG"
  - "VIPM Community"
+ - "motion"
 ---
 
 Redirecting to https://www.vipm.io/package/ogpatch_ni_motion6x_bugfix-1.0

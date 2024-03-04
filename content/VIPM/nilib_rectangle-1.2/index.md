@@ -1,8 +1,8 @@
 ---
-title: "nilib_rectangle-1.2"
+title: "Nilib rectangle-1.2"
 externalUrl: https://www.vipm.io/package/nilib_rectangle-1.2
 date: 2020-05-16
-summary: "The NI Rectangle Tools package adds a subpalette to the picture control palette that contains vi."
+summary: "NI Rectangle Tools"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
+ - "OpenG"
  - "VIPM Community"
 ---
 

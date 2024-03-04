@@ -2,7 +2,7 @@
 title: "OpenG MD5 Digest Library"
 externalUrl: https://www.vipm.io/package/oglib_md5
 date: 2018-03-02
-summary: "The OpenG MD5 Digest Library is an MD5 Digest implementation."
+summary: "OpenG MD5 Digest Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

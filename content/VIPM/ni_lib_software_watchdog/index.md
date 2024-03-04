@@ -2,7 +2,7 @@
 title: "NI Software Watchdog"
 externalUrl: https://www.vipm.io/package/ni_lib_software_watchdog
 date: 2016-05-19
-summary: "This library implements a software watchdog."
+summary: "Software watchdog to make sure processes are still running."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

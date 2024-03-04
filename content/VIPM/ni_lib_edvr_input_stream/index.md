@@ -2,7 +2,7 @@
 title: "NI EDVR Input Stream Framework"
 externalUrl: https://www.vipm.io/package/ni_lib_edvr_input_stream
 date: 2016-05-19
-summary: "The NI EDVR Input Stream Framework is a ."
+summary: "The NI EDVR Input Stream Framework is a .lvclass and example template that can be used for high rate data streaming applications with instruments that are capable of utilizing the external data value reference data type."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_edvr_input_stream

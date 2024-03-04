@@ -2,7 +2,7 @@
 title: "ROS for LabVIEW Software"
 externalUrl: https://www.vipm.io/package/ros_for_labview
 date: 2016-05-19
-summary: "ROS for LabVIEW(TM) Software"
+summary: "This is a set of VIs to work with ROS"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -26,7 +28,7 @@ Redirecting to https://www.vipm.io/package/ros_for_labview
 
 Vendor: Tufts University Center for Engineering Education and Outreach
 
-Author(s):  Center for Engineering Education and Outreach
+Author(s): Center for Engineering Education and Outreach
  
 Full Description:
 ROS for LabVIEW(TM) Software

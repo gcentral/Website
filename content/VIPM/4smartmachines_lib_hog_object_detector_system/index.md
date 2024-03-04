@@ -2,7 +2,7 @@
 title: "HOG Object Detector (System)"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_hog_object_detector_system
 date: 2020-04-15
-summary: "The VIs in this collection can train and execute a HOG (Histogram of Oriented Gradients) object detector."
+summary: "Train and execute a powerful HOG object detector for rigid and semi-rigid objects."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

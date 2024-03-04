@@ -2,7 +2,7 @@
 title: "JKI SMO Editor"
 externalUrl: https://www.vipm.io/package/jki_lib_smo_editor
 date: 2019-04-25
-summary: ""
+summary: "JKI State Machine Objects Editor Tools"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

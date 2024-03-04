@@ -2,7 +2,7 @@
 title: "OPAL-RT SCTL Math Toolkit"
 externalUrl: https://www.vipm.io/package/opal_rt_sctl_math_toolkit
 date: 2018-08-20
-summary: "The OPAL-RT SCTL Math Toolkit contains FPGA VIs that are designed to perform mathematical operations at very high execution rates up to 200MHz in single-cycle timed loops."
+summary: "Optimized OPAL-RT math library compatible with Single-Cycle Timed Loops implemented using Xilinx Core Generation"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

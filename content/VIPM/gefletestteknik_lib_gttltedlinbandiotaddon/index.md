@@ -2,7 +2,7 @@
 title: "LTE DL Inband-IoT"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttltedlinbandiotaddon
 date: 2017-05-16
-summary: "GTT LTE DL Inband-IoT is an an add-on to the GTT LTE RBS Toolkit that enables demodulation of LTE NBIoT signal for GTT LTE RBS Toolkit and decoding of NBIoT signal for GTT LTE DL BER/BLER Add-on."
+summary: "LTE DownLinkInband-IoT add-on to LTE RBS toolkit by Gefle Testteknik"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

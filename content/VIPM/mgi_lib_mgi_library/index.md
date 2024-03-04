@@ -2,7 +2,7 @@
 title: "MGI Library"
 externalUrl: https://www.vipm.io/package/mgi_lib_mgi_library
 date: 2016-08-30
-summary: "The MGI Library is a collection of the VIs used most heavily by Moore Good Ideas employees."
+summary: "Freeware from Moore Good Ideas, Inc."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

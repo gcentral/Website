@@ -2,7 +2,7 @@
 title: "DQMH MQTT"
 externalUrl: https://www.vipm.io/package/pantherlab_lib_dqmh_mqtt
 date: 2023-09-28
-summary: "DQMH + MQTT module template to Comunicate using MQTT protocol with the Movile app Panther Sniffer for DQMH."
+summary: "MQTT Client DQMH Module Template"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/pantherlab_lib_dqmh_mqtt

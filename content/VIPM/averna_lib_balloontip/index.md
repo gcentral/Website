@@ -2,7 +2,7 @@
 title: "Averna Balloon Tip"
 externalUrl: https://www.vipm.io/package/averna_lib_balloontip
 date: 2016-05-19
-summary: "Averna's Balloon Tip allows you to display a balloon tip at specified coordinate or relative to a control of a front panel."
+summary: "Averna Balloon Tip API display a balloon at specified coordinate or relative to a control."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

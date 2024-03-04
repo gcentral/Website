@@ -2,7 +2,7 @@
 title: "Hidden Gems in vi.lib"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_hidden_gems_in_vi_lib
 date: 2017-05-05
-summary: "The Hidden Gems in vi."
+summary: "Useful Undocumented VIs that already ship with LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_hidden_gems_in_vi_lib

@@ -2,7 +2,7 @@
 title: "Biometric Login Toolkit API"
 externalUrl: https://www.vipm.io/package/blue_ridge_test_lib_biometric_login_toolkit_api
 date: 2016-05-19
-summary: "The Biometric Login Toolkit is a plug-in for LabVIEW which enables functionality for managing enrollment, identification, verification, and diagnostics to create a more secure application."
+summary: "Adds Biometric Login VIs to your LabVIEW Functions Palette"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "BundleMagic Plugin"
 externalUrl: https://www.vipm.io/package/bundle_magic_plugin
 date: 2021-05-03
-summary: "**IMPORTANT: RESTART LABVIEW AFTER INSTALLATION**"
+summary: "Add right-click menu items to rapidly un/bundle clusters, drop properties, and manipulate expandable nodes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

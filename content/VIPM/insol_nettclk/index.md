@@ -2,7 +2,7 @@
 title: "NetTClk"
 externalUrl: https://www.vipm.io/package/insol_nettclk
 date: 2016-05-19
-summary: "Network TClk Driver is network-working TClk driver i."
+summary: "Network TClk Driver is a driver library to synchronize National Instruments digitizers, signal generators, and digital waveform generator/analyzers."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -40,4 +41,4 @@ Requires VIPM 2014 for installation.
 
 Find NetTClk Documentation in LabVIEW Help Menu.
 
-* For The Technical support you can contact us through * <u> net.drivers@insol.am </u>
+* For The Technical support you can contact us through *  net.drivers@insol.am

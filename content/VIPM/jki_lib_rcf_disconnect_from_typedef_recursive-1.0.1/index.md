@@ -1,8 +1,8 @@
 ---
-title: "jki_lib_rcf_disconnect_from_typedef_recursive-1.0.1"
+title: "Jki lib rcf disconnect from typedef recursive-1.0.1"
 externalUrl: https://www.vipm.io/package/jki_lib_rcf_disconnect_from_typedef_recursive-1.0.1
 date: 2009-07-08
-summary: "Recursively disconnects a control, indicator, or constant from type definitions."
+summary: "Disconnect from Typedef Recursive"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

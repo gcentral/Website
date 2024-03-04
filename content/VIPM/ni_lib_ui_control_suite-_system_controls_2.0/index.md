@@ -2,7 +2,7 @@
 title: "UI Control Suite: System Controls 2.0"
 externalUrl: https://www.vipm.io/package/ni_lib_ui_control_suite-_system_controls_2.0
 date: 2016-05-19
-summary: "Description"
+summary: "Enhance User Interfaces with additional System Controls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_ui_control_suite-_system_controls_2.0

@@ -2,7 +2,7 @@
 title: "Class Creator Utility"
 externalUrl: https://www.vipm.io/package/bloomy_ctrls_class_creator
 date: 2016-05-19
-summary: "::Class Creator Utility v1."
+summary: "Class Creator Utility v1.0"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "MQTT Broker"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_broker
 date: 2024-01-14
-summary: "LV-MQTT-Broker"
+summary: "Native LabVIEW MQTT Broker"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_project_lib_mqtt_broker

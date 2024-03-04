@@ -2,7 +2,7 @@
 title: "Colour Lab"
 externalUrl: https://www.vipm.io/package/fisothemes_lib_colour_lab
 date: 2023-06-04
-summary: "This toolkit does the following conversions:"
+summary: "A LabVIEW toolkit for colour manipulation"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

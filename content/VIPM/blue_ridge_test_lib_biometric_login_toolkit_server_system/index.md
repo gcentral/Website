@@ -2,7 +2,7 @@
 title: "Biometric Login Toolkit Server (System)"
 externalUrl: https://www.vipm.io/package/blue_ridge_test_lib_biometric_login_toolkit_server_system
 date: 2016-05-19
-summary: "The Biometric Login Toolkit is a plug-in for LabVIEW which enables functionality for managing enrollment, identification, verification, and diagnostics to create a more secure application."
+summary: "The Biometric Login Server manages access and provides connectivity to the fingerprint reader and Biometric Login Database."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

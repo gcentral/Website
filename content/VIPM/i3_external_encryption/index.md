@@ -2,7 +2,7 @@
 title: "i3 External Encryption"
 externalUrl: https://www.vipm.io/package/i3_external_encryption
 date: 2016-05-19
-summary: "A 3rd party library packaged for use with the Interactive Internet Interface."
+summary: "The LabVIEW Encryption library packaged for use with the Interactive Internet Interface"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

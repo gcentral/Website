@@ -2,7 +2,7 @@
 title: "Alphabetize Cluster Elements"
 externalUrl: https://www.vipm.io/package/field_rnd_services_ace
 date: 2019-05-30
-summary: "Alphabetize Cluster Elements (ACE) is a Quick Drop Keyboard Shortcut (QDKS) and Shortcut Menu Plugin (SMP) that will alphabetize elements in a cluster."
+summary: "A Quick Drop Keyboard Shortcut and Shortcut Menu Plugin to alphabetize cluster elements"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/field_rnd_services_ace

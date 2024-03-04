@@ -2,7 +2,7 @@
 title: "JSONtext Object Serialization"
 externalUrl: https://www.vipm.io/package/pnr_lib_jsontext_object_serialization
 date: 2023-08-06
-summary: "This package provides object serialization strategies for JSONtext."
+summary: "Object serialization strategies for JSONtext"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/pnr_lib_jsontext_object_serialization

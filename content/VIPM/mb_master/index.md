@@ -2,7 +2,7 @@
 title: "Plasmionique Modbus Master"
 externalUrl: https://www.vipm.io/package/mb_master
 date: 2022-10-17
-summary: "This package contains the Plasmionique Modbus Master library for LabVIEW."
+summary: "Open source Modbus master library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/mb_master

@@ -2,7 +2,7 @@
 title: "VI Peek"
 externalUrl: https://www.vipm.io/package/vi_peek
 date: 2021-11-12
-summary: "VI Peek provides a different way to zoom your VIs."
+summary: "Providing Semantic Zoom to LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

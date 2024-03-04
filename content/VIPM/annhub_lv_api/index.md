@@ -2,7 +2,7 @@
 title: "ANNAPI"
 externalUrl: https://www.vipm.io/package/annhub_lv_api
 date: 2019-07-26
-summary: "LabVIEW Application Programming Interface (API) to use with Artificial Neural Network Hub (ANNHUB) software."
+summary: "LabVIEW Application Programming Interface (API) to use with Artificial Neural Network Hub (ANNHUB) software that helps to bring artificial intelligent solution to LabVIEW applications."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

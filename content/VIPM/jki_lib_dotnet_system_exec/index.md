@@ -2,7 +2,7 @@
 title: "JKI .NET System Exec"
 externalUrl: https://www.vipm.io/package/jki_lib_dotnet_system_exec
 date: 2021-02-09
-summary: "Allows you to create and asynchronously launch an instance of the ."
+summary: "Allows you to create and asynchronously launch an instance of the .NET System Process in order to run any application (i.e. cmd.exe). It configures the instance to redirect the stdout, stderr, and stdin so that LabVIEW can interface with them."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

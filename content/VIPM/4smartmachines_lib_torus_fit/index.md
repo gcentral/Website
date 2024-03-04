@@ -2,7 +2,7 @@
 title: "Torus Fit"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_torus_fit
 date: 2019-12-19
-summary: "This VI fits a torus to a set of 3D points."
+summary: "Fit a torus to a set of 3D points."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

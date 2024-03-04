@@ -2,7 +2,7 @@
 title: "NI PointValueMap"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_pointvaluemap
 date: 2016-05-19
-summary: "Processes commonly need to read properties that other processes write."
+summary: "API to store data in maps which can be accessed in by name in different processes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

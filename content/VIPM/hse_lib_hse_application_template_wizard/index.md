@@ -2,7 +2,7 @@
 title: "HSE Application Template Wizard"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_application_template_wizard
 date: 2023-12-19
-summary: "The HSE Application Template Wizard installs a project template which you can use from LabVIEW’s 'Create Project…' menu to start a new project based on our HSE Application Template."
+summary: "Provides a project template for creating new projects based on the HSE Application Template"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
- - "UI"
+ - "GUI"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/hse_lib_hse_application_template_wizard

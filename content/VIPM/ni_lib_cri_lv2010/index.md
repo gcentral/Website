@@ -2,7 +2,7 @@
 title: "NI CompactRIO Information (CRI) Library"
 externalUrl: https://www.vipm.io/package/ni_lib_cri_lv2010
 date: 2016-05-19
-summary: "The development of advanced and dynamic CompactRIO (cRIO) applications sometimes requires the ability to detect the current configuration of a CompactRIO system."
+summary: "Access CompactRIO controller, chassis and module information"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_cri_lv2010

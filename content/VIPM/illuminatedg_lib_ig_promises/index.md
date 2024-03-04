@@ -2,7 +2,7 @@
 title: "IG Promises"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_promises
 date: 2023-10-27
-summary: "Provides a Promise/Future implementation for LabVIEW."
+summary: "Chainable Promises implementation for interacting with asynchronous tasks in a consistent way with built-in error propagation."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "Actor Framework"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/illuminatedg_lib_ig_promises

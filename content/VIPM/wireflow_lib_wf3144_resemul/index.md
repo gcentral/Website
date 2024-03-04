@@ -2,7 +2,7 @@
 title: "WF 3144 ResEmul"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf3144_resemul
 date: 2018-04-05
-summary: "Driver for the WF 3144 C-series Programmable Resistor module from WireFlow."
+summary: "WF 3144 Programmable Resistor driver"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "SDLC Toolkit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_sdlc
 date: 2017-03-28
-summary: "SDLC Toolkit for LabVIEW by RAFA Solutions easily implements and integrates Synchronous Data Link Control (SDLC) data communication protocol (developed by IBM) in custom applications."
+summary: "SDLC Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "GUI"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/rafa_solutions_lib_sdlc

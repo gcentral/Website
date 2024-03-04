@@ -2,7 +2,7 @@
 title: "JKI Network Streams Connection"
 externalUrl: https://www.vipm.io/package/jki_lib_network_streams_connection
 date: 2020-12-15
-summary: "This library allows for bi-directional communication over LabVIEW Network Streams in order to communicate with remote systems."
+summary: "Allows for bi-directional communication between remote systems via network streams."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_lib_network_streams_connection

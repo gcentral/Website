@@ -2,7 +2,7 @@
 title: "Scarlet UI Controls Kit"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_scarlet_ui_controls_kit
 date: 2016-05-19
-summary: "Scarlet UI Controls Kit Library"
+summary: "Scarlet UI Controls Kit is a modern controls library that allows to create brilliant user interfaces that will satisfy even the most pretentious users."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/rafa_solutions_lib_scarlet_ui_controls_kit

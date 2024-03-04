@@ -2,7 +2,7 @@
 title: "IG Joystick"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_joystick
 date: 2021-10-28
-summary: "Provides easier axis, button, and POV mapping."
+summary: "Joystick mapping utilities for the built-in LV DirectInput functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

@@ -2,7 +2,7 @@
 title: "JSON Object Serialization"
 externalUrl: https://www.vipm.io/package/gcraftsman_lib_json_object_serialization
 date: 2017-03-31
-summary: "GCraftsman JSON Object Serializer is an extension of the JKI JSON Library."
+summary: "Extension of the JKI JSON toolkit, to allow serializing and de-serializing LabVIEW Class Objects to JSON."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "JKI"
+ - "JSON"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/gcraftsman_lib_json_object_serialization

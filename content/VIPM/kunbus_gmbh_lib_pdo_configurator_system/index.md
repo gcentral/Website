@@ -2,7 +2,7 @@
 title: "PDO Configurator (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_pdo_configurator_system
 date: 2017-11-15
-summary: "**KUNBUS PDO Configurator - PDO configuration tool for KUNBUS C SERIES EtherCAT slave module cRIO ECAT**"
+summary: "PDO Configurator - Graphical Configuration Tool for cRIO ECAT SL module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

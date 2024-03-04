@@ -2,7 +2,7 @@
 title: "NI LogRotate"
 externalUrl: https://www.vipm.io/package/ni_lib_logrotate
 date: 2016-05-19
-summary: "LogRotate provides a LabVIEW API for archiving log files on a system."
+summary: "Archiving mechanism for log files"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

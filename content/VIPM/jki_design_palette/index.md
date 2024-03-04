@@ -2,7 +2,7 @@
 title: "JKI Design Palette"
 externalUrl: https://www.vipm.io/package/jki_design_palette
 date: 2020-05-20
-summary: "A powerful visual controls palette for LabVIEW."
+summary: "A powerful visual Controls Palette. Press Ctrl+Shift+Space to launch from any VI Front Panel..."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

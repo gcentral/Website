@@ -2,7 +2,7 @@
 title: "ADC Drivers FPGA Library"
 externalUrl: https://www.vipm.io/package/rafasolutions_lib_adc_drivers_toolkit
 date: 2022-03-23
-summary: "ADC Drivers FPGA Library"
+summary: "ADC Drivers FPGA Library for MAX1300, ADS1271, AD7656 and AD7732 ADCs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Unicity"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_unicity
 date: 2020-10-20
-summary: "Unicity is a unique name management library to keep track of modules or subsystems through unique IDs, Fully Qualified Names linked to a composition hierarchy."
+summary: "Unique Name Management for Subsystems"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

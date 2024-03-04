@@ -1,8 +1,8 @@
 ---
-title: "SISU-1004"
+title: "SISU"
 externalUrl: https://www.vipm.io/package/sisu_devices_lib_sisu_1004
 date: 2016-09-02
-summary: "Driver and example for SISU-1004 4-Axis Stepper Motor Interface C-Series Module for CompactRIO."
+summary: "4-Axis Stepper Motor Interface C-Seires Module for CompactRIO"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

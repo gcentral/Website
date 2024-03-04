@@ -2,7 +2,7 @@
 title: "Explain Error (Improved)"
 externalUrl: https://www.vipm.io/package/jki_lib_explain_error_dialog_improved
 date: 2023-06-27
-summary: "Replaces the Explain Error window (available via right-click on an Error Cluster) with one that adds some nice features."
+summary: "Replaces the Explain Error dialog with some improvements like links to VIs in call-chain"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

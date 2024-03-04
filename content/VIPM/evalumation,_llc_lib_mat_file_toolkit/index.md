@@ -2,7 +2,7 @@
 title: "Mat File Toolkit"
 externalUrl: https://www.vipm.io/package/evalumation,_llc_lib_mat_file_toolkit
 date: 2016-05-19
-summary: "Read and Write Mat files that are compatible with MATLAB."
+summary: "The MAT File Toolkit provides a way to generate .MAT files using LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

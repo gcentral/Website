@@ -2,7 +2,7 @@
 title: "NeosoftSyslogLibrary"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_lib_neosoftsysloglibrary
 date: 2021-04-06
-summary: "Neosoft Syslog Library is a set of VI to use syslog messaging  in your application."
+summary: "Library to use syslog messaging (RFC3164 and RFC5424 avalaible)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "DQMH"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/neosoft_technologies_lib_neosoftsysloglibrary

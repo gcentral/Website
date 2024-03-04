@@ -2,7 +2,7 @@
 title: "Newton API for LabVIEW Basic Option"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_newton_api_for_labview_basic_option
 date: 2019-12-16
-summary: "Newton API for LabVIEW is a library of LabVIEW Virtual Instruments (VI) allowing control and monitoring of Newton controller from custom applications build in LabVIEW graphical programming environment."
+summary: "Newton controller API for LabVIEW - Basic Option"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

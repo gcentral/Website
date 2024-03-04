@@ -2,7 +2,7 @@
 title: "OpenCLV"
 externalUrl: https://www.vipm.io/package/raptorview_openclv
 date: 2016-05-19
-summary: "Initial release of OpenCL implementation in Labview"
+summary: "Integrates OpenCL into Labview"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

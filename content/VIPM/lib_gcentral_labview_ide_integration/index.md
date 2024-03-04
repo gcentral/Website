@@ -2,7 +2,7 @@
 title: "GCentral/LabVIEW IDE Integration"
 externalUrl: https://www.vipm.io/package/lib_gcentral_labview_ide_integration
 date: 2020-10-27
-summary: "This package installs GCentral's LabVIEW IDE integration, which includes:"
+summary: "Webpage Launcher"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

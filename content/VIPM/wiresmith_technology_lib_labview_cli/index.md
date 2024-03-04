@@ -2,7 +2,7 @@
 title: "LabVIEW CLI"
 externalUrl: https://www.vipm.io/package/wiresmith_technology_lib_labview_cli
 date: 2017-06-06
-summary: "LabVIEW CLI is a package that supports the client side of a two way command line interface."
+summary: "A library to support a more advanced command line interface from LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

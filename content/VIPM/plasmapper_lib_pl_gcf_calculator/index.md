@@ -2,7 +2,7 @@
 title: "PL GCF Calculator"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_gcf_calculator
 date: 2022-11-09
-summary: "Mass flow controller actual flow rate calculation library that uses gas conversion/correction factors (GCF)."
+summary: "Mass flow controller actual flow rate calculation library that uses gas conversion/correction factors (GCF)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

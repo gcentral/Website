@@ -2,7 +2,7 @@
 title: "MGI Read/Write Anything"
 externalUrl: https://www.vipm.io/package/mgi_lib_read_write_anything
 date: 2016-09-08
-summary: "Almost every application needs to save information in files, and the question we developers face is what file format to use."
+summary: "Read/Write Anything VIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

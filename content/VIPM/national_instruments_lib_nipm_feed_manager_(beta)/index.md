@@ -2,7 +2,7 @@
 title: "NIPM Feed Manager"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_nipm_feed_manager_(beta)
 date: 2018-12-20
-summary: "The NIPM Feed Manager provides a GUI to manage feeds for NI Package Manager packages."
+summary: "Use the NIPM Feed Manager to create feeds and manage them.  The Feed Manager is installed as a VI in the LabVIEW Tools menu.  You can edit the VI if desired."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
- - "UI"
  - "GUI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_nipm_feed_manager_(beta)

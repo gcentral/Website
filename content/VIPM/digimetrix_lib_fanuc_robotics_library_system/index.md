@@ -2,7 +2,7 @@
 title: "Fanuc Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_fanuc_robotics_library_system
 date: 2021-03-25
-summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
+summary: "Easy-to-use graphical functions for commanding and controlling FANUC robotics directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_lib_fanuc_robotics_library_system

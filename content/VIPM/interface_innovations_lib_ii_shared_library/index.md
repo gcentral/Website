@@ -2,7 +2,7 @@
 title: "II Shared Library"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_ii_shared_library
 date: 2019-03-21
-summary: "Helper library of license and library tools for Interface Innovations software packages."
+summary: "Shared Library Required for all Interface Innovations Products"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

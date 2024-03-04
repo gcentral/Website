@@ -2,7 +2,7 @@
 title: "JKI State Machine Editor"
 externalUrl: https://www.vipm.io/package/jki_state_machine_editor
 date: 2018-06-19
-summary: "Makes working with the JKI State Machine very easy."
+summary: "Select a Case or Event structure and Ctrl+Space then Ctrl+J to launch the JKI SM Helper"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

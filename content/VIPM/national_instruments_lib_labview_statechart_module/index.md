@@ -2,7 +2,7 @@
 title: "LabVIEW Statechart Module"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_labview_statechart_module
 date: 2019-04-09
-summary: "The LabVIEW Statechart Module provides a programming model that you can use to design applications at a higher level than was previously possible."
+summary: "The LabVIEW Statechart Module provides a programming model that you can use to design applications at a higher level than was previously possible. With the LabVIEW Statechart Module, you can develop statechart diagrams, define behaviors with LabVIEW dataflow programming, and deploy the statecharts to desktop PCs, real-time controllers, field-programmable gate arrays (FPGAs), and embedded targets."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_labview_statechart_module

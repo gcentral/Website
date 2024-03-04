@@ -2,7 +2,7 @@
 title: "LV ArgParse"
 externalUrl: https://www.vipm.io/package/sklein_lib_lv_argparse
 date: 2023-10-06
-summary: "A parser for command line arguments of compiled LabVIEW applications."
+summary: "A parser for command line arguments"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

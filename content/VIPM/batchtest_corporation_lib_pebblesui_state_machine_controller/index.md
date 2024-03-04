@@ -2,7 +2,7 @@
 title: "Pebbles UI: State Machine Controller"
 externalUrl: https://www.vipm.io/package/batchtest_corporation_lib_pebblesui_state_machine_controller
 date: 2016-05-19
-summary: "**This toolkit installer requires VI Package Manager 2014 or later to install."
+summary: "Pebbles UI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/batchtest_corporation_lib_pebblesui_state_machine_controller

@@ -2,7 +2,7 @@
 title: "Select5"
 externalUrl: https://www.vipm.io/package/s5solutions_select5
 date: 2016-05-19
-summary: "Select5 is a simple, customizable Human/Machine interface designed to simplify Operator interaction with a test or research system."
+summary: "Simple ATE Operator Interface"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

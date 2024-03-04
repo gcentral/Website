@@ -2,7 +2,7 @@
 title: "Tree Map"
 externalUrl: https://www.vipm.io/package/ni_tree_map
 date: 2019-12-19
-summary: "This package is intended to use the inbuilt LV19 Set and Map data types to provide a Tree Map data type."
+summary: "Tree data structure based on LV19 Maps and Sets data type"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

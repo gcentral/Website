@@ -2,7 +2,7 @@
 title: "NB IoT Standalone"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttnbiottoolkit
 date: 2018-02-16
-summary: "The GTT NB IoT Toolkit is a toolkit for efficient NB IoT test."
+summary: "An efficient NB IoT tester by Gefle Testteknik"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

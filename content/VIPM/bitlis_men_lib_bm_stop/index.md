@@ -2,7 +2,7 @@
 title: "Parallel Stop"
 externalUrl: https://www.vipm.io/package/bitlis_men_lib_bm_stop
 date: 2017-04-24
-summary: "Parallel Stop: LabVIEW add-on"
+summary: "Stopping VI for parallel loops in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/bitlis_men_lib_bm_stop

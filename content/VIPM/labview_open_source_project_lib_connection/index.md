@@ -2,7 +2,7 @@
 title: "Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_connection
 date: 2024-01-14
-summary: "Connection"
+summary: "Connection base class for client and servers alike"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_project_lib_connection

@@ -2,7 +2,7 @@
 title: "GPower Error & Warning"
 externalUrl: https://www.vipm.io/package/gpower_lib_error
 date: 2016-05-19
-summary: "This toolset offers functions for defining dynamic global descriptions for error codes, for setting errors and warnings, for appending errors and warnings (as opposed to merging them), and to extract information from the error cluster - all in compact easy to use subVIs."
+summary: "Error and warning conversion, dynamic definition and modification toolset."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

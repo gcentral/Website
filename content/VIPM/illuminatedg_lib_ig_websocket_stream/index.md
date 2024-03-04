@@ -2,7 +2,7 @@
 title: "IG WebSocket Stream"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_websocket_stream
 date: 2023-11-23
-summary: ""
+summary: "WebSockets based on IG Stream and for integration in IG HTTP Server"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

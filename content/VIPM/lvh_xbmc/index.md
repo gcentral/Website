@@ -2,7 +2,7 @@
 title: "MakerHub Interface for Kodi"
 externalUrl: https://www.vipm.io/package/lvh_xbmc
 date: 2016-05-19
-summary: "The MakerHub Interface for Kodi makes it easy to interact with Kodi, a media player and entertainment hub."
+summary: "Control your entertainment experience using Kodi and LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "ControlArray"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_controlarray
 date: 2021-10-13
-summary: "Enables providing array-like UIs with arbitrary, homogeneous controls."
+summary: "Library to simulate an array with a handful of controls, useful for simulating arrays with XControls."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/illuminatedg_lib_controlarray

@@ -2,7 +2,7 @@
 title: "Switcheroo"
 externalUrl: https://www.vipm.io/package/sas_workshops_lib_switcheroo_for_g_cli
 date: 2024-02-22
-summary: "For switching tests to point to ppl or vipm installed library instead of source library."
+summary: "For switching tests to point to ppl or vipm installed library instead of source library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

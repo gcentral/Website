@@ -2,7 +2,7 @@
 title: "SLR CARRIDA License plate reader"
 externalUrl: https://www.vipm.io/package/slr_engineering_lib_slr_carrida_license_plate_reader
 date: 2016-05-19
-summary: "The SLR Engineering license plate module detects and reads number plates for monitoring, access control and statistics."
+summary: "LabView interface for the high performance license plate reader 'CARRIDA'"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/slr_engineering_lib_slr_carrida_license_plate_reader

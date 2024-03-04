@@ -2,7 +2,7 @@
 title: "OpenG Builder"
 externalUrl: https://www.vipm.io/package/ogrsc_builder-3.0.1
 date: 2011-06-25
-summary: "OpenG's Software Builder."
+summary: "A flexible builder for software products written in G."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

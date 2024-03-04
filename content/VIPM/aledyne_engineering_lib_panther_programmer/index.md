@@ -2,7 +2,7 @@
 title: "Panther 1-Wire Programmer Driver"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_panther_programmer
 date: 2023-09-24
-summary: "The Panther 1-Wire Programmer has an SD card slot which enables different 1-Wire programming files to be stored and selected via the touchscreen LCD."
+summary: "LabVIEW driver for the Panther 1-Wire Memory Programmer"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

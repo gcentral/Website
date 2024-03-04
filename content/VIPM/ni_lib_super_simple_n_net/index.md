@@ -2,7 +2,7 @@
 title: "NI Super Simple Neural Networks"
 externalUrl: https://www.vipm.io/package/ni_lib_super_simple_n_net
 date: 2016-05-19
-summary: "This toolkit is designed to be used for super simple neural network use cases."
+summary: "Easy to use neural networks toolkit."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

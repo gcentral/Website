@@ -2,7 +2,7 @@
 title: "MGI Matrix & Vector"
 externalUrl: https://www.vipm.io/package/mgi_lib_matrix_&_vector
 date: 2016-08-30
-summary: "This package contsins VIs that operate with 1D and 2D array of doubles in a matrix or vector fasion."
+summary: "VIs that operate with 1D and 2D array of doubles in a matrix or vector fasion"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Raima Database API for LabVIEW"
 externalUrl: https://www.vipm.io/package/raima_database_api
 date: 2016-05-19
-summary: "Wait! If you haven't started VIPM as an Administrator, you may need to."
+summary: "Raima Database API for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/raima_database_api

@@ -2,7 +2,7 @@
 title: "IG Web&Crypto"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_web&crypto
 date: 2022-11-12
-summary: "Includes the Fast Base64 implementation from the NI forums with the addition of the Base64-URL variant."
+summary: "Web data and cryptography functionality for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "VIPM Community"
 ---
 

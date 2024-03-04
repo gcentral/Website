@@ -2,7 +2,7 @@
 title: "Temperature Controller for myRIO"
 externalUrl: https://www.vipm.io/package/black_box_engineering_lib_temperature_controller_for_myrio
 date: 2016-05-19
-summary: "Temperature control during serving and during fermentation directly impacts both the consistency flavor of beer."
+summary: "This application provides the software needed to turn a myRIO into a two-stage temperature controller for beer brewing, cheese making or any application that requires closed loop temperature regulation."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
- - "UI"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/black_box_engineering_lib_temperature_controller_for_myrio

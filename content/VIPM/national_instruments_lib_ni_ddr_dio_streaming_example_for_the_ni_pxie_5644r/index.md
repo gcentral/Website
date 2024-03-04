@@ -2,7 +2,7 @@
 title: "NI DDR DIO Streaming Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_ddr_dio_streaming_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "This example provides a simple source synchronous, double data rate (DDR) data transfer interface that is capable of streaming data to another DIO device at up to 125 MHz."
+summary: "This example provides a double data rate (DDR) DIO interface using the front-panel VHDCI connector on the VST, capable of rates up to 125 MHz, or 250 MB/s, bi-directional. It is useful for high-bandwidth, low-latency data exchange with other devices."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Hierarchical Data Format (HDF5)"
 externalUrl: https://www.vipm.io/package/h5labview2
 date: 2022-12-03
-summary: "This library provides a simple interface to read and write data stored in the Heirarchical Data Format (HDF), version 5."
+summary: "HDF5 bindings for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

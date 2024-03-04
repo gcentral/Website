@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -31,12 +32,12 @@ Author(s): Digilent inc.
 Full Description:
 Instrument driver VI library for Digilent instrumentation products (Analog Discovery, Electronics Explorer).
 Requires Digilent WaveForms Runtime installed including the Adept Runtime section.
-This can be downloaded from: *<u>www.digilentinc.com/waveforms</u>*
+This can be downloaded from: *www.digilentinc.com/waveforms*
 
 VIs will be installed to: *LabVIEW/vi.lib/DigilentWF/*
 Examples can be found at: *LabVIEW/examples/DigilentWF/*
 
 For further information visit:
-*<u>forum.digilentinc.com</u>* *<u>reference.digilentinc.com</u>*
+*forum.digilentinc.com* *reference.digilentinc.com*
 
-Contact: *<u>support@digilentinc.com</u>*
+Contact: *support@digilentinc.com*

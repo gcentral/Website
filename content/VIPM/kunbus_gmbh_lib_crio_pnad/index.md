@@ -2,7 +2,7 @@
 title: "cRIO PN Device"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pnad
 date: 2019-01-30
-summary: "**PROFINET Device Interface for CompactRIO**  "
+summary: "cRIO PROFINET Device"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

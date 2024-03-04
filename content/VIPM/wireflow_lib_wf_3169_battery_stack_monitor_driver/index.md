@@ -2,7 +2,7 @@
 title: "WF 3169 Battery Stack Monitor Driver"
 externalUrl: https://www.vipm.io/package/wireflow_lib_wf_3169_battery_stack_monitor_driver
 date: 2019-02-21
-summary: "Driver for the WF 3169 C-series Battery Stack Monitor module from WireFlow."
+summary: "FPGA driver for WF 3169 C-series module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

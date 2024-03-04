@@ -2,7 +2,7 @@
 title: "KUN 9883"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_kun_9883
 date: 2020-03-03
-summary: "**PROFIBUS DP Slave Interface for CompactRIO**"
+summary: "cRIO PROFIBUS Automatic Slave"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

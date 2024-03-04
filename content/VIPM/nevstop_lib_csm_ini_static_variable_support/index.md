@@ -2,7 +2,7 @@
 title: "CSM INI Static Variable Support"
 externalUrl: https://www.vipm.io/package/nevstop_lib_csm_ini_static_variable_support
 date: 2024-01-31
-summary: "This library is adding ${variable} support of arguments for CSM, which is loaded from the first catched ini file in application folder or topmost VI's parent folder."
+summary: "Support of Static Variables which are loaded from ini configuration file for Communicable State Machine(CSM)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

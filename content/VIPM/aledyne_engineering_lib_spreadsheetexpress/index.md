@@ -2,7 +2,7 @@
 title: "Spreadsheet Express"
 externalUrl: https://www.vipm.io/package/aledyne_engineering_lib_spreadsheetexpress
 date: 2016-05-19
-summary: "A toolkit of ."
+summary: "A toolkit that allows for seamless programmatic interaction with Excel 2003 and 2007 and makes graphing of existing data in Excel easy."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

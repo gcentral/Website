@@ -2,7 +2,7 @@
 title: "Rename LVOOP Labels"
 externalUrl: https://www.vipm.io/package/lava_rsc_rename_lvoop_labels
 date: 2016-05-19
-summary: "This package is Open Source"
+summary: "Rename LVOOP Labels"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
  - "OOP"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/lava_rsc_rename_lvoop_labels

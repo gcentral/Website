@@ -2,7 +2,7 @@
 title: "NI Unicode Tools"
 externalUrl: https://www.vipm.io/package/ni_lib_unicode
 date: 2019-02-21
-summary: "LabVIEW for Windows has limited support for Unicode strings in the front panel controls and indicators."
+summary: "VI tools to convert text to and from Unicode and display Unicode text on the UI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_unicode

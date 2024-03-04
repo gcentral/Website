@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -26,7 +28,7 @@ Redirecting to https://www.vipm.io/package/ovak_technologies_lib_flat_ui_control
 
 Vendor: Ovak Technologies
 
-Author(s): Amalya Harutyunyan 
+Author(s): Amalya Harutyunyan
  
 Full Description:
 The flat user interface custom controls suite offers new additions to the LabVIEW front panel control palette. These unique controls are designed based on modern technological design requirements. You can display these in your front panel for a professional look. New additions include charts, graphs, gauges, clusters, arrays, combo boxes and several icon-based buttons.

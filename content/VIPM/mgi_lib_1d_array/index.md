@@ -2,7 +2,7 @@
 title: "MGI 1D Array"
 externalUrl: https://www.vipm.io/package/mgi_lib_1d_array
 date: 2016-09-08
-summary: "The MGI 1D Array package contains VIs useful for operating on an array, including averaging, thresholds, and interpolation."
+summary: "This package contains operations performed with a 1D Array of Numeric data."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

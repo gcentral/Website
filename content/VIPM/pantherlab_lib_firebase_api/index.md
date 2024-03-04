@@ -2,7 +2,7 @@
 title: "Firebase API"
 externalUrl: https://www.vipm.io/package/pantherlab_lib_firebase_api
 date: 2023-09-06
-summary: "LabVIEW API to access Firebase Real Time Database."
+summary: "Utility to Get Started with a real time database using Firebase"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/pantherlab_lib_firebase_api

@@ -2,7 +2,7 @@
 title: "Structure Builder"
 externalUrl: https://www.vipm.io/package/livewires_automation_ltd_lib_structure_builder
 date: 2016-05-19
-summary: "IMPORTANT - READ BEFORE INSTALLING"
+summary: "Configure a robust top level structure for your application"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -35,7 +36,7 @@ IMPORTANT - READ BEFORE INSTALLING
 ** VIPM 2014 is required to install this product. **
 
 
-**<u>Configure a Robust Top Level Structure for Your Application.</u>**
+**Configure a Robust Top Level Structure for Your Application.**
 
 Use **Structure Builder** to give your application the right structure at the start.  Configure the structure and press the <Build> button.  The toolkit then builds it and shows you where to add your low-level code.
 

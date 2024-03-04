@@ -2,7 +2,7 @@
 title: "JSON API"
 externalUrl: https://www.vipm.io/package/lava_lib_json_api
 date: 2020-11-17
-summary: "An API to read and write JSON strings."
+summary: "API for working with JSON messages"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
 ---
 

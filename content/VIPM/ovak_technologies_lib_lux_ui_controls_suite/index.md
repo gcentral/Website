@@ -2,7 +2,7 @@
 title: "Lux UI Controls Suite"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_lux_ui_controls_suite
 date: 2016-05-19
-summary: "This custom control suite offers additional LabVIEW system controls, which are effective for developing user interfaces."
+summary: "Develop User Interfaces with Custom Controls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

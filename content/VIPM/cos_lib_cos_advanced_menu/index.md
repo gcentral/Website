@@ -2,7 +2,7 @@
 title: "COS_Advanced_Menu"
 externalUrl: https://www.vipm.io/package/cos_lib_cos_advanced_menu
 date: 2023-05-23
-summary: "COS Advanced Menu is a  menu tool that can customize theme colors and set item symbols."
+summary: "LabVIEW advanced menu"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

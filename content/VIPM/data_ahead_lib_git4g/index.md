@@ -2,7 +2,7 @@
 title: "git4G"
 externalUrl: https://www.vipm.io/package/data_ahead_lib_git4g
 date: 2018-09-20
-summary: "**JKI Package Manager 2014 or higher is required to install git4G**"
+summary: "git4G is an easy to use toolkit for NI LabVIEW that integrates Git - the well-known and free Source Control Management System - into the development environment of LabVIEW."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "jki_rsc_toolkits_palette-1.1"
+title: "Jki rsc toolkits palette-1.1"
 externalUrl: https://www.vipm.io/package/jki_rsc_toolkits_palette-1.1
 date: 2015-03-31
 summary: "JKI Toolkits Palette"
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

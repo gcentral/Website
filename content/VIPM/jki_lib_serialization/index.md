@@ -2,7 +2,7 @@
 title: "JKI Serialization"
 externalUrl: https://www.vipm.io/package/jki_lib_serialization
 date: 2016-08-03
-summary: ""
+summary: "Serialization and deserialization library for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_lib_serialization

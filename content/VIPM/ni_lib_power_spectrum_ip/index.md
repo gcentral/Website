@@ -2,7 +2,7 @@
 title: "NI Power Spectrum IP"
 externalUrl: https://www.vipm.io/package/ni_lib_power_spectrum_ip
 date: 2016-05-19
-summary: "This IP provides building blocks for creating overlapped FFTs."
+summary: "This IP provides FPGA building blocks for constructing overlapping FFTs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

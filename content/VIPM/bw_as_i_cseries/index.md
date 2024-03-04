@@ -2,7 +2,7 @@
 title: "B+W AS-i"
 externalUrl: https://www.vipm.io/package/bw_as_i_cseries
 date: 2018-08-30
-summary: "The AS-i API controls an AS-i network as an AS-i Master."
+summary: "Installs driver for the cRIO AS-i c-Series Module"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "LabPlot.ly"
 externalUrl: https://www.vipm.io/package/foerster_tech_lib_labplot_ly
 date: 2020-11-18
-summary: "LabPlot."
+summary: "Enables LabVIEW to display data in a Plot.ly plot"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/foerster_tech_lib_labplot_ly

@@ -2,7 +2,7 @@
 title: "Maker Hub Interface for Xbox One Controller"
 externalUrl: https://www.vipm.io/package/lvh_xbone
 date: 2016-05-19
-summary: "The MakerHub Interface for the Xbox One Controller makes it easy to read all button and axis data from an Xbox One Controller."
+summary: "Read all button and axis data from the Xbox One Controller using polling or event based programming."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

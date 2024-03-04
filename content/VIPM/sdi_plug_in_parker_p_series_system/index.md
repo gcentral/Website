@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Parker P Series (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_parker_p_series_system
 date: 2018-01-24
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Parker P Series EtherCAT servo drives."
+summary: "SoftMotion Drive Interface (SDI) Plug-in for Parker P Series servo drives."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_parker_p_series_system

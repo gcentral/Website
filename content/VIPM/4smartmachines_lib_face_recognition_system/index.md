@@ -2,7 +2,7 @@
 title: "Face Recognition (System)"
 externalUrl: https://www.vipm.io/package/4smartmachines_lib_face_recognition_system
 date: 2020-04-06
-summary: "This VI lib represents an advanced face recognition system."
+summary: "Recognizes faces together with their location and pose in an image. Uses advanced algorithms for robust results."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

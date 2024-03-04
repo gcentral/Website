@@ -2,7 +2,7 @@
 title: "NI Instruction Sequencer IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_instruction_sequencer_ip
 date: 2016-05-19
-summary: "This IP contains a memory to hold sets of U32 data values, or instructions."
+summary: "This IP contains a memory to hold sets of instructions, called sequences, which can be issued from the IP on the FPGA to another component on the FPGA, such as a digital protocol generator. This facilitates FPGA-based reconfiguration."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_instruction_sequencer_ip

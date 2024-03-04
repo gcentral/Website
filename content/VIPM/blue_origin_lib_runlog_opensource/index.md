@@ -2,7 +2,7 @@
 title: "RunLog (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_runlog_opensource
 date: 2023-01-02
-summary: "A debug logger optimized for a process with a well defined start and stop point."
+summary: "A debug logger optimized for a process with a well defined start and stop point"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

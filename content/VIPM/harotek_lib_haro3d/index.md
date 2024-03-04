@@ -2,7 +2,7 @@
 title: "Haro3D"
 externalUrl: https://www.vipm.io/package/harotek_lib_haro3d
 date: 2018-01-25
-summary: "***  This package must be installed with VIPM version 2014 or later ***"
+summary: "3D Visualization, Microsoft Hololens, Kinect, and Oculus Rift DK2 API"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/harotek_lib_haro3d

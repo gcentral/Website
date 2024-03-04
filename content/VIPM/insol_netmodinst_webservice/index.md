@@ -2,7 +2,7 @@
 title: "NetModInst WebService"
 externalUrl: https://www.vipm.io/package/insol_netmodinst_webservice
 date: 2016-05-19
-summary: "Network ModInst Driver is network-working ModInst driver i."
+summary: "Network ModInst Driver provides a programmatic way to determine the number, names, models, and other attributes of devices in your system that are supported by a specified driver."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -36,4 +37,4 @@ Requirements: LabVIEW 2013 RTE.
 
 Find NetModInst WebService Documentation in LabVIEW Help Menu.
 
-* For The Technical support you can contact us through * <u> net.drivers@insol.am </u>
+* For The Technical support you can contact us through *  net.drivers@insol.am

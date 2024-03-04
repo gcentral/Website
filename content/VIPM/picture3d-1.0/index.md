@@ -1,8 +1,8 @@
 ---
-title: "picture3d-1.0"
+title: "Picture3d-1.0"
 externalUrl: https://www.vipm.io/package/picture3d-1.0
 date: 2022-06-24
-summary: ""
+summary: "LabVIEW 3D Picture Control Evaluation Software"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

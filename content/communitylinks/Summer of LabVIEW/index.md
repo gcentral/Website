@@ -18,4 +18,5 @@ tags:
  - "Community"
  - "Competition"
  - "Online"
+ - "Summer of LabVIEW"
 ---

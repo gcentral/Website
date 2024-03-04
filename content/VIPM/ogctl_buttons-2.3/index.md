@@ -1,8 +1,8 @@
 ---
-title: "ogctl_buttons-2.3"
+title: "Ogctl buttons-2.3"
 externalUrl: https://www.vipm.io/package/ogctl_buttons-2.3
 date: 2021-06-17
-summary: "The buttons package contains various button controls."
+summary: "OpenG Button Controls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

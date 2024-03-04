@@ -2,7 +2,7 @@
 title: "HTTP Client Extensions"
 externalUrl: https://www.vipm.io/package/jki_lib_http_client_extensions
 date: 2021-05-06
-summary: ""
+summary: "Extends the HTTP Client library with asynchronous downloads and other useful stuff..."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

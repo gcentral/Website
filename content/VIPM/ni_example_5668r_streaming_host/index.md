@@ -2,7 +2,7 @@
 title: "NI Streaming Host Example for the NI 5668R"
 externalUrl: https://www.vipm.io/package/ni_example_5668r_streaming_host
 date: 2020-01-10
-summary: "The NI Streaming Host Example for the NI 5668R provides a multi-device stream to disk reference example for the NI PXIe-5668R vector signal analyzer."
+summary: "This package provides an EDVR Input Stream plugin class and examples for stream to disk and peer-to-peer streaming for the NI PXIe-5668R."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

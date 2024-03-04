@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/hse_lib_s7netcom

@@ -2,7 +2,7 @@
 title: "NeoDB for PostgreSQL"
 externalUrl: https://www.vipm.io/package/neodb_for_postgresql
 date: 2023-02-24
-summary: "**1."
+summary: "TCP connector for PostgreSQL"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "VIPM Community"
 ---
 
@@ -43,11 +45,11 @@ To do so, close LabVIEW and VIPM. Open VIPM by right-clicking on the icon and se
 **Once the installation is complete, close VIPM and restart LabVIEW**
 
 **Release Notes**
-<u>Version 1.1.0.17</u>
+Version 1.1.0.17
 Fixed Broken Test VIs in palette - Examples available using NI Example Finder
-<u>Version 1.1.0.13</u>
+Version 1.1.0.13
 Added Support for scram-sha-256 authentification
-<u>Version 1.0.3.12</u>
+Version 1.0.3.12
 Fixed bug that prevented executables from running with NeoDB 
-<u>Version 1.0.2.10</u>
+Version 1.0.2.10
 Fixed a bug preventing the deployement on a cRIO when the licence is in evaluation mode

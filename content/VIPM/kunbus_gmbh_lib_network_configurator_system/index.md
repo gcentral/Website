@@ -2,7 +2,7 @@
 title: "Network Configurator (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_network_configurator_system
 date: 2017-09-25
-summary: "**KUNBUS Network Configurator - Configuration tool for KUNBUS Industrial Ethernet Devices**"
+summary: "KUNBUS Network Configurator - Graphical Configuration Tool for KUNBUS Ethernet Products (former Comsoft ICP product)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "OpenG Picture Library"
 externalUrl: https://www.vipm.io/package/oglib_picture
 date: 2018-03-02
-summary: "The OpenG Picture Library package contains routines for operating on picture controls."
+summary: "OpenG Picture Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

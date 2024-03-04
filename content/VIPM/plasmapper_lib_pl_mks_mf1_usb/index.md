@@ -2,7 +2,7 @@
 title: "PL MKS MF1 USB"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_mks_mf1_usb
 date: 2022-07-19
-summary: "LabVIEW instrument driver for MKS MF1 mass flow controllers with USB interface."
+summary: "LabVIEW instrument driver for MKS MF1 mass flow controllers with USB interface"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

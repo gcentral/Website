@@ -2,7 +2,7 @@
 title: "NI WLAN Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_wlan_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "The niVST WLAN Example demonstrates how to perform 802."
+summary: "This example demonstrates how to integrate the Simple VSA/VSG sample project for the NI PXIe-5644R with mobile standards measurements, such as wireless LAN."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

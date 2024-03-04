@@ -2,7 +2,7 @@
 title: "MGI WSA Framework"
 externalUrl: https://www.vipm.io/package/mgi_lib_wsa_framework
 date: 2016-05-19
-summary: "Classes, templates, examples, and documentation for periodic web services built upon actors and LabVIEW clients that consume the web services."
+summary: "Framework for Web Services using Actors"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

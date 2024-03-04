@@ -2,7 +2,7 @@
 title: "Programmable Switch for NI myRIO"
 externalUrl: https://www.vipm.io/package/cmc_lib_programmable_switch
 date: 2016-05-19
-summary: "The Programmable Switch for NI myRIO project demonstrates how to use the NI myRIO to wirelessly control a switch via your smartphone or any UDP-enabled device."
+summary: "Use the NI myRIO to control an electric switch using your smartphone or any UDP-enabled device."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

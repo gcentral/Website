@@ -2,7 +2,7 @@
 title: "NI RT Management"
 externalUrl: https://www.vipm.io/package/ni_lib_rt_management
 date: 2016-07-27
-summary: "The RT Management library provides an easy to use API for the System Configuration, FTP, and WebDAV APIs in LabVIEW."
+summary: "Provides easy to use System Configuration API, FTP, and WebDAV functions across all NI RT targets."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_rt_management

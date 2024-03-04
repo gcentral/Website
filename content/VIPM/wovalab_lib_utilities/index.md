@@ -2,7 +2,7 @@
 title: "Wovalab Utilities"
 externalUrl: https://www.vipm.io/package/wovalab_lib_utilities
 date: 2023-12-29
-summary: "Available utilities:"
+summary: "This toolkit provides a set of vis and tools we use at Wovalab when developping LabVIEW applications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/wovalab_lib_utilities

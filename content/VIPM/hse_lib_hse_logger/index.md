@@ -1,7 +1,7 @@
 ---
 title: "HSE Logger"
 externalUrl: https://www.vipm.io/package/hse_lib_hse_logger
-date: 2024-02-26
+date: 2024-02-27
 summary: "A flexible and extensible logging system inspired by the Python logging module."
 showSummary: true
 showAuthor: false
@@ -16,16 +16,17 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
+ - "JSON"
  - "OOP"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/hse_lib_hse_logger
 
-Vendor: Hampel Software Engineering GmbH
+Vendor: Hampel Software Engineering
 
 Author(s): Hampel Software Engineering
  

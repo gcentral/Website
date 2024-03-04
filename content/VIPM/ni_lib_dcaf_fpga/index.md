@@ -2,7 +2,7 @@
 title: "DCAF FPGA Module"
 externalUrl: https://www.vipm.io/package/ni_lib_dcaf_fpga
 date: 2019-06-25
-summary: "Pass data to and from an FPGA target's front panel via DCAF."
+summary: "Interface to FPGA front panels for DCAF"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DCAF"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

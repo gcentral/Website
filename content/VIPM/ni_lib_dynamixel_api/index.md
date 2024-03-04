@@ -2,7 +2,7 @@
 title: "NI Dynamixel API"
 externalUrl: https://www.vipm.io/package/ni_lib_dynamixel_api
 date: 2016-05-19
-summary: "This Library contains two drivers."
+summary: "Driver for all Dynamixel AX, DX, RX, MX, EX, and Pro Series Motors"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

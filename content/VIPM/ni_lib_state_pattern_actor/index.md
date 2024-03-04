@@ -2,7 +2,7 @@
 title: "NI State Pattern Actor"
 externalUrl: https://www.vipm.io/package/ni_lib_state_pattern_actor
 date: 2016-08-25
-summary: "The state pattern is a behavioral design pattern that “allow[s] an object to alter its behavior when its internal state changes."
+summary: "Contains a framework and examples for implementing the state pattern in Actor Framework"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

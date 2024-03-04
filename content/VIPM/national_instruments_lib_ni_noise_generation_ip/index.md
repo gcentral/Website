@@ -2,7 +2,7 @@
 title: "NI Noise Generation IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_noise_generation_ip
 date: 2016-05-19
-summary: "This IP provides blocks for generating uniform and AWGN noise types."
+summary: "This IP provides enables the generation of both uniform and additive white Gaussian (AWGN) noise using an NI LabVIEW FPGA device.  The noise is produced in IQ pairs for ease of use in communications applications."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_noise_generation_ip

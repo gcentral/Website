@@ -2,7 +2,7 @@
 title: "NI Slot Power Host Example for the NI PXIe-5644R/45R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_slot_power_host_example_for_the_ni_pxie_5644r_45r
 date: 2016-05-19
-summary: "This example demonstrates how to use a modified instrument driver bitfile for RFSA/RFSG using a NI PXIe-5644R or 5645R Vector Signal Transceiver to take time slot average power measurements."
+summary: "Time slot power measurements are important in cellular calibration and many communications standards, such as GSM, CDMA, and LTE. These measurements involve a power in band measurement after passing the signal through a Resolution Bandwidth Filter. Then, the signal's power is measured in discrete slots. This example integrates Slot Power measurement functionality with standard RFSA/RFSG functionality in the instrument driver, and then provides host code to demonstrate a way of using it."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_slot_power_host_example_for_the_ni_pxie_5644r_45r

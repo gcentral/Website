@@ -2,7 +2,7 @@
 title: "NI Power Servoing IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_power_servoing_ip
 date: 2016-05-19
-summary: "This IP is designed to level the output of an RF power amplifier by iteratively measuring its output power and adjusting the supplied stimulus."
+summary: "This IP uses an FPGA-based control loop to rapidly adjust device output power to reach a desired input power, when an load or amplifier of unknown gain is connected between the output and input."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

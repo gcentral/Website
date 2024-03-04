@@ -1,8 +1,8 @@
 ---
-title: "jki_lib_rcf_create_enum_from_string-1.0.1"
+title: "Jki lib rcf create enum from string-1.0.1"
 externalUrl: https://www.vipm.io/package/jki_lib_rcf_create_enum_from_string-1.0.1
 date: 2009-07-08
-summary: "Create an Enum from a String, an Array of String, a String Constant, or an Array of String constant."
+summary: "Create an Enum from a String"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Parker E Series (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_parker_e_series_system
 date: 2018-06-26
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Parker E Series EtherCAT stepper drives."
+summary: "SoftMotion Drive Interface (SDI) Plugin for Parker E Series EtherCAT Stepper Drives"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_parker_e_series_system

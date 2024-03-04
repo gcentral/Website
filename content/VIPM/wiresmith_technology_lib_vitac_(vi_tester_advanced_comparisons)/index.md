@@ -2,7 +2,7 @@
 title: "VITAC (VI Tester Advanced Comparisons)"
 externalUrl: https://www.vipm.io/package/wiresmith_technology_lib_vitac_(vi_tester_advanced_comparisons)
 date: 2019-06-21
-summary: "VI Tester Advanced Comparisons (VITAC) provides some more advanced comparison VIs to support use of VI tester in unit testing."
+summary: "Advanced comparisons for VI Tester"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

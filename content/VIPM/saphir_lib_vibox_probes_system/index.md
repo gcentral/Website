@@ -2,7 +2,7 @@
 title: "ViBox - Probes (System)"
 externalUrl: https://www.vipm.io/package/saphir_lib_vibox_probes_system
 date: 2016-05-19
-summary: "This package provides you useful probes."
+summary: "Custom probes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

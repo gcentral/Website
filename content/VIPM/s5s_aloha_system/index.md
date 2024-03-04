@@ -2,7 +2,7 @@
 title: "ALOHA (System)"
 externalUrl: https://www.vipm.io/package/s5s_aloha_system
 date: 2016-05-19
-summary: "ALOHA is is a modular application framework."
+summary: "ALOHA is a modular application framework. Create small modules that work together to build a large application."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
  - "OOP"
 ---

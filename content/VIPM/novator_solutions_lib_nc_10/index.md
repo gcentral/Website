@@ -1,8 +1,8 @@
 ---
-title: "NC-10"
+title: "NC"
 externalUrl: https://www.vipm.io/package/novator_solutions_lib_nc_10
 date: 2020-01-10
-summary: "Novator Solutions NC-10 is an NI LabVIEW™ Toolkit that lets LabVIEW users leverage powerful industry-leading channelization techniques."
+summary: "NC-10 Channelization Toolkit by Novator Solutions"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/novator_solutions_lib_nc_10

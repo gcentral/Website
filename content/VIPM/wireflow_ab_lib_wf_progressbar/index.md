@@ -2,7 +2,7 @@
 title: "WF ProgressBar"
 externalUrl: https://www.vipm.io/package/wireflow_ab_lib_wf_progressbar
 date: 2016-05-19
-summary: "This module gives the user access to an easy way of displaying progress."
+summary: "Adds progressbar functionallity to the LabVIEW palettes"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

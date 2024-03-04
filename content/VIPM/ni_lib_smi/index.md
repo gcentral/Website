@@ -2,7 +2,7 @@
 title: "System Management and Information (SMI)"
 externalUrl: https://www.vipm.io/package/ni_lib_smi
 date: 2016-09-16
-summary: "The System Management and Information (SMI) library provides functions for the detection of network devices and the management of NI RIO hardware."
+summary: "Common system configuration parameter management and self-detection for NI Linux Real-Time targets."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_smi

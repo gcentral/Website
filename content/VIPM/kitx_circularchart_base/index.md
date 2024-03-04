@@ -2,7 +2,7 @@
 title: "Circular Chart Base"
 externalUrl: https://www.vipm.io/package/kitx_circularchart_base
 date: 2018-12-25
-summary: "The Circular Chart Add-On provides an easy way to create high quality circular charts with features such as anti-aliased and translucence, helps you to deal with the boring and time-consuming drawing details."
+summary: "The Circular Chart Add-On provides an easy way to create high quality circular charts."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -31,7 +32,7 @@ Author(s): KIT.X
 Full Description:
 The Circular Chart Add-On provides an easy way to create high quality circular charts with features such as anti-aliased and translucence, helps you to deal with the boring and time-consuming drawing details.
 
-**<u><size=18>Features</size></u>**
+**<size=18>Features</size>**
 - Supports multiple types of charts, such as pie chart, doughnut chart, polar area chart, circular bar chart, circular slide, graduated gauge chart, etc.
 - Multiple types of chart elements can be configured and added to the chart, such as legend, scale, grid, slider, digital, decoration, etc.
 - Three modes for different overlapping and connecting relationships between slices.
@@ -39,7 +40,7 @@ The Circular Chart Add-On provides an easy way to create high quality circular c
 - Charts can export images for reporting, and their styles can also be saved as files for reusing and sharing.
 - Easy to use, and you can quick-start your development based on several build-in styles.
 
-**<u><size=18>How to Use</size></u>**
+**<size=18>How to Use</size>**
 - The Circular Chart Add-On is ultimately defined as a single control. After installation you can find it in the Addons category of LabVIEW Controls palette. 
 - Being edited or loaded with different styles, the chart can be presented in the different types listed above, or even more. 
 - The chart style is configured by the Chart Style Designer dialog box, which can be displayed through the right-click menu of the chart, similar to the Properties dialog box of the LabVIEW controls. 

@@ -2,7 +2,7 @@
 title: "Arduino Compatible Compiler for LabVIEW Standard"
 externalUrl: https://www.vipm.io/package/tsxperts_aledyne_lib_arduino_compiler_for_labview
 date: 2016-05-19
-summary: "The Arduino Compatible Compiler for LabVIEW is a compiler that will take a LabVIEW Virtual Instrument (VI) and compile it for the ArduinoTM programming language and will download the code to an ArduinoTM board."
+summary: "Arduino compatible compiler allowing for the compile and download of LabVIEW VIs to an Arduino target"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/tsxperts_aledyne_lib_arduino_compiler_for_labview

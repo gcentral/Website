@@ -2,7 +2,7 @@
 title: "JJ Control Micro_Clock"
 externalUrl: https://www.vipm.io/package/jj_control_lib_micro_clock
 date: 2016-05-19
-summary: "This package of VI's for National Instruments LabView permits measuring time with a resolution of microseconds."
+summary: "Clock with resolution micro seconds"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

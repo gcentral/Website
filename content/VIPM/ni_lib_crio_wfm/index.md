@@ -2,7 +2,7 @@
 title: "NI CompactRIO Waveform Library"
 externalUrl: https://www.vipm.io/package/ni_lib_crio_wfm
 date: 2016-05-19
-summary: "Programming library for performing waveform data acquisition on NI RIO hardware."
+summary: "Waveform-based data acquisition on NI RIO targets"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

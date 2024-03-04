@@ -2,7 +2,7 @@
 title: "Deep Learning Toolkit"
 externalUrl: https://www.vipm.io/package/ngene_lv_dnn_deep_learning_toolkit
 date: 1903-12-31
-summary: "**Empower LabVIEW with Deep Learning**"
+summary: "Dep Learning Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

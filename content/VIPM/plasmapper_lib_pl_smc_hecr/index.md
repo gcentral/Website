@@ -2,7 +2,7 @@
 title: "PL SMC HECR"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_smc_hecr
 date: 2022-07-16
-summary: "LabVIEW instrument driver for SMC HECR series temperature controllers."
+summary: "LabVIEW instrument driver for SMC HECR series temperature controllers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

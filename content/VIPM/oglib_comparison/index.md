@@ -2,7 +2,7 @@
 title: "OpenG Comparison Library"
 externalUrl: https://www.vipm.io/package/oglib_comparison
 date: 2018-03-02
-summary: "The OpenG Comparison Library package contains several routines for comparing data."
+summary: "OpenG Comparison Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

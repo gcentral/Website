@@ -2,7 +2,7 @@
 title: "ZigBee Measurement Suite"
 externalUrl: https://www.vipm.io/package/maxeye_technologies_private_limited_lib_zigbee_measurement_suite
 date: 2019-05-17
-summary: "ZigBee is a specification for a suite of high-level communication protocols used to create personal area networks built from small, low-power digital radios."
+summary: "MaxEye Technologies provides generation and analysis functions in LabVIEW for generating and analyzing the IEEE 802.15.4 standard complaint signals using National Instruments Vector Signal Generators (NI VSG) and Vector Signal Analyzers (NI VSA) or Vector Signal Transceivers (NI VST)."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/maxeye_technologies_private_limited_lib_zigbee_measurement_suite

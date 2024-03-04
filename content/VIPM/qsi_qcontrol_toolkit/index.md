@@ -2,7 +2,7 @@
 title: "QControl Toolkit"
 externalUrl: https://www.vipm.io/package/qsi_qcontrol_toolkit
 date: 2021-06-02
-summary: "A QControl is an object-oriented alternative to using an XControl."
+summary: "Object-Oriented Alternative to XControls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
- - "UI"
+ - "GUI"
  - "QControl"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/qsi_qcontrol_toolkit

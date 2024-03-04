@@ -2,7 +2,7 @@
 title: "Opto Fortress (System)"
 externalUrl: https://www.vipm.io/package/opto_france_lib_optofortress_system
 date: 2020-12-24
-summary: "**Opto Fortress Package**"
+summary: "Opto Fortress Package gives access to the library in charge of image acquisition and control of different hardware devices."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

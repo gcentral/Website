@@ -2,7 +2,7 @@
 title: "OPAL-RT Signal Generation Toolkit"
 externalUrl: https://www.vipm.io/package/opal_rt_signal_generation_toolkit
 date: 2019-04-11
-summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
+summary: "Optimized OPAL-RT Signal Generation libraries compatible with LabVIEW FPGA allowing for Sinusoidal, Sinusoidal with Harmonics, PWM, and SPWM generation"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

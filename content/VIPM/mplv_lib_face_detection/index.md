@@ -2,7 +2,7 @@
 title: "Face Detection"
 externalUrl: https://www.vipm.io/package/mplv_lib_face_detection
 date: 2019-10-17
-summary: "This VI represents an advanced face detector."
+summary: "Detects faces and their poses in an image. Uses advanced algorithms for robust results."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Custom Controls"
 externalUrl: https://www.vipm.io/package/benjaminr_custom_controls
 date: 2021-11-06
-summary: "This package allows to use custom controls in your LabVIEW application :"
+summary: "LabVIEW Custom Controls"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

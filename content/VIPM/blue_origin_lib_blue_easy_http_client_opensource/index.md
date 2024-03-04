@@ -2,7 +2,7 @@
 title: "Blue Easy HTTP Client (Open Source)"
 externalUrl: https://www.vipm.io/package/blue_origin_lib_blue_easy_http_client_opensource
 date: 2023-01-02
-summary: "This package contains a lightweight wrapper around the native LabVIEW HTTP Client methods."
+summary: "A lightweight wrapper around native HTTP Client, but with better parsing and debug log hooks"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

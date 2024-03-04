@@ -2,7 +2,7 @@
 title: "DQMH Palette"
 externalUrl: https://www.vipm.io/package/delacor_lib_qmh
 date: 2024-02-23
-summary: "The DQMH project template is based on the NI Queued Message Handler Project Template (NI QMH)."
+summary: "Contains the low level functions used to manage the DQMH queue and the Module Admin objects"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "NI"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/delacor_lib_qmh

@@ -2,7 +2,7 @@
 title: "AR Drone Toolkit"
 externalUrl: https://www.vipm.io/package/lvh_ar_drone_toolkit
 date: 2016-05-19
-summary: "Toolkit for controlling the AR Drone 1."
+summary: "AR Drone Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

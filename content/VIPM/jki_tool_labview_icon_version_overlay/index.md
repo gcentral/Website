@@ -2,7 +2,7 @@
 title: "LabVIEW Icon Version Overlay"
 externalUrl: https://www.vipm.io/package/jki_tool_labview_icon_version_overlay
 date: 2014-12-12
-summary: "= About ="
+summary: "Applies a four digit year to the LabVIEW program icon (similar to LabVIEW 2014)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

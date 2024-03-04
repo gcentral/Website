@@ -2,7 +2,7 @@
 title: "cRIO PB Slave (System)"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_pbas_system
 date: 2019-02-05
-summary: "**PROFIBUS DP Slave Interface for CompactRIO**"
+summary: "cRIO PROFIBUS Automatic Slave"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

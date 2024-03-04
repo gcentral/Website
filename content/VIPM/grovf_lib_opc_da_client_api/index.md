@@ -2,7 +2,7 @@
 title: "OPC DA Client API for LabVIEW"
 externalUrl: https://www.vipm.io/package/grovf_lib_opc_da_client_api
 date: 2020-06-10
-summary: "**Overview**"
+summary: "Powerful OPC DA 2.XX and 3.0 Compliant Client API for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/grovf_lib_opc_da_client_api

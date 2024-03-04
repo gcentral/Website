@@ -2,7 +2,7 @@
 title: "LVOOP Assistant"
 externalUrl: https://www.vipm.io/package/lava_rsc_lvoop_assistant
 date: 2021-01-04
-summary: "This tool integrates into the LabVIEW Project Provider API and contains features to assist with LVOOP development"
+summary: "LVOOP Assistant"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
+ - "NI"
  - "OOP"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/lava_rsc_lvoop_assistant

@@ -2,7 +2,7 @@
 title: "3D Express"
 externalUrl: https://www.vipm.io/package/synergy_lib_3d_express
 date: 2016-05-19
-summary: "3D Express is a platform provided by Synergy."
+summary: "Allow users to design a complicated 3D model, and make a 3D program easily."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

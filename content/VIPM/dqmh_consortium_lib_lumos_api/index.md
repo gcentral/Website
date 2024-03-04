@@ -2,7 +2,7 @@
 title: "Lumos API"
 externalUrl: https://www.vipm.io/package/dqmh_consortium_lib_lumos_api
 date: 2024-01-29
-summary: "The Lumos toolkit allows you to monitor the communication inside your application – live and in real time! "
+summary: "Live message tracing of your DQMH-based applications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "DQMH"
  - "VIPM Community"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/dqmh_consortium_lib_lumos_api

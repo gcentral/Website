@@ -2,7 +2,7 @@
 title: "MGI Tools"
 externalUrl: https://www.vipm.io/package/mgi_lib_tools
 date: 2016-08-31
-summary: "This package adds the submenu 'MGI Tools' to the LabVIEW development environment's Tool menu."
+summary: "A set of dialogs and windows that are used during Developement"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "PL Bronkhorst ProPar"
 externalUrl: https://www.vipm.io/package/plasmapper_lib_pl_bronkhorst_propar
 date: 2022-11-09
-summary: "LabVIEW instrument driver for Bronkhorst mass flow and pressure instruments with ProPar protocol."
+summary: "LabVIEW instrument driver for Bronkhorst mass flow and pressure instruments with ProPar protocol"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/plasmapper_lib_pl_bronkhorst_propar

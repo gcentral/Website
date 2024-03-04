@@ -1,8 +1,8 @@
 ---
-title: "ni_goop_wizard-1.0"
+title: "Ni goop wizard-1.0"
 externalUrl: https://www.vipm.io/package/ni_goop_wizard-1.0
 date: 2023-09-28
-summary: "NI GOOP 1."
+summary: "NI GOOP 1.0 Wizard"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
+ - "NI"
  - "OOP"
+ - "OpenG"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_goop_wizard-1.0

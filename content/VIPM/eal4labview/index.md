@@ -2,7 +2,7 @@
 title: "EAL for LabVIEW"
 externalUrl: https://www.vipm.io/package/eal4labview
 date: 2018-05-07
-summary: "The EAL (Easy Automation Library) is a programming interface for high level programming languages (C/C++/C#/Java/LabVIEW/."
+summary: "LABVIEW vis to connect to rexroth drives to access its features."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

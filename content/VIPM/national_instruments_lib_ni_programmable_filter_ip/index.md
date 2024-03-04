@@ -2,7 +2,7 @@
 title: "NI Programmable Filter IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_programmable_filter_ip
 date: 2016-05-19
-summary: "This IP implements a 33 tap FIR Filter."
+summary: "This IP is a 33 Tap configurable, general purpose finite impulse response (non recursive) filter. The coefficients have no symmetry requirements, so this filter can be used wherever an FIR filter is desired on the FPGA to filter IQ data."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

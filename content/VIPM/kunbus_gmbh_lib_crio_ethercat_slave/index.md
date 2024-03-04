@@ -2,7 +2,7 @@
 title: "cRIO EtherCAT Slave"
 externalUrl: https://www.vipm.io/package/kunbus_gmbh_lib_crio_ethercat_slave
 date: 2018-12-20
-summary: "**EtherCAT Slave Interface for CompactRIO**"
+summary: "EtherCAT Slave Interface for CompactRIO"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "ethercat"
 ---
 
 Redirecting to https://www.vipm.io/package/kunbus_gmbh_lib_crio_ethercat_slave

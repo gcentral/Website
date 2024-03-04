@@ -2,7 +2,7 @@
 title: "NI Channel Emulation Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_channel_emulation_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "This example uses the NI PXIe-5644R VST to emulate the over-the-air (OTA) channel for a wireless communication link."
+summary: "With a DSP-focused FPGA coupled to both RF input and RF output, the NI PXIe-5644R makes an ideal hardware platform for an RF channel emulator. This example implements inline, real-time DSP to apply arbitrary channel models to the RF data."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_channel_emulation_example_for_the_ni_pxie_5644r

@@ -1,7 +1,7 @@
 ---
 title: "Approval Tests"
 externalUrl: https://www.vipm.io/package/sas_lib_approval_tests
-date: 2024-02-26
+date: 2024-03-01
 summary: "Approval Testing For LabVIEW"
 showSummary: true
 showAuthor: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
 ---
 

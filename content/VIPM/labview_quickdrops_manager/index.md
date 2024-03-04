@@ -2,7 +2,7 @@
 title: "LabVIEW-QuickDrops-Manager"
 externalUrl: https://www.vipm.io/package/labview_quickdrops_manager
 date: 2023-10-20
-summary: "**LabVIEW QuickDrops Manager**, which is also a quickdrop itself, assists in managing your quickdrops."
+summary: "Tool for managing your QuickDrops"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "MGI"
+ - "NI"
+ - "OpenG"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

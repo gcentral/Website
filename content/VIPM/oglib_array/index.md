@@ -2,7 +2,7 @@
 title: "OpenG Array Library"
 externalUrl: https://www.vipm.io/package/oglib_array
 date: 2018-03-09
-summary: "The OpenG Array Library package contains several routines for operating on array data."
+summary: "OpenG Array Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

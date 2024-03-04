@@ -2,7 +2,7 @@
 title: "GPower Expression Parser"
 externalUrl: https://www.vipm.io/package/gpower_lib_exprparser
 date: 2019-09-17
-summary: "This toolset enables you to evaluate mathematical expressions, supplied as strings, into numeric values:"
+summary: "Parses and evaluates mathematical string expressions into numeric values."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

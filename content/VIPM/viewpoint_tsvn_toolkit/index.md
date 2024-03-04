@@ -2,7 +2,7 @@
 title: "Viewpoint TSVN Toolkit"
 externalUrl: https://www.vipm.io/package/viewpoint_tsvn_toolkit
 date: 2019-02-12
-summary: "The TSVN Toolkit integrates Subversion into LabVIEW via the Project Explorer context menu and toolbar, File menu, Tools menu, and QuickDrop."
+summary: "TortoiseSVN Toolkit for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
 ---
 
 Redirecting to https://www.vipm.io/package/viewpoint_tsvn_toolkit

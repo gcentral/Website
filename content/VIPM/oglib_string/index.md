@@ -2,7 +2,7 @@
 title: "OpenG String Library"
 externalUrl: https://www.vipm.io/package/oglib_string
 date: 2021-02-05
-summary: "The OpenG String Library package contains several routines for operating on strings."
+summary: "OpenG String Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

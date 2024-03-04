@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Mitsubishi MR-J4-TM (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_mitsubishi_mr_j4_tm_system
 date: 2018-03-30
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Mitsubishi MR-J4-TM EtherCAT servo drives."
+summary: "SoftMotion Drive Interface (SDI) Plug-in for Mitsubishi MR-J4-TM servo drives."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_mitsubishi_mr_j4_tm_system

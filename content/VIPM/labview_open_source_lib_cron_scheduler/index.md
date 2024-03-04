@@ -2,7 +2,7 @@
 title: "Cron Scheduler"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_cron_scheduler
 date: 2023-12-03
-summary: "Cron Scheduler library for LabVIEW"
+summary: "Cron Scheduling Libraries"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
  - "VIPM Community"
 ---
 

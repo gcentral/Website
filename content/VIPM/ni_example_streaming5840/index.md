@@ -2,7 +2,7 @@
 title: "NI Streaming 5840 Host"
 externalUrl: https://www.vipm.io/package/ni_example_streaming5840
 date: 2020-03-11
-summary: "This example uses an FPGA Extensions Bitfile to extend the DMA streaming capability of the PXIe-5820 & PXIe-5840 Vector Signal Transceiver to 1."
+summary: "This package installs DMA streaming example code for the NI PXIe-5820 & PXIe-5840 VST."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

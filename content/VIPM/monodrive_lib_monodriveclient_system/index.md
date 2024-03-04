@@ -2,7 +2,7 @@
 title: "monoDriveClient (System)"
 externalUrl: https://www.vipm.io/package/monodrive_lib_monodriveclient_system
 date: 2021-04-09
-summary: "<color=red>Note: This package requires administrator"
+summary: "LabVIEW client to conect to monoDrive Simulator"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/monodrive_lib_monodriveclient_system

@@ -2,7 +2,7 @@
 title: "TortoiseGit Show Log - QuickDrop Plugin"
 externalUrl: https://www.vipm.io/package/leah_edwards_lib_tortoisegit_show_log___quickdrop_plugin
 date: 2022-09-06
-summary: "This QuickDrop Shortcut launches the TortoiseGit log for a VI, folder, library, repo, class, library or project."
+summary: "QuickDrop Plugin for LabVIEW to bring up the TortoiseGit log for a VI, folder, library, class, repo etc."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "Advanced Calculations on Curves"
 externalUrl: https://www.vipm.io/package/rafa_solutions_lib_advanced_calculations_on_curves
 date: 2016-05-19
-summary: "Advanced Calculations on Curves package represents a set of VIs that can be very useful in applications with graph measurements and analysis."
+summary: "Set of VIs to be used in advanced calculations with graphs."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

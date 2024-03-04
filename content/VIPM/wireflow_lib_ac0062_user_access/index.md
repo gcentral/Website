@@ -2,7 +2,7 @@
 title: "WF User Access Toolkit"
 externalUrl: https://www.vipm.io/package/wireflow_lib_ac0062_user_access
 date: 2018-09-18
-summary: "**Please note that <u>VIPM 2014</u> is required for installation."
+summary: "WF-SecuritySuite: User Access Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -29,7 +30,7 @@ Vendor: WireFlow
 Author(s): WireFlow
  
 Full Description:
-**Please note that <u>VIPM 2014</u> is required for installation.** 
+**Please note that VIPM 2014 is required for installation.** 
 
 This is a user access toolkit that allows user access control using one of the authentication methods;
 * Login dialogs

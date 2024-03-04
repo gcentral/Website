@@ -2,7 +2,7 @@
 title: "NI Launch Remote Actor"
 externalUrl: https://www.vipm.io/package/ni_lib_launch_remote_actor
 date: 2016-08-25
-summary: "You can now cause an actor to launch on a remote system just by replacing the normal Launch Actor."
+summary: "Launch a nested actor on a remote machine."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
  - "Actor Framework"
+ - "NI"
+ - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_launch_remote_actor

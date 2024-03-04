@@ -2,7 +2,7 @@
 title: "3D_Vision_Advanced_Toolkit"
 externalUrl: https://www.vipm.io/package/cos_lib_3d_vision_advanced_toolkit
 date: 2021-03-11
-summary: "The 3D Vision Advanced Toolkit includes  Point Cloud Processing Toolkit,  Triangular Mesh Processing Toolkit based on Half Edge data structure and 3D Picture Library."
+summary: "3D_Vision_Advanced_Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -40,7 +41,7 @@ and LabVIEW with **admin rights**
 
 3D_Vision_Advaned_Toolkit from COS
 
-<u>www.cos-3d.com</u>
+www.cos-3d.com
 
 
 

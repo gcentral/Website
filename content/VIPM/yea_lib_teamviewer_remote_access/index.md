@@ -2,7 +2,7 @@
 title: "TeamViewer IoT for LabVIEW"
 externalUrl: https://www.vipm.io/package/yea_lib_teamviewer_remote_access
 date: 2018-04-04
-summary: "LabView TeamViewer IoT toolkit provides functions to communicate with your device from anywhere with using TeamViewers Global Access Network and enables an ultimate way to implement remote monitoring and control applications."
+summary: "TeamViewer connectivity toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "IG IDE - Snippets"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_ig_ide___snippets
 date: 2023-02-21
-summary: "This package has 2 main sets of features to reduce the time spent with simple but tedious tasks in LabVIEW: project tooling and code snippets."
+summary: "Code snippets and project tooling to speed up OOP and DVR development with no code dependencies."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OOP"
  - "VIPM Community"
 ---
 

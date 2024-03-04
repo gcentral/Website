@@ -2,7 +2,7 @@
 title: "OPAL-RT eHS Toolkit"
 externalUrl: https://www.vipm.io/package/opal_rt_ehs_toolkit
 date: 2019-04-11
-summary: "**Note:** This installer requires VIPM to be run with Administrator privileges."
+summary: "OPAL-RT eHS Toolkit, allowing for easy integration of the OPAL-RT eHS Solver which is an optimized generic & reprogrammable FPGA-based electrical solver"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

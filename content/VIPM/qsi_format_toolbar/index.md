@@ -2,7 +2,7 @@
 title: "QSI Format Toolbar"
 externalUrl: https://www.vipm.io/package/qsi_format_toolbar
 date: 2020-10-16
-summary: "The Format Toolbar is a floating toolbar that can be running in the background during development."
+summary: "Formatting Toolbar for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

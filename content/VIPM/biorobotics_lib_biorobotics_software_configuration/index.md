@@ -2,7 +2,7 @@
 title: "BioRobotics Software Configuration"
 externalUrl: https://www.vipm.io/package/biorobotics_lib_biorobotics_software_configuration
 date: 2019-02-14
-summary: "This is the Applications Manager for all Cleveland Clinic BioRobotics Lab Applications."
+summary: "Applications Manager for all Cleveland Clinic BioRobotics Lab Applications"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "robot"
+ - "robotics"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/biorobotics_lib_biorobotics_software_configuration

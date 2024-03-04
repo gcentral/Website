@@ -2,7 +2,7 @@
 title: "MQTT Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_connection
 date: 2024-02-13
-summary: "LV-MQTT-Connection"
+summary: "MQTT Connection and Base functionality for MQTT clients and servers"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_project_lib_mqtt_connection

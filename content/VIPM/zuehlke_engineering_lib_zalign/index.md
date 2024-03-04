@@ -2,7 +2,7 @@
 title: "ZAlign"
 externalUrl: https://www.vipm.io/package/zuehlke_engineering_lib_zalign
 date: 2020-12-10
-summary: "Overview:"
+summary: "ZAlign allows the the automatic re-arrangement of Front Panel Elements"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
- - "UI"
  - "GUI"
+ - "Quick Drop"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/zuehlke_engineering_lib_zalign

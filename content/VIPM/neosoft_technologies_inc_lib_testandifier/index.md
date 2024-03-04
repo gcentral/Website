@@ -2,7 +2,7 @@
 title: "DQMH Testandifier"
 externalUrl: https://www.vipm.io/package/neosoft_technologies_inc_lib_testandifier
 date: 2023-11-21
-summary: "NOTE : This tool requires TestStand 2020 (or later) to be installed before executing it!"
+summary: "TestStandifier is a tool that adapts a DQMH module to be efficiently called from TestStand"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/neosoft_technologies_inc_lib_testandifier

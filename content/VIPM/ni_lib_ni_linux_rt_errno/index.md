@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Linux"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

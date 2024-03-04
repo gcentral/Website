@@ -2,7 +2,7 @@
 title: "MQTT TCP Connection"
 externalUrl: https://www.vipm.io/package/labview_open_source_project_lib_mqtt_tcp_connection
 date: 2022-05-09
-summary: "LV-MQTT-TCP-Connection"
+summary: "MQTT TCP Connection class (extension)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

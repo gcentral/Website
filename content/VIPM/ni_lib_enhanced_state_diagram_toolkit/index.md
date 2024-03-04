@@ -2,7 +2,7 @@
 title: "Enhanced State Diagram Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_enhanced_state_diagram_toolkit
 date: 2019-10-01
-summary: "Note: This product is the Enhanced State Diagram Toolkit."
+summary: "An enhanced visual editor for creating and debugging state machines in LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -37,4 +38,4 @@ The Enhanced State Diagram Toolkit assists in large scale application developmen
 
 The manual is installed with the toolkit in <font=Courier>labview\\manuals</font>.
 
-Support questions may be posted in the LabVIEW discussion forum at <u>http://forums.ni.com/t5/LabVIEW/bd-p/170</u>.
+Support questions may be posted in the LabVIEW discussion forum at http://forums.ni.com/t5/LabVIEW/bd-p/170.

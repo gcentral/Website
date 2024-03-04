@@ -2,7 +2,7 @@
 title: "High Performance Demodulator Library for LabVIEW FPGA"
 externalUrl: https://www.vipm.io/package/olymp_engineering_llc_lib_high_performance_demodulator
 date: 2016-05-19
-summary: "High Performance Demodulator Library for LabVIEW FPGA "
+summary: "HPD"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/olymp_engineering_llc_lib_high_performance_demodulator

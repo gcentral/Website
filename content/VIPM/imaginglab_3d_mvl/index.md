@@ -2,7 +2,7 @@
 title: "3D-MVL"
 externalUrl: https://www.vipm.io/package/imaginglab_3d_mvl
 date: 2016-05-19
-summary: "The 3D-MVL is a set of 3D machine vision tools to obtain complete, true, 3D calibrated data for ultrafast"
+summary: "ImagingLab 3D Machine Vision Library (3D-MVL)"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

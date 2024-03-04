@@ -2,7 +2,7 @@
 title: "NI Modbus Library"
 externalUrl: https://www.vipm.io/package/ni_lib_modbus_library
 date: 2018-06-29
-summary: "Modbus is a de facto standard for industrial communication which supports both serial- and TCP/IP-based communication."
+summary: "This Modbus library provides low level customizable communication over the Modbus standard."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/ni_lib_modbus_library

@@ -2,7 +2,7 @@
 title: "Plot Area Filling Tool"
 externalUrl: https://www.vipm.io/package/kit_x_plot_area_filling_tool_8_6
 date: 2018-08-21
-summary: "The Plot Area Filling Tool provides another way to fill the plot areas of LabVIEW waveform graph by creating a filled area image and inserting it into the background of the graph."
+summary: "The Plot Area Filling Tool provides another way to fill the plot areas of LabVIEW waveform graph."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "NetRFSG"
 externalUrl: https://www.vipm.io/package/insol_netrfsg
 date: 2016-05-19
-summary: "Network RFSG Driver is network-working RFSG driver i."
+summary: "Network RFSG Driver is a driver library to configure and run the radio - measuring equipment such as Vector Signal Generator ."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
@@ -37,4 +38,4 @@ Toolkit VIs are located in the Functions Palette > Instrument Drivers > NetDrive
 Some of the examples have dependency from NetTClk and NetModInst drivers, which is specified in those examples' documentation.
 Find NetRFSG Documentation in LabVIEW Help Menu.
 
-* For The Technical support you can contact us through * <u> net.drivers@insol.am </u>
+* For The Technical support you can contact us through *  net.drivers@insol.am

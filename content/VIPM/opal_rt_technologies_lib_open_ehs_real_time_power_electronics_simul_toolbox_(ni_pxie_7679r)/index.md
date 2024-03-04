@@ -2,7 +2,7 @@
 title: "Open eHS Real-Time Power Electronics Simul Toolbox (NI PXIe-7679R)"
 externalUrl: https://www.vipm.io/package/opal_rt_technologies_lib_open_ehs_real_time_power_electronics_simul_toolbox_(ni_pxie_7679r)
 date: 2016-10-20
-summary: "Open eHS Real Time Power Electronics Simul."
+summary: "Open eHS real-time power electronics simulation toolbox for the NI PXIe platform. Supports the NI PXIe-7976R FlexRIO target."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/opal_rt_technologies_lib_open_ehs_real_time_power_electronics_simul_toolbox_(ni_pxie_7679r)

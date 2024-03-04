@@ -2,7 +2,7 @@
 title: "JKI FPGA Basic Components"
 externalUrl: https://www.vipm.io/package/jki_fpga_basic_components
 date: 2020-11-02
-summary: "Provides basic components and tools for building FPGA algorithms (most functions also work for PC and RT)."
+summary: "Provides basic components and tools for building FPGA algorithms."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "JKI"
  - "VIPM Community"
 ---
 

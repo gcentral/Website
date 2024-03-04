@@ -2,7 +2,7 @@
 title: "DQMH Event Scripter"
 externalUrl: https://www.vipm.io/package/delacor_lib_delacor_qmh_event_scripter
 date: 2024-02-23
-summary: "This package installs the Tools>>DQMH Consortium>>DQMH Tools to add new DQMH Modules to existing projects and add/remove events to existing DQMH Modules"
+summary: "This package installs the Tools>>DQMH Consortium>>DQMH Tools"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "VIPM Community"
  - "DQMH"
+ - "VIPM Community"
 ---
 
 Redirecting to https://www.vipm.io/package/delacor_lib_delacor_qmh_event_scripter

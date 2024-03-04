@@ -2,7 +2,7 @@
 title: "Events for UI Actor Indicators"
 externalUrl: https://www.vipm.io/package/events_for_ui_actor_indicators
 date: 2023-08-29
-summary: "**Events for UI Actor Indicators ** is a set of wizards that allow you to quickly create UI actors from a template, and then add user events to handle updates to its front panel indicators."
+summary: "Easily create events for front panel indicators of UI actors"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/events_for_ui_actor_indicators

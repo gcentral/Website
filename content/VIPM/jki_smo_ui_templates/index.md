@@ -2,7 +2,7 @@
 title: "JKI SMO Template (UIs)"
 externalUrl: https://www.vipm.io/package/jki_smo_ui_templates
 date: 2016-08-22
-summary: "This package provides UI templates to get started with the JKI State Machine Objects (SMO) framework."
+summary: "Graph UI Templates for the JKI SMO Framework"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,11 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "JKI"
  - "VIPM Community"
- - "UI"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_smo_ui_templates

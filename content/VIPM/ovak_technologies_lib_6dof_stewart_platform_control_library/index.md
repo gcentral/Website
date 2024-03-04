@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
 ---
 
 Redirecting to https://www.vipm.io/package/ovak_technologies_lib_6dof_stewart_platform_control_library

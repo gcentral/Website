@@ -2,7 +2,7 @@
 title: "ViBox - XControls"
 externalUrl: https://www.vipm.io/package/saphir_lib_vibox_xcontrols
 date: 2016-05-19
-summary: "XTab :"
+summary: "This package provide you smart controls. Use them to improve your user interfaces"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

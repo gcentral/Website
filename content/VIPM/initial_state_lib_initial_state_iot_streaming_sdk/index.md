@@ -2,7 +2,7 @@
 title: "Tektronix - Initial State IoT Streaming SDK"
 externalUrl: https://www.vipm.io/package/initial_state_lib_initial_state_iot_streaming_sdk
 date: 2019-08-22
-summary: "Quickly stream and monitor data in your Initial State account from LabVIEW."
+summary: "Quickly stream data to Initial State from LabVIEW and get browser-based visualization, transformation, alarming, secure sharing, and comparison."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

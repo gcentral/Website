@@ -2,7 +2,7 @@
 title: "Workers - Debug Server"
 externalUrl: https://www.vipm.io/package/sc_workers_debug_server
 date: 2022-07-07
-summary: "The Workers Debug Server contains a Windows executable application that is used to observe behavior at run-time within Workers applications."
+summary: "The Workers Debug Server"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

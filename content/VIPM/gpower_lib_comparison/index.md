@@ -2,7 +2,7 @@
 title: "GPower Comparison"
 externalUrl: https://www.vipm.io/package/gpower_lib_comparison
 date: 2017-02-07
-summary: "This toolset adds various comparison functions:"
+summary: "Toolset that extends the comparison palette."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

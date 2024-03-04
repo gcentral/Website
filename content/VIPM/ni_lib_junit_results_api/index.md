@@ -2,7 +2,7 @@
 title: "JUnit Results Library"
 externalUrl: https://www.vipm.io/package/ni_lib_junit_results_api
 date: 2017-05-19
-summary: "Initial release."
+summary: "A library to generate JUnit test result files."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

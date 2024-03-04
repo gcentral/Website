@@ -2,7 +2,7 @@
 title: "Mitsubishi Robotics Library (System)"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_mitsubishi_robotics_library_system
 date: 2019-03-06
-summary: "With the Mitsubishi library, you can easily integrate robotics into new types of systems and applications for automated test, laboratory automation, and flexible manufacturing – eliminating complex robotics programming expertise."
+summary: "Easy-to-use graphical functions for commanding and controlling Mitsubishi robotics directly from the NI LabVIEW graphical development environment."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
+ - "communication"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_lib_mitsubishi_robotics_library_system

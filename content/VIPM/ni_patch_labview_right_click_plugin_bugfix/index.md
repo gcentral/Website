@@ -2,7 +2,7 @@
 title: "LabVIEW Bug Fix for Right-Click Menu Plug-Ins"
 externalUrl: https://www.vipm.io/package/ni_patch_labview_right_click_plugin_bugfix
 date: 2020-11-17
-summary: "This package resolves an intermittent (race condition) issue where right-click operations implemented in G sometimes do not work (but when they try to reproduce the issue, everything works fine)."
+summary: "This package resolves an intermittent issue where right-click operations implemented in G sometimes do not work."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "SIMCA-Q for LabVIEW"
 externalUrl: https://www.vipm.io/package/simca_q_for_labview
 date: 2016-05-19
-summary: "SIMCA-Q for LabVIEW make use of the SIMCA-Q library to enable automated predictions in LabVIEW."
+summary: "A multivariate statistics prediction engine."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

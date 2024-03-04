@@ -2,7 +2,7 @@
 title: "AutoSerial"
 externalUrl: https://www.vipm.io/package/alab_technologies_lib_autoserial
 date: 2016-09-20
-summary: "The AutoSerial toolkit is built to automate manual human interactions with any serial device."
+summary: "Helps LabVIEW developers automate manual interactions of a user with custom devices on serial port similar to the way they would on a command line application such as Putty. It makes it  easy to log in, enter username and password, send and receive data from a device and interact with it."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/alab_technologies_lib_autoserial

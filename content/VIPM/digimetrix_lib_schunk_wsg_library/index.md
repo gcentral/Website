@@ -2,7 +2,7 @@
 title: "Schunk WSG Library"
 externalUrl: https://www.vipm.io/package/digimetrix_lib_schunk_wsg_library
 date: 2017-09-22
-summary: "This library provides an interface to Schunk WSG Intellegent Gripper."
+summary: "This library provides an interface to Schunk WSG Intellegent Gripper. You can use this library for FREE."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/digimetrix_lib_schunk_wsg_library

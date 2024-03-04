@@ -2,7 +2,7 @@
 title: "Code Capture Tool"
 externalUrl: https://www.vipm.io/package/lava_lib_code_capture_tool-3.2.3
 date: 2021-01-04
-summary: "A tool to create screenshots of LabVIEW code."
+summary: "Support for LabVIEW snippets and specifying the version to save them in (backsaving)."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

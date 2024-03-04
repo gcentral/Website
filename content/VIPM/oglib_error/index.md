@@ -2,7 +2,7 @@
 title: "OpenG Error Library"
 externalUrl: https://www.vipm.io/package/oglib_error
 date: 2018-03-02
-summary: "The OpenG Error Library package contains several routines related to error handling."
+summary: "OpenG Error Library"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

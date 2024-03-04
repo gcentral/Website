@@ -2,7 +2,7 @@
 title: "IG VoicemeeterRemote API"
 externalUrl: https://www.vipm.io/package/illuminatedg_lib_voicemeeterremote_api
 date: 2024-01-19
-summary: "Allows controlling Voicemeeter, Voicemeeter Banana, and Voicemeeter Potato from LabVIEW."
+summary: "LabVIEW wrapper for the VoicemeeterRemote API to control audio devices and routing in Windows"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

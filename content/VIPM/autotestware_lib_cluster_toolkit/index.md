@@ -2,7 +2,7 @@
 title: "Cluster Toolkit"
 externalUrl: https://www.vipm.io/package/autotestware_lib_cluster_toolkit
 date: 2016-05-19
-summary: "The JKI VI Package Manager (VIPM) 2014 or newer is required to install the Autotestware Cluster Toolkit."
+summary: "Autotestware Cluster Toolkit is a collection of VIs that offers flexibility and ease of use when you are programming with clusters. These VIs operate in a manner similar or analogous to various array functions."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

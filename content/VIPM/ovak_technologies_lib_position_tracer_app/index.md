@@ -2,7 +2,7 @@
 title: "Position Tracer App for NI myRIO"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_position_tracer_app
 date: 2016-05-19
-summary: "This app is intended to show process of signal integration and problems that arise while integrating the signal for a long time."
+summary: "Position Tracer Application that demonstrates fully functional software product using NI myRIO."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/ovak_technologies_lib_position_tracer_app

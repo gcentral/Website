@@ -2,7 +2,7 @@
 title: "NIVision OpenCV Utilities (System)"
 externalUrl: https://www.vipm.io/package/national_instruments_nivision_opencv_utilities_system
 date: 2016-07-26
-summary: "NI Vision OpenCV Utilities enables you to use OpenCV algorithms with NI embedded hardware in LabVIEW."
+summary: "Interface utilities to use OpenCV with NIVision"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

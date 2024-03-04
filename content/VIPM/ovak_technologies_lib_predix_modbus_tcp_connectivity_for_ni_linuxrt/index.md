@@ -2,7 +2,7 @@
 title: "Predix Modbus TCP Connectivity for NI Linux RT"
 externalUrl: https://www.vipm.io/package/ovak_technologies_lib_predix_modbus_tcp_connectivity_for_ni_linuxrt
 date: 2017-08-10
-summary: "Predix Modbus TCP Connectivity for NI Linux RT toolkit is designed to allow users send and store sensors data to GE Predix or other cloud, using Modbus TCP protocol and GE Predix machine Modbus TCP container installed on NI Linux RT."
+summary: "Predix Modbus TCP Connectivity for NI Linux RT toolkit is designed to allow users send and store sensors data ."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Linux"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/ovak_technologies_lib_predix_modbus_tcp_connectivity_for_ni_linuxrt

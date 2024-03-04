@@ -2,7 +2,7 @@
 title: "Camera Control For Nikon DSLRs"
 externalUrl: https://www.vipm.io/package/ackermann_automation_lib_labview_camera_control_for_nikon_slr
 date: 2020-08-26
-summary: "The 'Camera Control for Nikon SLR' is a  library for control of Nikon SLR cameras via USB."
+summary: "Full control of Nikon DSLR and mirrorless cameras"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "camera"
 ---
 
 Redirecting to https://www.vipm.io/package/ackermann_automation_lib_labview_camera_control_for_nikon_slr

@@ -2,7 +2,7 @@
 title: "GPower Overflow"
 externalUrl: https://www.vipm.io/package/gpower_lib_overflow
 date: 2016-05-19
-summary: "The GPower Overflow toolset adds a set of functions that lets you do numeric operations while verifying the exactness of them, specifically;"
+summary: "Arithmetic and numeric conversion functions with overflow and exactness of conversion indication."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

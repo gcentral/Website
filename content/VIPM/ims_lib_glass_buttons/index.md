@@ -2,7 +2,7 @@
 title: "Glass Buttons"
 externalUrl: https://www.vipm.io/package/ims_lib_glass_buttons
 date: 2016-05-19
-summary: "Glass Buttons is a GUI enhancement that brings the look of backlit colored glass buttons and indicators to your front panels."
+summary: "Multi-colored glass style boolean controls/indicators"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,12 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
- - "NI LabVIEW Tools Network"
- - "UI"
  - "GUI"
+ - "NI"
+ - "NI LabVIEW Tools Network"
 ---
 
 Redirecting to https://www.vipm.io/package/ims_lib_glass_buttons

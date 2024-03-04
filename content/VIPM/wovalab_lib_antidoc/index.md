@@ -2,7 +2,7 @@
 title: "AntiDoc"
 externalUrl: https://www.vipm.io/package/wovalab_lib_antidoc
 date: 2023-07-11
-summary: "This tool generates different kind of documentation based on the add-on installed."
+summary: "https://wovalab.gitlab.io/open-source/docs/antidoc/latest/index.html"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "DQMH"
+ - "GUI"
  - "VIPM Community"
 ---
 

@@ -2,7 +2,7 @@
 title: "NB IoT Standalone BER/BLER (System)"
 externalUrl: https://www.vipm.io/package/gefletestteknik_lib_gttnbiobleraddon_system
 date: 2018-02-02
-summary: "The NB IoT Standalone BER/BLER is an add-on to GTT NB IoT Toolkit for decoding and BER/BLER analysis."
+summary: "DL BER/BLER add-on to NB IoT tester by Gefle Testteknik"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

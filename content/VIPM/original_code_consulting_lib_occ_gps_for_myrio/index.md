@@ -2,7 +2,7 @@
 title: "OCC GPS for myRIO"
 externalUrl: https://www.vipm.io/package/original_code_consulting_lib_occ_gps_for_myrio
 date: 2018-05-29
-summary: "The OCC GPS for myRIO LabVIEW project is a simple example showing how to acquire GPS data on a myRIO using the 'OCC GPS for myRIO' hardware module available from Original Code Consulting."
+summary: "This program is a simple example of how to acquire GPS data on a myRIO using the 'OCC GPS for myRIO' hardware module."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

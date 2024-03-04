@@ -2,7 +2,7 @@
 title: "CRTK Sig Gen and Analysis"
 externalUrl: https://www.vipm.io/package/crtk_sig_gen_and_analysis
 date: 2019-12-09
-summary: "**Constelli Radar Toolkit for NI LabVIEW**"
+summary: "Constelli RTK extends the built- in capabilities of NI LabVIEW and NI LabVIEW FPGA with VIs and tools for Radar Signal Generation, Target and Emitter Simulation, and Measurements and Analysis."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

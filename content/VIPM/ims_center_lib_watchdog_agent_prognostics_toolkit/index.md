@@ -2,7 +2,7 @@
 title: "Watchdog Agent(r) Prognostics Toolkit for LabVIEW"
 externalUrl: https://www.vipm.io/package/ims_center_lib_watchdog_agent_prognostics_toolkit
 date: 2016-05-19
-summary: "The IMS Center Watchdog Agent Prognostics Toolkit for LabVIEW uses a patented analysis technique and industry-standard analysis to add ready-to-use prognostics and health management (PHM) algorithms and graphic displays to your NI LabVIEW applications."
+summary: "Watchdog Agent Prognostics Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

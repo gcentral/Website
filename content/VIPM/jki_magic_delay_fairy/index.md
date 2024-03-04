@@ -2,7 +2,7 @@
 title: "JKI Magic Delay Fairy (QD Plug-in)"
 externalUrl: https://www.vipm.io/package/jki_magic_delay_fairy
 date: 2015-03-31
-summary: "**About this tool:**"
+summary: "Adds a Ctrl+F QuickDrop shortcut that invokes the Magic Delay Fairy"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "Quick Drop"
  - "VIPM Community"
 ---
 

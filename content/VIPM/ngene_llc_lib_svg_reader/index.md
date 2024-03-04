@@ -2,7 +2,7 @@
 title: "SVG Reader"
 externalUrl: https://www.vipm.io/package/ngene_llc_lib_svg_reader
 date: 2019-03-11
-summary: "This toolkit provides means for reading vector graphic data in LabVIEW."
+summary: "LabVIEW SVG file reader toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

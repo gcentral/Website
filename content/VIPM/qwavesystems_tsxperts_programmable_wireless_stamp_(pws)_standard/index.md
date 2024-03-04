@@ -2,7 +2,7 @@
 title: "Programmable Wireless Stamp (PWS) Standard"
 externalUrl: https://www.vipm.io/package/qwavesystems_tsxperts_programmable_wireless_stamp_(pws)_standard
 date: 2016-07-29
-summary: "The Programmable Wireless Stamp (PWS) is a low cost micro-controller based wireless board tailored to general test and measurement, wireless data acquisition and IoT applications."
+summary: "Programmable Wireless Stamp (PWS) Standard"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "JSON"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/qwavesystems_tsxperts_programmable_wireless_stamp_(pws)_standard

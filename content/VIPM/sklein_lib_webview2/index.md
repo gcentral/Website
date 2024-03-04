@@ -2,7 +2,7 @@
 title: "WebView2"
 externalUrl: https://www.vipm.io/package/sklein_lib_webview2
 date: 2023-11-01
-summary: "This XControl provides a wrapper around the new WebView2 ."
+summary: "Provides a XControl wrapping Edge"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

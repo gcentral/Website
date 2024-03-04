@@ -2,7 +2,7 @@
 title: "10dof"
 externalUrl: https://www.vipm.io/package/nairi_tech_lib_10dof
 date: 2016-10-06
-summary: "10DOF Sensors toolkit wiil help you to configure the sensors and acquire measurments in no time."
+summary: "a toolkit for ADXL345,L3G4200D, HMC5883L, BMP085 sensors"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

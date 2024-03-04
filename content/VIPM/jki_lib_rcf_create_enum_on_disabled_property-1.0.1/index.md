@@ -1,8 +1,8 @@
 ---
-title: "jki_lib_rcf_create_enum_on_disabled_property-1.0.1"
+title: "Jki lib rcf create enum on disabled property-1.0.1"
 externalUrl: https://www.vipm.io/package/jki_lib_rcf_create_enum_on_disabled_property-1.0.1
 date: 2009-07-08
-summary: "Creates an enum for a Control's 'Disabled' property with the values 'enabled', 'disabled', and 'grayed out'."
+summary: "Create Enum wired to Disabled Property"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

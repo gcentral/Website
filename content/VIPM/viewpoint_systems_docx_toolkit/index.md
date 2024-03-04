@@ -2,7 +2,7 @@
 title: "Viewpoint Docx Toolkit"
 externalUrl: https://www.vipm.io/package/viewpoint_systems_docx_toolkit
 date: 2018-12-19
-summary: "<size=24>**Viewpoint Docx Toolkit**</size>"
+summary: "Create and modify Microsoft Word documents without having Microsoft Word installed on your system."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

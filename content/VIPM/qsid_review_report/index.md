@@ -2,7 +2,7 @@
 title: "QSid"
 externalUrl: https://www.vipm.io/package/qsid_review_report
 date: 2021-02-18
-summary: "**Creating Review Docs for Free: QSid is used to generate reports (word document or custom format) based on LabVIEW Bookmarks on the Block Diagram:**"
+summary: "Simple generating review protocols based on LabVIEW Bookmarks on the Blockdiagram"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "Quick Drop"
+ - "protocol"
 ---
 
 Redirecting to https://www.vipm.io/package/qsid_review_report

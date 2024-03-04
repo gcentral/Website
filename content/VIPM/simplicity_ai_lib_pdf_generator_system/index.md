@@ -2,7 +2,7 @@
 title: "Custom PDF Generator (System)"
 externalUrl: https://www.vipm.io/package/simplicity_ai_lib_pdf_generator_system
 date: 2016-05-19
-summary: "Overview:"
+summary: "Feature Packed Custom PDF Generator for LabVIEW"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Oauth 2.0"
 externalUrl: https://www.vipm.io/package/labview_open_source_lib_oauth2
 date: 2022-05-01
-summary: "Oauth 2."
+summary: "Open Authorization 2.0"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JSON"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/labview_open_source_lib_oauth2

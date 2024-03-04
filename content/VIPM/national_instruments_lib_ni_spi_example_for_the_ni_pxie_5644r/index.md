@@ -2,7 +2,7 @@
 title: "NI SPI Example for the NI PXIe-5644R"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_spi_example_for_the_ni_pxie_5644r
 date: 2016-05-19
-summary: "Serial Peripheral Interface (SPI) buses are commonly used to communicate between a controller (master) device and a target (slave) device."
+summary: "This example implements serial peripheral interface (SPI) communication through the DIO port on the NI PXIe-5644R, including support for both master and slave functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_spi_example_for_the_ni_pxie_5644r

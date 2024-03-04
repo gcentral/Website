@@ -2,7 +2,7 @@
 title: "NI BRAM Packetizer IP"
 externalUrl: https://www.vipm.io/package/ni_lib_brampacketizerip
 date: 2016-05-19
-summary: "The DRAM interface on NI FPGA products is typically much wider than the data being processed."
+summary: "The NI BRAM Packetizer IP package provides a component for aggregating 32 bit samples and providing these samples to the 512 bit DRAM interface on NI FlexRIO devices."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

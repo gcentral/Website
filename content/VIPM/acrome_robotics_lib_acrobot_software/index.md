@@ -2,7 +2,7 @@
 title: "Acrobot Software"
 externalUrl: https://www.vipm.io/package/acrome_robotics_lib_acrobot_software
 date: 2018-09-24
-summary: "**Vendor:** ACROME Robotics"
+summary: "ACROBOT provides a bridge between robotics and developers with the aim to improve the robotics infrastructure for the next generation of industry and academy."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,16 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "motion"
+ - "robot"
+ - "robotics"
 ---
 
 Redirecting to https://www.vipm.io/package/acrome_robotics_lib_acrobot_software

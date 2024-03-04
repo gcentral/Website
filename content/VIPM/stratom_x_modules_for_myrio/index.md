@@ -2,7 +2,7 @@
 title: "X-Modules for myRIO"
 externalUrl: https://www.vipm.io/package/stratom_x_modules_for_myrio
 date: 2016-05-19
-summary: "Shared library for Stratom, Inc."
+summary: "Software library for X-Module myRIO add-on hardware"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

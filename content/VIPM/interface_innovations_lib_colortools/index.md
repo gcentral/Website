@@ -2,7 +2,7 @@
 title: "ColorTools"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_colortools
 date: 2017-01-04
-summary: "This package contains a toolkit for calculation of photometric quantities from Spectral Power Distributions (SPDs) for inline instrument output or standalone applications."
+summary: "Tools for visible light spectrum composition, photometric analysis, and export."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

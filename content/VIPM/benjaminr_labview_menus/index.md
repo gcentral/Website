@@ -2,7 +2,7 @@
 title: "BenjaminR LabVIEW Menus"
 externalUrl: https://www.vipm.io/package/benjaminr_labview_menus
 date: 2022-09-06
-summary: "This package adds items into the LabVIEW File, New, Tools and Help menus."
+summary: "Adds BenjaminR VIs into the File, New,Tools and Help menus."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,7 +16,7 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
  - "VIPM Community"

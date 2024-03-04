@@ -2,7 +2,7 @@
 title: "SDI Plug-in - Copley Controls (System)"
 externalUrl: https://www.vipm.io/package/sdi_plug_in_copley_controls_system
 date: 2018-04-04
-summary: "SoftMotion Drive Interface (SDI) Plug-in for Copley Controls EtherCAT motor drives."
+summary: "SoftMotion Drive Interface (SDI) Plugin for Copley Controls EtherCAT Motor Drives"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/sdi_plug_in_copley_controls_system

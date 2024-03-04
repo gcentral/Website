@@ -2,7 +2,7 @@
 title: "CI 9120"
 externalUrl: https://www.vipm.io/package/cogito_instruments_lib_ci_9120
 date: 2017-10-17
-summary: "This package will deploy drivers for the Cogito Instruments CI 9120 module, as well as an example."
+summary: "cRIO module with an artificial neural network of 1024 neurons"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,12 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

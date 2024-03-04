@@ -2,7 +2,7 @@
 title: "Logbook Toolkit"
 externalUrl: https://www.vipm.io/package/step_at_lib_logbook_toolkit
 date: 2016-06-22
-summary: "This toolkit provides you a set of VIs that allow you to easily fill a human readable text file with custom LabVIEW events."
+summary: "This toolkit provides you a set of VIs that allow you to easilly fill a a text fill with custom labview events."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "OpenG Toolkit"
 externalUrl: https://www.vipm.io/package/openg.org_lib_openg_toolkit
 date: 2011-08-11
-summary: "The OpenG Toolkit package installs the OpenG Libraries 4."
+summary: "OpenG Toolkit"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "OpenG"
  - "VIPM Community"
 ---
 

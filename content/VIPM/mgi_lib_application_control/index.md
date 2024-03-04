@@ -2,7 +2,7 @@
 title: "MGI Application Control"
 externalUrl: https://www.vipm.io/package/mgi_lib_application_control
 date: 2016-09-08
-summary: "The MGI Application Control package contains VIs useful for controlling an application's behavior."
+summary: "This package contains VIs that aid in application control such as common VI Server operations."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "MGI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

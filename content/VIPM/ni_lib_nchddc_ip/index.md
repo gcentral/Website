@@ -2,7 +2,7 @@
 title: "NI N Channel DDC IP"
 externalUrl: https://www.vipm.io/package/ni_lib_nchddc_ip
 date: 2016-05-19
-summary: "This package installs IP for performing digital down conversion on up to 128 interleaved channels."
+summary: "This package installs IP for performing digital down conversion on up to 128 interleaved channels.  Block for multi-channel frequency shift and halfband decimation are provided."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Messenger Library"
 externalUrl: https://www.vipm.io/package/drjdpowell_lib_messenging
 date: 2023-11-29
-summary: "<u>Advanced messaging made simple</u>"
+summary: "A library for easy messaging between processes (including easy TCP)."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "OOP"
+ - "OpenG"
+ - "communication"
 ---
 
 Redirecting to https://www.vipm.io/package/drjdpowell_lib_messenging
@@ -29,7 +34,7 @@ Vendor: JDP Science
 Author(s): James David Powell, drjdpowell
  
 Full Description:
-<u>Advanced messaging made simple</u>
+Advanced messaging made simple
 
 A library for passing messages between parallel processes.  Uses 'Addresses' to generalize the communication method, allowing the message sender to use any method as provided by the receiver.  Supported communication methods include wrappings of simple queues, user events, and notifiers, as well a more complex channels such as a TCP server and client.  
 

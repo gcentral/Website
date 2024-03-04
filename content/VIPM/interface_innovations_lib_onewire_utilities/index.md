@@ -2,7 +2,7 @@
 title: "OneWire Utilities"
 externalUrl: https://www.vipm.io/package/interface_innovations_lib_onewire_utilities
 date: 2017-01-04
-summary: "This package offers a set of utilities, controls, and toolkit VIs for identification, configuration, and read of 1Wire DS18B20 and DS1923 family sensor devices attached to a USB adapter DS9490R."
+summary: "A LabVIEW toolkit and applications for monitoring, acquisition and export of 1Wire data"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

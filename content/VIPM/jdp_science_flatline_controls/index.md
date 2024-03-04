@@ -2,7 +2,7 @@
 title: "Flatline Controls"
 externalUrl: https://www.vipm.io/package/jdp_science_flatline_controls
 date: 2022-11-01
-summary: "Modified controls meant as a more modern 'nearly-flat' style."
+summary: "Set of custom 'near-flat' controls."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "GUI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

@@ -2,7 +2,7 @@
 title: "Caraya CLI Extension"
 externalUrl: https://www.vipm.io/package/lvos_lib_caraya_cli_extension
 date: 2023-10-14
-summary: "Command Line Interface extension for JKI's Caraya using G-CLI from Wiresmith."
+summary: "Extension package to use Caraya with G-CLI"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
  - "VIPM Community"
 ---
 

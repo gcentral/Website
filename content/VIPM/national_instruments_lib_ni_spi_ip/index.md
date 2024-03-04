@@ -2,7 +2,7 @@
 title: "NI SPI IP"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_spi_ip
 date: 2016-05-19
-summary: "**This VI must be placed in a single-cycle timed loop for guaranteed behavior."
+summary: "This IP implements serial peripheral interface (SPI) communication, including support for both master and slave functionality."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "FPGA"
+ - "I/O"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_spi_ip

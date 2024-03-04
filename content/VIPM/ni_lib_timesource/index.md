@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "DCAF"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

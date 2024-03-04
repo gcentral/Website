@@ -2,7 +2,7 @@
 title: "JKI Simple Localization"
 externalUrl: https://www.vipm.io/package/jki_simple_localization
 date: 2020-12-10
-summary: "This toolkit makes use of the 'Language for non-Unicode programs' setting in Windows (located in the 'Region and Language' settings)."
+summary: "A very simple LabVIEW toolkit for localizing VI front panels, based on a dictionary translation file."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,13 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "JSON"
  - "VIPM Community"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/jki_simple_localization

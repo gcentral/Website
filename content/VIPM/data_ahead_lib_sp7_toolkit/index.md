@@ -2,7 +2,7 @@
 title: "SP7"
 externalUrl: https://www.vipm.io/package/data_ahead_lib_sp7_toolkit
 date: 2021-02-01
-summary: "**JKI Package Manager 2017 or higher is required to install SP7**"
+summary: "SP7 is a tool to directly communicate with Siemens SIMATIC S7 PLCs over Ethernet. It does not require any additional third party Software."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,14 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "real-time"
 ---
 
 Redirecting to https://www.vipm.io/package/data_ahead_lib_sp7_toolkit

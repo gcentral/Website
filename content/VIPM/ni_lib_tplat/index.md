@@ -2,7 +2,7 @@
 title: "Third Party Licensing & Activation Toolkit"
 externalUrl: https://www.vipm.io/package/ni_lib_tplat
 date: 2023-03-14
-summary: "**Note:** This installer requires LabVIEW to be run with Administrator privileges."
+summary: "Add Licensing Technology to LabVIEW Applications and VI APIs"
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,10 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 

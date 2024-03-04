@@ -2,7 +2,7 @@
 title: "NI Network Endpoint Actors"
 externalUrl: https://www.vipm.io/package/national_instruments_lib_ni_network_endpoint_actors
 date: 2023-02-17
-summary: "Network Endpoints allow you to link two actors running in separate application instances."
+summary: "Endpoint actors that pass data from peer to peer across an application boundary."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,10 +16,15 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "Actor Framework"
+ - "NI"
  - "NI LabVIEW Tools Network"
+ - "communication"
+ - "protocol"
+ - "serial"
 ---
 
 Redirecting to https://www.vipm.io/package/national_instruments_lib_ni_network_endpoint_actors

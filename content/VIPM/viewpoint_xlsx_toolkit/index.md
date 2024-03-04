@@ -2,7 +2,7 @@
 title: "Viewpoint Xlsx Toolkit"
 externalUrl: https://www.vipm.io/package/viewpoint_xlsx_toolkit
 date: 2020-10-20
-summary: "<size=24>**Viewpoint Xlsx Toolkit**</size>"
+summary: "Build Excel workbooks without installing Excel."
 showSummary: true
 showAuthor: false
 showEdit: false
@@ -16,9 +16,11 @@ sharingLinks: false
 showZenMode: false
 showPagination: false
 showRelatedContent: false
-draft: true
+draft: false
 tags:
  - "VIPM"
+ - "JKI"
+ - "NI"
  - "NI LabVIEW Tools Network"
 ---
 
