@@ -31,8 +31,12 @@ The Board of Directors leads GCentral's initiatives as representatives of the G 
 <p></p>
 {{< /personcard >}}
 {{< personcard image="ChrisCilino.jpg" side="right" name="Chris Cilino" linkedinname="chriscilino" position="President, Treasurer" >}}
-<p>Chris is a member of DMC's Test & Measurement team and is based in Austin, Texas. He's a LabVIEW Champion (April 2018) and a Certified LabVIEW Architect (2014). In addition to developing and releasing community-oriented tools and libraries (LabVIEW Container, Software Module Builder, LabVIEW AutoDocumentation Utility, and more), Chris founded GCentral.org, a non-profit organization designed to ease the LabVIEW community's burdens when finding, sharing, and co-developing code. He believes that we, as scientists and engineers, can make the world a better place; and we can do it better and faster by working together.</p>
-<p>Chris is highly active in the LabVIEW community via GCentral, the LabVIEW Champions Program, and Certified LabVIEW Architect Community.</p>
+<p>I have a passion for technology, teamwork, and mentorship. In my 20+ year career, I've employed all three in the context of using LabVIEW in creating applications and engaging with the LabVIEW community.
+I started my career at National Instruments in Applications Engineering, then Software Development in DAQ R&D (where I got my CLA in 2014), and then finally in LabVIEW marketing where I owned programs such as the LabVIEW Champions.
+I spent the next three years at Cirrus Logic as the LabVIEW Framework architect. I was responsible for reducing the time and cost of validation by creating software that kept pace with Cirrus' rapidly evolving products. During my time at Cirrus, I attained the status of LabVIEW Champion in 2017, and then passed the Center of Excellence audit in 2018. I've given numerous presentations at the CLA Summits and distributed my toolkits for use.
+Most recently I've joined DMC as a project engineering and LabVIEW Consultant.
+In parallel, I've started GCentral, a non-profit organization with the mission of improving the LabVIEW Community's engineering capability by removing barriers to collaboration.
+I believe LabVIEW is critical to focussing an engineer's talents on solving problems while minimizing time in learning the tools. LabVIEW lets us do engineering better than any tool I found.</p>
 {{< /personcard >}}
 {{< personcard image="NancyHenson.jpg" side="left" name="Nancy Henson" linkedinname="njhollenback" >}}
 <p></p>
