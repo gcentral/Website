@@ -17,7 +17,7 @@
   weight = 10
   
 [[main]]
-  name = "Community Training Image"
+  name = "Community Training Initiative"
   parent = "Initiatives"
   pageRef = "cti"
   weight = 10

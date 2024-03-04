@@ -1,7 +1,7 @@
 ---
-title: Community Training Image
+title: Community Training Initiative
 date: "2023-01-02"
-description: "The Community Training Image is a low cost way to begin to learn G (LabVIEW) through an open-source image that install the LabVIEW Community Edition."
+description: "The Community Training Initiative is a low cost way to begin to learn G (LabVIEW) through an open-source image that install the LabVIEW Community Edition."
 layout: "single"
 herostyle: basic
 showAuthor: false
