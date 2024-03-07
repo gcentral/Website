@@ -12,12 +12,15 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="All Data.vi" Type="VI" URL="../All Data.vi"/>
+		<Item Name="CategoriesEnum.ctl" Type="VI" URL="../CategoriesEnum.ctl"/>
 		<Item Name="Clean Entry.vi" Type="VI" URL="../Clean Entry.vi"/>
 		<Item Name="ConvertMaskToAlpha_LV.vi" Type="VI" URL="../PNGWriteWithAlpha.llb/ConvertMaskToAlpha_LV.vi"/>
+		<Item Name="Create Community Link Page.vi" Type="VI" URL="../Create Community Link Page.vi"/>
 		<Item Name="Create GCentral External URL Pages.vi" Type="VI" URL="../Create GCentral External URL Pages.vi"/>
 		<Item Name="Edit Community Link Flags.vi" Type="VI" URL="../Edit Community Link Flags.vi"/>
 		<Item Name="Fetch VIPM Repos.vi" Type="VI" URL="../Fetch VIPM Repos.vi"/>
-		<Item Name="Find Tags.vi" Type="VI" URL="../Find Tags.vi"/>
+		<Item Name="Find Tags CORE.vi" Type="VI" URL="../Find Tags CORE.vi"/>
+		<Item Name="Find Tags in Package.vi" Type="VI" URL="../Find Tags in Package.vi"/>
 		<Item Name="GCentral_Indexer" Type="Web Service">
 			<Property Name="Bld_buildSpecName" Type="Str"></Property>
 			<Property Name="Bld_version.build" Type="Int">43</Property>
@@ -190,6 +193,9 @@
 				<Item Name="Set Data Name__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Set Data Name__ogtk.vi"/>
 				<Item Name="Set Enum String Value__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Set Enum String Value__ogtk.vi"/>
 				<Item Name="Split Cluster TD__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Split Cluster TD__ogtk.vi"/>
+				<Item Name="To Proper Case (String Array)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/To Proper Case (String Array)__ogtk.vi"/>
+				<Item Name="To Proper Case (String)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/To Proper Case (String)__ogtk.vi"/>
+				<Item Name="To Proper Case__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/string/string.llb/To Proper Case__ogtk.vi"/>
 				<Item Name="Type Descriptor Enumeration__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Enumeration__ogtk.ctl"/>
 				<Item Name="Type Descriptor Header__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor Header__ogtk.ctl"/>
 				<Item Name="Type Descriptor__ogtk.ctl" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/lvdata/lvdata.llb/Type Descriptor__ogtk.ctl"/>
@@ -259,6 +265,7 @@
 				<Item Name="List Directory and LLBs.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/List Directory and LLBs.vi"/>
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
+				<Item Name="LVMapReplaceAction.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVMapReplaceAction.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
 				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="NI_Database_API.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/database/NI_Database_API.lvlib"/>

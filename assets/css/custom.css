@@ -55,3 +55,9 @@ html {
   right: 0;
   background: linear-gradient(to left, #f3f4f6 0%, transparent 100%);
 }
+.min-h-\[100px\] {
+  min-height:100px
+}
+.min-h-\[200px\] {
+  min-height:200px
+}
