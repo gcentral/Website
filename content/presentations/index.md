@@ -39,8 +39,8 @@ GCentral is a community-run initiative that aggregates different package types (
 {{< youtube QHIVSDQ7Y3g >}}
 
 {{< /timelineItem >}}
-{{< timelineItem icon="youtube" header="2021 - GCentral Helping to Write the Web Interface" badge="GLASummit" subheader="By: Chris Cilino and Quentin 'Q' Alldredge ">}}
-The initial GCentral proposal at the American CLA Summit in 2019
+{{< timelineItem icon="youtube" header="2019 - GCentral - Removing Barriers" badge="ACLA Summit " subheader="By: Chris Cilino and Quentin 'Q' Alldredge ">}}
+The initial GCentral proposal at the American Certified LabVIEW Architects Summit
 {{< youtube H4nFQeP3AYU >}}
 {{< /timelineItem >}}
 
