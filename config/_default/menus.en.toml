@@ -126,6 +126,12 @@
   pageRef = "giecommittee"
   weight = 40 
 
+[[main]]
+  name = "Presentation"
+  parent = "About"
+  pageRef = "presentations"
+  weight = 50 
+
 #[[main]]
 #  name = "Test"
 #  pageRef = "pagTest"
