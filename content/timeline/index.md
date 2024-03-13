@@ -9,7 +9,7 @@ showPagination: false
 ---
 {{< timeline >}}
 
-{{< timelineItem icon="youtube" header="2023 - Summer of LabvIEW" badge="GDevCon NA" subheader="By: Erich Schlieper and Casey May">}}
+{{< timelineItem icon="youtube" header="2023 - Summer of LabVIEW" badge="GDevCon NA" subheader="By: Erich Schlieper and Casey May">}}
 {{< youtube 52mAfcON3nE >}}
 A presentation about the G Idea Exchange along with the results from the Summer of LabVIEW Competition 2023.
 {{< /timelineItem >}}
