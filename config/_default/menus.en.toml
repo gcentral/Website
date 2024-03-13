@@ -127,9 +127,9 @@
   weight = 40 
 
 [[main]]
-  name = "Presentation"
+  name = "GCentral History"
   parent = "About"
-  pageRef = "presentations"
+  pageRef = "timeline"
   weight = 50 
 
 #[[main]]

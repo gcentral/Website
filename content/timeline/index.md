@@ -1,8 +1,11 @@
 ---
-title: "GCentral Presentations"
-description: "A timeline of the presentations about GCentral and their initiatives"
+title: "GCentral: A History"
+description: "A timeline of the history and presentations about GCentral and their initiatives"
 date: 2024-03-12T22:30:50+01:00
 showTableOfContents: false
+showAuthor: false
+showReleatedContent: false
+showPagination: false
 ---
 {{< timeline >}}
 
@@ -39,9 +42,14 @@ GCentral is a community-run initiative that aggregates different package types (
 {{< youtube QHIVSDQ7Y3g >}}
 
 {{< /timelineItem >}}
-{{< timelineItem icon="youtube" header="2019 - GCentral - Removing Barriers" badge="ACLA Summit " subheader="By: Chris Cilino and Quentin 'Q' Alldredge ">}}
+{{< timelineItem icon="youtube" header="2019 September 25 - GCentral - Removing Barriers" badge="ACLA Summit " subheader="By: Chris Cilino and Quentin 'Q' Alldredge ">}}
 The initial GCentral proposal at the American Certified LabVIEW Architects Summit
 {{< youtube H4nFQeP3AYU >}}
+{{< /timelineItem >}}
+
+{{< timelineItem icon="lightbulb-filled" header="2019 May 23 - Inception" >}}
+The inital meeting occured on the last day of NIWeek 2019 in Chris Cilino's living room. In attendance from left to right was: Chris Cilino, Quentin Alldredge, Fabiola De La Cueva, Jeff Kodosky (a.k.a. the Father of LabVIEW), Brian Hoover, and Michael Aivaliotis. Here Chris presented his pitch for the idea and mission that would become GCentral.
+<img src="2019Inception.JPG" width=300px>
 {{< /timelineItem >}}
 
 {{< /timeline >}}
