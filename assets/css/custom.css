@@ -61,3 +61,36 @@ html {
 .min-h-\[200px\] {
   min-height:200px
 }
+
+#cookie-notice {
+	font-size: larger;
+	font-weight: 200;
+	padding: 0.5rem 1rem; 
+	display: none;
+	text-align: center; 
+	position: fixed; 
+	bottom: 10px; 
+	left: 20px; 
+	right:20px; 
+	padding-top: 40px;
+	padding-bottom: 40px;   
+	width: auto;
+	max-width: 100%;
+	margin-left: auto; 
+	margin-right: auto; 
+	background: rgb(70, 70, 70);
+	color: rgba(255,255,255,0.8);
+	border-radius: 10px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+#cookie-notice a {font-weight: 600; display: inline-flex; cursor: pointer; margin-left: 0.5rem;}
+#cookie-notice a:hover { text-decoration: underline;}
+#cookie-notice-accept {color:rgb(86, 228, 58)}
+#cookie-notice-deny {color:rgb(243, 34, 34)}
+#cookie-more-info:hover {color:rgb(95, 162, 245)}
+@media (max-width: 767px) {
+	#cookie-notice span {display: block; padding-top: 3px; margin-bottom: 1rem;}
+    #cookie-notice a {position: relative; bottom: 4px;}
+    #cookie-notice {left: 10px;right:10px;bottom: 10px;padding: 0.75rem 0.75rem;}
+}

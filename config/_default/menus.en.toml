@@ -105,7 +105,7 @@
   
 [[main]]
   name = "About"
-  pageRef = "visionandmission"
+  pageRef = "about"
   weight = 100
   
 [[main]]
