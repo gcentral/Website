@@ -89,9 +89,9 @@ smartTOCHideUnfocusedChildren = false
   showViews = true
   showLikes = true
   showTableOfContents = true
-  showCards = true
+  showCards = false
   groupByYear = false
-  cardView = true
+  cardView = false
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
@@ -118,7 +118,7 @@ smartTOCHideUnfocusedChildren = false
   groupByYear = false
   cardView = true
   cardViewScreenWidth = false
-  alphaorder = false
+  alphaorder = true
   
 [firebase]
   apiKey = "AIzaSyBJsQsLe6t8UzlYuefRNNNQ7yQXCWZz284"

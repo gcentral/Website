@@ -1,7 +1,6 @@
 ---
 title: Engage with Peers
 ---
-<br>
-{{< button href="../../forgotsomething" >}}
-Are We Missing Something? Please, let us know.
-{{< /button >}}
+{{< alert icon="blank">}}<div class="text-xl text-center">
+Attend conferences or user groups online or in person to learn and network.
+</div>{{< /alert >}}

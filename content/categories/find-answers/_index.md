@@ -1,7 +1,6 @@
 ---
 title: Find Answers
 ---
-<br>
-{{< button href="../../forgotsomething" >}}
-Are We Missing Something? Please, let us know.
-{{< /button >}}
+{{< alert icon="blank">}}<div class="text-xl text-center">
+When you are stumped and stuck on a problem on your project, ask questions and find answers.
+</div>{{< /alert >}}

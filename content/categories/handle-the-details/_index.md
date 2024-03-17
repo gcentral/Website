@@ -1,7 +1,6 @@
 ---
 title: Handle the Details
 ---
-<br>
-{{< button href="../../forgotsomething" >}}
-Are We Missing Something? Please, let us know.
-{{< /button >}}
+{{< alert icon="blank">}}<div class="text-xl text-center">
+Find partners and sales reps that can help you to accomplish your project.
+</div>{{< /alert >}}
