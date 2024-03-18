@@ -52,13 +52,7 @@
       <div role="button" id="ztoaButton" class="alphabutton mr-4" style="display:none;">{{ partial "icon.html" "arrow-down-z-a" }}</div>
       <div class="align-center self-center">These links are arranged in alphabetical order. <a class="text-primary-600 dark:text-primary-400 hover:underline hover:underline-offset-2" href="../../forgotsomething" >Are We Missing Something? Please, let us know.</a></div>
 	</div>
-    {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
-    {{ if $groupByYear }}
-    <h2 class="mt-12 text-2xl font-bold text-neutral-700 first:mt-8 dark:text-neutral-300">
-      {{ .Key }}
-    </h2>
-    {{ end }}
-	<div id="atoz" class="space-y-2" style="display:block">
+ 	<div id="atoz" class="space-y-2" style="display:block">
     {{ range (sort .Pages "Title") }}
     {{ partial "article-link/simple.html" . }}
     {{ end }}
@@ -68,7 +62,7 @@
     {{ partial "article-link/simple.html" . }}
     {{ end }}
 	</div>
-    {{ end }}
+
   </section>
  
   <script>
