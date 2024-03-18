@@ -42,7 +42,7 @@ If you don't have enough to be a sponsor but would still like to be part of GCen
 	<div class="box-border border-2 rounded-md shadow-lg m-1 mb-6 text-wrap bg-neutral-300 dark:bg-neutral-600">
 		<img src="FriendLevel.png" class="grid-w33 nozoom float-left">
 		<div class="pt-2 pl-2 pr-2 text-xl font-bold text-left">Friend</div>
-		<div class="pl-2 pr-2 italic text-left">>$49 per year</div>
+		<div class="pl-2 pr-2 italic text-left">$10-$49 per year</div>
 		<div class="p-2 text-sm">
 		<ul>
 		<li>Name Listed in our Friends section of our Meet Our Sponsors page.
