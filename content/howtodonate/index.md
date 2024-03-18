@@ -50,6 +50,8 @@ If you don't have enough to be a sponsor but would still like to be part of GCen
 		</div>
 	</div>
 </div>
+<div class="text-xs italic">* Amounts are in USD - United State Dollars</div>
+<p></p>
 <center>
 {{< button href="https://www.paypal.com/us/fundraiser/charity/3998895" target="_self" >}}
 Donate to GCentral
@@ -62,6 +64,3 @@ GCentral is a 501(c)3 non-profit organization; all donations are tax-deductible.
 By clicking ***Donate to GCentral*** above, you'll be directed to fill out a short form with your contact information. Then you'll be directed to the [GCentral PayPal Portal](https://www.paypal.com/us/fundraiser/charity/3998895) to complete your donation. Within 5 business days, a GCentral representative add your name to the appropriate section of the [Meet our Sponsors]({{< ref meetoursponsors >}}) page. 
 
 Donations of any size are welcome. If you prefer to give an amount not represented by the levels above, please visit the [GCentral PayPal Portal](https://www.paypal.com/us/fundraiser/charity/3998895) to complete your donation.
-
-## What is the Sponsor Advisory Board?
-We anticipate sponsors who give regularly and plan on integrating GCentral at their businesses. As our premier users, you'll be invited to an exclusive forum where we gather your feedback on our investments and road map.

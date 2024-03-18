@@ -25,7 +25,7 @@ Currently there are three levels of sponsorship available. To sponsor please con
 	<div class="box-border border-2 rounded-md shadow-lg m-1 mb-6 text-wrap bg-neutral-300 dark:bg-neutral-600">
 		<img src="GoldLevel.png" class="grid-w33 nozoom object-top-left float-left">
 		<div class="pt-2 pl-2 pr-2 text-xl font-bold text-left">Gold</div>
-		<div class="pl-2 pr-2 italic text-left">$10,000 per year</div>
+		<div class="pl-2 pr-2 italic text-left">$5,000 per year</div>
 		<div class="p-2 text-sm">
 		<ul>
 		<li>Logo on the GCentral footer
@@ -39,7 +39,7 @@ Currently there are three levels of sponsorship available. To sponsor please con
 	<div class="box-border border-2 rounded-md shadow-lg m-1 mb-6 text-wrap bg-neutral-300 dark:bg-neutral-600">
 		<img src="SilverLevel.png" class="grid-w33 nozoom float-left">
 		<div class="pt-2 pl-2 pr-2 text-xl font-bold text-left">Silver</div>
-		<div class="pl-2 pr-2 italic text-left">$5,000 per year</div>
+		<div class="pl-2 pr-2 italic text-left">$3,000 per year</div>
 		<div class="p-2 text-sm">
 		<ul>
 		<li>Medium Logo and write up on GCentral Sponsors Page
@@ -62,6 +62,8 @@ Currently there are three levels of sponsorship available. To sponsor please con
 		</div>
 	</div>
 </div>
+<div class="text-xs italic">* Amounts are in USD - United State Dollars</div>
+<p></p>
 <center>
 {{< button href="https://www.paypal.com/us/fundraiser/charity/3998895" target="_self" >}}
 Sponsor GCentral
