@@ -60,7 +60,7 @@
 
     <section class="space-y-2 w-full">
 	  <div class="flex md:flex w-full mx-auto justify-center align-center text-xl">
-	     <div class="align-center self-center">Blog posts are arranged in with the most resent first. <a class="text-primary-600 dark:text-primary-400 hover:underline hover:underline-offset-2" href="../../forgotsomething" >Are We Missing Something? Please, let us know.</a></div>
+	     <div class="align-center self-center">Blog posts are arranged with the most resent first. <a class="text-primary-600 dark:text-primary-400 hover:underline hover:underline-offset-2" href="../../forgotsomething" >Are We Missing Something? Please, let us know.</a></div>
 	  </div>
       {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
       {{ if $groupByYear }}
