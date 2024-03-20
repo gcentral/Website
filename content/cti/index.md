@@ -20,7 +20,7 @@ Download the Community Training Image (CTI)
 {{< /button >}}
 <br>
 <br>
-<div class="m-2"><img src="CTI.png" class="nozoom m-2">
+<div class="m-2"><img src="CTI.png" class="nozoom m-2" width=50%>
 </center>
 
 ## Getting Started with the CTI
