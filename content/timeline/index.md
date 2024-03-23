@@ -7,6 +7,7 @@ showAuthor: false
 showReleatedContent: false
 showPagination: false
 ---
+
 {{< timeline >}}
 
 {{< timelineItem icon="gavel" header="2024 May - Board Member Changes">}}
@@ -22,9 +23,8 @@ showPagination: false
 A presentation about the G Idea Exchange along with the results from the Summer of LabVIEW Competition 2023.
 {{< /timelineItem >}}
 
-
 {{< timelineItem icon="gavel" header="2023 May - Board Member Changes">}}
-<b>Christian Butcher</b> and <b>Enrique Noe Arias</b> joins the Board of Directors.
+<b>Christian Butcher</b> and <b>Enrique Noe Arias</b> join the Board of Directors.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="gavel" header="2023 March - Board Member Changes">}}
@@ -49,7 +49,7 @@ The collection of funding through CauseVox was cancelled in the end of 2023 and 
 {{< youtube uu54IJJpUak >}}
 {{< /timelineItem >}}
 
-{{< timelineItem icon="youtube" header="2021 Novemeber - GCentral’s G Idea Exchange" badge="GLASummit" subheader="By: Quentin 'Q' Alldredge" >}}
+{{< timelineItem icon="youtube" header="2021 November - GCentral’s G Idea Exchange" badge="GLASummit" subheader="By: Quentin 'Q' Alldredge" >}}
 Do you have a toolkit that would benefit the community but don't have the resources to finish it? Do you have an awesome idea for tools that would solve problems facing the community but don't know how to bring it about? Introducing GCentral's G Idea Exchange where you can kudo an idea by helping to sponsor it. Help get money to polish off that tool or get someone with the right background to create it and pool our resources to maximize everyone's return on investment.
 
 {{< youtube ugIfFtQrV0c >}}
@@ -87,6 +87,7 @@ The initial GCentral proposal at the American Certified LabVIEW Architects Summi
 
 {{< timelineItem icon="gavel" header="2019 September - GCentral Incorporates" >}}
 GCentral is officially formed as a Nonprofit Corporation in the State of Texas, USA. With the first members of the Board of Directors being:
+
 <ul><li><b>Quentin Alldredge</b></li>
 <li/><b>Fabiola De La Cueva</b></li>
 <li/><b>Danielle Jobe</b></li>
