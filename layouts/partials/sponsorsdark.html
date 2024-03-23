@@ -1,0 +1,112 @@
+<!-- Gallery -->
+{{ $dir := .Site.Params.footer.sponsorsdarkdir }}
+{{ $speed := .Site.Params.footer.sponsorsscrollspeed }} <!-- Use the speed in seconds -->
+{{ $currentheight :=36.0 }}
+{{ $marginspace := 20 }}
+{{ $totalwidth := 0 }}
+<div id="photocontainer" class="fade-edges">
+	<div class="photobanner">
+		{{ $ratio := 0 }}
+		{{ $newwidth := 0 }}
+		{{- with $dir -}}
+			{{- $files := readDir (print "static/" .) }} <!-- Get all files in dir-->
+			{{- range $index, $file := $files -}} 	<!-- Loop through files -->
+				{{- $absoluteUrl := print $dir "/" .Name | absURL }}	<!-- Get absolute path for <img> -->
+				{{- $relativeUrl := print "static/" $dir .Name | safeURL }}	<!-- Get relative path for $image -->
+				{{- $image := images.Config $relativeUrl }} <!-- Get image attributes (i.e. width and hieght) -->
+				{{ if eq $index 0 }}
+					<img class="first nozoom mr-5" src="{{ $absoluteUrl }}" height=100%/> <!-- Add "first" class to first item for css movement purposes -->
+				{{ else }}
+					<img class="nozoom mr-5" src="{{ $absoluteUrl }}" height=100%/> <!-- All other items -->
+				{{ end }}
+				{{ $ratio = math.Div $currentheight $image.Height }} <!-- Get the ratio of the Heights -->
+				{{ $newwidth = math.Mul $ratio $image.Width }} <!-- Calculate new widths -->
+				{{ $totalwidth = math.Add $totalwidth $newwidth $marginspace }} <!-- Calculate running sum of widths with margins -->
+			{{- end }}
+			{{- range $index, $file := $files -}} <!-- Add another set of the images for overlap -->
+				{{- $absoluteUrl := print $dir "/" .Name | absURL }}
+				<img class="nozoom mr-5" src="{{ $absoluteUrl }}" height=100%/>
+			{{- end }}	
+		{{- end }}
+	</div>
+</div>
+{{ $totalwidth = math.Mul $totalwidth -1 }} <!-- Make the total negative for using in the inlined style below -->
+
+<style>
+#photocontainer {
+    width: 75%;
+	height: {{ $currentheight }}px;
+    overflow: hidden;
+	margin: auto;
+    background: transparent;
+}
+
+/*photobanner*/
+ 
+.photobanner {
+    height: 100%;
+    width: 100%;
+	display: inline-flex;
+}
+
+/*keyframe animations*/
+.first {
+    -webkit-animation: bannermove {{ $speed }}s linear infinite;
+       -moz-animation: bannermove {{ $speed }}s linear infinite;
+        -ms-animation: bannermove {{ $speed }}s linear infinite;
+         -o-animation: bannermove {{ $speed }}s linear infinite;
+            animation: bannermove {{ $speed }}s linear infinite;
+}
+ 
+@keyframes "bannermove" {
+ 0% {
+    margin-left: 0px;
+ }
+ 100% {
+    margin-left: {{ $totalwidth | safeCSS }}px;
+ }
+ 
+}
+ 
+@-moz-keyframes bannermove {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: {{ $totalwidth | safeCSS }}px;
+ }
+ 
+}
+ 
+@-webkit-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: {{ $totalwidth | safeCSS }}px;
+ }
+ 
+}
+ 
+@-ms-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: {{ $totalwidth | safeCSS }}px;
+ }
+ 
+}
+ 
+@-o-keyframes "bannermove" {
+ 0% {
+   margin-left: 0px;
+ }
+ 100% {
+   margin-left: {{ $totalwidth | safeCSS }}px;
+ }
+ 
+}
+
+
+</style>

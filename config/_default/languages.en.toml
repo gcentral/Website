@@ -1,0 +1,29 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "GCentral"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/GCentralLogoColor.png"
+  # secondaryLogo = "PATH"
+  description = "Helping the G Comminuty make the Best Version of Itself"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[author]
+  name = "GCentral"
+  image = "img/GCentralLogoColor.png"
+  headline = "Helping the G Comminuty make the Best Version of Itself"
+  bio = "Helping the G Comminuty make the Best Version of Itself"
+  links = [
+    { linkedin = "https://linkedin.com/company/gcentral" },
+	{ facebook = "https://facebook.com/GCentralorg" },
+	{ instagram = "https://instagram.com/gcentralorg" },
+	{ x-twitter = "https://twitter.com/GCentralOrg/" },
+    { github = "https://github.com/gcentral" },
+  ]
+
+  

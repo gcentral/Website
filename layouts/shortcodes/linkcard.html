@@ -1,0 +1,10 @@
+<!-- layouts/shortcodes/imagebox.html -->
+<a href="{{ .Get "url" }}" class="flex box-border border-2 hover:no-underline hover:text-current shadow-lg m-1 mb-6 space-x-4 text-neutral-500 dark:text-neutral-300 border-neutral-900 dark:border-neutral-500 bg-neutral-300 dark:bg-neutral-600 rounded-md" style="min-height: 10px;">
+  <div class="flex-none" style="max-width: 25%;">
+	<img src="{{ .Get "image" }}" alt="" class="nozoom object-cover m-2 w-full h-auto rounded-md">
+  </div>
+  <div class="flex-grow">
+      <h2 class="font-semibold mt-2 mb-0">{{ .Get "title" }}</h2>
+      <p class="mt-2 text-neutral-500 dark:text-neutral-300">{{ .Get "description" }}</p>
+  </div>
+</a>

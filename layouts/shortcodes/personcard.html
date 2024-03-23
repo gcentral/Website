@@ -1,0 +1,18 @@
+{{ $image := .Get "image" }}
+{{ $side := .Get "side" | default "left" }}
+{{ $name := .Get "name" }}
+{{ $position := .Get "position" }}
+{{ $linkedinname := .Get "linkedinname" }}
+<div class="box-border border-2 rounded-md shadow-lg m-1 mb-6 text-wrap bg-neutral-300 dark:bg-neutral-600" style="min-height: 200px;">
+	<img src="{{ $image }}" class="grid-w33 rounded-2xl pl-2 pt-2 pr-2 float-{{ $side }}">
+	<div class="pt-2 pl-2 pr-2 text-2xl text-{{ $side }}">{{ $name }}</div>
+	{{ if $position }}
+		<div class="pl-2 pr-2 italic text-{{ $side }}">{{ $position }}</div>
+	{{ end }}
+	{{ if $linkedinname }}
+		<a href="https://www.linkedin.com/in/{{ $linkedinname }}/"><div class="text-2xl text-neutral-500 dark:text-neutral-300 float-{{ $side }}">{{ partial "icon.html" "linkedin" }}</div></a>
+	{{ end }}
+	<div class="p-2">
+	{{ .Inner }}
+	</div>
+</div>

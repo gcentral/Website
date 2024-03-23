@@ -1,0 +1,18 @@
+default:
+  image: "${CI_TEMPLATE_REGISTRY_HOST}/pages/hugo/hugo_extended:latest"
+
+test:
+  script:
+    - cd hugoBasicExample && hugo --themesDir ../../ --baseURL https://writeonlyhugo.gitlab.io/up-business-theme/ && mv public ../public
+  rules:
+    - if: $CI_COMMIT_BRANCH != $CI_DEFAULT_BRANCH
+
+pages:
+  script:
+    - cd hugoBasicExample && hugo --themesDir ../../ --baseURL https://writeonlyhugo.gitlab.io/up-business-theme/ && mv public ../public
+  artifacts:
+    paths:
+      - public
+  rules:
+    - if: $CI_COMMIT_BRANCH == $CI_DEFAULT_BRANCH
+  environment: production

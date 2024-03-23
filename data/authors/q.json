@@ -1,0 +1,8 @@
+{
+    "name": "Q",
+    "image" : "img/authors/QAuthorPic.jpg",
+    "bio": "CLA, LabVIEW Champion, Engineer, Ravenclaw",
+    "social": [
+        { "linkedin": "https://linkedin.com/in/quentin-q-alldredge" }
+    ]
+}
