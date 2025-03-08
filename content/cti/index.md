@@ -15,7 +15,7 @@ showRelatedContent: false
 ---
 <br>
 <center>
-{{< button href="https://downloads.gcentral.org/vm/20231021_OpenSUSE_CTIBase.ova" >}}
+{{< button href="https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova" >}}
 Download the Community Training Image (CTI)
 {{< /button >}}
 <br>
@@ -24,8 +24,8 @@ Download the Community Training Image (CTI)
 </center>
 
 ## Getting Started with the CTI
-1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova) (~ 3.3 GB download). 
-2. Download the setup and getting started instructions in either [PDF](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.pdf) or [ODT](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.odt) format. 
+1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova) (~ 4.7 GB download). 
+2. Read the setup and getting started instructions [here](https://labviewcommunitytraining.github.io/cti-documentation/en/latest/index.html) 
 
 ## Learning LabVIEW
 The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Resources Page to learn more about the resources at your disposal such as  
