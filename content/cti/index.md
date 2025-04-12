@@ -25,7 +25,7 @@ Download the Community Training Image (CTI)
 
 ## Getting Started with the CTI
 1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova) (~ 4.7 GB download). 
-2. Read the setup and getting started instructions [here](https://labviewcommunitytraining.github.io/cti-documentation/en/latest/index.html) 
+2. Read the setup and getting started instructions [here](https://labviewcommunitytraining.github.io/www/en/set-up.html) 
 
 ## Learning LabVIEW
 The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Resources Page to learn more about the resources at your disposal such as  
