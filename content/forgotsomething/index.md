@@ -1,5 +1,5 @@
 ---
-title: Did We Forgot Something?
+title: Did We Forget Something?
 summary: "Help us be the best resource we can be for the community."
 layout: "single"
 herostyle: basic

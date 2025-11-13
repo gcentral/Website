@@ -13,10 +13,9 @@ showZenMode: false
 showPagination: false
 showRelatedContent: false
 ---
-
 <br>
 <center>
-{{< button href="https://downloads.gcentral.org/vm/20240327_Lubuntu_CTIBase.ova" >}}
+{{< button href="https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova" >}}
 Download the Community Training Image (CTI)
 {{< /button >}}
 <br>
@@ -25,21 +24,18 @@ Download the Community Training Image (CTI)
 </center>
 
 ## Getting Started with the CTI
-
-1. [Download the CTI VM](https://downloads.gcentral.org/vm/20240327_Lubuntu_CTIBase.ova) (~ 4.8 GB download).
-2. Download the setup and getting started instructions in either [PDF](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.pdf) or [ODT](https://downloads.gcentral.org/Tutor%20Instructions%20Course%201%20-%20v0.1.0.odt) format.
+1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova) (~ 4.7 GB download). 
+2. Read the setup and getting started instructions [here](https://labviewcommunitytraining.github.io/www/en/set-up.html) 
 
 ## Learning LabVIEW
+The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Resources Page to learn more about the resources at your disposal such as  
 
-The LabVIEW community has a rich and vibrant ecosystem. Visit the Community Resources Page to learn more about the resources at your disposal such as
+ - The LabVIEW Wiki: the community's online wiki
+ - VIPM.IO: find and download community code
 
-- The LabVIEW Wiki: the community's online wiki
-- VIPM.IO: find and download community code
-
-Much more on the [Community Hub Page]({{< ref categories >}}) so be sure to visit it.
+Much more on the  [Community Hub Page]({{< ref categories >}}) so be sure to visit it.
 
 ## Help Keep the CTI Available
-
 {{< alert >}}Help ensure the CTI is always available by <a href="../howtosponsor">supporting GCentral</a> today!{{< /alert >}}
 
 GCentral's [mission]({{< ref visionandmission >}}) is to enable the LabVIEW community to make the best version of itself by removing barriers to collaboration. GCentral is honored to work with [Steve Watts](https://www.linkedin.com/in/swatzy/) and [Derrick Bommarito](https://www.linkedin.com/in/dabommarito/) to deliver the CTI to you. The CTI is a manifestation of their passion and dedication to bringing LabVIEW to the world!
@@ -47,7 +43,6 @@ GCentral's [mission]({{< ref visionandmission >}}) is to enable the LabVIEW comm
 GCentral is honored to host the files, but needs your help. If you have benefited from the CTI and/or want to make sure it remains available for others to download please [contribute to GCentral today]({{< ref howtodonate >}}).
 
 {{< personcard image="SteveWatts.png" side="left" name="Steve Watts" linkedinname="swatzy" >}}
-
 <p>Steve has been writing industrial software since 1984, LabVIEW since 1996. His company SSDC Ltd has been providing systems on a fixed price basis since 2000 and has hundreds of projects on it's books. Steve is now also providing mentorship with his colleagues at DSH Workshops (Fabiola, Jörg and Brian).</p>
 
 <p>Steve co-authored "A Software Engineering Approach to LabVIEW" with Jon Conway in 2003.</p>
