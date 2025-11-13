@@ -1,6 +1,6 @@
 ---
 title: "Dissecting I2C - Motor Control Module"
-date: 2024-03-17T10:10:35-06:00
+date: 2025-11-12T10:10:35-06:00
 summary: "Testing - More to Come"
 authors:
  - "Steve Watts"
