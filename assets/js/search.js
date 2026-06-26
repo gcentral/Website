@@ -144,6 +144,10 @@ function buildIndex() {
 }
 
 function executeQuery(term) {
+  if (!fuse) {
+    return;
+  }
+
   let results = fuse.search(term);
   let resultsHTML = "";
 
