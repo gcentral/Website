@@ -40,6 +40,12 @@ There is no way we could have accomplished what we have without the Board Member
    <tr>
 	<td class="text-center"><img src="FrancoisNormandin.png" class="nozoom m-0" width=128 height=128></td><td class="align-middle">François Normandin <a href="https://www.linkedin.com/in/francois-normandin/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2020 - 2022</td>
  </tr>
+ <tr>
+	<td class="text-center"><img src="EnriqueNoeArias.jfif" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Enrique Noe Arias <a href="https://www.linkedin.com/in/enrique-noe/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2023 - 2025</td>
+ </tr>
+ <tr>
+	<td class="text-center"><img src="JesperKjaerSoerensen.jpg" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Jesper Kjaer Soerensen <a href="https://www.linkedin.com/in/jesper-kjaer-soerensen/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2023 - 2025</td>
+ </tr>
  </tbody>
 </table>
 

@@ -28,10 +28,11 @@ The Board of Directors leads GCentral's initiatives as representatives of the G 
 <p>In August 2021, Q left working for the Air Force and joined Testeract, as their Chief LabVIEW Architect.</p>
 {{< /personcard >}}
 
-{{< personcard image="EnriqueNoeArias.jfif" side="right" name="Enrique Noe Arias" linkedinname="enrique-noe" >}}
+{{< personcard image="CraigBedward.png" side="right" name="Craig Bedward" linkedinname="craig-bedward" >}}
 
-<p>Enrique Noe Arias fell in love with LabVIEW during his time as a student 23 years ago. LabVIEW allowed him to visualize his thoughts, leading him to become known as 'The LabVIEW Teacher'. He spent 13 years utilizing LabVIEW for various purposes at a research institute, including scientific setups and industrial projects, thoroughly enjoying the experience. Eventually, he transitioned to working as a software contractor for Delacor.</p>
-<p>Currently, Enrique is the proprietor of PantherLAB, a software development and consultancy business based in México. Every day, he finds joy in solving problems with LabVIEW, continuing to pursue his passion for the platform.</p>
+<p>Craig has been working with LabVIEW since the early 1990s. He spent several years at a product design company developing both products and the production test equipment to go with them, a combination that gave him a strong foundation in the full development lifecycle.</p>
+<p>From that experience, Craig launched his own consulting practice in 2002, which he grew into S5 Solutions, a National Instruments Alliance Member firm specializing in designing and building ATE and DAQ systems. Based in the Seattle area, S5 serves clients primarily in the Aerospace, Medical, and Automotive industries. One notable project was a HIL system for the crew module of the Blue Origin New Shepard rocket in preparation for its first human flight.</p>
+<p>Based in Mukilteo, Washington, Craig brings a practical, entrepreneurial perspective to the GCentral board, grounded in decades of real-world LabVIEW deployment across some of engineering's most demanding domains.</p>
 {{< /personcard >}}
 
 {{< personcard image="ChristianButcher.jpg" side="left" name="Christian Butcher" linkedinname="christian-butcher" >}}
@@ -59,11 +60,6 @@ The Board of Directors leads GCentral's initiatives as representatives of the G 
 <p>Eric holds a BS in Computer Science from the University of Illinois and an MBA and MIS degree from Washington University. He enjoys playing games with his kids, planning his next Disney vacation, and learning to play the Ukulele from his wife.</p>
 {{< /personcard >}}
 
-{{< personcard image="JesperKjaerSoerensen.jpg" side="left" name="Jesper Kjaer Soerensen" linkedinname="jesper-kjaer-soerensen" position="GIE Committee Lead">}}
-
-<p>Jesper Kjær Sørensen is a Systems Engineer and Product Owner at GPower. He is a LabVIEW and Teststand Developer and is proficient in Python. He has been programming in LabVIEW since 2006, in Python since approximately 2012, and TestStand since 2018. His passion lies in creating SOLID code and applying SOLID programming principles, driving him to continuously enhance his skills.</p>
-<p>Residing in Denmark on a farm with his wife and daughter, Jesper enjoys spending his leisure time on cow photography and embarking on scouting trips with his daughter as a means to unwind from the digital world.</p>
-{{< /personcard >}}
 
 [Emeritus Board Members]({{< ref previousboardofdirectors >}})
 
