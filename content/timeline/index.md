@@ -10,6 +10,14 @@ showPagination: false
 
 {{< timeline >}}
 
+{{< timelineItem icon="gavel" header="2026 June - Board Member Changes">}}
+<b>Craig Bedward</b> joins the Board of Directors.
+{{< /timelineItem >}}
+
+{{< timelineItem icon="gavel" header="2025 - Board Member Changes">}}
+<b>Enrique Noe Arias</b> and <b>Jesper Kjaer Soerensen</b> conclude their service on the Board of Directors.
+{{< /timelineItem >}}
+
 {{< timelineItem icon="gavel" header="2024 May - Board Member Changes">}}
 <b>Nancy Henson</b> joins the Board of Directors.
 {{< /timelineItem >}}
