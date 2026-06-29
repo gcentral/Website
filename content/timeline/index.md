@@ -10,7 +10,7 @@ showPagination: false
 
 {{< timeline >}}
 
-{{< timelineItem icon="gavel" header="2026 June - Board Member Changes">}}
+{{< timelineItem icon="gavel" header="2026 March - Board Member Changes">}}
 <b>Craig Bedward</b> joins the Board of Directors.
 {{< /timelineItem >}}
 
