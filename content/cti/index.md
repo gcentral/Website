@@ -15,16 +15,16 @@ showRelatedContent: false
 ---
 <br>
 <center>
-{{< button href="https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova" >}}
+{{< button href="https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20261013-1.ova" >}}
 Download the Community Training Image (CTI)
 {{< /button >}}
 <br>
 <br>
-<div class="m-2"><img src="CTI.png" class="nozoom m-2" width=50%>
+<div class="m-2"><img src="/cti/CTI.png" class="nozoom m-2" width=50%></div>
 </center>
 
 ## Getting Started with the CTI
-1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20250225-1.ova) (~ 4.7 GB download). 
+1. [Download the CTI VM](https://downloads.gcentral.org/vm/LabVIEW-CTI-Student-Image-Lubuntu-20261013-1.ova) (~ 5.6 GB download). 
 2. Read the setup and getting started instructions [here](https://labviewcommunitytraining.github.io/www/en/set-up.html) 
 
 ## Learning LabVIEW
@@ -42,13 +42,13 @@ GCentral's [mission]({{< ref visionandmission >}}) is to enable the LabVIEW comm
 
 GCentral is honored to host the files, but needs your help. If you have benefited from the CTI and/or want to make sure it remains available for others to download please [contribute to GCentral today]({{< ref howtodonate >}}).
 
-{{< personcard image="SteveWatts.png" side="left" name="Steve Watts" linkedinname="swatzy" >}}
+{{< personcard image="/cti/SteveWatts.png" side="left" name="Steve Watts" linkedinname="swatzy" >}}
 <p>Steve has been writing industrial software since 1984, LabVIEW since 1996. His company SSDC Ltd has been providing systems on a fixed price basis since 2000 and has hundreds of projects on it's books. Steve is now also providing mentorship with his colleagues at DSH Workshops (Fabiola, Jörg and Brian).</p>
 
 <p>Steve co-authored "A Software Engineering Approach to LabVIEW" with Jon Conway in 2003.</p>
 
 <p>Steve created and is Chair of GDevCon Eur, the independent graphical programming conference in Europe.</p>
 {{< /personcard >}}
-{{< personcard image="DerrickBommarito.jpg" side="left" name="Derrick Bommarito" linkedinname="dabommarito" >}}
+{{< personcard image="/cti/DerrickBommarito.jpg" side="left" name="Derrick Bommarito" linkedinname="dabommarito" >}}
 <p>Derrick Bommarito enjoys experimenting with all the LabVIEW features that DNatt advises against, which he hopes characterizes him as chaotic good. He particularly enjoys creating tooling for developers, exploring the more obscure aspects of LabVIEW such as Channels, XNodes, and VIMs, and generating bug reports as a result of his investigations. Derrick also finds pleasure in experimenting with architecture and API design within the LabVIEW environment. His many hobbies include breaking LabVIEW and tinkering with too many side projects; from the web, to robotics, to gardening, to baking.</p>
 {{< /personcard >}}
