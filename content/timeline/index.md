@@ -10,6 +10,10 @@ showPagination: false
 
 {{< timeline >}}
 
+{{< timelineItem icon="gavel" header="2026 September - Board and Officer Changes">}}
+<b>Chris Cilino</b> concludes his service on the Board of Directors on September 30 and becomes an Emeritus Board Member. <b>Nancy Henson</b> becomes President, <b>Quentin "Q" Alldredge</b> becomes Treasurer, and <b>Christian Butcher</b> becomes Secretary.
+{{< /timelineItem >}}
+
 {{< timelineItem icon="gavel" header="2026 March - Board Member Changes">}}
 <b>Craig Bedward</b> joins the Board of Directors.
 {{< /timelineItem >}}
