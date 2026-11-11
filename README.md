@@ -2,6 +2,12 @@
 
 This repository contains the GCentral website the central hub for all things related to the G (LabVIEW) Community. It is maintained by members of the GCentral Board of Directors and other volunteer community members. It is built on the Hugo Static Website Generator. 
 
+## Build the website
+
+Use **Hugo Extended 0.119.0**, matching `.github/workflows/hugo-pages.yml`. The bundled Blowfish theme supports Hugo through 0.122.0; newer Hugo releases are incompatible with this theme and its configuration.
+
+With that version on your PATH, run `hugo --minify` to build or `hugo server` to preview. Pushing to `master` builds and publishes the site through GitHub Pages.
+
 ## Donate or Sponsor
 
 The infrastructure is not free. To maintain this resource, please consider [donating](https://www.gcentral.org/howtodonate) or becoming a [sponsor](https://www.gcentral.org/howtosponsor) of GCentral.

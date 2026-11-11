@@ -46,6 +46,9 @@ There is no way we could have accomplished what we have without the Board Member
  <tr>
 	<td class="text-center"><img src="JesperKjaerSoerensen.jpg" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Jesper Kjaer Soerensen <a href="https://www.linkedin.com/in/jesper-kjaer-soerensen/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2023 - 2025</td>
  </tr>
+ <tr>
+	<td class="text-center"><img src="ChrisCilino.jpg" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Chris Cilino <a href="https://www.linkedin.com/in/chriscilino/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">January 2020 - September 2026</td>
+ </tr>
  </tbody>
 </table>
 
