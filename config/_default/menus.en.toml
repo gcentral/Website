@@ -100,7 +100,7 @@
 [[main]]
   name = "Buy GCentral Merch"
   parent = "Sponsor"
-  url = "https://gcentral-2.creator-spring.com"
+  url = "https://merch.gcentral.org/"
   weight = 50 
   
 [[main]]
