@@ -32,7 +32,7 @@ There is no way we could have accomplished what we have without the Board Member
 	<td class="text-center"><img src="Fabiola De La Cueva.jpg" class="nozoom m-0" width=128 height=128></td><td class="align-middle" style="padding-left:1em;">Fabiola De La Cueva <a href="https://www.linkedin.com/in/fabioladelacueva/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2019 - 2020</td>
  </tr> 
  <tr>
-	<td class="text-center"><img src="DanielleJobe.png" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Danielle Jobe <a href="https://www.linkedin.com/in/danielle-jobe/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2019 - 2023</td>
+	<td class="text-center"><img src="DanielJobe.jpg" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Daniel Jobe <a href="https://www.linkedin.com/in/daniel-jobe/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2019 - 2023</td>
  </tr>
   <tr>
 	<td class="text-center"><img src="ElijahKerry.png" class="nozoom m-0" width=128 height=128></td><td class="align-middle">Elijah Kerry <a href="https://www.linkedin.com/in/elijahkerry/" target="_blank"><div class="align-middle text-2xl text-neutral-500 dark:text-neutral-300">{{< icon "linkedin" >}}</div></a></td><td class="align-middle text-center">2019 - 2020</td>
