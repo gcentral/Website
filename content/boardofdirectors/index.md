@@ -41,7 +41,7 @@ The Board of Directors leads GCentral's initiatives as representatives of the G 
 <p>Christian is a LabVIEW Champion and one of the GLA Summit Organizers, and has presented at several NI Week conferences and GDevCon events, most recently regarding CI/CD with Docker for LabVIEW PPLs.</p>
 {{< /personcard >}}
 
-{{< personcard image="NancyHenson.jpg" side="right" name="Nancy Henson" linkedinname="njhollenback" position="President" >}}
+{{< personcard image="NancyHenson.jpg" side="right" name="Nancy Henson" linkedinname="nancyhenson" position="President" >}}
 
 <p>Nancy has worked with LabVIEW teams and in the Test and Measurement industry, particularly at NI, and within the NI ecosystem for over 25 years. Through many different roles, such as sales, field architect, customer proficiency, and global services, Nancy has focused on customer success and growing strong software development teams. Nancy has been a top-rated instructor, conference speaker, and community leader throughout her career. Additionally, Nancy helped spearhead the famous CLA summit and helped create and shape the NI Test Center of Excellence program. Nancy’s most recent role was NI’s Head of Developer Relations. After leaving NI in December of 2023, Nancy was reinstated as a LabVIEW Champion. She was initially invited into the program in 2008. Additionally, outside of professional roles, Nancy speaks and conducts workshops on enabling left-brain thinkers to cultivate their human creativity and develop a philosophy around tech, and AI in particular, to help grow their business.</p>
 {{< /personcard >}}

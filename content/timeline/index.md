@@ -27,7 +27,7 @@ showPagination: false
 {{< /timelineItem >}}
 
 {{< timelineItem icon="gavel" header="2023 November - Board Member Changes">}}
-<b>Danielle Jobe</b> resigns from the Board of Directors.
+<b>Daniel Jobe</b> resigns from the Board of Directors.
 {{< /timelineItem >}}
 
 {{< timelineItem icon="youtube" header="2023 July - Summer of LabvIEW" badge="GDevCon NA" subheader="By: Erich Schlieper and Casey May">}}
@@ -68,7 +68,7 @@ Do you have a toolkit that would benefit the community but don't have the resour
 
 {{< /timelineItem >}}
 
-{{< timelineItem icon="youtube" header="2021 November - GCentral Helping to Write the Web Interface" badge="GLASummit" subheader="By: Chris Cilino, Danielle Jobe, Derrik Bommarito">}}
+{{< timelineItem icon="youtube" header="2021 November - GCentral Helping to Write the Web Interface" badge="GLASummit" subheader="By: Chris Cilino, Daniel Jobe, Derrik Bommarito">}}
 
 GCentral is a community-run initiative that aggregates different package types (VIPackages, NIPackages, GPackages) in one website so that the LabVIEW community can find, share, and collaborate on packages, independent of package type. In this presentation, we'll teach how we've created GCentral's website and underlying indexing technology so that you can contribute by enhancing or adding new functionality.
 
@@ -102,7 +102,7 @@ GCentral is officially formed as a Nonprofit Corporation in the State of Texas, 
 
 <ul><li><b>Quentin Alldredge</b></li>
 <li/><b>Fabiola De La Cueva</b></li>
-<li/><b>Danielle Jobe</b></li>
+<li/><b>Daniel Jobe</b></li>
 </ul>
 {{< /timelineItem >}}
 
